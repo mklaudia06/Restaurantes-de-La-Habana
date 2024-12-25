@@ -1,0 +1,332 @@
+{
+    "name": "La Paila",
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address":"Esquina 25 y M, Vedado, La Habana",
+        "coordinates_latitude_length" : "23.1391934, -82.3812939"
+    },
+    "phone_number": "+53 53388837",
+    "food_type":"comida cubana",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"lapaila_25ym",
+        "facebook":"Fonda La Paila"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {"Cesta de Pan Baguette": 600.00,
+        "Frituras de Malanga": 1000.00,
+        "Croquetas de la casa (pollo)": 1350.00,
+        "Pan con Lechon": 1850,
+        "Tacos Guajiros ( Tortilla de harina criolla con cerdo y verduras de estación)": 2200.00,
+        "Tacos de Camaron": 2200.00,
+        "Tostones 25 y M (Crujientes tostones con cerdo y queso rallado)": 1850.00,
+        "Batones Fritos (Bastones de pollo, empanadas y acompañadas de salsa rosa)": 2500.00,
+        "Coctel de Langosta": 2000.00,
+        "Coctel de Camaron": 1900.00,
+        "Ceviche Criollo (Pescado de roca macerado con limón, cebolla, aji cachucha, aromatizado con hierbas frescas)": 2000.00,
+        "Charcuteria Criolla(Deliciosos chorizos parrilleros al carbón, acompañados de vegetales y pan baguette)" : 3000.00,
+        "Carpaccio de Pulpo": 2800.00,
+        "Tabla La Paila(Picadera Mixta)": 4500.00,
+        "Papas Prefritas con Chorizo y Queso": 1500.00,
+        "Bastones Fritos de Pescados": 3000.00,
+        "Tabla de Jamon Serrano(Tapas de Jamón Serranos con Queso, frutos seco y aromatizado con oliva)": 3500.00,
+        "Tabla de Salmon(Tapas con queso crema saborizado y salmón ahumado aromatizado con oliva)": 3000.00
+        },
+        "tacos":{
+           "Tacos Guajiros ( Tortilla de harina criolla con cerdo y verduras de estación)": 2200.00,
+        "Tacos de Camaron": 2200.00 
+        },
+        "strong_dishes":{
+            "Arroz con Pollo a la Cubana (Arroz chorreado combinado con dados de pollo y queso fundido al barro)": 3000.00,
+            "Pollo Campestre(Cuarto de pollo al carbón sobre lecho de vegetales y causa de vianda)": 2300.00,
+            "Pechuga Grille(Pechuga grillada y aromatizada con hierbas aromáticas)": 2500.00,
+            "Pechuga Salteada(Pechuga salteada con vegetales y queso)" : 2500.00,
+            "Ropa Vieja Criolla(Carne de res deshilachada, acompañada de vegetales)": 3000.00,
+            "Vaca Frita(Carne de res deshilachada, guarnecida con causa de vianda)" : 3000.00,
+            "Masas a la Paila (Masas de cerdo fritas al estilo camagüeyana)": 3000.00,
+            "Chuleta a la parilla (Chuleta de cerdo al carbón bañada en salsa chimichurri)": 3000.00,
+            "Costillas BBQ (Costillas de cerdo al carbón con salsa BBQ)": 3500.00,
+            "Brochetas Criollas (Masas de cerdo al carbón con vegetales de estación)": 3000.00,
+            "Lonjas de Cerdo (Lonjas de cerdo asado con adobo guajiro)": 2850.00,
+            "Lomo de Cerdo Mechado (Lomo de cerdo mechado con jamón, aceituna,bañada en salsa de frutas tropicales)": 3300.00,
+            "Pescado al carbon ( Filete de pescado grille, causa de vianda y vegetales a la parrilla)": 3000.00,
+            "Pescado Soute Papillote (Combinación de pescado con camarón en salsa Velouté)": 3600.00,
+            "Camaron a su eleccion (Camaron grille o enchilado)": 3500.00,
+            "Langosta al Carbon(Langosta costeña al carbón)": 3600.00,
+            "Langosta Enchilada":3800.00,
+            "Langosta Termidor (Langosta bañada en Bechamel, Mostaza y gratinada con Queso)": 4000.00,
+            "Grillada Mixta (Pollo 1/4, Chuleta y Langosta con vegetales al carbón, acompañados de salsa chimichurri)":6500.00,
+            "Pulpo a su eleccion (Pulpo grille, al ajillo o enchilado)": 4200.00,
+            "Grillada del Mar (Langosta, Camarón y Pescado acompañado con vegetales)": 5900.00,
+            "Grillada de la Tierra ( Chuleta, Lechón ahumado, Pollo 1/4 asado al Carbón, acompañado con vegetales)": 5800.00,
+            " Pasta Frutti Di Mare (Pasta Corta(Penne), Langostas, Pulpo, Tomate natural, albahaca, perejil y palmesano)":3500.00,
+            "Lechon Ahumado (Cortes de Lomo Ahumado, a la brasa con salsa de Fruta y Vegetales al Carbon)": 3300.00         
+            },
+        "pastas": {
+
+        },
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":{
+            "arroz blanco" : 250.00,
+            "arroz moro": 350.00,
+            "ensalada del dia": 950.00,
+            "papas fritas": 700.00
+
+        },
+        "desserts":{ 
+            "icecream_flavors":{
+                "helados de crema (fresa)": 550.00
+          
+            },
+            "tarta de chocolate": 650.00,
+            "postre la paila":750.00,
+            "cheescake (fruta)": 950.00,
+            "flan de la casa": 500.00,
+            "copa lolita (Flan de la casa bañado en caramelo guarnecido con dos bolas de helado)": 750.00,
+            "torrejas de la casa con helado" : 650.00
+
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "IRISH PETER(Café, Leche Condensada, Licor de Café, Bailey, Jameson)": 1300.00,
+                    "MARGARITA DE LA CASA (Tequila, Triple sec, Limón, Aperol)": 1300.00,
+                    "SANTA AGUA (Vermú Dry, Ginebra, Agua tónica, Aceitunas)":1000.00,
+                    "PALITO(MIX DE ROMERO Y CIRUELA CHINA, MIEL, ZUMO LIMON, RON 7 AÑOS, ZUMO DE PIÑA)":1300.00,
+                    "Juan de los muertos (Tres tipos de Ron (3 Años, 7 Años y Agua Ardiente, Limón, Zumo de piña, Absenta, Fallernum, Canela y Granadina)":1500.00,
+                    "EL GORDO ALOHA(Limón, Fallernum, Maracuya, Granadina, Torres 10, Chiva 12, Balletine)":1500.00,
+                    "CHUPA CHUPA(Mezcla de licores, zumo de limón y vodka)":1000.00,
+                    "BLOODY MARY(UGO DE TOMATE, VODKA, SAL, LIMÓN, SALSA INGLESA)": 1150.00,
+                    "CAIPIRINHA (AGUARDIENTE, LIMÓN, AZÚCAR)": 1050.00,
+                    "CAIPIROSKA (VODKA, LIMÓN, AZÚCAR)": 1050.00,
+                    "CUBANITO (JUGO DE TOMATE, SALMUERA, RON 3 AÑOS, LIMÓN, SAL, SALSA INGLESA)" : 1150.00,
+                    "DAIQUIRI #1 (AZÚCAR, LIMÓN, RON 3 AÑOS)": 950.00,
+                    "DAIQUIRI #4 (RON 3 AÑOS, LIMÓN, AZÚCAR, MARRASQUINO)" : 1050.00,
+                    "MOJITO (RON 3 AÑOS, LIMÓN, AZÚCAR, HIERBA BUENA, AGUA GASEADA)": 1050.00,
+                    "VODKA TONIC (VODKA, AGUA TÓNICA, BOTÁNICOS)" : 1400.00,
+                    "GIN TONIC DE LA CASA (GINEBRA, AGUA TÓNICA, BOTÁNICOS)" : 1400,
+                    "PIÑA COLADA (JUGO DE PIÑA, RON 3 AÑOS, HORCHATA, AZÚCAR, CANELA)":1000.00,
+                    "SANGRIA(VINO TINTO, AGUA GASEADA, AZÚCAR, LIMÓN, JUGO NATURAL)":1000.00,
+                    "NEGRONI(VERMOUT ROSSO, GINEBRA, CAMPARI)":2000.00,
+                    "OLD FASHION(AZÚCAR, ANGOSTURA, WHISKEY BOURBON)":2000.00,
+                    "APEROL SPRITZ(PROSECCO, APEROL, AGUA GASEADA)":1500.00,
+                    "BLUE LAGOON (AZÚCAR, LIMÓN, CURACAO, VODKA, AGUA GASEADA)":850.00,
+                    "ADAN Y EVA(CAMPARI, LICOR DE MANZANA, VERMOUT ROSSO, RON 7 AÑOS)": 1300.00,
+                    "MARTINI A SU ELECCION(GINEBRA, VERMOUT)": 1200,
+                    "JAGGERIÑA(JAGGER, AZÚCAR, LIMÓN)": 1200.00,
+                    "MARGARITA(TEQUILA, SAL, LIMÓN, TRIPLE SEC)":1150.00,
+                    "Cubata(Ron Havana Club 7 años, zumo de Limon, refresco de cola)":850.00,
+                    "SCREWDRIVE(Jugo da naranja, Vodka)":850.00,
+                    "MOSCOW MULE(Jarabe de jengibre, Vodka, Limón, Ginger Ale)":1200.00,
+                    "CUBA LIBRE(Ron Habana Club 3 años, zumo de limón , Refresco de Cola)":700.00
+                },
+                "bottles":{
+                    "wine":{
+                        "vino_tinto":{
+                            "GRAN CORONAS(RESERVA, CABERNET SAVIGNON, 2019)":10000.00,
+                            "SANGRE DE TORO, ALMA DE ESPAÑA(Tempranillo, D.O. RIOJA, 2021)":7500.00,
+                            "SANTA DIGNA(CABERNET SAUVIGÑON Chile 2022 Gran Reserva)":6000.00,
+                            "RISCAL 2021(TEMPRANILLO, SYRAH, D.O. CASTILLA Y LEON, ESPAÑA)": 9500.00,
+                            "ESTAMPA 2021(RESERVA, MALBEC, SYRAH, D.O. VALLE DE COLCHAGUA, CHILE)":8500.00,
+                            "DOLMO 2021(TEMPRANILLO ROBLE, D.O. RIBERA DEL DUERO, ESPAÑA)":8500.00,
+                            "RAIZA 2018(RESERVA,TEMPRANILLO, D.O. RIOJA, ESPAÑA)":9500.00,
+                            "FREIXENET CHIANTI 2021(Italia , Toscana , Uva Sangiovese)":8500.00,
+                            "CASILLERO DEL DIABLO 2022(Reserva ,Cabernet Sauvigñon, Concha y Toro)":8500.00,
+                            "ALTOS IBÉRICOS(Reserva 2018, Tempranillo, Rioja España)":7000.00
+                        },
+                        "vino_blanco":{
+                            "PROTOS 2022(Verdejo, Rueda, España)":8000.00,
+                            "FINCA DEL MAR 2022(Verdejo, Vicente Gandia D.O. España)":7000.00
+                        }
+
+                    },
+                    "champagne": {
+                        "CHAMPAGNE PANNIER(Chardonnay, Pinot Nero, Pinot Meunier, Francia)":9000.00
+                            
+                    },
+                    "vodka":{
+                        "VODKA CIROC (LIN)" : 1500.00,
+                        "VODKA FINLANDIA (LIN)":1200.00,
+                        "ABSOLUT": 600.00,
+                        "VODKA BELVEDERE (LIN)":1350.00,
+                        "STOLICHNAYA":800.00,
+                        "GREY GOOSE":1800.00,
+                        "ABSOLUT WATKINS":600.00,
+                        "TITOS": 2000.00
+
+                    },
+                    "tequila": {
+                        "JOSE CUERVO ESPECIAL REPOSADO":1600.00,
+                        "JOSE CUERVO TRADICIONAL PLATA": 1600.00,
+                        "DON JULIO BLANCO":3000.00,
+                        "DON JULIO REPOSADO": 3300.00,
+                        "DON JULIO 70":4500.00,
+                        "PATRON SILVER":2200.00,
+                        "PATRON REPOSADO": 2600.00,
+                        "PATRON AÑEJO": 3500.00,
+                        "TEQUILA ESPESANTO":1800.00,
+                        "PATRON CRISTALINO":3800.00,
+                        "TEQUILA 1800 CRISTALINO":3300.00,
+                        "TEQUILA 1800 AÑEJO":2300.00,
+                        "TEQUILA 1800 BLANCO": 2100.00,
+                        "TEQUILA 1800 REPOSADO": 2400.00,
+                        "JOSE CUERVO TRADICIONAL REPOSADO":2000.00,
+                        "DON RAMÓN":1800.00,
+                        "TRES SOMBREROS":1900.00,
+                        "DON RAMÓN (MEZCAL)": 2500.00
+                    },
+                    "whiskey":{
+                        "JACK DANIELS No 7 (LIN) (BOURBONS)":1000.00,
+                        "JACK DANIELS HONEY (LIN) (BOURBONS)":1000.00,
+                        "WILD TURKEY (LIN) (BOURBONS)":1500.00 ,
+                        "JIM BEAM BLACK (LIN) (BOURBONS)":1500.00,
+                        "ABERFELDY 12 AÑOS" : 2000.00,
+                        "BALLANTINES (LIN)" : 800.00,
+                        "CHIVA REGAL 12 AÑOS (LIN)" : 1000.00,
+                        "CHIVAS 18 AÑOS": 2000.00,
+                        "JB (LIN)": 800.00,
+                        "JOHNNIE WALKER ETIQUETA ROJA" : 900.00,
+                        "JOHNNIE WALKER ETIQUETA NEGRA (LIN)":1200.00,
+                        "JOHNNIE WALKER DOBLE ETIQUETA NEGRA (LIN)": 2000.00,
+                        "JOHNNIE WALKER ETIQUETA VERDE (LIN)": 3000.00,
+                        "JOHNNIE WALKER 18 AÑOS (LIN)": 3000.00,
+                        "JOHNNIE WALKER 21 AÑOS (LIN)" : 4000.00,
+                        "JURA 21 AÑOS (LIN)": 3200.00,
+                        "MORTLACH 18 AÑOS (LIN)" : 4200.00,
+                        "ROYAL SALUTE 21 AÑOS (LIN)" : 4000.00,
+                        "GRAND OLD PARR 12 AÑOS (LIN)" : 2400.00,
+                        "JOHNNIE WALKER GOLD LABEL(LIN)":3000.00,
+                        "CHIVAS REGAL 25": 7500.00,
+                        "BUCHANANS DELUXE 12 AÑOS": 1200.00,
+                        "BUCHANANS SPECIAL RESERVE 18 AÑOS": 2000.00,
+                        "CHIVA REGAL 15":1500.00,
+                        "DEWARS 12 Años":2000.00
+
+                    },
+                    "ginebra":{
+                        "GINEBRA TANQUERAY (LIN)": 750.00,
+                        "GINEBRA GIN MARE (LIN)":1800.00,
+                        "GINEBRA CITADELLE (LIN)" : 1200.00,
+                        "GINEBRA LE TRIBUTE (LIN)":1000.00,
+                        "GINEBRA LONDON No 3 (LIN)":1800.00,
+                        "GINEBRA BOMBAY SAPHIRE":2000.00,
+                        "TANQUERAY TEN": 1800.00,
+                        "MARTIN MILLER":1200.00,
+                        "HENDRISKS":1800.00,
+                        "BULLDOG": 2000.00,
+                        "THE LONDON NO.1":2000.00,
+                        "UNGAVA":1000.00,
+                        "FIFTY POUNDS":3900.00 
+
+                    },
+                    "ron":{
+                        "HAVANA CLUB 3 AÑOS (LIN)":300.00,
+                        "HAVANA CLUB ESPECIAL (LIN)":450.00,
+                        "HAVANA CLUB RESERVA (LIN)" : 500.00,
+                        "HAVANA CLUB 15 AÑOS (LIN)":500.00,
+                        "HAVANA CLUB SELECCIÓN DE MAESTRO":1500.00,
+                        "SANTIAGO 8 AÑOS (LIN)":600.00,
+                        "TRIBUTO 2016":20000.00,
+                        "PACTO NAVIO" : 1500.00,
+                        "APPLETON SIGNATURE (LIN) (JAMAICA)":1500.00,
+                        "FLOR DE CAÑA 18 AÑOS (LIN) (JAMAICA)":2300.00,
+                        "ABUELO 12 AÑOS (LIN) (PANAMA)":2000.00
+
+                    },
+                    "liquors":{
+                        "LICOR AMARETO (LIN)": 800.00,
+                        "LICOR COINTREAU (LIN)":800.00,
+                        "LICOR VERMOUT SWEET (LIN)": 500.00,
+                        "LICOR FRANGELICO (LIN)":1500.00,
+                        "LICOR APEROL (LIN)": 450.00,
+                        "LICOR PACHARAN NAVARRA (LIN)":1400.00,
+                        "LICOR MANZANA VERDE FLAMINGO (LIN)":1000.00,
+                        "LICOR SAMBUCA ROMINA (LIN)":600.00,
+                        "LICOR SAMBUCA VACCARI NERO (LIN)":1400.00, 
+                        "LICOR CAMPARI (LIN)":550.00, 
+                        "LICOR CINZANO ROSSO (LIN)":550.00, 
+                        "CREMA BAILEYS (LIN)": 750.00, 
+                        "LICOR LIMONCELLO (LIN)": 750.00, 
+                        "LICOR DRAMBUIE": 2500.00,
+                        "BRANDY TORRES 10(Gran Reserva)":1500.00, 
+                        "MARTINI EXTRA DRY": 600.00, 
+                        "MARTINI BIANCO":550.00, 
+                        "YZAGUIRRE VERMOUTH BIANCO": 800.00, 
+                        "YZAGUIRRE VERMOUTH ROJO":800.00,
+                        "TEQUILA ROSÉ":1000.00,
+                        "Rémy Martin XO(Cogna fine champagne)": 8000.00, 
+                        "Rémy Martin VSOP(Fine champagne cogna)":2500.00,
+                        "Licor Tia Maria Licor d cafe":800.00
+                    }
+                },
+                "drinks_with": null,
+                "beers":{
+                    "CRISTAL" : 420.00,
+                    "JARRA DE CERVEZA DISPENSADA(0.5lt)": 350.00,
+                    "MICHELADA ENTOMATADA(Jugo de Tomate, Salsa Inglesa, Zumo de Limon )":650.00,
+                    "MICHELADA TIPO CHICLE(Curacao Azul, Marrasquino, Licor de Plátano)": 650.00,
+                    "MICHELADA DE LA CASA(Salsa inglesa de la casa, Zumo de Limón )":650.00,
+                    "SERVICIO DE MICHELADAS(Michelada de la casa, Entomatada, Chicle, Saborizadas)": 350.00,
+                    "MICHELADA SABORIZADAS(Mora)": 700.00,
+                    "SERVICIO DE CHELADA": 350.00,
+                    "Vaso de Dispensada" : 300.00,
+                    "CHELADA DE LA CASA": 650.00
+                 
+                }
+            },
+            "water":{
+                "AGUA NATURAL (0.5LT)":300.00,
+                "AGUA GASEADA IMPORTADA (355 ml)":600.00
+
+            },
+            "soft_drinks":{
+                "COCA COLA":350.00,
+                "Tigon": 500.00
+            },
+            "juices":{
+                "JUGO EN CONSERVA": 500.00,
+                "JUGO DE MANGO":300
+
+            },
+            "lemonade":{
+                "LIMONADA": 800.00,
+                "LIMONADA PAILA(Zumo de limón, puré de frutas)":1000.00,
+                "LIMONADA FRESCURA":900.00
+
+            },
+            "red bull":null,
+            "malta":400.00,
+            "copas":{
+                "COPA DE VINO DE LA CASA(GATO NEGRO, CABERNET 2021. CHILE)":1000.00,
+                "COPA DE VINO DE LA CASA(GATO NEGRO, SAVIGNON BLANC, 2023, CHILE)":1000.00
+
+            },
+            "coffees":{
+              "EXPRESO":300.00,
+              "CORTADITO":350.00,
+              "CAPUCHINO":450.00,
+              "BOMBOM":600.00,
+              "FRAPUCCINO PAILA(Café expreso, Leche Condensada, Leche descremada, Bailey, Licor Café, Polvoreado con Cacao)":900.00,
+              "INFUSIONES(Menta/Poleo, Té)":350.00 
+
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

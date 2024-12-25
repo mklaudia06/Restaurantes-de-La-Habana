@@ -1,0 +1,152 @@
+{
+    "name": "",
+    "municipality":"",
+    "location": {
+        "address":"",
+        "coordinates_latitude_length" : ""
+    },
+    "phone_number": "",
+    "food_type":"",
+    "schedule": {
+        "opening": "",
+        "closure": "",
+        "days_of_the_week": ""
+    },
+    "quality":"",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            
+
+        },
+        "tacos":{
+           
+        },
+        "strong_dishes":{
+           
+           
+            },
+        "pastas": {
+
+        },
+        "pizzas": {
+
+        },
+        "pizza_pasta_add-on": {
+
+        },
+        "side_dishes":{
+           
+
+        },
+        "desserts":{ 
+            "icecream_flavors":{
+               
+          
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            
+        },
+        "hamburgers_add-on":{
+
+        },
+        "aperitivos":{
+
+        },
+        "snacks":{
+
+        },
+        "creams_and_soup":{
+
+        },
+        "digestive":{
+
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    
+                    
+                },
+                "bottles":{
+                    "wine":{
+
+                    },
+                    "champagne": {
+
+                    },
+                    "vodka":{
+
+                    },
+                    "tequila": {
+
+                    },
+                    "whiskey":{
+
+                    },
+                    "ginebra":{
+
+                    },
+                    "ron":{
+
+                    },
+                    "liquors":{
+
+                    }
+                },
+                "drinks_with": {
+                    "ginebra":{
+
+                    },
+                    "tequila":{
+
+                    },
+                    "vodka":{
+
+                    },
+                    "whiskey":{
+
+                    },
+                    "ron":{
+
+                    }
+
+                },
+                "beers":{
+        
+                }
+            },
+            "water":{
+
+            },
+            "soft_drinks":{
+
+            },
+            "juices":{
+
+            },
+            "lemonade":{
+
+            },
+            "red bull":"",
+            "malta":"",
+            "copas":{
+
+            },
+            "coffees":{
+
+            }
+        }
+        
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup o usd"
+}
