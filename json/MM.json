@@ -1,0 +1,138 @@
+{
+    "name": "MMCafeteria",
+    "municipality":"Marianao",
+    "location":{
+        "address": "Avenida 41",
+        "coordinates_latitude_length": [23.0892413,-82.421799]
+    },
+    "phone_number": "72611382",
+    "food_type":"variada",
+    "schedule": {
+        "opening": "9:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": {
+            "Hamburguesa clasica":400,
+            "Hamburguesa de queso":600,
+            "Hamburguesa de jamon": 550,
+            "Hamburguesas jamon y queso": 700
+        }, 
+        "started": {
+            "Papas fritas": 650,
+            "Croquetas": 550,
+            "Fritura de malanga": 550,
+            "Tostones rellenos": 650,
+            "Ensalada fria de jamon": 800,
+            "Ensalada fria de atun": 900,
+            "Fajitas de Pechuga salteada": 1200,
+            "Fajitas de Pechuga empanada":1450,
+            "Fajitas de Cerdo salteadas":1300,
+            "Fajitas de cerdo empanada": 1350,
+            "Eperlan":1350,
+            "Coctel de camarones":2100
+        },
+        "tacos":{
+            "Taco de cerdo":1200,
+            "Taco de camaron":1400,
+            "taco de pollo":1100,
+            "Taco de res":1300
+        },
+        "strong_dishes":{
+            "Bistec de Cerdo Grille": 1400,
+            "Cerdo Bistec Empanizado": 1600,
+            "Bistec de Cerdo Uruguayo":1950,
+            "Masa de Cerdo Salteada":1350,
+            "Lomo de Cerdo": 1500,
+            "Fricase de Cerdo ":1400,
+            "Bistec de Pollo Gordon Blue": 1900,
+            "Bistec de Pechuga Gordon Blue":1900,
+            "Pechuga de Pollo Grille": 1500,
+            "Pechuga de Pollo Empanada": 1400,
+            "Vaca Frita": 1900,
+            "Ropa Vieja": 1900,
+            "Pescado Grille":1500,
+            "Pescado Empanizado":1900,
+            "Enchilado de Camarón":1400,
+            "Camarón al Ajillo":1700,
+            "Camaron Empanado":2000,
+            "Canciller 190Grs":2000,
+            "Langosta":2100,
+            "Cazuela de mariscos":2100,
+            "Canciller (180 Grs)":2000,
+            "Paella": 2100,
+            "Arroz frito de cerdo,pollo y mejillon":1450
+        },
+        "pastas": {
+            "Lasagña Boloñesa": 1700,
+            "Espaguettis napolitano":700
+        },
+        "pizzas": {
+            "Pizzas Napolitanas": 750,
+            "Pizzas jamon": 1100,
+            "Pizzas Bacón": 1650,
+            "Pizzas Pimiento": 1050,
+            "Pizzas Cebolla": 950,                
+            "Pizzas Hawaiana": 1350,
+            "Pizzas Atún": 1650,
+            "Pizzas Camarón":1350,
+            "Pizzas Ropa Vieja":1500,
+            "Pizzas De Chorizo":1100,
+            "Pizzas MM":1800
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":{
+            "Arroz Blanco":200,
+            "Arroz Congrí": 300,
+            "Arroz Frito": 1550,
+            "Arroz Imperial": 1650
+        },
+        "desserts":{ 
+            "icecream_flavors":{
+                "Helado CID":850
+            }
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Crema de queso":800
+        },
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+
+                },
+                "beers":{
+                    "Cristal V": 245,
+                    "Cristal B": 200,
+                    "Bucanero": 240,
+                    "Santa isabel":250
+                }
+            },
+            "water": {
+                "agua embotellada":130
+            },
+            "soft_drinks":{
+                "Refresco Santa":200,
+                "Sprite": 450
+            },
+            "juices":{
+                "Jugo Lata":265
+            },
+            "Energizante": 260
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

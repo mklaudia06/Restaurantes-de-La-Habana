@@ -1,0 +1,98 @@
+{
+     "name": "FoodMaster",
+     "municipality":"Playa",
+     "location":{
+        "address":"7A entre 70 y 66",
+        "coordinates_latitude_length":[23.1093209,-82.4367002]
+    },
+    "phone_number": "53826366",
+    "food_type":["Mexicana", "Americana"],
+    "schedule": {
+        "opening": "10:30 am",
+        "closure": "9:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast": null,
+        "started":{
+            "Picadera Food Master": 2700.00,
+            "Salchichas al Grill(Dos salchichas al grill, papas fritas, salsa de mostaza)":1600.00,
+            "Quesadilla(Tortilla de harina, queso Gouda, tomate, hierbas aromáticas)":990.00,
+            "Tacos":990.00,
+            "Croquetas": 700.00,
+            "Empanadas":750.00,
+            "Papas Fritas":690.00
+        },
+        "tacos":null,
+        "strong_dishes":null,
+        "pastas": null,
+        "pizzas": {
+            "Margarita(Salsa de Tomate, mozzarella, parmesano, albahaca fresca)":1900.00,
+            "Margarita con Jamón(Salsa de tomate, mozzarella, parmesano, jamón cocido)":2400.00,
+            "Diavola(Salsa de tomate, mozzarella, parmesano, pepperoni)":2600.00,
+            "De Jamón Serrano(Salsa de tomate, mozzarella, parmesano, jamón serrano, rúcula)":3200.00,
+            "De Atún(Salsa de tomate, mozzarella, parmesano, atún, aceitunas)":3100.00,
+            "La Prohibida en Italia(Mozzarella, parmesano, queso azul, piña)":3200.00
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":{ 
+            "Empanadas de Pina y Queso":750.00,
+            "Muffin":550.00,
+            "icecream_flavors":{
+                "Batido de Helado":750.00,
+                "Helado":750.00
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            "Big Master Burger(Hamburguesa de Res d 180 gr, pan de hamburguesa artesanal, salsa aromática FM, doble queso Gouda, ketchup y mostaza)":3500.00,
+            "Suiza(Hamburguesa mixta de Res y Cerdo, pan  de hamburguesa artesanal, champiñones y cebolla salteada con mantequilla)":2950.00,
+            "Max(Hamburguesa mixta de Res y Cerdo, pan de hamburguesa artesanal, queso Gouda y huevo frito y mostaza)":2700.00,
+            "La Granja(Hamburguesa de Res d 180 gr, pan de hamburguesa artesanal, salsa aromática FM, tomate y pepinillo)":2550.00,
+            "Italiana(Hamburguesa de Pollo, pan de hamburguesa artesanal, salsa FM y queso parmesano)":2450.00  
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Gin & Tonic":1200.00,
+                    "Chelada":900.00,
+                    "Michelada":1000.00,
+                    "Sangria":1100.00,
+                    "Sangria Blanca":1100.00,
+                    "Spirit Cóctel":800.00
+                },
+                "beers":{
+                    "Cerveza":600.00,
+                    "Cerveza Gama Alta":800.00
+                }  
+            },
+            "copas":{
+                "Vino por Copa":900.00,
+                "Tinto de Verano":900.00
+            },
+            "juices":{
+                "Jugo Natural":500.00,
+                "Jugo Cajita":400.00,
+                "Batido de Helado y Frutas":750.00,
+                "Smoothie de Frutas":600.00,
+                "Fresh de Pepino":300.00
+            }  
+        }
+      
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

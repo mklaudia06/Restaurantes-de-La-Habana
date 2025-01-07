@@ -1,0 +1,108 @@
+{
+    "name": "La yuya",
+    "municipality":"Marianano",
+    "location":{
+        "Address": "100 Y 51",
+        "coordinates_latitude_length": [23.0811221,-82.4223049]
+    },
+    "phone_number": "52016522",
+    "food_type":"Variada",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast": {
+            "Hamburguesa": 400,
+            "Hamburguesa yuya": 900,
+            "Pan con jamon": 350,
+            "Pan con perro": 280
+        },
+        "started": {
+            "Superpicadera": 2500,
+            "Tostones rellenos": 600,
+            "Frituras de malanga": 500,
+            "Papas fritas": 500,
+            "Croquetas": 600
+        },
+        "tacos":{
+           
+        },
+        "strong_dishes":{
+            "Fajitas de pollo con papa": 900
+        },
+        "pastas": {
+            "Spaguettis con queso gouda": 700,
+            "Spaguettis doble queso": 1000
+
+        },
+        "pizzas": {
+            "Pizza napolitana": 1000,
+            "Pizza doble queso": 1300,
+            "Pizza de jamon": 1350
+        },
+        "pizza_pasta_add-on": {
+            "Jamon":260,
+            "Queso":260,
+            "Salami":200
+        },
+        "side_dishes":{
+           
+
+        },
+        "desserts":{ 
+            "icecream_flavors":{
+               "Helados gusto":1000
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            
+        },
+        "hamburgers_add-on":{
+
+        },
+        "aperitivos":{
+
+        },
+        "snacks":{
+
+        },
+        "creams_and_soup":{
+
+        },
+        "digestive":{
+
+        },
+        "liquids":{
+            "alcoholic_drinks":{
+                "beers":{
+                    "Cervezas importadas": 250, 
+                    "Cerveza Cubelazo": 2700,
+                    "Termo de cerveza": 2000
+                },
+                "cocktails":null
+            },
+            "juices":{ 
+                "jugo de lata": 280,
+                "jugos caja": 650
+            },
+            "soft_drinks":{
+                 "Refrescos Importados": 250
+            },
+            "malta":{
+                "Malta Santa Isabel": 280
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

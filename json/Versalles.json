@@ -1,0 +1,154 @@
+{
+    "name": "Cafe Versalles",
+    "municipality":"Guanabacoa",
+    "location": {
+        "address":null,
+        "coordinates_latitude_length":[23.1084799,-82.2523304]
+    },
+    "phone_number":null,
+    "food_type":"Criolla",
+    "schedule": {
+        "opening": "9:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "ENSALADA FRÍA DE JAMÓN":500.00,
+            "ENSALADA FRÍA DE ATÚN":700.00,
+            "CROQUETAS DE LA CASA":500.00,
+            "EPERLAN DE PESCADO":1600.00,
+            "FAJITAS DE POLLO EMPANADO":1500.00,
+            "MARIPOSITAS CHINAS":700.00,
+            "CEVICHE PESCADO":1000.00,
+            "CESTA BANANERA":850.00,
+            "CÓCTEL DE CAMARÓN":1200.00     
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Pollo grille":1400.00,
+            "Pollo cantones":2200.00,
+            "Cordon bleu":2500.00,
+            "Medio pollo al carbón con BBQ":2500.00,
+            "Pescado versalles":2800.00,
+            "Canciller":2800.00,
+            "Montetoro":2200.00,
+            "Filete grille":1600.00,
+            "Camarón al gusto":2500.00,
+            "Chuleta de cerdo al carbón con bbq 1 libra":3600.00,
+            "Solomillo de cerdo al carbón con bbq 1 libra":3000.00,
+            "Uruguayo de cerdo":2500.00,
+            "Masa de cerdo frita 300 gr":2800.00,
+            "Bistec de cerdo encebollado":1600.00
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "pizzas": {
+            "Pizza Napoles":900.00,
+            "Pizza queso gouda":1260.00,
+            "Pizza jamón":1150.00,
+            "Pizza chorizo":1250.00,
+            "Pizza camarones":1700.00,
+            "Pizza cebolla":1150.00,
+            "Pizza aceituna":1200.00,
+            "Pizza piña":1150.00,
+            "Pizza atún":1250.00,
+            "Pizza lomo ahumado":1250.00,
+            "Pizza beicon":1300.00,
+            "Pizza pimiento":1200.00
+        },
+        "pastas": {
+            "Espaguetis":800.00,
+            "Lazaña de Jamon":1200.00
+        },
+        "desserts": null,
+        "liquids": {
+            "alcoholic_drinks": {
+                "cocktails":{
+                    "Ron selección de maestros":900.00,
+                    "Ron añejo especial":350.00,
+                    "Ron Santiago":500.00,
+                    "Ron cubay":350.00,
+                    "Ron 3 años":350.00,
+                    "Ron reserva":350.00,
+                    "Ron 7 años":350.00,
+                    "Tequila reposado":600.00,
+                    "Tequila olmega silver":500.00,
+                    "Whisky chivas regal":1000.00,
+                    "Whisky white label":350.00,
+                    "Whisky ballantines":450.00,
+                    "Whisky jack daniels":450.00,
+                    "Whisky jameson":450.00,
+                    "Vodka absolut":500.00,
+                    "Daiquiri":500.00,
+                    "Jack in black":600.00,
+                    "Bandera":600.00,
+                    "Margarita":600.00,
+                    "Margarita blue":700.00,
+                    "Daiquiri frutas":600.00,
+                    "Daiquiri rebelde":500.00,
+                    "Cubanito":500.00,
+                    "Bloody mary":600.00,
+                    "Sangría":500.00,
+                    "Piña colada":550.00,
+                    "Cubata":700.00,
+                    "Cuba libre":500.00,
+                    "Mojito":500.00,
+                    "Ron collins":500.00,
+                    "Caipirissima":500.00,
+                    "Caipiroska":500.00,
+                    "Caipiroska vip":850.00,
+                    "Vodka tonic":850.00,
+                    "Gin tonic":700.00
+                },
+                "beers":{
+                    "Cerveza cristal":350.00,                    
+                    "Cerveza importada (heineken)":400.00,
+                    "Jarra de cerveza":550.00,
+                    "Tarro de cerveza":2500.00
+                }                         
+            },
+            "water":{
+                "Agua natural":200.00
+            },
+            "soft_drinks":{
+                "Refresco importado":250.00,
+                "Refresco nacional":250.00
+            },
+            "juices":{
+                "Jugos naturales":350.00
+            },
+            "lemonade":{
+                "Limonada frappe":250.00,
+                "Limonasa clarete":400.00,
+                "Limonada frescura":350.00
+            },
+            "malta":320.00,
+            "copas":{
+                "Tinto verano":500.00
+            },
+            "coffees":{
+                "Café rocío de gallo":250.00,
+                "Café expreso":100.00,
+                "Café bombon":250.00,
+                "Café cortado":200.00
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

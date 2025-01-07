@@ -1,0 +1,170 @@
+{
+    "name": "Nel Paradiso",
+    "municipality":"10 de Octubre",
+    "location": {
+        "address":"Esquina Avenida Acosta y Armas",
+        "coordinates_latitude_length":[23.0892691,-82.3607109]
+    },
+    "phone_number": "52953716",
+    "food_type":"Criolla",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Normal",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "reservation_options": true,
+    "social_networks": ["Facebook","WhatsApp","Instagram"],
+    "payment_options": ["Transfermovil","Efectivo","Euro","USD","Pago desde el exterior"],
+    "service_details": ["Guardería","Wifi","A la carta","A domicilio"],
+    "menu": {
+        "breakfast":null ,
+        "started": {
+                "Croquetas de la casa con salsa rosa":792.00,
+                "Frituras de la casa con miel y mostaza":880.00,
+                "Bastones de Pollo con salsa rosa":1760.00,
+                "Bastones de Mar en salsa alioli":1760.00,
+                "Tamal en Cazuela":1584.00,
+                "Tamal Marinero":2376.00,
+                "Cóctel de Langosta":2112.00,
+                "Tabla de Quesos":2816.00,
+                "Lonjas de Jamón Serrano":2640.00,
+                "Salmon Paradiso":2816.00,
+                "Fajitas de Cerdo":2112.00,
+                "Crema de Queso":1232.00,
+                "Crema de Calabaza":750.00,
+                "Ensalada de Atún y Huevo":1760.00,
+                "Ceviche de Pescado":1584.00,
+                "Picadera Paradiso ":2992.00,
+                "Cóctel de Camarones":1936.00   
+            },
+            "tacos":null,
+        "strong_dishes":{
+            "Ropa Vieja de Cordero":1848.00,
+            "Cabrito Picoso":2640.00,
+            "Cordero al vino tinto":2464.00,
+            "Pechuga Grille":2112.00,
+            "Jardinera de Pechuga":2464.00,
+            "Pechuga Roquefort":2816.00,
+            "Pechuga Paradiso":2992.00,
+            "Ropa Vieja de Res":2552.00,
+            "Bistec de Res":2904.00,
+            "Fajita de Res":2464.00,
+            "Filete a la Douche":2990.00,
+            "Bistec de Cerdo glaseado al Vino Tinto":2112.00,
+            "Chuleta en Salsa Verde":2288.00,
+            "Entrecot de Cerdo":3520.00,
+            "Estofado de Cerdo":6600.00,
+            "Masa de Pescado Frita":2640.00,
+            "Filete John Bill":3256.00,
+            "Camarones a Elección":2995.00,
+            "Arroz Frito":2112.00,
+            "Paella":3168.00,
+            "Paella Especial":6600.00
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":{
+            "Arroz Blanco":422.00,
+            "Arroz Moro":636.00,
+            "Arroz Pilaf":880.00,
+            "Pure de Malanga":640.00,
+            "Ensalada de Vegetales":633.00
+        },
+        "desserts":{ 
+            "Flan de Caramelo":800.00,
+            "Tarta del Dia":980.00,
+            "icecream_flavors":{
+                "Copa de Helado":895.00,
+                "Bola de Helado":200.00,
+                "Batido de Helado":987.00
+            }
+
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "pizzas": {
+            "Napolitana":1144.00,
+            "Margarita":1232.00,
+            "Pizza De Cebolla":1325.00,
+            "Ortolan":1496.00,
+            "Pizza Hawaiana":2288.00,
+            "Pizza de Jamón o Chorizo":1760.00,
+            "Pizza De Atún":2640.00,
+            "Pizza De Camarones":2640.00,
+            "Pizza De Jamón Serrano":2816.00,
+            "Pizza Nel Paradiso":2992.00
+                 
+        },
+        "pastas":{
+            "Napolitana":1230.00,
+            "Amatriciana":1936.00,
+            "Carbonara":2200.00,
+            "Nero di Sepia":3256.00,
+            "Pasta al Pesto":2756.00,
+            "Lasagna":1895.00,
+            "MonteMari Paradiso":4576.00,
+            "Caldereta de Mariscos":4480.00
+                 
+        },
+        "liquids": {
+            "alcoholic_drinks": {
+                "cocktails":{
+                    "Sidra":3000.00,
+                    "Freixenet":6000.00,
+                    "Coctel Paradiso":870.00,
+                    "Manhattan":720.00,
+                    "Blody Mary":825.00
+                },
+                "beers":{
+                    "Cerveza Nacional":375.00,
+                    "Cerveza Importada":330.00,
+                    "Corona/Heineken":600.00
+                } 
+            },
+            "copas":{
+                "Copa de Vino Tinto":600.00,
+                "Copa de Vino Blanco":550.00
+            },   
+            "water":{
+                "Agua Natural":260.00
+
+            },
+            "soft_drinks":{
+                "Refresco Nacional":300.00,
+                "Refresco Importado":350.00
+
+            },
+            "juices":{
+                "Jugos Naturales":270.00,
+                "Batido de Fruta Natural":450.00
+
+            },
+            "lemonade":null,
+            "red bull":600.00,
+            "malta":{
+                "Malteada":675.00
+            },
+           
+            "coffees":{
+                "Expresso":300.00,
+                "Cortado":375.00,
+                "Americano":350.00,
+                "Capuchino":400.00
+            },
+            "Energizante":330.00,
+            "Kermato":600.00
+        }         
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

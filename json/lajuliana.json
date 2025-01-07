@@ -1,0 +1,165 @@
+{
+    "name": "La Juliana",
+    "municipality": "Centro Habana",
+    "location": {
+        "address": "Zanja entre Manrique y San Nicolas",
+        "coordinates_latitude_length": [23.135543401312233,-82.3644565648407]
+    },
+    "phone_number": "78661823",
+    "food_type":"caribeña",
+    "schedule":{
+        "opening":"10:00 am",
+        "closure":"12:00 am",
+        "days_of_the_week":""
+    },
+    "quality":"Muy Bueno",
+    "social_media":{
+        "facebook": "La Juliana",
+        "instagram": "lajulianarestaurant"
+    },
+    "menu": {
+        "breakfasts": false,
+        "started": {
+            "plátano maduro frito":350,
+            "tostones chatinos": 350, 
+            "ensalada de vegetales": 400,
+            "maripositas chinas": 530,
+            "caldosa criolla": 750, 
+            "papas fritas": 750,
+            "ensalada fira": 800,
+            "frituritas de malanga":850,
+            "coctel de camarones":850,
+            "tostones rellenos":1150,
+            "bolitas de queso":1100,
+            "croquetas de jamón":1100,
+            "tamal en casuela":1150,
+            "potaje de garbanzos fritos":1300, 
+            "bastoncitos de pollo":1700, 
+            "club atún":1300 
+        },
+        "tacos":{
+            "tacos de cerdo":1200, 
+            "tacos de pollo":1400,
+            "tacos ropa vieja":1700
+        },
+        "pastas": {
+            "media lasagna":1500,
+            "lasagna doble":3000,
+            "canelon":1150,
+            "espagetti de queso":1100, 
+            "espagetti de jamon":1300, 
+            "espagueti bolognesa":1600,
+            "espagueti alfredo":1800, 
+            "espagueti juliana":1780,
+            "espagueti carbonara":1900 
+        },
+        "pizzas": {
+            "pizza de queso":1120,
+            "pizza de oregano":1300,
+            "pizza de albahaca":1270,
+            "pizza de cebolla":1385,
+            "pizza de pimiento":1430,
+            "pizza de aceituna":1550,
+            "pizza de jamon":1700,
+            "pizza doble de queso":1800,
+            "pizza de lomo":1800,
+            "pizza de champiñón":1685,
+            "pizza de bacón":2050,
+            "pizza de atún":1835,
+            "pizza bolognesa":1950,
+            "pizza campesina":1820,
+            "pizza hawaiana":1950,
+            "pizza de chorizo":1885,
+            "pizza habanera":2200,
+            "pizza de serrano":2400,
+            "pizza de camarón":1985,
+            "pizza juliana":2250
+        },
+        "pizza_pasta_add-on":null,
+        "side_dishes":null,
+        "desserts":{ 
+            "flan al caramelo":650,
+            "cuña de chocolate":800,
+            "cuña de chocolate con helado": 950,
+            "icecream_flavors":{
+                "tres gracias":400, 
+                "copa lolita":950,  
+                "suero de helado":730,
+                "batido de helado":735    
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            "sandwich de jamón y queso":1050,  
+            "sándwich campesino":1450,
+            "sándwich juliana":1650,  
+            "hamburguesa":1300,
+            "hamburguesa doble":2350
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "crema de queso":780,
+            "crema aurora":800 ,
+            "crema virginia":960  
+
+        },
+        "digestive":null,
+        "strong_dishes": {
+            "arroz imperial":2100,
+            "pollo frito/asado":2500, 
+            "lomo ahumado":2900,
+            "arroz a la chorrera":2450,
+            "bistec de cerdo grille":2470, 
+            "cordon blue":3200, 
+            "pechuga de pollo grillé":3000,
+            "escalope de cerdo":2640,
+            "pechuga apanada":3100, 
+            "pechuga salt c/vegetales":3000, 
+            "bistec uruguayo":2800,
+            "arroz frito":2750, 
+            "camarones grille":3000,
+            "cerdo camagüeyano":2800,
+            "rollo de pechuga":2800, 
+            "estofado de res":3100, 
+            "bistec encebollado de res":3000, 
+            "camarones al ajillo":3150,
+            "pechuga a la crema":3500, 
+            "rueda de pescado empanado":3400, 
+            "entrecote de res":3000,
+            "arroz marinero":3000, 
+            "camarones enchilado":3600,
+            "solomillo de cerdo":3000,  
+            "ropa vieja":3300,
+            "enchilado de pescado":3050,  
+            "canciller":3900,  
+            "camarón a la crema":3800, 
+            "costillas de cerdo BBQ":3900,  
+            "rueda de pescado a la crema con camarón":3650    
+        },
+        "liquids" : {
+            "water" : false,
+            "soft_drinks" :{ 
+                "malteada":850 
+            },
+            "juices" :{ 
+                "jugos naturales": 270,
+                "jugo de mango":300,
+                "jugo de piña":300,
+                "coctel de frutas": 250, 
+                "batidos de frutas":600
+            },
+            "lemonade":{
+              "limonadas":350 
+            },
+            "alcoholic_drinks" : null,
+            "coffees" : null
+        
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

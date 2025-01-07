@@ -1,0 +1,142 @@
+{
+    "name": "Lacret 559",
+    "municipality":"10 de Octubre",
+    "location": {
+        "address":"Calle Gral.Lacret entre Goicuria y Avenida Mayia Rodriguez",
+        "coordinates_latitude_length": [23.101582, -82.374902]
+        },
+    "phone_number":"",
+    "food_type": "Internacional",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closing": "11:00 pm",
+        "days_of_the_week":"todos los dias"
+    },
+      
+    "quality": "Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfasts":null,
+        "started": {
+            "Frituras de Malanga":425.00,
+            "Croquetas 559":650.00,
+            "Croquetón de Res":1000.00,
+            "Eperlán de Pescado":700.00,
+            "Carpaccio de Res":1550.00,
+            "Carpaccio de Langosta":1500.00,
+            "Carpaccio de Pulpo":1600.00,
+            "Ceviche":950.00,
+            "Piquillos rellenos del mar":1050.00,
+            "Piquillos rellenos de ropa vieja":1550.00,
+            "Papas bravas":700.00,
+            "Fajitas de pollo":700.00,
+            "Brusquetas a la parmesana":600.00,
+            "Totopitos al ajo":400.00,
+            "Totopitos picantes ":400.00,
+            "Papas Fritas":700.00
+        },
+        "tacos":{
+            "Tacos de Res":1550.00,
+            "Tacos de Mar":1550.00,
+            "Tacos de Cerdo":1200.00,
+            "Tacos de Pollo":1000.00  
+        },
+        "strong_dishes":{
+            "Ropa Vieja de Res":2025.00,
+            "Pechuga de pollo Grillé":1975.00,
+            "Pechuga de pollo a la Gordon Blue":2175.00,
+            "Pescado Grillé":1975.00,
+            "Pescado Enchilado":1975.00,
+            "Pescado Canciller":2175.00,
+            "Langosta al Gusto":2600.00,
+            "Camarones al gusto":2400.00,
+            "Lomo ahumado":2175.00,
+            "Lomo importado":2500.00,
+            "Chuleta de cerdo":2100.00,
+            "Enchilado de Cangrado":2400.00
+        },
+        "pastas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":{
+            "Hamburguesa de Res":850.00
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "pizzas": {
+            "Pizza Queso Azul":2000.00,
+            "Pizza Napolitana":1360.00,
+            "Margarita":1400.00,
+            "Pizza Parmesana":1800.00,
+            "Pizza Carbonara":1950.00,
+            "Pizza Hawaina":1800.00,
+            "Pizza Cantábrica":1800.00,
+            "Pizza Marina":2400.00,
+            "Pizza Mediterránea":1800.00,
+            "Pizza Mixta Lacret":2700.00,
+            "Pizza de Jamón":1500.00,
+            "Pizza de Chorizo":1450.00,
+            "Pizza Con Bacon":1850.00,
+            "Pizza de Cebolla":1400.00,
+            "Pizza de Pimiento":1500.00,
+            "Pizza con Vegetales":1700.00,
+            "Pizza de Champiñón":1700.00,
+            "Pizza de Atún":2300.00,
+            "Pizza de Aceituna":1400.00,
+            "Pizza con Jamón Serrano":3000.00,
+            "Pizza con Jamón Ibérico":3400.00,
+            "Pizza con Pepperoni":2000.00,
+            "Pizza Ranchera":2500.00   
+        }
+    },
+    "liquids": {
+        "alcoholic_drinks":{
+            "cocktails":{
+                "Sangría":660.00,
+                "Tinto de Verano":660.00,
+                "Calimocho":560.00,
+                "Screwdriver":470.00,
+                "Caipiroska":570.00,
+                "Caipirissima":570.00,
+                "Caipirinha":600.00,
+                "Cubata":470.00,
+                "Cuba Libre":470.00,
+                "Cubanito":480.00,
+                "Mojito":580.00,
+                "Barbados Surprise":580.00,
+                "Whiscola":460.00,
+                "Old Fashioned":650.00,
+                "Long island":850.00,
+                "Gin Tobic":610.00,
+                "Canchánchara":580.00
+            },
+            "water":null,
+            "soft_drinks":{
+                "Refresco":350.00
+            },
+            "juices":{
+                "Jugos Naturales":300.00
+
+            },
+            "lemonade":{
+                "Limonada":500.00
+
+            },
+            "malta":430.00,
+            "copas":null,
+            "coffees":null,
+            "Energizante":430.00          
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup o usd"
+}

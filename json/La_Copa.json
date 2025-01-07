@@ -1,0 +1,77 @@
+{
+    "name": "Café Literario La Copa",
+    "municipality":"Playa",
+    "location":{
+        "address":" Calle 1ra A entre 42 y 44, Miramar",
+        "coordinates_latitude_length":[23.1408877,-82.3513285]
+    },
+    "phone_number": "55094105",
+    "food_type":null,
+    "schedule": {
+        "opening": "9:00 am",
+        "closure": "5:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"cafe.literario.lacopa",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started":{
+            "Croquetas con Tostadas":500.00,
+            "Papas Fritas":600.00,
+            "Croissant de Jamón con Queso":800.00,
+            "Croissant Natural":500.00
+        },
+        "tacos":null,
+        "strong_dishes":null,
+        "pastas": null,
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":{ 
+            "icecream_flavors":{
+                "Copa de Helado(Mantecado/Chocolate/Vainilla/Naranja-Pina/Fresa)":500.00,
+                "Suero Helado(Mantecado/Chocolate/Vainilla/Naranja-Pina/Fresa)":800.00
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            "Hot Dog":600.00,
+            "Sandwich de Jamón y Queso":700.00,
+            "Pan con Hamburguesa(Res o Cerdo)":700.00
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks": null,
+            "malta":{
+                "Malteada":500.00,
+                "Malta Bucanero":300.00
+            },
+            "juices":{
+                "Jugo de Lata":70.00
+            },
+            "water":{
+                "Agua Natural":120.00
+            },
+            "coffees":{
+                "Café Expresso":150.00,
+                "Café Cortado":200.00,
+                "Café Bombón":350.00,
+                "Capuchino":400.00,
+                "Frapucchino":500.00
+            },
+            "Energizante":230.00
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

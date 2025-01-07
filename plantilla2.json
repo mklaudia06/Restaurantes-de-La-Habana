@@ -18,7 +18,9 @@
         "facebook":""
     },
     "menu": {
-        "breakfast":null,
+        "breakfast":{
+            
+        },
         "started": {
             
 
@@ -27,9 +29,7 @@
            
         },
         "strong_dishes":{
-           
-           
-            },
+        },
         "pastas": {
 
         },

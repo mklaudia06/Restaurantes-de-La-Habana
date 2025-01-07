@@ -1,0 +1,142 @@
+{
+    "name": "Asia Cuba", 
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address": " Calle 6 ##562 entre 23 y 25, Vedado",
+        "coordinates_latitude_length":[23.1286359,-82.3973172]
+    },
+    "phone_number": "50956929",
+    "food_type":"Comida asiática",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"jama.asianfood",
+        "facebook":null
+    },
+    "menu": {
+        "started": {
+            "Caribe Zen Roll(Láminas de arroz rellenas de ensalada tropical,frutas de temporada,lechuga, frutabomba,pepino,pina,con una reducción de soja especiada y salmorejo oriental para dipear)":1840,
+            "Tartar Sakura Tango Saigon(Tartar de aguacate braseado,mango y camarón al ajillo con cebolla caramelizada,crujientes de wanton y vinagreta de mango)":2500,
+            "Satay de Sumatra(Bastones marinados de calabaza en tempura con salsa satay a base de cacahuete con culantro y trocitos de pina)": 1550,
+            "Croquetas Sonaderas de pollo/ropa vieja":1800,
+            "Mano del Dragón(Wonton ravioli chino cocido relleno de cerdo y camaron, sobre una cama de cremade huevo y soja)":2080,
+            "Rey Mono(Gyoza cocida al vapor y pasada por plancha con demi-glace de carne de res)":2080,
+            "Dragón del mar(Siu Mai,gyoza cocida al vapor con forma de timbal,rellena de pargo y nata con salsa de pimienta)":2400
+        },
+        "strong_dishes":{
+            "Bonito Tai Red(Bonito confitado con especias,bañado con curri rojo thai,potente y equilibrado para sentir bien los sabores del bonito con arroz basmati)":3840,
+            "Maki Saiko Ebi Hana(Arroz envuelto en alga nori, relleno de bonito, queso crema y verduras)":2080,
+            "Brasa Patagonia(El más basto,vacío a la brasa corte nipon  en tiras con puré de boniato y Sichuan, acompanado de chimichurri asiático)":6560,
+            "Langosta Coco Verde(Cola de langosta con mantequilla al ajillo y un suave curri verde de coco acompanado de arroz basmati)":5760,
+            "Uramaki Umi no Haikiri(Alga nori rellena de calamar en tempura y verduras encurtidas, envueltas en arroz)":1950,
+            "Nigiri Ika no Yume(Bolitas de arroz marinado en salsa de res,bonito marinado con un velo de guanciale y salsa a base de wasabi)":2400,
+            "Brocheta Dak Galbi(Brocheta de pollo marinada con soja, miel, jengibre ,con piña en canela, verduras asadas y salsa teriyaki)":840,
+            "Brocheta Gochu Vermounth Harmony(Brocheta de cerdo marinada en vermut, con tamarindo, verduras asadas y salsa de tamarindo)":4480,
+            "Char Siu Delhi(Carne asada al estilo chino, pero con sabores y aromas indios, acompañados de tacos indios y verduras para rellenar en mesa)":4160,
+            "Ssamn Kimuchi Tropical(Cama de lechuga fresca con tiras de pollo especiado crujiente y encurtidos)":3200
+        },
+        "tacos":null,
+        "pastas": null,
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":{ 
+            "Sensei borracho(Brownie borracho con ron y wasabi, acompañado de sirope de wasabi para los más atrevidos o de chocolate blanco y Sichuan para los que le temen al sensei)":1920,
+            "Maestro Shifu(Cheesecake, el enemigo del sensei con queso ahumado y crema de mascarpone dulce, con puntos de salsa de frutos rojos al vermut)":2080,
+            "Mei Mei(Leyenda americana en Asia, sandwich de galleta de alfajor rellena de mascarpone y dulce de leche, con cobertura de chocolate blanco y Sichuan)":1800,
+            "Maestro Shinobi(Ancestral y poderoso, flan de plátano borracho al ron y caramelo, el más simple pero profundo de sabor)":1760,
+            "icecream_flavors":null
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Daiquirí":900,
+                    "Daiquirí de fruta":1100,
+                    "Gin Tonic Simple":1400,
+                    "Margarita":900,
+                    "Martini Dry":1100,
+                    "Michelada":1100,
+                    "Mojito":900,
+                    "Negroni":1200,
+                    "Aperol Spritz":1400,
+                    "Bloody Mary":1100,
+                    "Caipirísima":900,
+                    "Caipiroska":900,
+                    "Canchánchara":900,
+                    "Coctel Danzon":1200,
+                    "Coctel Mambo":1200,
+                    "Coctel Son":1500,
+                    "Coctel Tecno Sour":1100,
+                    "Coctel Tango":1200,
+                    "Cuba Libre":900,
+                    "Cubanito":1200,
+                    "Sambuca San Faustino":600,
+                    "Old Fashioned":1500,
+                    "Piña Colada":1200,
+                    "Pisco Sour":1400,
+                    "Sangría":1500,
+                    "Penicillin":1400,
+                    "Lemon song":1100,
+                    "Okinawa spritz":1400
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "ginebra":null,
+                    "tequila":null,
+                    "vodka":null,
+                    "whiskey":{
+                        "Whiskeys Jack Daniels":1500,
+                        "Whiskeys Jim Bean":1200,
+                        "Whiskeys Jhonny Walker Red Label":1200,
+                        "Whiskeys Jamenson":850,
+                        "Whiskys Jhonny Walker Black Label":2000
+                    },
+                    "ron":{
+                        "Ron Havana Club Pacto Navío":2000,
+                        "Ron Havana Club 3 anos":480,
+                        "Ron Havana Club 7 anos":900,
+                        "Ron Santiago 8 anos":950,
+                        "Ron Santiago 11 anos":1250,
+                        "Ron Santiago 12 anos":1650,
+                        "Eminente 3 anos":3000,
+                        "Ron Black tears Roble Superior":650,
+                        "Ron selección de Maestros":3300
+                    },
+                    "liquors":{
+                        "Crema Bailys":950,
+                        "Frangelico":1000,
+                        "Limoncello":600,
+                        "Sirope de kiwi":600,
+                        "Sirope de Manzana":125,
+                        "Campari":850,
+                        "Licor de Café":740
+                    }
+
+                },
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "red bull":"",
+            "malta":"",
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup o usd"  
+} 

@@ -1,0 +1,113 @@
+{
+    "name": "Bar Tropicana",
+    "municipality":"Marianao",
+    "location": {
+        "address":"72A,Avenida 41",
+        "coordinates_latitude_length" : [23.094613, -82.419183]
+    },
+    "phone_number": "7279147",
+    "food_type":null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"cabarettropicana",
+        "facebook":"Cabaret Tropicana, Habana"
+    },
+    "menu": {
+        "breakfast":null,
+        "started": null,
+        "tacos":null,
+        "strong_dishes":null,
+        "pastas": null,
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Havana Club 3 años ": 100,
+                    "Especial Havana Club ": 120,
+                    "Havana Club 7 años ":320,
+                    "Havana Club Pacto Navio ": 730,
+                    "Havana club seleccion de maestros":750,
+                    "Aguardiente Gobernador":14300,
+                    "Chiva Regal 12 Años": 995,
+                    "Ballentinees finest": 500,
+                    "J&B ":650,
+                    "Johnnie Walker etiqueta roja": 550,
+                    "Jameson": 650,
+                    "VAT": 580,
+                    "Tequila 3 sombreros":300,
+                    "Vodka Igor":395,
+                    "Brandy Napoleón": 190,
+                    "Cremas y licores (Cacao)": 85,
+                    "Cremas y licores (Café)": 85,
+                    "Cremas y licores(Menta)": 85,
+                    "Cremas y licores(Marrasquino)": 85,
+                    "Cremas y licores(Triple sec)": 85,
+                    "Cremas y licores(Curacao azul)": 85,
+                    "Cremas y licores(Piña)":85,
+                    "Daiquiri Natural": 450,
+                    "Daiquiri Frapeado Natural": 450,
+                    "Cuba libre": 730,
+                    "cubata": 700,
+                    "Daiquiri mulata":620,
+                    "Daiquiri Saborizado": 450,
+                    "Gin cola": 750,
+                    "Gin tonic": 785,
+                    "Rom tonic": 550,
+                    "Vodka cola":600,
+                    "Vodka tónica": 650,
+                    "Whisky cola":500,
+                    "Tropicana special ":450,
+                    "Cocteles Internacionales": 500,
+                    "Canchánchara": 450,
+                    "Piña colada ": 450
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cervezas nacionales o importadas": 200,
+                    "Cerveza Dispensada ": 160
+        
+                }
+            },
+            "water":{
+                "Aguas nacionales": 100,
+                "Agua saborizada ": 100,
+                "Agua Natural ": 100
+            },
+            "soft_drinks":{
+                "Refresco":60
+
+            },
+            "juices":{
+                "Jugos de frutas en conserva ":100,
+                "Jugos de frutas naturales": 100
+
+            },
+            "lemonade":null,
+           
+            "copas":{
+                "Copa de vino de la casa":300
+
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

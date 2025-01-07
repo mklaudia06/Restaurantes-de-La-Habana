@@ -1,0 +1,113 @@
+{
+    "name": "Pizzas Vip",
+    "municipality":"Guanabacoa",
+    "location": {
+        "address":"Marti entre E.Guiral y EV. Valenzuela",
+        "coordinates_latitude_length":[23.1256301,-82.3054280]
+    },
+    "phone_number": "52844312",
+    "food_type":"Italiana",
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas de la Casa":400.00,
+            "Fritura de Malanga":300.00,
+            "Bolita de Queso":650.00,
+            "Fajita de Pechuga":1100.00,
+            "Ensalada Fría":370.00,
+            "Papa Frita":580.00,
+            "Fajita de Cerdo":1200.00   
+        },
+        "tacos":{
+            "Tacos de Jamón":1030.00,
+            "Tacos de Res":1350.00,
+            "Tacos de Cangrejo":1380.00
+        },
+        "strong_dishes":null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Crema de Queso":500.00,
+            "Crema Virginia":550.00,
+            "Crema Aurora":520.00,
+            "Crema Mixta":600.00
+        },
+        "digestive":null,
+        "pizzas": {
+            "Pizza de Queso":800.00,
+            "Pizza de Cebolla":1000.00,
+            "Pizza de Pimiento":1000.00,
+            "Pizza de Jamón":1100.00,
+            "Pizza de Chorizo":1050.00,
+            "Pizza de Hawaiana":1260.00,
+            "Pizza de Bacón":1240.00,
+            "Pizza Doble Queso":1250.00,
+            "Pizza de Camarón":1700.00,
+            "Pizza de Res":1300.00,
+            "Pizza de Atún con Cebolla":1450.00,
+            "Pizza de Jamón Serrano":1570.00,
+            "Pizza de Aceituna":1200.00
+                 
+        },
+        "pastas": {
+            "Espaguetis Napolitano":720.00,
+            "Espaguetis Boloñesa":1350.00,
+            "Espaguetis Carbonara":1350.00,
+            "Espaguetis Alfredo":1150.00,
+            "Espaguetis de Atún":1270.00,
+            "Espaguetis Pollo":1120.00,
+            "Espaguetis de Camarones":1400.00,
+            "Espaguetis Chorizo":1150.00,
+            "Espaguetis Negro Di Mare":1500.00
+                 
+        },
+        "desserts": null,
+        "liquids": {
+            "alcoholic_drinks": {
+                "beers":{
+                    "Henike":360.00,
+                    "Cerveza Importada":250.00,
+                    "Cerveza de Lata Cristal":300.00,
+                    "Cerveza de Botella":300.00
+                },
+                "cocktails":null
+            },
+            "water":{
+                "Pomitos de Agua":150.00
+            },
+            "soft_drinks":{
+                "Refresco de Pomito":180.00,
+                "Refresco de Lata":220.00, 
+                "Refresco Importado":280.00
+            },
+            "malta":{
+               "malta": 300.00,
+               "Malta Importada":270.00
+            },
+            "juices":{
+                "Jugos de Lata":280.00,
+                "Jugos de Cajita":180.00
+            },
+            "Tigón":300.00      
+        }
+
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,113 @@
+{
+   "name": "Polo",
+   "municipality":"Guanabacoa",
+    "location": {
+        "address":"",
+        "coordinates_latitude_length":[23.122035,-82.3104846]
+    },
+    "phone_number": "52411618",
+    "food_type":"Internacional",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "Toston Relleno de jamón y queso(Plátanos de temporada pochados en aceite a baja temperatura rellenos con una falsa de jamón condimentada y gratinados con queso fresco)":450.00,
+            "Toston Relleno de atún y queso(Plátanos de temporada pochados en aceite a baja temperatura rellenos con una falsa de atún y cebolla condimentados y gratinados con queso fresco)":600.00,
+            "Fajitas de pechuga(Jardineras gruesas de pechugas de pollos macerada, empanadas a la inglesa con migas de pan)":850.00,
+            "Ensaladas frías de jamón(En términos generales es una mezcla de pastas, piña glaseada en dados, jamón y cebolla emulsionándose con una salsa tártara)":500.00,
+            "Ensalada fría de atún(Lo mismo que la ensalada de jamón, lo que se cambia el producto por atún)":650.00,
+            "Eperlano de Pescado(Jardineras gruesa de pescado emperador macerado y rebozado con harina de maíz)":1100.00,
+            "Croquetas de la Casa(masa frita de pescado con bechamel y rebozado con migas de pan)":450.00,
+            "Frituras Malanga":450.00,
+            "Coctel camarones":1300.00,
+            "Papas Fritas":550.00    
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Arroz salteado con vegetales":250.00,
+            "Bistec de cerdo grille encebollado":1900.00,
+            "Uruguallo de cerdo":2400.00,
+            "Bistec princesa":2500.00,
+            "Pechuga grille":1850.00,
+            "Pechuga gratinada":2200.00,
+            "Cordon bleu de pechuga":2500.00,
+            "Bistec de res encebollado":2000.00,
+            "Uruguallo de res":2500.00,
+            "Ropa vieja de res":2300.00,
+            "Filete de pescado grille":2200.00,
+            "Filete Montero":2800.00,
+            "Filete Canciller":2900.00,
+            "Filete gratinado":2600.00,
+            "Camaron enchilado":2700.00,
+            "Camaron al ajillo":2600.00,
+            "Camaron empanizado":2700.00,
+            "Arroz Frito con camarones":1500.00,
+            "Filete Mediterraneo":3500.00,
+            "Lomo Ahumado":2400.00,
+            "Mar y Tierra":4500.00,
+            "Masa de Vida":4100.00 
+        },
+        "pizza_pasta_add-on":null,
+        "side_dishes":{
+            "Arroz blanco":120.00,
+            "Arroz moro y cristiano":180.00,
+            "Arroz pilaf":200.00
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "pizzas":{
+            "Pizza Napolitana":900.00,
+            "Pizza Hawaiana":1300.00     
+        },
+        "pastas":{
+            "Spaguetti Napolitano":850.00,
+            "Spaguetti Carbonara":1400.00
+        },
+        "desserts":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "beers":{
+                    "Cerveza Nacional":350.00,
+                    "Cerveza importada":250.00
+                },
+                "cocktails":null
+            },
+            "Energizante":300.00,
+            "water":{
+                "Agua Natural 500ml":200.00  
+            },
+            "soft_drinks":{
+                "Refresco nacional":250.00,
+                "Refrescos importados":280.00
+            },
+            "malta":{
+                "Malta Nacional":250.00,
+                "Malta Importada":280.00
+            },
+            "juices":{
+                "Jugo de caja":200.00,
+                "Jugo de Lata":280.00
+            },
+            "coffees":{
+                "Cafe expreso":250.00
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

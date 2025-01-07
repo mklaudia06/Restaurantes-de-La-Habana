@@ -1,0 +1,156 @@
+{
+    "name": "Ranchon de 41",
+    "municipality":"Marianao",
+    "location": {
+        "address":"Avenida 41 y 84",
+        "coordinates_latitude_length" : [23.089605, -82.421626]
+    },
+    "phone_number": "52014975",
+    "food_type":"Variada",
+    "schedule": {
+        "opening": "24h",
+        "closure": "24h",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "Croquetas de la casa": 400,
+            "Coctel de camaron":650,
+            "Picadera el toro bravo":1700
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Pollo chiflado": 1200,
+            "Fajitas de pollo": 750
+        },
+        "pastas": {
+            "Espaguetis":700
+        },
+        "pizzas": {
+            "pizza de queso blanco": 400,
+            "pizza de queso gouda": 680
+        },
+        "pizza_pasta_add-on": {
+            "Queso":200,
+            "Jamon":150,
+            "Chorizo":150,
+            "Cebolla":150,
+            "Piña":150,
+            "Aceituna":200,
+            "Queso gouda":500,
+            "atun":300
+        },
+        "side_dishes":null,
+        "desserts":{ 
+            "icecream_flavors":{
+                "Suero de helado": 400
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            
+        },
+        "hamburgers_add-on":{
+            
+
+        },
+        "aperitivos":{
+
+        },
+        "snacks":{
+
+        },
+        "creams_and_soup":{
+
+        },
+        "digestive":{
+
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    
+                    
+                },
+                "bottles":{
+                    "wine":{
+
+                    },
+                    "champagne": {
+
+                    },
+                    "vodka":{
+
+                    },
+                    "tequila": {
+
+                    },
+                    "whiskey":{
+
+                    },
+                    "ginebra":{
+
+                    },
+                    "ron":{
+
+                    },
+                    "liquors":{
+
+                    }
+                },
+                "drinks_with": {
+                    "ginebra":{
+
+                    },
+                    "tequila":{
+
+                    },
+                    "vodka":{
+
+                    },
+                    "whiskey":{
+
+                    },
+                    "ron":{
+
+                    }
+
+                },
+                "beers":{
+        
+                }
+            },
+            "water":{
+
+            },
+            "soft_drinks":{
+
+            },
+            "juices":{
+
+            },
+            "lemonade":{
+
+            },
+            "red bull":"",
+            "malta":"",
+            "copas":{
+
+            },
+            "coffees":{
+
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+
+}

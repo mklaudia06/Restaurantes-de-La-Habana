@@ -1,0 +1,58 @@
+{
+    "name":"El Batazo",
+    "municipality": "Cerro",
+    "location":{
+        "address": "Primelles 356 entre Santa Teresa y Daois",
+        "coordinates_latitude_length":[23.1055757,-82.3892364]
+    },
+   
+    "phone": "+53 58050408",
+    "food_type":"Pizzeria",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Malo",
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "pizzas": {
+            "Pizza de queso": 750,
+            "Pizza de chorizo": 930,
+            "Pizza de jamón": 930,
+            "Pizza de hawaiana": 1130,
+            "Pizza de cebolla": 950,
+            "Pizza de ají": 950,
+            "Pizza de atún": 1250,
+            "Pizza de aceitunas": 950,
+            "Pizza de peperoni": 1050,
+            "Espaguetis": 600,
+            "Espaguetis de jamón": 780,
+            "Hamburguesa strike": 550,
+            "Hamburguesa doble play": 1000,
+            "Hamburguesa homerun": 1300
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "desserts": null,
+        "liquids":null,
+        "tacos":null,
+        "strong_dishes":null,
+        "pastas":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

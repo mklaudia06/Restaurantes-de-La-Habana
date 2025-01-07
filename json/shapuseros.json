@@ -1,0 +1,57 @@
+{
+    "name": "Shapuseros",
+    "municipality": "Cerro",
+    "location":{
+        "address": "Calzada de Ayestarán entre San Pedro y Ayuntamineto",
+        "coordinates_latitude_length":[23.0974659,-82.4120171]
+    },
+    "phone_number": null,
+    "food_type":"Hamburguesera",
+    "schedule": {
+        "opening": "9:00 am",
+        "closure": "9:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Normal",
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "strong_dishes":null,
+        "pastas":null,
+        "pizzas": null,
+        "pizza_pasta_add-on":null,
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":{
+            "hamburguesa de pollo": 500,
+            "hamburguesa de cerdo": 550,
+            "hamburguesa de res": 600,
+            "hamburguesa Shapusero": 1200
+        },
+        "hamburgers_add-on":{
+            "queso": 150,
+            "jamon": 120,
+            "chorizo": 150,
+            "bacon": 155,
+            "huevo": 150,
+            "cebolla": 50,
+            "salsa BBQ": 30
+        },
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,230 @@
+{
+    "name": "El Farallon",
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address":" Calle 22 #361, esq. 23, Vedado",
+        "coordinates_latitude_length" : [23.12423345289344, -82.40409285068903]
+    },
+    "phone_number": "78305187",
+    "food_type":"variada",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure":"11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":"restaurantefarallon",
+        "facebook":"farallonrestaurante"
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "MARIPOSITAS (OCHO UNIDADES)": 400.00,
+            "FRITURAS DE MALANGA(OCHO UNIDADES)" : 430.00,
+            "CROQUETAS DE LA  CASA(DIEZ UNIDADES)" : 530.00,
+            "TOSTONES NATURALES" : 380.00,
+            "TOSTONES RELLENOS(JAMON VIKI, ATUN, ROPA VIEJA)" :950.00,
+            "BOLITAS DE QUESO(DIEZ UNIDADES)":750.00,
+            "PERLAN DE PESCADO (PESCADO DEL DIA (115 gr) EMPANADO)":950.00,
+            "FAJITAS DE POLLO (PECHUGA (115 gr) EMPANADO)" :1250.00,
+            "COCTEL DE LANGOSTA (MASA DE LANGOSTA (1.15 gr)": 1200.00,
+            "COCTEL DE CAMARONES(CAMARON (115 gr) ": 1200.00,
+            "ENSALADA FRIA(JAMÓN VIKI, ATÚN, POLLO)":950.00,
+            "CEBICHE(PESCADO DEL DIA (115 gr)":1080.00,
+            "PICADERA FARALLÓN(JAMON VIKI, QUESO Y ACEITUNAS (30 gr)1/2 RACION DE MARIPOSITAS CHINAS, FRITURA DE MALANGA,CROQUETAS, BOLITAS DE QUESO, TOSTONES NATURAL Y TOSTON RELLENO FALSA DE JAMON VIKI) ": 2200.00,
+            "TABLA DE JAMÓN (JAMÓN SERRANO (150 gr)":2500.00
+
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "FILETE PESCADO GRILLE (230 gr)":1800.00,
+            "FILETE DE PESCADO C/ J Y Q GRATINADO" : 2380.00,
+            "FILETE DE PESCADO JOHN VILLE": 2450.00,
+            "CAMARÓN AL GUSTO (180 gr)(GRILLLE, ENCHILADO Y AL AJILLO)": 2550.00,
+            "PULPO AL GUSTO (180 gr)(GRILLLE, ENCHILADO Y AL AJILLO)":2600.00,
+            "GRILLADA MAR(Camarón, langosta, filete de pescado y pulpo)":4100.00,
+            "GRILLADA MAR Y TIERRA": 5200.00,
+            "ROPA VIEJA (150 gr)":2100.00,
+            "VACA FRITA (150 gr)":2100,
+            "BISTEC DE CERDO GRILLE (230 gr)":2100.00,
+            "BISTEC CI J'Y Q GRATINADO":2760.00,
+            "BISTEC DE CERDO TROPICAL":2200.00,
+            "MASA DE CERDO FRITA (200 gr)":2340.00,
+            "FRICASE DE CERDO":2530.00,
+            "PECHUGA DE POLLO GRILLE (230 gr)":2100.00,
+            "PECHUGA C/ J Y Q GRATINADO":2760.00,
+            "PECHUGA A LA CREMA":2650.00,
+            "FAJITAS DE POLLO SALTEADAS (230 gr)":2180.00,
+            "BISTEC DE POLLO DESHUESADO (230 gr)": 1320.00,
+            "POLLO A LA BARBACOA (114 pollo)": 1710.00,
+            "POLLO ASADO (114 poll)":1750
+           },
+        "pastas": {
+            "ESPAGUETIS (260 gr) CON QUESO GOUDA":{
+                "NAPOLITANOS (60 gr)":900.00,
+                "ATÜN (60 gr)": 1450.00,
+                "JAMÓN (70 gr)": 1100.00,
+                "CAMARONES (60 gr)" :1450.00,
+                "BOLOÑESA (80 gr)":1000.00,
+                "AL PESTO" : 1000.00,
+                "CARBONARA (60 gr)" : 1300.00
+           },
+           "LASAÑAS":{
+            "CON QUESO GOUDA":{
+                "FARALLÓN": 4000.00,
+                "BOLOÑESA (240 gr)": 2500.00,
+                "JAMÓN": 2700.00,
+                "ATUN":4300.00
+
+            },
+            "CON QUESO MOZZARELLA":{
+                "FARALLÓN": 3600.00,
+                "BOLOÑESA (240 gr)": 1410.00,
+                "JAMÓN": 1750.00,
+                "ATUN":3650.00
+ 
+            }
+            
+
+           },
+           "CANELONES":{
+            "CON QUESO GOUDA":{
+                "BOLOÑESA":2100.00,
+                "JAMÓN":2470.00
+            },
+            "CON QUESO MOZZARELLA": {
+                "BOLOÑESA": 1250.00,
+                "JAMÓN" : 1650.00
+            }
+           }
+        },
+        "pizzas": {
+            "CON QUESO GOUDA":{
+                
+            },
+            "CON QUESO MOZZARELLA":{
+                "NAPOLITANA (160 gr)": 800.00,
+                "JAMÓN (120 gr)":1100.00,
+                "BACON (120 gr)":1250.00,
+                "CHORIZO (120 gr)": 1100.00,
+                "CEBOLLA (100 gr)": 850.00,
+                "ACEITUNA (60 gr)": 1120.00,
+                "CHAMPIÑONES (90 gr)":1120.00,
+                "VEGETALES (Cebolla, pimientos y aceitunas)": 980.00,
+                "HAWAIANA": 1180.00,
+                "CAMARONES (90 gr)": 1550.00,
+                "ATÚN (90 gr)": 1180.00,
+                "BOLOÑESA (80 gr)":950.00,
+                "DESNUDA (90 gr)": 1700.00,
+                "CALZONE(jamón viki, chorizo y champiñones)": 1300.00,
+                "FARALLÓN(jamón, chorizo, aceitunas, cebolla, pimiento y atún)":1880.00,
+                "PIZZAGHETTI":750.00,
+                "DOBLE QUESO (300 gr)" :1150.00,
+                "PIMIENTO (100 gr)":850.00
+
+            }
+
+        },
+        "pizza_pasta_add-on": {
+            "QUESO GOUDA":400.00,
+            "JAMÓN": 200.00,
+            "CHORIZO": 220.00,
+            "BACON":300.00,
+            "CEBOLLA":220.00,
+            "PIMIENTO":300.00,
+            "PIÑA":100.00,
+            "ACEITUNA":290,
+            "CAMARONES":500,
+            "ATUN":500.00,
+            "QUESO MOZZARELLA":200,
+            "BOLOÑESA":250.00,
+            "JAMÓN SERRANO":800.00
+
+        },
+        "side_dishes":{
+            "PAELLA DE MARISCOS":2400.00,
+            "ARROZ C/ POLLO A LA CHORRERA": 1200.00,
+            "ARROZ FRITO": 1100.00,
+            "ARROZ FRITO ESPECIAL": 1500.00,
+            "ARROZ MORO": 300.00,
+            "ARROZ BLANCO" : 210.00
+           },
+        "desserts":{ 
+            "icecream_flavors":null,
+            "POSTRE DE LA CASA":400.00
+
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+           "CREMA DE QUESO" :400.00,
+           "CREMA VIRGINIA" :500.00,
+           "CREMA AURORA":420.00,
+           "CREMA REINA" :550.00
+                
+        },
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "MOJITO" : 460.00,
+                    "CUBA LIBRE": 590.00,
+                    "CUBATA": 450.00,
+                    "DAIQUIRÍ": 490.00,
+                    "CANCHANCHARA, SANGRÍA": 400.00,
+                    "TINTO DE VERANO": 610.00,
+                    "PIÑA COLADA": 570.00,
+                    "SCREW DRIVER": 580.00,
+                    "CAIPIRINHA": 400.00,
+                    "CAIPIRISIMA": 450.00,
+                    "CAIPOROSKA": 550.00,
+                    "MICHELADA BASE": 450.00
+                    
+                    
+                },
+                "bottles":null,
+                "drinks_with":null
+
+                },
+                "beers":{
+                    "CERVEZA NACIONAL": 480.00,
+                    "CERVEZA IMORTADA": 480.00
+                    
+                }
+            },
+            "water": {
+                "AGUAN NATURAL": 200.00
+            },
+            "soft_drinks":{
+                "REFRESCOS GASEADOS": 370.00
+               
+            },
+            "juices":{
+                "JUGOS DE FRUTAS NATURALES": 300.00
+
+            },
+            "lemonade":{
+                "LIMONADA FRESCURA": 500.00,
+                "SORPRESADE DE LIMON AL COCO":600.00
+
+            },
+            "red bull":"",
+            "malta":400.00,
+            "copas":{
+                "VINO":{
+                    "VINO BLANCO": 430.00,
+                    "VINO TINTO":500.00
+                }
+
+            },
+            "coffees":null
+        },
+       
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup" 
+}

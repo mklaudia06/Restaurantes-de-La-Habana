@@ -1,0 +1,81 @@
+{
+    "name": "Jorgito's Pizzas",
+    "municipality": "Cerro",
+    "location":{
+        "address": "Pedroso entre Infanta y Cruz del Pader",
+        "coordinates_latitude_length":[23.1207887,-82.374062]
+    },
+    "phone_number": "+53 54031349",
+    "food_type":"Pizzeria",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "strong_dishes":null,
+        "pastas": {
+            "Espaguetis": 850,
+            "Espaguetis de jamón": 1100,
+            "Espaguetis de chorizo": 1000
+        },
+        "pizzas": {
+            "Pizza de napolitana": 850,
+            "Pizza de chorizo": 1000,
+            "Pizza de jamón": 1000,
+            "Pizza de hawaiana": 1150,
+            "Pizza de cebolla": 1000
+        },
+        "pizza_pasta_add-on": {
+            "Jamón": 180,
+            "Piña": 180,
+            "Pimiento": 250,
+            "Cebolla": 300,
+            "Chorizo": 170,
+            "Hawaiana": 250,
+            "Queso Gouda": 300,
+            "Queso Nacinal": 180,
+            "Queso Mozzarella": 240
+        },
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":{
+             "Hamburguesa ": 1200,
+            "Hamburguesa jamón y queso": 1650,
+            "Hamburguesa onbazar": 2700
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":{
+            "cocktails":{
+                "Piña colada": 600,
+                "Piña colada (alchol)": 750,
+                "Malteada": 500
+            },
+            "lemonade":{
+                "Limonada frapé": 400
+            },     
+            "coffees":{
+                "Café expreso": 180,
+                "Café cortado": 220,
+                "Capuchino": 450,
+                "Café bombón": 450
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

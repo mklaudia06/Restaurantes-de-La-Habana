@@ -1,0 +1,68 @@
+{
+    "name": "El Faro",
+    "municipality":"Guanabacoa",
+    "location": {
+        "address":"Maximo Gomez, La Habana, Cuba",
+        "coordinates_latitude_length":[23.1241179,-82.3043223]
+        },
+    "phone_number":"",
+    "food_type":"Criolla",
+    "schedule": {
+        "opening": "9:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Normal",
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "ENCHILADO DE CANGREJO":750.00,
+            "CROQUETA DE LA CASA":180.00,
+            "ENSALADA FRÍA DE JAMÓN":700.00,
+            "ENSALADA FRÍA DE ATÚN":1200.00,
+            "Picadera Tropical":850.00,
+            "Plato a lo Cubano":800.00
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Costillas de Cerdo":1200.00,
+            "Ruedas de pescado Grille":1400.00,
+            "Pollo Grille":950.00
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "hamburgers_and_sandwichs":{
+            "PAN CON HAMBURGUESA": 500.00,
+            "HAMBURGUESA FARO":900.00
+            
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "pizzas": {
+            "PIZZA EL FARO":900.00,
+            "PIZZA COMBINADA":900.00,
+            "PIZZA HAWAIANA":900.00,
+            "PIZZA DE CEBOLLA":900.00,
+            "PIZZA DE PIMIENTO":900.00,
+            "PIZZA GUSTAZO (Doble Queso)":900.00,
+            "PIZZA JAMÓN":900.00
+        },
+        "pastas":{
+            "Spaguetti Napolitano":750.00,
+            "Spaguetti de Jamón":850.00
+        },
+        "desserts": null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

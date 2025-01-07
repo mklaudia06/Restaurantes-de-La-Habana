@@ -1,0 +1,61 @@
+{
+    "name": "El Rápido",
+    "municipality": "Cerro",
+    "location": {
+        "address":"Cruz del Pader entre Pedrosa y Amenidares",
+        "coordinates_latitude_length":[23.120672, -82.374343]
+    },
+    "phone_number": null,
+    "food_type":"comida rapida",
+    "schedule": {
+        "opening": "7:30 am",
+        "closure": "7:30 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Malo",
+    "social_media": {
+        "instagram": null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas": 300,
+            "Papas fritas": 360
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Pollo Chiflado": 750
+        },
+        "pastas": {
+           "Espaguetis": 850,
+            "Espaguetis Napolitano": 380,
+            "Espaguetis de chorizo": 1000
+        },
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":{
+            "Pan con Tortilla": 300,
+            "Pan con Tortilla , Jamón": 360,
+            "Pan con Tortilla, Chorizo": 360,
+            "Pan con Tortilla, Cebolla": 360,
+            "Pan con Tortilla , Queso Gouda": 400,
+            "Hamburguesa de Cerdo": 620,
+            "Hamburguesa de Res": 720,
+            "Sandwich Cubano": 860,
+            "Pan con Bitec de Cerdo": 750
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

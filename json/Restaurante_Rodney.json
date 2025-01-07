@@ -1,0 +1,85 @@
+{
+    "name": "Restaurante Rodney",
+    "municipality":"Marianao",
+    "location":{
+        "address":"72A,Avenida 41",
+        "coordinates_latitude_length":[23.094613, -82.419183]
+    },
+    "phone_number": "7279147",
+    "food_type":"Variada",
+    "schedule": {
+        "opening": "12:0 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": {
+            "Sandwich de un agrego":230,
+            "Sandwich de dos agregos":300    
+        },
+        "started": {
+            "Picadera de la casa":650,
+            "Entremes de embutido y queso":400,
+            "Tacos mexicanos de pollo":700,
+            "Tacos mexicanos de cerdo":1400,
+            "sopa del dia":125,
+            "Croquetas":250,
+            "Crema aurora":350,
+            "Crema virginia":480,
+            "Crema de calabaza con queso":400,
+            "Eperlan de pescado":600,
+            "Fajitas de pollo":500
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Lonjas de cerdo asada":2000,
+            "fricase de cerdo": 2300,
+            "Bistec de cerdo grille": 1800,
+            "Pollo asado": 850,
+            "Pollo frito": 900,
+            "Pollo deshuesado": 900,
+            "Filete migñon": 3000,
+            "Steack de res":1400,
+            "Filete de pescado a la plancha": 1500,
+            "Filete de pescado gratinado con queso":1750,
+            "Filete de pescado canciller":2000,
+            "Langosta a la plancha":1800,
+            "Filete bacalao a la plancha": 250,
+            "Langosta enchilada":1900
+        },
+        "pastas": {
+            "Pasta napolitana":500
+        },
+        "pizzas": {
+            "Pizza napolitana":500,
+            "Pizza campesina": 1200,
+            "Pizza especial rodney (rellena con queso)":800,
+            "Pizza especial rodney (rellena con embutido)":900,
+            "Pizza super especial rodney (rellena con queso y varios embutidos)":1200
+
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":{
+            "Arroz Rodney": 780,
+            "Arroz blanco":120,
+            "Ensalada de vegetales":120
+        },
+        "desserts":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,65 @@
+{
+    "name": "La Casona del Cerro",
+    "municipality": "Cerro",
+    "location":{
+        "address": "Calzada del Cerro entre Alzobispo y Peñón",
+        "coordinates_latitude_length":[23.109588, -82.382683]
+    },
+    "phone_number": null,
+    "food_type":"comida criolla",
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Normal",
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast":null,
+        "started": null,   
+        "tacos":null,
+        "strong_dishes":{
+            "pollo asado": 1100,
+            "masa frita": 900,
+            "bistec de cerdo": 850,
+            "fricasé de cerdo": 850,
+            "chuleta": 1000
+        },
+        "pastas": {
+            "spaghetti c/queso gouda": 450,
+            "spaghetti c/ jamon y queso gouda": 500,
+            "spaghetti doble queso gouda": 650,
+            "spaghetti mixto": 550
+        },
+        "pizzas": {
+            "pizza napolitana c/queso gouda": 450,
+            "pizza doble queso": 650,
+            "pizza de jamon y queso gouda": 500,
+            "pizza mixta c/queso gouda": 550,
+            "pizza familiar c/queso gouda": 900,
+            "pizza familiar doble queso": 1200,
+            "pizza familiar de jamon y queso gouda": 1000,
+            "pizza familiar mixta c/queso gouda": 1050
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":{ 
+            "flan": 350,
+            "icecream_flavors":null
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup o usd"
+}

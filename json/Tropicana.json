@@ -1,0 +1,82 @@
+{
+    "name": "Tropicana",
+    "municipality":"Marianao",
+    "location":{
+        "address": "Avenida 41, calle 72",
+        "coordinates_latitude_length": [23.094613, -82.419183]
+    },
+    "phone_number":"7 2670110" ,
+    "food_type":"variado",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":"cabarettropicana",
+        "facebook":"Cabaret Tropicana, Habana"
+    },
+    "menu": {
+        "breakfast": {
+            "Super hamburguesa":560,
+            "Pan con jamon y queso":280
+        },
+        "started": {
+            "Tostones":350,
+            "Tostones rellenos":450,
+            "Consome":450,
+            "Eperlan":500,
+            "Croquetas":500,
+            "Picadera de la casa":100
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Bistec de cerdo":1300,
+            "Bistec de cerdo a la milanesa":1800,
+            "Bistec de pollo":1000,
+            "Pollo frito":1000,
+            "Pollo a la milanesa":1500,
+            "Ropa vieja":1550,
+            "Canciller":2500,
+            "Pescado entero":2000,
+            "Rueda de atun":1700,
+            "Camarones":1700,
+            "Filete de pescado":1500
+        },
+        "pastas": {
+            "Espaguettis a la carbonara":750,
+            "Espaguettis queso gouda": 650
+        },
+        "pizzas": {
+            "Pizza de queso gouda":750,
+            "Pizza Hawaiana":800,
+            "Pizza tropicana":950
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":{
+            "Arroz frito": 700
+        },
+        "desserts":{ 
+            "icecream_flavors":{ 
+                "Helado gusto (1L)": 1000
+            }
+
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Crema de queso":450,
+            "Crema aurora": 450,
+            "Crema de jamon": 450
+        },
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

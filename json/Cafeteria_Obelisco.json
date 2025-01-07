@@ -1,0 +1,71 @@
+{
+    "name": "Cafeteria obelisco",
+    "municipality":"Marianao",
+    "location":{
+        "address":"Avenida 31",
+        "coordinates_latitude_length":[23.0873824,-82.4987318]
+    },
+    "phone_number": null,
+    "food_type":"Variada",
+    "schedule": {
+        "opening": "9:00 am",
+        "closure": "6:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":"obeliscocafeteria",
+        "facebook":"Cafetería Obelisco"
+    },
+    "menu":{
+        "breakfast": {
+            "Pan con queso y embutido":250
+        },
+        "started": {
+            "bolitas de carne": 120,
+            "Dados de queso":180
+        },
+        "tacos":null,
+        "strong_dishes":null,
+        "pastas": null,
+        "pizzas": {
+            "Pizza de queso":200
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":{
+            "Frijol negro": 55,
+            "Arroz blanco": 70
+        },
+        "desserts":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza cristal":180,
+                    "Cerveza": 50
+                }
+            },
+            "water":{
+                "agua saborizada": 50,
+                "agua natural":180
+            },
+      
+            "copas":{
+                "Vino blanco entre Rio": 160,
+                "Vino blanco":160
+            }
+        } 
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

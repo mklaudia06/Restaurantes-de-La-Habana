@@ -1,0 +1,81 @@
+{
+    "name":"Mundo Pizza",
+    "municipality":"Centro Habana",
+    "location": {
+        "address": "C. San Nicolás 309 entre Neptuno y San Miguel",
+        "coordinates_latitude_length": [23.1377658,-82.3654744]
+    },
+    "phone_number": "53372715",
+    "food_type":"Internacional",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":"",
+        "facebook":""    
+    },
+    "menu": {
+        "breakfasts": null,
+        "started": {
+            "Croquetas Caseras":590.00,
+            "Tostones Criollos":540.00  
+        },
+        "tacos":null,
+        "strong_dishes":null,
+        "pizzas": {
+            "Focaccia(Pizza Blanca, Aceite de Oliva, Hierbas Aromáticas)":560.00,
+            "Pizza Rossa(Salsa de Tomate, ajo, aceite)":590.00,
+            "Pizza Metro Criolla(Salsa de Tomate, queso criollo, aromatizada con albahaca)":2800.00,
+            "Pizza Metro Casa(Salsa de Tomate, queso, jamón, salsa pesto, vegetales grillados)":3700.00,
+            "Pizza Metro Gouda(Salsa de Tomate, queso Gouda, aromatizada con albahaca)":5100.00,
+            "Pizza Metro Elección(Salsa de Tomate, Queso  4 agregos no repetidos a elección del cliente)":5150.00,
+            "Pizza 1/2 Metro Mix":2500.00,
+            "Pizza 1/2 Metro Elección":2700.00
+        },
+        "pizza_pasta_add-on":null,
+        "side_dishes":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "pastas": {
+                "Espaguetis":950.00,
+                "Lasagna":1250.00,
+                "Espaguetis al Pesto":1050.00,
+                "Espaguetis del Dia":1600.00
+            },
+        "desserts": {
+            "Postre del Dia":650.00,
+            "Pizza a Chocolate":815.00,
+            "icecream_flavors":{
+                "Helado 3 Gracias":500.00
+            }    
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+            "beers":{
+                "Cerveza":300.00
+            }
+          },
+         "soft_drinks":{
+            "Refresco":250.00
+            },
+         "Energizante":390.00,
+         "juices":{
+            "Jugo Cajita":250.00
+            },
+         "Yogurt":250.00,
+         "malta":300.00
+        }
+    },
+ 
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}
