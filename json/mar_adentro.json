@@ -1,0 +1,132 @@
+{
+    "name":"Mar Adentro",
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address": "Calle C, #15, entre 1ª y 3ª, Havana, Cuba",
+        "coordinates_latitude_length": [23.142433620136078, -82.39923307575508]
+    },
+    "phone_number": "+5378332060",
+    "food_type":"",
+    "schedule": {
+        "opening": "9:00 am",
+        "closure": "12:30 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"maradentrohabana",
+        "facebook":"maradentrohabana"
+    },
+    "menu": {
+        "breakfast": {  
+            "inglés" : 2000,
+            "continental" : 2000,
+            "americano": 2200 
+        },
+        "started":{  
+            "cesta de pan" : 750,
+            "focaccia al romero": 700 ,
+            "focaccia de jamón serrano, tomate y rúcula": 2000,
+            "bruchettas" : 1800 ,
+            "empanadillas de cangrejo o piña y queso" : 1200 ,
+            "tostones rellenos" : 1300 ,
+            "chispitas de malanga con camarones": 1100 ,
+            "croquetas de pescados o pollo" : 1200 ,
+            "casabe taíno" : 990 ,
+            "tacos de vaca frita o pescado" : 1900 ,
+            "ceviche maradentro" : 2100 ,
+            "rollitos de salmón" : 2200 ,
+            "carpaccio de tuna" : 2300 ,
+            "sushi/nigiri" : 2000 ,
+            "dumplings de carne" : 1800 ,
+            "carpaccio de res" : 2800 
+        },
+        "tacos":null,
+        "strong_dishes":{  
+            "pollo horneado": 2600 ,
+            "pechuga de pollo grillada" : 2800 ,
+            "chilindrón de cordero al tinto" : 3500,
+            "masas de cerdo confitadas" : 3200 ,
+            "lonjas de cerdo asadas en cazuela": 3400 ,
+            "costillas guajiras": 3800,
+            "ropa vieja frita": 2700 ,
+            "bistec de palomilla": 6800 ,
+            "chivito uruguayo" : 8200 ,
+            "camarones" : 3600,
+            "langosta" : 4300 ,
+            "pesca del día" : 3200 
+        },
+        "pastas": null,
+        "pizzas":null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":{  
+            "arroz blanco": 700,
+            "arroz verde": 700,
+            "frijoles dormidos": 700,
+            "moros y cristianos": 700,
+            "tostones" : 700,
+            "maduros" : 700,
+            "puré de boniato" : 700 
+        },
+        "desserts":{ 
+            "brownie y helado" : 1300 ,
+            "cheesecake de guayaba": 1200 ,
+            "casquitos de guayaba con queso guajiro" : 900 ,
+            "flan licuado": 1200 ,
+            "tarta de limón": 1000,
+            "icecream_flavors":{
+               "copa de helado" : 800 
+            }
+
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "maradentro" : 950 ,
+                    "clarete" : 950,
+                    "rubi" : 950
+                },
+                "bottles":null,
+                "drinks_with":{
+                    "licor marejada": 950
+                },
+                "beers":null
+            },
+            "water":{
+                "agua nacional" : 450 ,
+                "agua importada" : 500,
+                "agua tónica nacional" : 700 ,
+                "agua tónica importada" : 800
+            },
+            "soft_drinks":{
+                "refresco nacional" : 450 ,
+                "refresco importado" : 600
+            },
+            "juices":{
+                "batido de frutas" : 750 ,
+                "batido de helado" : 900
+            },
+            "lemonade":{
+                "limonada natural" : 950 ,
+                "limonada frescura" : 950,
+                "limonada pepino y jengibre": 950
+            },
+            "energizantes" : 600,
+            "malta":500,
+            "copas":{
+                "vino blanco de verano": 950
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup "
+}

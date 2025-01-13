@@ -1,0 +1,134 @@
+{
+    "name": "Sonar contigo", 
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address": "Esquina Ave 23 y Calle C",
+        "coordinates_latitude_length":[23.1336384,-82.3963861]
+    },
+    "phone_number": "53395848",
+    "food_type":["Desayunos" , "Cafes"],
+    "schedule": {
+        "opening": "1:00 pm",
+        "closure": "8:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Normal",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "Ración de Maní": 150,
+            "Ración de chacharrita": 150,
+            "Saladitas con jamón": 220,
+            "Saladitas con atún": 250,
+            "Ración de croquetas": 350,
+            "Frituras de malanga": 330,
+            "Ración de tostones": 250,
+            "Ración de tostones rellenos de jamón": 400,
+            "Ración de tostones rellenos de atún": 450,
+            "Picadera de la casa": 1000  
+        },
+        "tacos":{
+            "Tacos de vegetales": 550,
+            "Tacos de cerdo": 720,
+            "Tacos de cerdo con vegetales":750,
+            "Tacos de cerdo agridulce": 800,
+            "Tacos Mixtos": 850
+        },
+        "strong_dishes":{
+            "Brusquetta de tomate, albahaca y queso": 400,
+            "Brusquetta de atún, cebolla y mayonesa": 480,
+            "Brusquetta de jamón, queso y especias":450,
+            "Brusquetta de cerdo agridulce": 550
+        },
+        "pastas": null,
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":{ 
+            "Pastel con leche condensada": 450,
+            "Pastel con helado": 420,
+            "icecream_flavors":{
+                "Batido de helado": 600
+            }
+        },
+        "hamburgers_and_sandwichs":{
+            "Sandwich de jamón y queso": 450,
+            "Sandwich de jamón ahumado y queso": 600,
+            "Sandwich de atún": 500,
+            "Sandwich de cerdo": 600,
+            "Sandwich Especial": 720
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Cuba libre": 350,
+                    "Mojito": 420,
+                    "Ron Collins": 300,
+                    "Canchánchara": 400,
+                    "Daiquirí": 400,
+                    "Caipirísima": 400,
+                    "Pina colada": 550
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Servicio de chelada": 130,
+                    "Havana Club Especial": 250,
+                    "Havana Club Reserva": 280,
+                    "Havana Club 7 anos":330
+                },
+                "beers":{
+                    "Cerveza importada": 300
+                }
+            },
+            "water":{
+                "Agua embotellada": 200
+            },
+            "soft_drinks":{
+                "Refresco": 260
+            },
+            "juices":{
+                "Jugo": 220,
+                "Smoothie de plátano": 530
+            },
+            "lemonade":{
+                "Limonada natural": 350,
+                "Limonada con Hierba buena" : 380,
+                "Limonada con piña": 420
+            },
+            "red bull":"",
+            "malta":{
+                "Malteada": 500
+            },
+            "copas":{
+                "Copa de vino":380 
+            },
+            "coffees":{
+                "Coladita": 50,
+                "Expresso": 90,
+                "Cortado": 120,
+                "Carajillo": 220,
+                "Cappuccino": 250,
+                "Mocaccino": 260,
+                "Soñar Contigo": 300,
+                "Café frío": 100,
+                "Frappuccino": 400,
+                "Affogatto": 260,
+                "ChocoFrappu": 550,
+                "Super Frappu": 700
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"  
+} 

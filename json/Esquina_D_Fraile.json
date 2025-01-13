@@ -1,0 +1,176 @@
+{
+    "name": "Esquina D-Fraile ",  
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address": "Calle D entre 1era y 3era, Vedado.",
+        "coordinates_latitude_length":[23.1424393,-82.3989599]
+    },
+    "phone_number": "52932497",
+    "food_type":["Comida Americana", "caribeña", "latina", "criolla"],
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "Croquetas de pescado": 950,
+            "Empanadas de la casa": 950,
+            "Frituritas de malanga": 850,
+            "Pulpo encebollado al pimenton": 3000,
+            "Calamar a la romana": 3000,
+            "Ceviche":2100,
+            "Ensalada de langosta": 2800,
+            "Coctel tropical de camaron": 1800,
+            "Tataki fraile": 2100,
+            "Tartar de la pesca del dia": 2100,
+            "Ensalada Cesar de pollo": 1800,
+            "Jamon serrano y productos ibericos": 3500,
+            "Fritos del mar": 3000,
+            "Sopa del pescador": 850,
+            "Garbanzo frito al estilo cubano": 1900,
+            "Manito de cerdo guisada": 1800
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Pescado al tomate y olivo": 2900,
+            "Pescado con salsa de mostaza a las finas hierba": 2900,
+            "Pescado con alcaparra y cebolla": 3000,
+            "Pescado en refrito de ajo": 2800,
+            "Pescado con mojo iberico": 3200,
+            "Pescado entero al horno": "Segun el peso",
+            "Camarones al gusto": 2600,
+            "Langosta al gusto": 3200,
+            "Paella Marinera": 6000,
+            "Solomillo de cerdo con salsa de hongos y frutos seco": 3300,
+            "Arroz negro": 3000,
+            "Arroz meloso con langosta y camaron": 3000,
+            "Arroz con pollo a la chorrera": 2200,
+            "Ropa vieja": 2100,
+            "Cordero a la cazuela": 3000,
+            "Pollo al curry o teriyaki": 2000,
+            "Solomillo de res con salsa de 5 pimientos/champinones/queso azul": 6000
+        },
+        "pastas": {
+            "Tomate y parmesano": 2000,
+            "Frutos del mar": 3000,
+            "Ajo, camaron y Parmesano": 2700,
+            "Amatriciana": 3000,
+            "Bolonesa": 2000,
+            "Carbonara": 2300,
+            "Nero de seppia(con calamar, camaron o pulpo)": 3000
+        },
+        "pizzas": {
+            "Queso fresco y tomate": 1500,
+            "Jamon": 2100,
+            "Bacon": 2400,
+            "Chorizo": 2400,
+            "Vegetales": 2000,
+            "Cuatro Estaciones": 2800,
+            "Hawaiana": 2400,
+            "Marinera" : 3200,
+            "Jamon Serrano": 3000,
+            "Focaccia de jamon serrano y aceitunas": 2500,
+            "Calzone habanero": 3000
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":{
+           "Ensalada de vegetales": 600,
+            "Vegetal salteado": 700,
+            "Vegetales a la brasa": 600,
+            "Pure de viandas": 700,
+            "Vianda frita": 450,
+            "Arroz blanco": 300,
+            "Arroz pilaf": 500,
+            "Arroz moro": 350
+        },
+        "desserts":{ 
+            "Brownie con helado": 1000,
+            "Tarta tres leches": 800,
+            "Cheesecake": 1200,
+            "Flan": 800,
+            "icecream_flavors":{
+               "Helado": 750,
+                "Copa lolita": 1000
+            }
+
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Daiquiri": 1000,
+                     "Daiquiri de frutas": 1200,
+                     "Cuba libre": 1000,
+                     "Havana Especial": 1000,
+                     "Mojito": 1000,
+                     "Mojito de frutas": 1200,
+                     "Caipirisima": 1000,
+                     "Caipiroska": 1000,
+                     "Pina colada": 1600,
+                     "Cubata": 1000,
+                     "Margarita": 1500,
+                     "Tequilla sunrise": 1800,
+                     "Screwdriver": 1600,
+                     "Expresso Martini": 2000,
+                     "Negroni": 2000,
+                     "Martini": 2000,
+                     "Manhattan": 2000,
+                     "Whisky Sour": 1800,
+                     "Sangria": 1500,
+                     "Orgasmo": 2000,
+                     "Servicio de chelada": 250,
+                     "Servicio de michelada": 350
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza de tonel (480ml)": 450,
+                    "Cerveza de tonel (250l)": 250,
+                    "Cerveza Heineken": 800
+                }
+            },
+            "water":{
+                "Agua gaseada importada": 800,
+                "Agua importada": 400,
+                "Agua tonica nacional": 500,
+                "Agua tonica importada": 1200
+            },
+            "soft_drinks":{
+                "Refrescos importados": 500
+            },
+            "juices":{
+                "Jugos naturales": 400
+            },
+            "lemonade":{
+                "Limonada": 6000,
+                "Limonada con hierba buena": 700
+            },
+            "red bull":"",
+            "malta":500,
+            "copas":{
+                "Copa de vino tinto": 1200,
+                "Copa de vino blanco": 1200
+            },
+            "Pina colada sin alcohol": 1400,
+            "Energizantes": 1000,
+            "coffees":null
+        }
+
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+} 

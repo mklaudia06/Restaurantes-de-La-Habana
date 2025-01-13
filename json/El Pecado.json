@@ -1,0 +1,73 @@
+{
+    "name":"El Pecado",
+    "municipality":"San Miguel del Padron",
+    "location":{
+        "address":"calle Matos #152 % Fernanda y Central, La Fernanda",
+        "coordinates_latitude_length":[23.1015964,-82.3412436]
+    },
+    "phone_number":"76795921",
+    "food_type":"Comida Mixta",
+    "schedule":{
+        "opening":"11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week":"todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu":{
+        "breakfast":null,
+        "started":{
+            "Aceitunas":350,
+            "Entremes de jamon y queso":300,
+            "Bolitas de queso":350,
+            "Papitas fritas":350,
+            "Croquetas":340,
+            "Fajitas de pollo":500,
+            "Eperelan de pescado":600,
+            "Coctel de camaron":570,
+            "Tostones de jamon y queso":380,
+            "Tostones de atun":450,
+            "Picadera Pecado":1200
+        },
+        "tacos":null,
+        "strong_dishes": {
+            "Cerdo grille": 650,
+            "Masas ritas":750,
+            "Solomillo de cerdo":720,
+            "Costillas en salsa BBQ":600,
+            "Bistec Uruguayo de cerdo":850,
+            "Pechuga empanada":700,
+            "Pechuga grille":650,
+            "Pechuga princesa":800,
+            "Pechuga Gordon blue":850,
+            "Filete de pescado":730,
+            "Pescado canciller":950,
+            "Pescado Jhonbill":1200,
+            "Pescado empanado":780,
+            "Ropa vieja":650,
+            "Vaca frita":720,
+            "Filete de res encebollado":750,
+            "Uruguayo de res":730,
+            "Camarones":750
+        },
+        "pastas": null,
+        "pizzas":null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

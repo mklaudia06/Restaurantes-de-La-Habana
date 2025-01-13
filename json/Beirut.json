@@ -1,0 +1,90 @@
+{
+    "name": "Beirut", 
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address":"Calle 1ra entre A y B",
+        "coordinates_latitude_length" : [23.1413285,-82.401272]
+    },
+    "phone_number": "78315883",
+    "food_type":"Comida libanesa",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"beiruthabana",
+        "facebook":"Beirut Shawarma"
+    },
+    "menu": {
+        "breakfast":null,
+        "started": null,
+        "tacos":null,
+        "strong_dishes":{
+            "Shish Taouk(Brochetas de pollo, pimiento y cebolla asados, acompanados de arroz con fideos, vegetales y salsa de ajo)":2950,
+            "Kabab(Brochetas de masa de carne de cordero picada, con pimienta, cebolla y perejil, acompanada de arroz con fideos, hummus y vegetale)":2900,
+            "Shish Taouk-Kabab(Brochetas de pollo asadas con pimiento y cebolla asados, brochetas de masa de carne de cordero picada, con pimienta, cebolla, perejil, acompanados de arroz con fideos, vegetales y hummus)":2800,
+            "Shish Kabab(Brochetas de masa de carne molida de pollo con perejil, cebolla y ajo; acompanados de arroz con fideos, salsa de ajo y ensalada de vegetales)":2000,
+            "Tajin(Dados de cordero con cebolla, perejil; acompanados de arroz, fideos, ensalada de vegetales, hummus y pisto de vegetales)":3500,
+            "Mixto Beirut(Kabab, Shish Taouk, Shish Kabab, Shawarma de pollo acompanados de hummus, vegetales y pan árabe)":3700
+        },
+        "pastas": null,
+        "pizzas":null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":{
+            "Fetuche(Lechuga, pepino, tomate, cebolla, costrones de pan y aceite de oliva extra virgen)":1500,
+            "Ensalada mixta":2000,
+            "Betabel(Remolacha, queso feta, lechuga, cebolla con vinagre balsámico y aceite de oliva extra virgen)":2000,
+            "Ensalada Beirut(Shawarma de pollo, vegetales de estación y costrones de pan, aderezo con pasta de ajo y granada)":2100,
+            "Tabule(Tomate, cebolla, perejil, trigo bulgur aderezado con limón y aceite de oliva)":3000
+        },
+        "desserts":null,
+        "hamburgers_and_sandwichs":{
+            "Shawarma de pollo(En pan árabe pollo asado en shawarma guarnecido con crema de ajo y pepinillos acompanados de vegetales)": 1520 ,
+            "Shawarma árabe(En pan árabe pollo asado en shawarma con crema de ajo y pepinillos acompanado de vegetales y hummus)":1520,
+            "Sandwich Falafel(En pan árabe falafel con hummus, acompnñado de vegetales y salsa taratore)":1420,
+            "Sandwich Shish Taouk( En pan árabe dados de pechuga de pollo, pepinillos, cebolla y pimientos acompanados con crema de ajo y vegetales)":1720 ,
+            "Sandwich Kabab(En pan árabe carne de cordero molida con perejil, cebolla, pepinillos y pimienta, acompanado con vegetales y hummus)":1720
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":{
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "beers":{
+                    "Cervezas":390
+                }
+            },
+            "lemonade":{
+                "Limonada":410
+            },
+            "water":{
+                "Agua nacional":175
+            },
+            "soft_drinks":{
+                "Refrescos importados":290
+            },
+            "malta":290,
+            "juices":{
+                "Jugos naturales":410
+            },
+            "coffees":{
+                "Expresso":125,
+                "Capuccino":300,
+                "Americano":160,
+                "Cortado":200,
+                "Te":150
+            }
+
+        }
+
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"  
+} 

@@ -1,0 +1,70 @@
+{
+  "name": "Comida Criolla Ocho Vías",
+  "municipality":"Arroyo Naranjo",
+  "location":{
+    "address": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
+    "coordinates_latitude_length":[23.052096,-82.3355606]
+  },
+  "phone_number": "+5359107933",
+  "food_type":"cubana",
+  "schedule": {
+      "opening": "11:00 am",
+      "closure": "11:00 pm",
+      "days_of_the_week": "todos los dias"
+    },
+  "quality":"",
+  "social_media": {
+    "instagram":"",
+    "facebook":""
+  },
+  "menu":{
+    "breakfast":null,
+    "started":{
+      "Croquetas de queso": 500.00,
+      "Tostones Rellenos": 800.00,
+      "Tostones Tradicionales": 250.00,
+      "Papas Fritas": 800.00,
+      "Platanos Fritos" : 200.00
+    },
+    "tacos":null,
+    "strong_dishes": { 
+      "Bistec de Higado(460 gramos)": 1600.00,
+      "Higado Italiana(460 gramos)": 1600.00,
+      "Bistec de Cerdo(460 gramos)" : 2200.00,
+      "Chuleta de Cerdo(460 gramos)" : 2200.00,
+      "Fricase de Cerdo(430 gramos)" : 2500.00,
+      "Masa Frita(430 gramos)": 2200.00,
+      "Fricase de Carnero(960 gramos)" : 2200.00,
+      "Bistec Uruguayo)" : 2800.00,
+      "Pescado Entero a la Marinera" : 2200.00,
+      "Ropa Vieja(460 gramos)" : 2700.00,
+      "Camaron Enchilado": 2700.00,
+      "Langosta Grille(690 gramos)" : 2700.00,
+      "Langosta Enchilada(690 gramos)": 2800.00,
+      "Pescado Empanado": 2500.00,
+      "Enchilado de Cangrejo": 1800.00,
+      "Bistec de Pollo": 2000.00,
+      "Pechuga de Pollo": 2500.00,
+      "Costilla Frita o Fricase": 2200.00
+    },
+    "pastas": null,
+    "pizzas":null,
+    "pizza_pasta_add-on": null,
+    "side_dishes": { 
+      "Arroz Moro": 200.00,
+      "Ensalada Mixta" : 300.00
+    },
+    "hamburgers_and_sandwichs":null,
+    "hamburgers_add-on":null,
+    "aperitivos":null,
+    "snacks":null,
+    "creams_and_soup":null,
+    "digestive":null,
+    "desserts": null,
+    "liquids": null
+  },
+  "10%_of_the_service": false,
+  "5%_of_the_service": false,
+  "reservation":false,
+  "type_of_currency": "cup"
+}

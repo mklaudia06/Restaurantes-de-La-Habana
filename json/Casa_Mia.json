@@ -1,0 +1,240 @@
+{
+    "name": "Casa Mía", 
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address": "Calle 1ra, No.103, entre C y D, Vedado",
+        "coordinates_latitude_length":[23.1425153,-82.3990712]
+    },
+    "phone_number": "78329735",
+    "food_type":["Comida Caribeña", "latina", "saludable", "cubana", "internacional", "mariscos"],
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 pm",
+        "days_of_the_week": ""
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu":{
+        "breakfast":null,
+        "started":{
+            "Pan de la casa con dip del chef":980,
+            "Nuestras croquetas": 1600,
+            "Ceviche de pescado y mango": 2600,
+            "Crema de calabaza y crujiente de bacon": 2300,
+            "Tostones rellenos con jamón y queso gouda gratinado": 2300,
+            "Garbanzos fritos con chorizo casero y bacon": 2600,
+            "Coctel de langosta": 2900,
+            "Carpaccio de pulpo": 3200,
+            "Carpaccio de res con queso parmesano y aceite de trufas": 3600,
+            "Provolone frito con panko y salsa de guayaba": 2900,
+            "Dumplings fritos": 1600,
+            "Tabla de jamón serrano, rúcula, aceitunas, queso cabra y pan de la casa": 5200
+        },
+        "tacos":{
+            "Tacos de cerdo": 2300
+        },
+        "strong_dishes":{
+            "Rissotto de mariscos": 4800,
+                "Rosotto de pollo y funghi porcini": 4500,
+                "Arroz negro marinero": 4800,
+                "Camarones al ajillo": 4500,
+                "Camarones en salsa de curry y arroz blanco": 4500,
+                "Pulpo estilo Casa Mía": 5800,
+                "Cazuela de mariscos en nuestra salsa de tomate": 4800,
+                "Salmón en salsa de cebolla y tomate confitado": 5200,
+                "Filete de pescado grillé": 4200,
+                "Filete de pescado en salsa cremosa de limón": 4500,
+                "Langosta en nuestra salsa de pina": 6100,
+                "Pechuga de pollo al ajillo con pina glaseada": 3600,
+                "Cordon Bleu de pechuga de pollo": 3600,
+                "Pechuga de pollo al ajillo con piña glaseada": 3600,
+                "Brochetas de solomillo de cerdo en salsa teriyaki": 4500,
+                "Costillas de cerdo en salsa barbacoa": 4200,
+                "Lomo ahumado de cerdo en salsa de frutas tropicales": 3600,
+                "Cordero estilo Casa Mía": 4800,
+                "Ropa vieja de res": 3600,
+                "Punta de res a la Duth(200 g)": 6100,
+                "Arracera(200g)":7800 ,
+                "Filete Tenderloin(220g)": 7800,
+                "T bone con papas asadas al romero y salsa de queso azul(550g)": 13000
+            },
+        "pastas": {
+            "Pasta Amatriciana": 3600,
+            "Pasta con pesto y camarones": 4200,
+            "Pasta con bacon y crema de frutas": 4800,
+            "Espagueti frutti di mare": 4500
+        },
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":{
+            "Arroz blanco": 650,
+            "Frijoles negros": 800,
+            "Arroz moro": 800,
+            "Tostones con mojo criollo": 800,
+            "Puré de boniato con bacon": 950,
+            "Papas alemanas": 1300,
+            "Papas fritas": 1300
+        },
+        "desserts":{ 
+            "Flan de leche": 1300,
+            "Flan con helado": 1950,
+            "Semifrio CasaMia": 1500,
+            "icecream_flavors":{
+               "Helado de la casa": 1300
+            }
+
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 1500,
+                    "Mojito frappé": 1500,
+                    "Mojito de frutas": 2000,
+                    "Gin tonic": 2000,
+                    "Tinto de verano": 2000,
+                    "Sangría": 2000,
+                    "Vodka tonic": 1800,
+                    "Cuba libre": 1600,
+                    "Ron Collins": 1600,
+                    "Cubata": 1800,
+                    "Srewdriver": 1600,
+                    "Daiquirí frappé": 1600,
+                    "Daiquirí frappé de frutas": 1800,
+                    "Havana Especial": 1600,
+                    "Caipirinha": 1600,
+                    "Caipiroshka": 1600,
+                    "Caipirísima": 1600,
+                    "Canchánchara Santiago 8": 1800,
+                    "Margarita": 1800,
+                    "Martini dulce": 1800,
+                    "Expreso Martini": 2000,
+                    "Aperol spritz": 1800,
+                    "Aperol Margarita": 2600,
+                    "Mimosa": 1800,
+                    "Pina colada": 1800,
+                    "Pina colada de fresa": 2000,
+                    "Bloody Mary/Kermato": 1800,
+                    "Cubanito/Kermato": 1800,
+                    "San Francisco": 950,
+                    "Servicio de Chelada": 650,
+                    "Servicio de Michelada": 800
+                },
+                "bottles":{
+                   "Limoncello": 1450,
+                   "Baileys": 2000,
+                   "Sambuca": 1600,
+                   "Frangelico": 2000,
+                   "Amaretto": 1600,
+                   "Jagger": 1600,
+                   "Apenzeller": 1600,
+                   "Osborne Porto Fino Ruby": 2600,
+                   "Havana Club 3 anos": 950,
+                   "Havana Club Reserva": 1200,
+                   "Havana Club 7 anos": 1500,
+                   "Havana Club Selección de Maestros": 1800,
+                   "Havana Club 15 anos Gran Reserva": 6100,
+                   "Havana Club Unión": 7100,
+                   "Santiago de Cuba Añejo 8 anos": 1600,
+                   "Santiago de Cuba extra añejo 11 anos": 1900,
+                   "Santiago de Cuba extra añejo 12 anos": 2300,
+                   "Pacto navío": 2300,
+                   "Flor de Caña": 2600,
+                   "Zacapa 23": 5200,
+                   "Diplomático": 4200,
+                   "Don Papa Baroko": 4200,
+                   "Finlandia": 1600,
+                   "Absolut": 1600,
+                   "Stolichnaya": 1900,
+                   "Ciroc": 2600,
+                   "Ciroc saborizado": 2900,
+                   "Hendricks": 4800,
+                   "Bombay Saphire": 3600,
+                   "Citadelle": 3600,
+                   "Tanqueray": 2900,
+                   "Tanqueray Ten": 3900,
+                   "Tanqueray Flor de Sevilla": 3900,
+                   "Gin Mare": 3600,
+                   "London No.1": 4200,
+                   "London no.3": 3900,
+                   "Gordon": 1500,
+                   "Master Blue": 1500,
+                   "Fifty Pounds": 4800,
+                   "Caorunn": 4200,
+                   "Olmeca reposado": 2000,
+                   "1800 reposado": 4500,
+                   "Gila silver": 2900,
+                   "Dom Julio 70": 5200,
+                   "JyB": 1600,
+                   "Jameson Black Barrel": 2600,
+                   "Ballantines": 1600,
+                   "Chivas regal 12 anos": 2300,
+                   "Jhonnie Walker Red Label": 2000,
+                   "Jhonnie Walker Black Label": 2900,
+                   "Jhonnie Walker Double Black": 3600,
+                   "Jhonnie Walker Green Label": 4500,
+                   "Jhonnie Walker Gold Label": 4500,
+                   "Jhonnie Walker Blue Label": 16000,
+                   "Jack Daniel": 2300,
+                   "Glenlivet 18": 6100,
+                   "Glenfiddich 12":4200,
+                   "Glenmorangie 14": 5100,
+                   "Buchanans 18": 7400,
+                   "Macallan 12": 6800,
+                   "Old Parr": 1600,
+                   "Cognac/Brandys Courvoisier V.S": 6100,
+                   "Sarajishvili XO" : 5500
+                },
+                "drinks_with": null,
+                "beers":{
+                    "Cervezas": 950
+                }
+            },
+            "water":{
+                "Agua importada": 800,
+                "Agua tónica importada": 1200
+            },
+            "soft_drinks":{
+                "Refrescos importados": 800
+            },
+            "juices":{
+                "Jugo de pina y hierbabuena": 950,
+                "Jugos naturales del día": 800
+            },
+            "lemonade":{
+                "Limonada frappé": 950,
+                "Limonada natural": 950,
+                "Limonada frescura": 1200
+            },
+            "red bull":1500,
+            "malta":950,
+            "copas":{
+                "Copa de vino de la casa": 1450
+            },
+            "coffees":{
+                "expresso": 650,
+                "americano": 650,
+                "cortado": 800,
+                "Café con leche": 800,
+                "Capuccino": 950,
+                "Frapuccino": 1200,
+                "bombón": 1200,
+                "Rocío de Gallo": 950,
+                "Té": 650
+            }
+        }
+
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+} 

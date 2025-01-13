@@ -1,0 +1,130 @@
+{
+    "name": "Sport Bar",
+    "municipality": "Plaza de la Revolucion",
+    "location": {  
+        "streets": "23 y 12, Vedado, Plaza",
+        "coordinates_latitude_length": [23.12739793607911, -82.3996550067848]
+    },
+    "phone_number": null,
+    "food_type":"mixto",
+    "schedule": {
+        "opening": "24h",
+        "closure": false,
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":"sportbar_23y12",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast":{  
+            "waffles" : 600,
+            "americano": 1000 
+        },
+        "started":{  
+            "brusquetas" : 500 ,
+            "croquetas del día" : 550 ,
+            "fritura de malanga" : 450,
+            "papas fritas" : 550 ,
+            "picadera 23 y 12" : 2500 
+        },
+        "tacos":{
+            "tacos de pollo, 3 unidades" : 2000 ,
+            "tacos de pollo, 8 unidades" : 3000 ,
+            "tacos de cerdo, 3 unidades" : 2500 ,
+            "tacos de camarón, 3 unidades" : 2500    
+        },
+        "strong_dishes":null,
+        "pastas": null,
+        "pizzas": {
+            "pizza napoles" : 1250 ,
+            "pasta boloñesa" : 1800 ,
+            "pasta pesto" : 950 ,
+            "pasta napoles" : 1200,
+            "pasta aljillo" : 1000 
+        },
+        "pizza_pasta_add-on":null,
+        "side_dishes":null,
+        "desserts":{ 
+            "icecream_flavors":{
+               "suero de helado" : 650
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            "hamburguesa clásica de cerdo" : 1450,
+            "emparedado de atún": 1400 ,
+            "emparedado de pollo" : 1400 ,
+            "emparedado de lechón" : 1600 ,
+            "emparedado de jamón y queso" : 1000 ,
+            "emparedado de 23 y 12": 2000  
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "CR7" : 700 ,
+                    "messi" : 600 ,
+                    "lakers" : 600 ,
+                    "habana mule" : 600,
+                    "canchancara habana" : 600 ,
+                    "michelada 23 y 12" : 500 ,
+                    "zombie" : 650 ,
+                    "vampiro" : 700 
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "cerveza cristal": 400 ,
+                    "cerveza cristal extra" : 500 ,
+                    "cerveza bucanero" : 400 ,
+                    "cerveza bucanero max" : 500 ,
+                    "cerveza dispensada": 350
+                }
+            },
+            "water":{
+                "agua nacional" : 250 ,
+                "agua importada" : 450 
+            },
+            "soft_drinks":{
+                "refresco nacional" : 280 ,
+                "refresco importado" : 300
+            },
+            "juices":{
+                "jugo natural" : 350,
+                "batido de frutas" : 500
+            },
+            "lemonade":{
+                "limonada natural" : 400 ,
+                "limonada c/ hierba buena" : 425 
+            },
+            "energizante" : 600,
+            "malta":{
+                "malta":400,
+                "malteada" : 600 
+            },
+            "copas":null,
+            "coffees":{
+                "café américano" : 250 ,
+                "café espresso" : 250 ,
+                "café espresso c/ coffemate" : 300 ,
+                "café cortadito" : 300 ,
+                "café bombom" : 400 ,
+                "café cappuccino" : 500,
+                "café affocato" : 500 ,
+                "café frapuccino" : 550 ,
+                "café frapuccino 23 y 12" : 650
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+  
+}

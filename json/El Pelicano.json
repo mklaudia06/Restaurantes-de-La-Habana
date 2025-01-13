@@ -1,0 +1,126 @@
+{
+   "name": "El Pelícano",
+   "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address":"Recurso, entre avenida 26 y avenida kohly",
+        "coordinates_latitude_length":[23.1085082,-82.3989837]
+    },
+    "phone_number": "63960310",
+    "food_type":null,
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "6:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":{
+            "Pan con Jamón y Queso": 350.00,
+            "Pan con Perro": 360.00,
+            "Pan con Lechón": 500.00,
+            "Pan con Hamburguesa": 550.00
+                 
+        },
+        "started":{
+            "Croquetas(7 unidades con salsa roja)": 350.00,
+            "Picadera de Jamón y Queso": 450.00,
+            "Papas Fritas": 550.00,
+            "Bolitas de Queso": 650.00,
+            "Salchipapa": 750.00
+        },
+        "tacos":{
+           
+        },
+        "strong_dishes":{
+            "Pollo Frito": 420.00,
+            "Pollo Chiflado": 520.00,
+            "Brochetas de Pollo y Vegetales(Dos brochetas de pollo acompañadas de Cebolla y Pimientos)": 580.00,
+            "Brochetas Mixtas(Una brocheta de Pollo y otra de Cerdo acompañadas de Cebolla y Pimientos)": 700.00,
+            "Brochetas de Cerdo(Dos brochetas de Cerdo acompañadas de Cebolla y Pimientos)": 950.00,
+            "Bistec de Cerdo(Bistec de Cerdo con arroz y vegetales)": 950.00,
+            "Lonja de Cerdo": 950.00,
+            "Masa de Cerdo": 990.00
+        },
+        "pastas": {
+
+        },
+        "pizzas": {
+
+        },
+        "pizza_pasta_add-on": {
+
+        },
+        "side_dishes":{
+           "Arroz Moro": 150.00,
+           "Arroz Blanco": 150.00
+        },
+        "desserts":{ 
+            "icecream_flavors":{
+               "Paleta de Chocolate": 260.00,
+                "Pote de Helado": 495.00
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            
+        },
+        "hamburgers_add-on":{
+
+        },
+        "aperitivos":{
+
+        },
+        "snacks":{
+
+        },
+        "creams_and_soup":{
+
+        },
+        "digestive":{
+
+        },
+        "liquids":{
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Chelada": 290.00,
+                    "Cuba Libre": 380.00,
+                    "Michelada": 390.00
+                },
+                "beers":{
+                    "Cerveza": 190.00
+                },
+                "drinks_with":null,
+                "bottles":null
+            },
+            "water":{
+                "Agua": 120.00
+            },
+            "soft_drinks":{
+                "Refresco de Lata": 195.00
+            },
+            "juices":{
+                "Jugo de Cajita": 190.00
+            },
+            "lemonade":{
+                "Limonada Frape": 250.00
+            },
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "Energizante": 220.00,
+            "coffees":{
+                "Cafe Expresso": 90.00,
+                "Cafe Cortado": 110.00,
+                "Cafe Bombón": 150.00
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,81 @@
+{
+    "name":"Pal'Karajo",
+    "municipality":"Cotorro",
+    "location":{
+        "adress":"Avenida 101 Esquina 16 Centro Cotorro",
+        "coordinates_latitude_length":[23.1431251,-82.3566608]
+    },
+    "phone_number": "",
+    "food_type":"",
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "chicarrita de boniato":200
+        },
+        "tacos":{
+            "tacos de cerdo mechados":890,
+            "tacos de cerdo estofados":990
+        },
+        "side_dishes":null,
+        "hamburgers_and_sandwichs":{
+            "pan Pal'Karajo":790,
+            "pan con lechón":450,
+            "pan con jamón":300,
+            "pan con chorizo":250,
+            "pan con jamón y chorizo":400
+        },           
+        "strong_dishes":null,
+        "liquids":{
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "michelada con cristal":550,
+                    "chelada con cristal":550
+                },
+                "beers":null,
+                "bottles":null,
+                "drinks_with":null   
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "jugo de mango":200,
+                "jugo de piña":200,
+                "batido de mango":380,
+                "batido de mamey":400,
+                "batido de trigo":380,
+                "batido de maní":400,
+                "batido de maní con chocolate":450,
+                "piña colada":400
+            },
+            "lemonade":{
+                "limonada":400
+            },
+            "red bull":null,
+            "malta":{
+                "malteada":500
+            },
+            "copas":null,
+            "coffees":{
+                "expresso":100,
+                "cortado":150,
+                "capuccino":300,
+                "frapuccino":400,
+                "bombón":300
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

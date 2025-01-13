@@ -1,7 +1,7 @@
 {
-     "name": "FoodMaster",
-     "municipality":"Playa",
-     "location":{
+    "name": "FoodMaster",
+    "municipality":"Playa",
+    "location":{
         "address":"7A entre 70 y 66",
         "coordinates_latitude_length":[23.1093209,-82.4367002]
     },

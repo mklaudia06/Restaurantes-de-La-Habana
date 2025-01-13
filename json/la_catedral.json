@@ -1,0 +1,124 @@
+{
+    "name": "La Catedral",
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address": "Calle 8 e/ Calzada 5ta, Vedado. Plaza de la Revolución, La Habana 10400 Cuba",
+        "coordinates_latitude_length": [23.135892638151837, -82.40453312083959]
+    },
+    "phone_number": "078300793",
+    "food_type":["Spanish", "Cuban"],
+    "schedule": {
+        "opening": "8:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":"lacatedralcuba",
+        "facebook":"mirestaurantencuba"
+    },
+    "menu": {
+        "breakfast": null,
+        "started":{
+            "bombones de queso y pescado" : 499,
+            "mariquitas de yuca" : 350,
+            "brusquetas": 350,
+            "garbanzos fritos": 700,
+            "entremeses surtido" : 799 ,
+            "picadera obispo" : 1350 ,
+            "fuente de eperlan" : 1400 ,
+            "tabla de embutidos": 1500,           
+            "fajitas de pollo frito": 1500,
+            "tabla de jamón serrano, chorizo y queso": 1900 
+        },
+        "tacos":{
+            "tacos de cerdo y pollo": 1500
+        },
+        "strong_dishes":{  
+            "ropa vieja": 1800,
+            "bistec de cerdo al mojo criollo": 1500,
+            "fajita de cerdo al grill" : 1500 ,
+            "lonjas de pierna ahumado salsa agridulce" : 1700 ,
+            "lonjas de pierna ahumado con queso y piña" : 1800,
+            "milanesa de cerdo con espaguettis" : 1500 ,
+            "arroz frito" : 1500,
+            "arroz frito especial con camarones" : 1700,
+            "pollo deshuesado a la plancha" : 1400 ,
+            "fajitas de pollo salteadas": 1400 ,
+            "milanesa de pollo con espaguettis" : 1400 ,
+            "arroz con pollo a la chorrera" : 1500 ,
+            "filete de pescado maitre de hotel" : 1700,
+            "filete de pescado frito" : 1800 
+        },
+        "pastas": {
+            "lasaña de res": 1600
+        },
+        "pizzas":null,
+        "pizza_pasta_add-on":null,
+        "side_dishes": null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":{
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "michelada clásica" : 425,
+                    "michelada al mojito" : 425,
+                    "michelada vampira" : 425 ,
+                    "michelada salsanera" : 425 ,
+                    "mojito": 340 ,
+                    "daiquirí" : 340 ,
+                    "daiquirí de fresas" : 499 ,
+                    "cubalibre" : 340 ,
+                    "cubanito" : 399 ,
+                    "blody mary" : 499 ,
+                    "sangria" : 499 ,
+                    "screw driver" : 599,
+                    "caipiriña" : 599 ,
+                    "piña colada" : 599 ,
+                    "martini": 599 ,
+                    "old fashioned" : 599 ,
+                    "whiskey sour" : 599 ,
+                    "manhatan" : 599 ,
+                    "negroni" : 599 
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "cristal (barril) 500ml" : 350 ,
+                    "cristal (botella)" : 350 ,
+                    "bucanero (barril) 500ml" : 350 ,
+                    "bucanero (botella)" : 350 ,
+                    "cubetazo 4+1" : 1500
+                }
+            },
+            "water":{
+                "agua natural" : 199 
+            },
+            "soft_drinks":{
+                "refrescos" : 199 
+            },
+            "juices":{
+                "jugos de frutas" : 199 
+            },
+            "lemonade":{
+                "limonada de fresas" : 250
+            },
+            "red bull":"",
+            "malta":{
+                "malta perla negra" : 350
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+    
+}

@@ -1,0 +1,159 @@
+{
+    "name": "Distrito 25", 
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address": "Calle 25 entre M y N, Vedado",
+        "coordinates_latitude_length":[23.1398001,-82.3815331]
+    },
+    "phone_number": "52831416",
+    "food_type":"Comida mexicana",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Normal",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "Nachos": 400,
+            "Nachos Ranchero": 650,
+            "Chilaquile pollo": 650,
+            "Tostón de jamón y queso": 550,
+            "Tostón Tomasa": 700,
+            "Tostón camarón": 800,
+            "Tostón cangrejo": 900,
+            "Ceviche pescado": 850,
+            "Crudo camarón": 900,
+            "Coctel camarón": 1000,
+            "Coctel langosta": 1500,
+            "Tabla especial": 3000,
+            "Croquetas (5u)": 600,
+            "Croquetas (10u)": 1000 ,
+            "Ostiones": 500
+        },
+        "tacos":{
+            "Tacos Chochitos": 450,
+            "Tacos Pastor": 500,
+            "Tacos Habanero": 400,
+            "Tacos Tinga": 450,
+            "Tacos caribeños": 500,
+            "Tacos Navilio": 700,
+            "Tacos Tomasa": 650,
+            "Taco Estrella": 2000
+        },
+        "strong_dishes":{
+            "Burrito de cerdo": 900,
+            "Burrito Tomasa": 1000,
+            "Burrito Cangrejo": 1100,
+            "Burrito Langosta": 1500,
+            "Burrito Camarón": 1200,
+            "Súper Burrito": 2000,
+            "Quesadilla ": 400,
+            "Lomo mechado": 1700,
+            "Pollo en crema al cajú": 1800,
+            "Pollo grillé": 1500,
+            "Mar y tierra": 4000,
+            "Langosta": 2000,
+            "Arroz meloso": 1800,
+            "Langostino": 2000,
+            "Camarón al gusto": 1600,
+            "Filete de pescado": 1800,
+            "Pulpo al gusto": 2000,
+            "Caldereta de mariscos": 3500,
+            "Cerdo en crema de queso al cajún": 2500
+        },
+        "pastas": {
+            "Espaguetis napolitanos": 650,
+            "Espaguetis Fruti D´Mare": 1000
+        },
+        "pizzas": {
+            "Pizza napolitana": 800
+        },
+        "pizza_pasta_add-on": {
+            "jamón":250,
+            "queso": 350,
+            "cebolla": 200,
+            "pina": 150,
+            "aceituna": 300,
+            "pimiento": 200,
+            "camarón": 350
+        },
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":{
+            "Sandwich campesino": 750,
+            "Sandwich pollo": 550,
+            "Sandwich jamón y queso": 500 
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito natural": 450,
+                    "Mojito moreno": 600,
+                    "Ron Collins": 400,
+                    "Daiquirí natural": 400,
+                    "Daiquirí de fresa": 500,
+                    "Canchánchara": 500,
+                    "Cancha": 550,
+                    "Caipirísima": 500,
+                    "Caipirina": 500,
+                    "Caipiroska": 500,
+                    "Sangría": 600,
+                    "Pina colada": 600,
+                    "Gin tonic": 500,
+                    "Vodka tonic": 500,
+                    "Blue Lagon": 550,
+                    "Ballentines 12 anos": 600,
+                    "Cuba libre ":450,
+                    "Servicio Michelada":200,
+                    "Servicio Chelada": 150 
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza nacional": 350,
+                    "Cerveza importada": 300
+                }
+            },
+            "water":{
+                "Agua natural": 200
+            },
+            "soft_drinks":{
+                "Refresco Importado": 300
+            },
+            "juices":{
+                "Jugo natural": 300,
+                "Batido de mamey":700
+            },
+            "lemonade":{
+                "Limonada": 350,
+                "Limonada Frescura": 400
+            },
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "Energizante": 400,
+            "coffees":{
+                "expresso": 120,
+                "cortado": 180,
+                "bombón":350,
+                "Capuchino": 320,
+                "Frapuchino": 500
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"  
+} 

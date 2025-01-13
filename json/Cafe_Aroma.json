@@ -1,0 +1,168 @@
+{    
+  "name" : "Aroma de Café",
+  "municipality" : "La Lisa",
+  "food_type":"Cafe",
+  "location": {
+    "address":"Calle 244 No. 5106 e/ 51 y 61, San Agustín",
+    "coordinates_latitude_length" : [23.0509868,-82.4603117]
+  },
+  "phone_number": "053397639",
+  "schedule": {
+    "opening": "12:00 pm.",
+    "closure": "12:00 am",
+    "days_of_the_week": "todos los dias"
+  },
+  "quality":"Excelente",
+  "social_media": {
+    "instagram":"",
+    "facebook":""
+  },
+  "menu" : {
+    "breakfast":null,
+    "started":{ 
+      "Sandwich de Jamon y Queso":320,
+      "Sandwich de Jamon":360,
+      "Sandwich de Queso":320,
+      "Sandwich de Pollo": 370, 
+      "Sandwich de Atun":480, 
+      "Sandwich Hawaiano":380
+    },
+    "tacos":{
+      "Tacos de Pollo":500,
+      "Tacos de Cangrejo":600,
+      "Tacos de Cerdo":620,
+      "Tacos de Ropa Vieja":750,
+      "Tacos de Jamon Pierna":750
+    },
+    "strong_dishes":{
+      "Nachos con Salsa":200,
+      "Croquetas":320,
+      "Picadera Aroma":550,
+      "Garbanzos Fritos":600,
+      "Eperlan de Pescado":700,
+      "Enchilado de Cangrejo":600,
+      "Fajitas de Cerdo":600,
+      "Tostones rellenos de Jamon y Queso":380,
+      "Tostones Rellenos de Atun":400,
+      "Tostones Rellenos de Ropa Vieja":500
+    },
+    "hamburgers_and_sandwichs":{
+      "Hamburguesa Sencilla":450
+    },
+    "hamburgers_add":{
+      "agrego de Jamon":220,
+      "agrego de queso blanco":200,
+      "agrego de queso gouda":220,
+      "agrego de aceitunas":200,
+      "agrego de pina":170,
+      "agrego de atun":250
+    },   
+    "desserts":{
+      "Donas":200,
+      "Dulce Aroma":350,
+      "icecream_flavors":{
+        "Helado/Galletas":320,
+        "Bola de Helado":140,
+        "Batido de Helado":380, 
+        "Batido de Helado Plus":550
+      }
+    },
+    "liquids": {
+      "alcoholic_drinks":{
+        "cocktails":{
+          "Caipirinha":250,
+          "Daiquiri":250,
+          "Caipiroska":280,
+          "Caipirisima":280,
+          "Screwdriver":280,
+          "Mojito":300,
+          "Mojito Ruso":300,
+          "Cremas de Tequila":320,
+          "Pina Colada":350,
+          "Martini":300,
+          "Gin & Tonic":350,
+          "Sex on the Beach":320,
+          "Sangria":350,
+          "Margarita":350,
+          "Orgasmo":350,
+          "Michelada":200,
+          "Chelada":100
+        },
+        "bottles":null,
+        "drinks_with": {
+          "Habana Club 3 anos":250,
+          "Habana Club Especial": 280,
+          "Habana Club Reserva":300,
+          "Habana Club 7 anos":350,
+          "Habana Club Smoky":350,
+          "Seleccion de Maestros":600,
+          "Pacto Navio": 600, 
+          "Black Tears Super Dry": 250,
+          "Black Tears Roble Superior":300,
+          "Jameson":450,
+          "Ballantines":300,
+          "Chivas Regal 12":500,
+          "Red Label":450,
+          "Black Label":500,
+          "Buchanans":500,
+          "Tequila Olmeca":300, 
+          "Crema Baileys":300,
+          "Jagermeiste":380,
+          "Vodka":250,
+          "Ciroc":400
+        },
+        "beers":{
+          "Cervezas Importadas": 230
+        }
+      },
+      "water":{
+        "Agua Natural":150
+      },
+      "Batido de Chocolate":280,
+      "soft_drinks":{
+        "Refresco Importado":210,
+        "Pomo de Refresco":500
+      },
+      "juices":{
+        "Jugo Natural":100,
+        "Jugo de Caja Pequeno":190, 
+        "Jugo de Caja Grande":450,
+        "Batido de Frutas":330
+      },
+      "lemonade":{
+        "Limonada":180
+      },
+      "red bull":null,
+      "malta":250,
+      "copas":{
+        "Copa de Vino":300
+      },
+      "coffees":{
+        "Expresso":100, 
+        "Capuccino":150, 
+        "Cortadito":120, 
+        "Moka":180, 
+        "Cafe Aroma":180,
+        "Carajillo":110, 
+        "Especiado":115, 
+        "Americano":110, 
+        "Bombon":300, 
+        "Cremoso":250,
+        "Frapuccino":280,
+        "Frapuccino Moka":300, 
+        "Frapuccino Aroma":300,
+        "Frapuccino Sorpresa":350, 
+        "Frapuccino Mousse":380, 
+        "Capricho":350
+      }
+    }
+  },
+  "10%_of_the_service": true,
+  "5%_of_the_service": false,
+  "reservation":false,
+  "type_of_currency": "cup"
+    
+}
+
+     
+

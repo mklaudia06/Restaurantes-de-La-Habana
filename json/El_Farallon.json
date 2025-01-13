@@ -100,31 +100,24 @@
            }
         },
         "pizzas": {
-            "CON QUESO GOUDA":{
-                
-            },
-            "CON QUESO MOZZARELLA":{
-                "NAPOLITANA (160 gr)": 800.00,
-                "JAMÓN (120 gr)":1100.00,
-                "BACON (120 gr)":1250.00,
-                "CHORIZO (120 gr)": 1100.00,
-                "CEBOLLA (100 gr)": 850.00,
-                "ACEITUNA (60 gr)": 1120.00,
-                "CHAMPIÑONES (90 gr)":1120.00,
-                "VEGETALES (Cebolla, pimientos y aceitunas)": 980.00,
-                "HAWAIANA": 1180.00,
-                "CAMARONES (90 gr)": 1550.00,
-                "ATÚN (90 gr)": 1180.00,
-                "BOLOÑESA (80 gr)":950.00,
-                "DESNUDA (90 gr)": 1700.00,
-                "CALZONE(jamón viki, chorizo y champiñones)": 1300.00,
-                "FARALLÓN(jamón, chorizo, aceitunas, cebolla, pimiento y atún)":1880.00,
-                "PIZZAGHETTI":750.00,
-                "DOBLE QUESO (300 gr)" :1150.00,
-                "PIMIENTO (100 gr)":850.00
-
-            }
-
+            "NAPOLITANA (160 gr)": 800.00,
+            "JAMÓN (120 gr)":1100.00,
+            "BACON (120 gr)":1250.00,
+            "CHORIZO (120 gr)": 1100.00,
+            "CEBOLLA (100 gr)": 850.00,
+            "ACEITUNA (60 gr)": 1120.00,
+            "CHAMPIÑONES (90 gr)":1120.00,
+            "VEGETALES (Cebolla, pimientos y aceitunas)": 980.00,
+            "HAWAIANA": 1180.00,
+            "CAMARONES (90 gr)": 1550.00,
+            "ATÚN (90 gr)": 1180.00,
+            "BOLOÑESA (80 gr)":950.00,
+            "DESNUDA (90 gr)": 1700.00,
+            "CALZONE(jamón viki, chorizo y champiñones)": 1300.00,
+            "FARALLÓN(jamón, chorizo, aceitunas, cebolla, pimiento y atún)":1880.00,
+            "PIZZAGHETTI":750.00,
+            "DOBLE QUESO (300 gr)" :1150.00,
+            "PIMIENTO (100 gr)":850.00
         },
         "pizza_pasta_add-on": {
             "QUESO GOUDA":400.00,

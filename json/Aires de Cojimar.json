@@ -1,0 +1,89 @@
+{
+    "name":"Aires de Cojimar",
+    "municipality":"Habana del Este",
+    "location":{
+        "address":"Pezuela #3e05 entre RUA y Espartero, Cojimar",
+        "coordinates_latitude_length":[23.1618572,-82.2969923]
+    },
+    "phone_number": "77666890",
+    "food_type":"Comida mixta",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":"aires_decojimar",
+        "facebook":"Aires de Cojimar"
+    },
+    "menu":{
+        "breakfast":null,
+        "started":{
+            "Coctel de pescado":550,
+            "Ensalada mixta":400,
+            "Picadera mixta":1200,
+            "Coctel Bella Mar":750,
+            "Ceviche Aires de Cojimar":850,
+            "Lomo de pescado en escabeche":950,
+            "Bolitas de queso":550,
+            "Eperlan":950,
+            "Frituras de malanga":550,
+            "Tapas caprichosas":425,
+            "Surtido de croquetas":450,
+            "Tostones al ajo":350,
+            "Sopon de mariscos":750,
+            "Sopa de pollo y vegetales":550,
+            "Crema de calabaza y queso":500,
+            "Crema de queso":500,
+            "Crema de mariscos":600
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Costillas de cerdo fritas":1950,
+            "Arroz con camarones":1450,
+            "Milanesa a la napolitana":1450,
+            "Uruguayo de cerdo":1750,
+            "Camaron al ajillo":1550,
+            "Langosta Varadero":1950,
+            "Langosta Busito":2000,
+            "Langosta Aires de Cojimar":5500,
+            "Pulpo al vino tinto":2850,
+            "Pulpo al ajillo":2850,
+            "Filete de pescado grille":1250,
+            "Filete de pescado en salsa de romero y limon":1350,
+            "Filete de pescado con camarones al graten":1650,
+            "Filete de pescado Canciller":1650,
+            "Camarones tropicales":1550,
+            "Enchilado de camarones":1450,
+            "Camarones al sesamo":1450,
+            "Caldereta Dona Blanca":3500,
+            "Dados de cerdo a la cojimera":1400,
+            "Bistec de cerdo al mojo criollo":1400,
+            "Pollo con camarones al graten":1450,
+            "Pollo Hawaiano":1150,
+            "Sabor del cielo":1550
+        },
+        "pastas": null,
+        "pizzas": null,
+        "pizza_pasta_add-on":null,
+        "side_dishes":{
+            "Ensalada mixta":400
+        },
+        "liquids":null,
+        "dessert":{
+            "Dulces finos":450,
+            "icecream_flavors":null
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

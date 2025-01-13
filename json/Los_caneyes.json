@@ -1,0 +1,124 @@
+{
+  "name":"Los caneyes",
+  "municipality":"Arroyo Naranjo",
+  "location":{
+    "address": "Calle Martí y Gutierrez, Reparto Electrico, Arroyo Naranjo",
+    "coordinates_latitude_length":[23.0474454,-82.3329201]
+  },
+  "phone_number":null,
+  "food_type":"cubana",
+  "schedule":{
+    "opening": "12:00 pm",
+    "closure": "11:00 pm",
+    "days_of_the_week": "todos los dias"
+  },
+  "quality":null,
+  "social_media": {
+    "instagram":null,
+    "facebook":null
+  },
+	"menu": {
+    "breakfast":null,
+		"started":{
+      "Tostones": 800.00,
+      "Papas fritas": 900.00,
+      "Fajitas de pollo empanadas": 1000.00,
+      "Fajitas de cerdo empanadas": 1000.00,
+      "Eperlan de pescado": 1300.00,
+      "Masas de Cangrejo con tostones": 1000.00,
+      "Milanesa de res con papas fritas": 1500.00,
+      "Hamburguesa de res c/ queso gratinado y papas fritas": 1500.00,
+      "Hamburguesas de Salmón c/ queso gratinado y tostones": 1500.00
+    },
+    "tacos":null,
+		"strong_dishes":{ 
+      "Filete de Pescado Grille" : 1500.00,
+      "Filete de Pescado empanado" : 1500.00,
+      "Filete de Pescado Monte toro" : 1800.00,
+			"Filete de Pescado Caney" : 1800.00,
+      "Filete de Pescado(filete con camarones y queso gratinado)" : 2500.00,
+      "Masas de Cangrejo en salsa de tomate": 1300.00,
+      "Salmón rociado en salsa de tomate": 1500.00,
+      "Camarones al Ajillo": 2200.00,
+      "Enchilado de Camarones": 2200.00,
+      "Camarones Rebozados": 2200.00,
+      "Lomo ahumado deshuesado": 1800.00,
+      "Bistec de Cerdo Frito": 1300.00,
+      "Escalope de cerdo" : 1500.00,
+      "Bistec de cerdo con Jamón, chorizo y Queso": 1800.00,
+      "Bistec Uruguayo": 1800.00,
+      "Boucht de cerdo": 1300.00,
+      "Ropa Vieja": 1700.00,
+      "Vaca Frita": 1700.00,
+      "Suprema de pollo" : 1300.00,
+      "Fajitas salteadas" : 1300.00,
+      "Fajitas empanadas" : 1400.00,
+      "Suprema de pollo empanada": 1400.00,
+      "Suprema de pollo con jamón y queso": 1800.00,
+      "Gordon Blue": 2300.00,
+      "Suprema de pollo rellena con camarones y queso": 2300.00,
+      "Suprema \"Los Caneyes\" (camarones y queso gratinado)": 2300.00
+    },
+    "pastas":{
+      "Spaguettis Napolitano" : 700.00
+    },
+    "pizzas":{
+      "Pizza Napolitana" : 900.00,
+      "Pizza Napolitana con queso Gouda" : 1300.00
+    },
+    "pizza_pasta_add-on": null,
+		"side_dishes": { 
+      "Arroz Blanco": 150.00,
+      "Arroz Congri": 200.00,
+      "Yuca con mojo" : 200.00,
+      "Puré de malanga (se procesa al pedido)": 400.00,
+      "Ensalada Mixta de Estación": 250.00
+    },
+    "desserts":{ 
+      "Tarta con Ganache de Chocolate" : 450.00,
+      "icecream_flavors":{
+        "Pote de helado Gustó (1 litro)" : 1000.00
+      }  
+    },
+    "hamburgers_and_sandwichs":null,
+    "hamburgers_add-on":null,
+    "aperitivos":null,
+    "snacks":null,
+    "creams_and_soup":null,
+    "digestive":null,
+    "liquids": {
+      "alcoholic_drinks":{
+        "cocktails":null,
+        "bottles":null,
+        "drinks_with":null,
+        "beers":{
+          "Cervezas": 330.00,
+          "Cerveza Cristal" : 300.00
+        }
+      },
+      "water":{
+        "Agua Mineral Embotellada": 300.00
+      },
+      "soft_drinks":{
+        "Refresco cola y limón": 250.00,
+        "Refresco de mate": 270.00
+      },
+      "juices":{
+        "Latas de jugo" : 300.00
+      },
+      "lemonade":null,
+      "red bull":null,
+      "Bebida energizante" : 100.00,
+      "malta":300.00,
+      "copas":null,
+      "coffees":{
+        "Café" : 100.00
+      }
+    }
+
+  },
+	"10%_of_the_service": false,
+  "5%_of_the_service": false,
+  "reservation":false,
+  "type_of_currency": "cup"
+}

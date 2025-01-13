@@ -1,0 +1,76 @@
+{
+    "name":"La Pelota",
+    "municipality": "Plaza de la Revolución",
+    "location": {
+        "address": "Esquina 23 y 12, Vedado, Plaza",
+        "coordinates_latitude_length":[23.127810894630507, -82.39959798623943]
+    },
+    "phone_number": null,
+    "food_type":null,
+    "schedule": {
+        "opening": "9:45 am",
+        "closure": "9:45 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": [null],
+        "started":{ 
+            "chicharrón (58g)": 120,
+            "croqueta (36g)" : 15,
+            "entrante de jamón": 300 
+        },
+        "tacos":null,
+        "strong_dishes":{  
+            "bistec de cerdo" : 600,
+            "masa de cerdo frita" : 600 ,
+            "costilla de credo frito" : 600,
+            "pollo grillé" : 550 ,
+            "pollo asado" : 550 ,
+            "picadillo" : 250 ,
+            "arroz moro" : 100,
+            "vianda hervida": 40 
+        },
+        "pastas":null,
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes": null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "cerveza importada" : 200
+                }
+            },
+            "water":null,
+            "soft_drinks":{
+                "refresco de cola" : 190
+            },
+            "juices":{
+                "jugo de frutas" : 180
+            },
+            "lemonade":null,
+            "energizante": 200,
+            "malta":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

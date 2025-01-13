@@ -1,0 +1,203 @@
+{
+    "name": "Decamerón", 
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address": "Calle Línea entre Paseo y 2, Vedado",
+        "coordinates_latitude_length":[23.1366671,-82.4016725]
+    },
+    "phone_number": "78322444",
+    "food_type":"Comida caribeña y cubana",
+    "schedule": {
+        "opening": "11:30 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "Pan de la casa y dip con aroma de pesto": 750,
+            "Frituras de malanga con Chutney de papaya picantica": 1350,
+            "Croquetas caseras con mayonesa ligera de pepino y limón": 1500,
+            "Empanadillas de yuca rellenas de cangrejo y melado de caña": 1650,
+            "Berenjena asada con pisto manchego y queso al gratén": 2100,
+            "Pulpo salteado a la plancha con aceíte de pimentón ahumado, escabeche de malanga y verduritas": 2550,
+            "Seviche de pescado del día": 2400
+        },
+        "tacos":{
+            "Tacos de maiz o trigo con carnitas de cerdo confitadas, mojo estilizado, frijoles refritos, lechuga y cebolla caramelizada": 1650
+        },
+        "strong_dishes":{
+            "Caprichosa(Pollo, vegetales, frutos secos, queso azul y mostaza dulce de miel)": 2100,
+            "Decamerón(Huevo, vegetales, queso parmesano, anchoa, aceíte de oliva virgen)": 2100,
+            "Arroz caldoso con pollo, cerdo y butifarra": 3600,
+            "Arroz negro con pulpo, camarones, almejas y emulsión alioli": 4500,
+            "Caldereta del mar con salsa picosa y azafrán": 7500,
+            "Filete de pescado del día a lo principeno": 4200,
+            "Langosta a la Habanera": 6000,
+            "Camarones a ala crema de coco y jengibre": 4800,
+            "Solomillo de res con salsa española, queso azul y champinones": 6900,
+            "Wok de lonjas de filete, salteado de verduras y salsa teriyaki": 5400,
+            "Ropa vieja a lo cubano con macho maduro frito": 3900,
+            "Chuletón de cerdo sobre espejo de malanga, emulsión de tamarindo y brochetas de verduras a ala plancha": 4500,
+            "Masas de cerdo confitadas sobre mofongo de yuca y chicharrones": 3600,
+            "Pollo en aderezo Satay, champinones, frutos secos y vegetales": 3300,
+            "Confite de cordero en su esencia de vino y finas hierbas": 4200,
+            "Ensalada griega": 2100,
+            "Carpaccio de res": 2400,
+            "Pinchos de camarón y pollo con pilaf de uvas pasas": 4500,
+            "Entrecot de res (anojo) triple A": 9000,
+            "Tagliatelle fresco al fruto de mar": 4500,
+            "Canoa de la pasión": 2850
+        },
+        "pastas": {
+            "Pasta fresca primavera con parmesano y pesto hecho a nuestro modo": 3300
+        },
+        "pizzas": {
+
+        },
+        "pizza_pasta_add-on": {
+
+        },
+        "side_dishes":{
+            "Arroz blanco": 600,
+            "Frijoles negros dormidos": 600,
+            "Vegetales salteados": 600,
+            "Tostones de plátano": 600,
+            "Boniato frito": 600,
+            "Puré de malanga": 600,
+            "Plátano maduro frito": 600,
+            "Ensalada Buena Salud": 1500
+        },
+        "desserts":{ 
+            "Tartas variadas del día": 1400,
+            "Pie de limón": 1400,
+            "Flan de caramelo": 1120,
+            "icecream_flavors":{
+               "Helados": 1400
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            
+        },
+        "hamburgers_add-on":{
+
+        },
+        "aperitivos":{
+
+        },
+        "snacks":{
+
+        },
+        "creams_and_soup":{
+            "Crema de calabaza con costrones de pan y queso": 1350,
+            "Sopa-crema de pollo a la casera": 1500
+        },
+        "digestive":{
+
+        },
+        "liquids":{
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 1500,
+                    "Mojito 7 ": 2100,
+                    "Cuba libre ":1350,
+                    "Daiquirí": 1500,
+                    "Daikirí de frutas": 1800,
+                    "Coctel Decamerón": 1800,
+                    "Cubata": 1350,
+                    "Ron Collins": 1500,
+                    "Pina colada": 1950,
+                    "Cuba": 1950,
+                    "Havana Special":1500 ,
+                    "Bloody Mary": 1950,
+                    "Mary Pickford": 1500,
+                    "Sangría de vino tinto": 1950,
+                    "Sangría de vino blanco": 1950,
+                    "Jarra de sangría": 3000,
+                    "Tinto de verano": 1800,
+                    "Michelada": 1500,
+                    "Chelada": 1500,
+                    "Manhattan": 3000,
+                    "Caipirina": 2400,
+                    "Caipiroska": 2400,
+                    "Martini": 2400,
+                    "Tom collins": 1500,
+                    "Gin-tónic": 2400,
+                    "Vodka Tonic":2400 ,
+                    "Moscow Mule":2400,
+                    "Black Russian": 2100,
+                    "Screwdriver": 1800,
+                    "Canchánchara": 1800,
+                    "Concha 7": 1800,
+                    "Orgasmo": 2550,
+                    "Aperol Spritz": 2550,
+                    "Aperol Negroni": 2550,
+                    "Negroni": 2550,
+                    "Aperol collins": 2550,
+                    "Mimosa": 2550,
+                    "Margarita": 2550,
+                    "Presidente seco": 1800,
+                    "Presidente dulce": 1800,
+                    "San Francisco": 1200
+                },
+                "drinks_with":null,
+                "bottles":null,
+                "beers":{
+                    "Cervezas": 750,
+                    "Cervezas Heineken": 1050
+                }
+            },
+            "water":{
+                "Agua natural nacional": 450,
+                "Agua natural nacional grande": 750,
+                "Agua con gas nacional": 750
+            },
+            "soft_drinks":{
+                "Refrescos": 600,
+                "Refrescos importados": 750
+            },
+            "juices":{
+                "Jugos naturales": 750
+            },
+            "lemonade":{
+                "Limonada": 1200,
+                "Limonada frappé": 1350,
+                "Limonada verde frescura": 1500
+            },
+            "red bull":"",
+            "malta":"",
+            "copas":{
+                "Copa de vino tinto/blanco": 1350
+            },
+            "Bebidas energéticas": 900,
+            "coffees":{
+                "expresso": 560,
+                "americano": 560,
+                "Café descafeinado": 560,
+                "Café con hielo": 560,
+                "cortado": 560,
+                "Café con leche": 700,
+                "Café bombón": 700,
+                "carajillo": 700,
+                "Frapuccino": 840,
+                "Café Capuccino": 700,
+                "Irish coffee": 1260,
+                "Té caliente":420 ,
+                "Té frío": 420,
+                "Manzanilla": 420,
+                "Menta":420 
+            }
+        }
+     
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+} 

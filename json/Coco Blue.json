@@ -1,0 +1,124 @@
+{
+    "name": "Coco Blue",
+    "municipality":"Plaza de la Revolucion",
+    "location":{
+        "address":"Calle 14 entre 11 y 13",
+        "coordinates_latitude_length":[23.1310625,-82.4073928]
+    },
+    "phone_number": "59121916",
+    "food_type":"Caribeña",
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "12:30 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":{
+            "DESAYUNO(Huevos al gusto (2u), ensalada natural con pollo, queso, tostadas, mayonesa, un jugo, un café (expreso o americano)frutas frescas. Baguette con pollo, huevo, queso, lechuga, tomate, mayonesa, ketchup, vianda frita, 1 refresco enlatado (Pepsi o Seven Up))": 2800.00,
+            "HAMBURGUESA DE POLLO(Pan bon con hamburguesa de pollo, tomate, lechuga, ketchup, mostaza, mayonesa y vianda frita)": 1400.00,
+            "HAMBURGUESA DE RES(Pan bon con hamburguesa, tomate, lechuga, ketchup, mostaza, mayonesa y vianda frita)": 1900.00,
+            "SANDWICH ZORRA PELUAPan baguette, pollo, queso, vegetales frescos, mayonesa, mostaza, ketchup y vianda frita()": 1600.00
+        },
+        "started":{
+            "NACHOS(Cuartos de tortilla mexicana fritos y salsa agridulce de fruta)": 400.00,
+            "BONIATO FRITO": 500.00,
+            "FRITURAS DE MALANGA(Frituras con salsa de miel y mostaza)": 700.00,
+            "CROQUETAS DE PESCADO": 1000.00,
+            "CROQUETAS DE RES": 1100.00,
+            "CEVICHE(Dados de pescado crudo en limón aromatizados con morrones, cebollas, tomate concasse, pepino, sal y pimienta)": 1600.00,
+            "FAJITAS DE POLLO(Julianas de pollo salteadas con vegetales, aceite de romero y salsa de soya oscura con aroma de hierba buena)": 1200.00   
+        },
+        "tacos":{
+            "TACOS DE POLLO(Pollo salteado con vegetales y Pico de Gallo sobre tortilla mexicana)": 1100.00,
+            "TACOS DE VEGETALES(Vegetales salteados y Pico de Gallo sobre tortilla mexicana)": 1000.00,
+            "TACOS DE RES(Carne de res salteada con vegetales y Pico de Gallo sobre tortilla mexicana)": 1200.00 
+        },
+        "strong_dishes":{
+            "BISTEC DE POLLO(Bistec de pollo a la plancha, arroz blanco y vegetales salteados)": 2000.00,
+            "FILETE DE PESCADO(Filete de pescado salpimentado cocido a la plancha, acompañado de arroz blanco, ensalada de vegetales y vianda frita)": 2000.00,
+            "ROPA VIEJA(Carne de res deshilachada en salsa de tomate, pimiento, cebolla y ajo, acompañada de arroz blanco)": 2100.00
+        },
+        "pastas": {
+            "ESPAGUETTI NAPOLITANO(Espaguetis al dente acompañado con salsa y pulpa de tomate y queso)": 1600.00
+        },
+        "pizzas": null,
+        "pizza_pasta_add-on":null,
+        "side_dishes":null,
+        "desserts":{ 
+            "CASCOS DE GUAYABA(Cascos de guayaba en almíbar con queso)": 800.00,
+            "icecream_flavors":null
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":{
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 700.00,
+                    "Cuba Libre": 700.00,
+                    "Cubata": 600.00,
+                    "Daiquirí": 700.00,
+                    "Daiquirí de Sabores": 750.00,
+                    "Caipiriña": 600.00,
+                    "Caipiroska Base": 570.00,
+                    "Caipirísima": 650.00,
+                    "Piña Colada": 700.00,
+                    "Chelada": 880.00,
+                    "Michelada": 900.00,
+                    "Sangría": 1100.00,
+                    "Margarita": 800.00,
+                    "Long Island": 1100.00,
+                    "Jagger Bomb": 1000.00,
+                    "Blue Lagon": 1100.00
+                },
+                "beers":{
+                    "Cervezas Importadas": 500.00,
+                    "Cervezas Nacionales": 550.00,
+                    "Cristal dispensada": 400.00,
+                    "Cubetazo(6 cervezas ZUBR + 1 nacho)": 2800.00
+                },
+                "bottles":null,
+                "drinks_with":null
+            },
+            "water":{
+                "Agua Tónica": 500.00,
+                "Agua Gaseada": 600.00
+            },
+            "soft_drinks":{
+                "Refrescos": 500.00
+            },
+            "juices":{
+                "Frutas": 450.00,
+                "Natural": 450.00
+            },
+            "lemonade":{
+                "Limonada Frappé": 500.00,
+                "Limonada Frescura": 600.00,
+                "Limonada Natural": 450.00
+            },
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "Energizante": 700.00,
+            "coffees":{
+                "Expresso": 400.00,
+                "Cortado": 450.00,
+                "Capuccino": 500.00,
+                "Frappuccino": 600.00,
+                "Americano": 350.00
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

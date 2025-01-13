@@ -1,0 +1,142 @@
+{
+    "name": "El Vampirito", 
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address": "Calle 6 entre 19 y 21, Vedado",
+        "coordinates_latitude_length":[23.1309385,-82.3985623]
+    },
+    "phone_number": "78300774",
+    "food_type": ["Pizza", "Comida italiana", "Sandwiches"],
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu":{
+        "breakfast":null,
+        "started":{
+            "Bruschettas naturales": 780,                    
+            "Bruchettas con atún, carne o ropa vieja": 930,
+            "Entremés de queso, jamón y bruschettas": 1180,
+            "Picadera de la casa":2620 ,
+            "Crema de queso": 570,
+            "Crema Aurora": 600
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Ensalada de vegetales salteados": 520,
+            "Garbanzos fritos": 1290,
+            "Solomillo de cerdo": 2340,
+            "Carne asada en cazuela": 2340
+        },     
+        "pastas": {
+           "Lasaña de jamón": 1530,
+            "Lasaña de carne": 1530,
+            "Lasaña hawaiana": 1570,
+            "Espaguetis": 1090,
+            "Media ración de espaguetis y media ración de lasaña": 1310
+        },
+        "pizzas": { 
+            "Pizza de queso": 1220,
+            "Pizza pequeña": 590
+        },
+        "pizza_pasta_add-on": {
+            "Tomate":200, 
+            "Cebolla": 200,
+            "Pimiento": 200,
+            "Jamón": 320,
+            "Bacon": 420,
+            "Atún":535,
+            "Chorizo": 490,
+            "Queso": 370,
+            "Pina glaseada": 200,
+            "Boloñesa": 535,
+            "Aceituna": 280
+        },
+        "side_dishes":null,
+        "desserts":{ 
+            "Postre del día": 780,
+            "Tarta": 975,
+            "Torrejas": 700,
+            "Media ración de torrejas": 360,
+            "Torrejas con helado": 550,
+            "icecream_flavors":{
+               "Helado montado": 300, 
+               "Canoa de helado": 1500
+            }
+        },
+        "hamburgers_and_sandwichs":{
+            "Hamburguesa sencilla": 1090,
+            "Hamburguesa doble": 2000,
+            "Sandwich de queso gouda": 960,
+            "Sandwich de ropa vieja":960 ,
+            "Sandwich de bacon, huevo y queso":1390 ,
+            "Sandwich de lechón asado": 1050,
+            "Sandwich de atún": 1390,
+            "Sandwich de pechuga de pollo con queso": 1260,
+            "Sandwich de crema y jalea de fresa": 1260 
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Caipirina": 750,
+                    "Daiquirí": 750,
+                    "Sangría" : 750,
+                    "Mojito frappé": 750,
+                    "Michelada con cerveza importada": 500,
+                    "Michelada con cerveza nacional": 600 
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza importada": 400,
+                    "Cerveza nacional": 500
+                }
+            },
+            "water":{
+                "Agua natural/ glaseada": 200
+            },
+            "soft_drinks":{
+                "Refresco": 400
+            },
+            "juices":{
+                "Jugo natural": 250
+            },
+            "lemonade":{
+                "Limonada frappé": 620,
+                "Limonada con Hierba buena": 700
+            },
+            "red bull":500,
+            "Suero de helado": 1200,
+            "malta":{
+                "Malteada": 700,
+                "Malta": 460
+            },
+            "copas":{
+                "Copa de vino": 550
+            },
+            "coffees":{
+                "expresso": 180,
+                "cortado": 200,
+                "capuccino": 280,
+                "Café con leche": 280,
+                "Café con ron": 280,
+                "Café con licor": 280
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup" 
+} 

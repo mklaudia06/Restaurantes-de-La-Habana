@@ -1,0 +1,134 @@
+{
+    "name": "5ta Billar",
+    "municipality": "Regla",
+    "location": {
+        "address":"Avenida Rotaria, entre A y Enlace",
+        "coordinates_latitude_length":[23.123472,-82.3224115]
+    },
+    "phone_number": "52943290",
+    "food_type": ["Cocteleria","Internacional"],
+    "schedule": {
+        "opening": "1:00 pm",
+        "closure": "1:00 am",
+        "days_of_the_week": "todos los diass"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast": null,
+        "started":{
+            "CACAHUATES PICANTE": 110.00,
+            "TOSTONES RELLENOS J&G": 750.00,
+            "TOSTONES RELLENOS ATUN": 980.00,
+            "TOSTONES RELLENOS CARNE": 900.00,
+            "CROQUETAS BOLA 9": 650.00,
+            "BOLITA DDE QUESO": 850.00,
+            "FAJITAS DE POLLO": 920.00,
+            "EPERLAN": 950.00,
+            "ENTREMÉS": 960.00,
+            "SURTIDO 5TABILLA": 1650.00,
+            "SURTIDO PREMIUM": 2950.00,
+            "ROSITAS DE MAIZ": 600.00         
+        },
+        "tacos":{
+            "TACOS DE CERDO": 950.00
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "strong_dishes":{
+            "POLLO A LA GORDON BLUE": 1800.00,
+            "URUGUAYO DE CERDO": 2100.00,
+            "BISTEC DE POLLO ENCEBOLLADO": 1600.00,
+            "BISTEC DE CERDO ENCEBOLLADO": 1900.00,
+            "BROCHETAS DE CERDO AL CARBÓN": 1800.00,
+            "BABY CHICKEN": 960.00,
+            "KINGS CHICKEN" : 1350.00,
+            "LOMO DE CERDO ASADO AL CARBÓN": 1800.00,
+            "CHORIZADA AL CARBÓN": 2000.00,
+            "LA PARRILLADA": 4950.00          
+        },
+        "pizzas":{
+            "Focaccia": 700.00,
+            "Pizza napolitana": 1100.00,
+            "Pizza mixta": 1600.00,
+            "Pizza cuatro estaciones": 1900.00
+        },
+        "pastas": null,
+        "desserts": null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "medusa": 650.00,
+                    "margarita": 720.00,
+                    "margarita blue": 780.00,
+                    "tequila sunrise": 780.00,
+                    "servicio chelada": 450.00,
+                    "servicio michelada": 350.00,
+                    "jagger bomb": 1200.00,
+                    "mojito corona": 900.00,
+                    "corona sunrise": 880.00,
+                    "sangria": 760.00,
+                    "jarra de sangria": 3720.00,
+                    "alexander": 1000.00,
+                    "eclipse": 1020.00,
+                    "mai tai": 550.00,
+                    "orgasmo": 1080.00,
+                    "aperol sprits": 1650.00,
+                    "italian sunset": 780.00,
+                    "mimosa": 1500.00
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cervezas Nacionales": 400.00,
+                    "Cerveza corona": 600.00,
+                    "Cervezas importadas": 320.00
+                }
+            },
+            "water":{
+                "Agua natural": 220.00
+            },
+            "soft_drinks":{
+                "Refresco": 340.00
+            },
+            "juices":{
+                "Jugo": 230.00
+            },
+            "lemonade":{
+                "Limonada frappe": 300.00,
+                "Limonada frappe curacao": 350.00,
+                "Limonada frappe granadina": 380.00,
+                "Limonada frappe melocoton": 400.00,
+                "Limonada frappe menta": 380.00,
+                "Limonada frappe mora": 380.00,
+                "Limonada frappe naranja": 470.00,
+                "Limonada frescura (hierbabuena)": 350.00,
+                "limonada frappe piña": 350.00,
+                "Limonada frappe tropical blue": 350.00
+            },
+            "red bull":750.00,
+            "San francisco": 350.00,
+            "Kermato": 680.00,
+            "Tigon": 400.00,
+            "malta":{
+                "Malteada": 250.00,
+                "Malta": 400.00
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

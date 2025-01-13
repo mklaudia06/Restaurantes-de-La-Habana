@@ -1,0 +1,94 @@
+{
+    "name":"GaraG",
+    "municipality":"San Miguel del Padron",
+    "location": {
+        "address":"C.Guanabacoa #1214 % B y C, Los Angeles",
+        "coordinates_latitude_length" : [23.091504, -82.283706]
+    },
+    "phone_number": null,
+    "food_type":"Comida Mixta",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu":{
+        "breakfast":null,
+        "started":{
+            "Picadera GaraG":3500,
+            "Toston Alfredo":750,
+            "Eperlan":1650,
+            "Fajitas de pollo":1225,
+            "Fajitas de cerdo":1550,
+            "Croquetas de Mima":750,
+            "Ceviche":900,
+            "Tacos de Carnita":1205,
+            "Tacos Marinesos":1295,
+            "Ensalada Fria":750,
+            "Coctel de Camaron":1250
+        },
+        "tacos":null,
+        "strong_dishes": {
+            "Napoles (pasta)":930,
+            "Napoles (pizza)":930,
+            "Anti Hawaiana":1555,
+            "Lechocita":1595,
+            "5 Quesos":1650,
+            "Filete de pescado grille":1920,
+            "Filete de pescado empanado":1980,
+            "Filete de pescado GaraG":2225,
+            "Canciller":2150,
+            "Filete Alfredo":2150,
+            "Masas de pescado al ajito":1920,
+            "Pargo frito":2150,
+            "Pollo frito":1350,
+            "Bistec de pollo grille":1350,
+            "Pollo empanado":1450,
+            "Cordon Blue":1925,
+            "Bistec de cerdo encebollado":1950,
+            "Cerdo grille":1700,
+            "Cerdo empanado":1750,
+            "Cerdo Uruguayo":1955,
+            "Masa de cerdo frita":2200,
+            "Cerdo asado":2150,
+            "Camaron al ajillo":2300,
+            "Camaron grille":2105,
+            "Camaron enchilado":2230,
+            "Camaron emapanado":2290,
+            "Aporreado de res":1950,
+            "Ropa vieja":1930,
+            "Arroz frito especial":1350,
+            "Arroz frito":1200,
+            "Ensalada estacion":350,
+            "Vegetal salteado":350
+        },
+        "pastas": null,
+        "pizzas": null,
+        "pizza_pasta_add-on":null,
+        "side_dishes":null,
+       "desserts": {
+            "Cake a la moda":850,
+            "icecream_flavors":{
+                "Copa de helado":400,
+                "Copa lolita":650,
+                "Batido de helado":750
+            }
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

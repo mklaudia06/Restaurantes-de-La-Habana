@@ -1,0 +1,110 @@
+{
+  "name": "Magic's Cream & Burguer",
+  "municipality":"Arroyo Naranjo",
+  "location":{
+    "address": "Calzada de 10 de Octubre, % Santa Amalia y Arnao, Arroyo Naranjo",
+    "coordinates_latitude_length":[23.0788254,-82.3621688]
+  },
+  "phone_number": null,
+  "food_type":"comida rapida",
+  "schedule": {
+    "opening": "11:00 am",
+    "closure": "10:00 pm",
+    "days_of_the_week": "todos los dias"
+  },
+  "quality":null,
+  "social_media": {
+    "instagram":null,
+    "facebook":null
+  },
+  "menu": {
+    "breakfast":null,
+    "started":{ 
+      "Croquetas Magic's": 400.00,
+      "Fritura de Malanga": 400.00,
+      "Tacos de Pollo" : 700.00,
+      "Tacos de Cerdo": 800.00,
+      "Fajas de Pollo" : 600.00,
+      "Bolitas de Queso" : 500.00,
+      "Papas Fritas": 500.00
+    },
+    "hamburgers_and_sandwichs":{ 
+      "Hamburguesas de Cerdo": 430.00, 
+      "Hamburguesas de Pollo": 430.00, 
+      "Hamburguesas Doble": 1000.00, 
+      "Hamburguesas Super Magic's" : 1500.00
+    },
+    "hamburgers_add-on":{
+      "jamon" : 100.00,
+      "queso" : 100.00,
+      "vegetales" : 100.00,
+      "papas" : 500.00
+    },
+    "tacos":null,
+    "strong_dishes":null,
+    "pastas":null,
+    "pizzas":null,
+    "pizza_pasta_add-on": null,
+    "aperitivos":null,
+    "snacks":null,
+    "creams_and_soup":null,
+    "digestive":null,
+    "side_dishes":null,
+    "desserts":{ 
+      "icecream_flavors":{
+        "Bola de helado": 70.00,
+        "Jimaguas": 195.00,
+        "Ensalada de helado": 350.00,
+        "Batido de helado": 395.00,
+        "Tres gracias": 245.00
+      }
+    },
+    "liquids": {
+      "alcoholic_drinks":{
+        "cocktails":{
+          "Agrego de Michelada" : 250.00,
+          "Piña Colada sin Alcohol" : 500.00,
+          "Piña Colada con Alcohol": 575.00,
+          "Cuba Libre": 500.00,
+          "Mojito" : 500.00,
+          "Botella Label 5": 3500.00,
+          "JW Red Label" : 600.00,
+          "Ballantine's" : 550.00,
+          "Howells": 300.00,
+          "Gran Marchell": 300.00,
+          "Pacto Navio": 700.00,
+          "Havana Club Añejo Reserva": 400.00,
+          "Havana Club Añejo 3 Años": 350.00,
+          "Ginebra": 300.00,
+          "Vodka": 300.00
+        },
+        "bottles":null,
+        "drinks_with":null,
+        "beers":{
+          "Cervezas Importadas" : 220.00,
+          "Cervezas Nacionales" : 300.00
+        }
+      },
+      "water":null,
+      "soft_drinks":{
+        "Pepsi": 300.00,
+        "Refresco de Lata": 210.00
+      },
+      "juices":null,
+      "lemonade":{
+        "Limonada Frappe": 250.00
+      },
+      "red bull":null,
+      "malta":300.00,
+      "copas":{
+        "Copa Vino Tinto": 600.00,
+        "Copa Vino Blanco" : 550.00
+      },
+      "coffees":null
+    }
+  },
+  "10%_of_the_service": false,
+  "5%_of_the_service": false,
+  "reservation":false,
+  "type_of_currency": "cup"
+}

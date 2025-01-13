@@ -1,0 +1,129 @@
+{
+    "name": "El Bejuco",
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address":"Calle Línea 1206 entre 18 y 20",
+        "coordinates_latitude_length":[23.130904,-82.410697]
+    },
+    "phone_number": "5350671673",
+    "food_type":null,
+    "schedule": {
+        "opening": "24h abierto",
+        "closure": "24h abierto",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":{
+            "Combo Dulce": 950.00,
+            "Combo Salado": 950.00,
+            "Tostadas con Dulce": 250.00,
+            "Tostadas con Salsa": 250.00,
+            "Agrego de queso": 150.00,
+            "Agrego de Jamón": 200.00,
+            "Fruta de Temporada": 250.00
+        },
+        "started":{
+            "Tostones Naturales": 400.00,
+            "Tostones Rellenos": 800.00,
+            "Brusquetas": 500.00,
+            "Picadera Simple": 600.00,
+            "Picadera Guajira": 1200.00,
+            "Chicharritas": 300.00,
+            "Tamal con Cerdo": 900.00,
+            "Tamal": 200.00
+        },
+        "tacos":null,
+        "strong_dishes":null,
+        "pastas": null,
+        "pizzas":null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":{
+            "Sándwich Jamón y Queso": 800.00,
+            "Sándwich Jamón": 750.00,
+            "Sándwich Queso": 750.00,
+            "Pan con Lechón": 1000.00 
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":{
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada": 750.00,
+                    "Chelada": 700.00,
+                    "Mojito": 500.00,
+                    "Cuba libre": 450.00,
+                    "Caipiriña": 400.00,
+                    "Caipiroska": 400.00,
+                    "Caipirísima": 400.00,
+                    "Canchánchara": 450.00,
+                    "Melonada": 700.00,
+                    "Verano en un Vaso": 600.00,
+                    "Tinto de verano": 600.00,
+                    "Piña colada": 700.00,
+                    "Bejuco colora'o": 700.00,
+                    "Bejuco Gin": 700.00,
+                    "Cubata con Reserva": 650.00,
+                    "Cubata con 7 años": 800.00,
+                    "Línea Black Tears": 350.00,
+                    "Línea 7 años": 600.00,
+                    "Línea Smoky": 700.00,
+                    "Línea Santiago": 900.00,
+                    "Línea Reserva": 400.00,
+                    "Tequila Blanco": 350.00,
+                    "Tequila Reposado": 500.00
+                },
+                "beers":{
+                    "Cerveza Cristal (Botella)": 350.00
+                },
+                "bottles":{
+
+                },
+                "drinks_with":{
+
+                }
+            },
+            "water":{
+                "Agua": 300.00
+            },
+            "soft_drinks":{
+                "Refresco": 300.00
+            },
+            "juices":{
+                "Jugos Naturales": 250.00,
+                "Batidos": 350.00
+            },
+            "lemonade":{
+                "Limonada": 500.00
+            },
+            "red bull":"",
+            "malta":"",
+            "copas":{
+                "Copa de Vino": 500.00
+            },
+            "coffees":{
+                "Café expreso": 150.00,
+                "Cortado": 250.00,
+                "Capuccino": 300.00,
+                "Fráppuccino": 350.00,
+                "Macchiato": 250.00,
+                "Iced Latte": 350.00,
+                "Americano": 300.00
+            }
+        }
+      
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

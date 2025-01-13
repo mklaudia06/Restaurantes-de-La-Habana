@@ -1,0 +1,76 @@
+{
+    "name": "2KFE",
+    "municipality": "Regla",
+    "location": {
+        "address":"Pereira entre Martí y Maceo",
+        "coordinates_latitude_length":[23.1281684,-82.33875]
+    },
+    "food_type": ["Cafe","Internacional","Criolla"],
+    "schedule": {
+        "opening": "10:00 am",
+        "closing": "8:00 pm",
+        "days_of_the_week":"todos los dias"
+    },
+    "quality":"Excelente",
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "Croquetas": 300.00,
+            "Viandas fritas": 100.00,
+            "Brusquetas": 250.00,
+            "Entremes surtido(Jamón, queso, chorizo y aceituna)": 800.00,
+            "Mini Gordon Bleu (Pollo, jamón, queso y vegetal salteado)": 800.00,
+            "Plato combinado (Fajitas de Pollo, bolitas de carne, croquetas, jamón, chorizo y viandas fritas)": 1200.00
+        },
+        "tacos":{
+            "Tacos Carnitas(Cerdo asado, cebolla encurtidos, salsa verde, cebollino y vegetal saltead0)": 850.00,
+            "Tacos Res (Ropa vieja, vegetal Salteado y salsa chimichurri)": 900.00,
+            "Tacos Pollo (Hilos de pollo, crujientes, vegetal salteado y salsa vinagreta)": 600.00,
+            "Tacos Vegetariano": 400.00,
+            "Tacos Vegetales salteados en mantequilla y limón": 500.00,
+            "Tacos Jamón y Queso": 650.00
+        },
+        "strong_dishes":null,
+        "pastas": null,
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":null,
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "coffees":{
+                "Espresso": 100.00,
+                "Americano": 100.00,
+                "Cortadito": 150.00,
+                "Con Leche": 200.00,
+                "Espresso Macchiato": 180.00,
+                "Caramel Macchiato": 250.00,
+                "Cappuccino": 220.00,
+                "Frappuccino": 500.00,
+                "Irlandés": 250.00,
+                "Caribeño": 180.00,
+                "Alma mía": 180.00,
+                "Minty Coffee": 250.00,
+                "2KF": 250.00,
+                "Lujo": 600.00
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

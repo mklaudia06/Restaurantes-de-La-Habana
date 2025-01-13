@@ -1,0 +1,202 @@
+{
+    "name": "Bodegón del Asado", 
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address": "Calle 24, No 418, e / 23 y 25",
+        "coordinates_latitude_length":[23.1223287,-82.4071329]
+    },
+    "phone_number": "78375201",
+    "food_type":["Comida cubana", "criolla", "italiana"],
+    "schedule": {
+        "opening": "12: 00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "Pan Baguette Recién Horneado":450,
+            "Picada Bodegón":2000,
+            "Croqueticas caseras de la guajira":850,
+            "Croqueticas de pescado":850,
+            "Eperlans de pescado":2500,
+            "Bolitas de carne":900,
+            "Frituritas de malanga":650,
+            "Chicharrones crujientes de cerdo":1500,
+            "Tostones rellenos":1000,
+            "Tostones cubanos al ajo":750,
+            "Tamalito en cazuela a la cubana":500,
+            "Cesta de yuca con ropa vieja": 1500,
+            "Bolitas de queso":1500 ,
+            "Fajitas de pollo empanadas":2500
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Tamal en cazuela a la cubana":1000,
+            "Charcutería artesanal":2500,
+            "Filete de cerdo a las brasas del carbón":3500,
+            "Mixto de asados criollos":7000,
+            "A las Brasas del carbón 1 kg de cerdo asado":9000,
+            "1/2 kg de cerdo asado":4700,
+            "Ración de cerdo asado":2500,
+            "Chuleta de cerdo al carbón":2500,
+            "Lomo ahumado sin hueso":2500,
+            "Bistec de cerdo grille ":2500,
+            "Lomo sin hueso":3000,
+            "Suprema de pollo":2700,
+            "Costillas de cerdo a las brasas":3500,
+            "Filete de pescado":2800,
+            "Ropa vieja de res":2700,
+            "Vaca frita":2800,
+            "Fajitas de pollo salteadas":2600,
+            "Chilindrón de cordero":3500,
+            "Masas de cerdo fritas":3500
+        },
+        "pastas": null,
+        "pizzas": {
+           "Pizza de queso":1800,
+           "Pizza doble queso":2200,
+           "Pizza de jamón":2000,
+           "Pizza de ropa vieja":3100,
+           "Pizza de ropa vieja de cerdo":3000
+          },
+        "pizza_pasta_add-on": {
+           "Jamón":300,
+           "Queso":500
+          },
+        "side_dishes":{
+            "Arroz blanco":500,
+            "Arroz moro":600,
+            "Frijoles negros dormidos":550,
+            "Vianda hervida con mojo":600,
+            "Ensalada de vegetales":550,
+            "Platanito maduro frito":750
+          },
+          "desserts":{ 
+               "Casquito de guayaba con queso":600,
+               "Mermelada de guayaba con queso":500,
+               "Flan al caramelo":750,
+               "Dulce de frutabomba en almíbar con queso":600,
+               "Buñuelos de la abuela":450,
+               "Copa de helado":750,
+               "Copa Lolita":950,
+               "icecream_flavors":null
+          },
+        "hamburgers_and_sandwichs":{
+           "Sandwich de jamón y queso":1500,
+           "Sandwich al estilo cubano ":1800,
+           "Pan con lechón":1500
+          },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":{
+          "alcoholic_drinks":{
+               "cocktails":{
+                    "Mojito Bodegón":650,
+                    "Cuba Libre Bodegón":600,
+                    "Cubata Bodegón":750,
+                    "Daiquirí frappé o natural":650,
+                    "Ron Collins":650,
+                    "Havana Special":600,
+                    "Canchánchara":600,
+                    "Mary  Pickford":600,
+                    "Martini":700,
+                    "Sangría":800,
+                    "Caipirinha":650,
+                    "Caipirísima":650,
+                    "Caipiroska":700,
+                    "Margarita":700,
+                    "Gin Tonic Beefeater":750,
+                    "Servicio Chelada":200,
+                    "Servicio  Michelada":300
+               },
+               "beers":{
+                    "Cervezas nacionales":450,
+                    "Cervezas importadas":400
+               },
+               "bottles":null,
+               "drinks_with":{
+                    "Havana Club Anejo 3 anos":350,
+                    "Havana Club Anejo Especial":450,
+                    "Havana Club Anejo Reserva":500,
+                    "Havana Club Anejo 7 anos":580,
+                    "Havana Club Smoky":550,
+                    "Havana Club Spiced":500,
+                    "Havana Club Selección de Maestros":800,
+                    "Santiago Anejo 8 años":900,
+                    "Santiago Extra Dry":500,
+                    "Santiago Anejo 12 anos":1650,
+                    "Santiago 11 anos":1600,
+                    "Santero añejo 11 anos":700,
+                    "Santero Añejo 15 anos":900,
+                    "Pacto Navío":800,
+                    "Cubay 10 anos":500,
+                    "Aguardiente":200,
+                    "Moutai de Luxe":1200,
+                    "Grappa del Castelo di banfi":500,
+                    "Pisco Barsol Acholado":500,
+                    "Ritual":450,
+                    "Vodka de la casa ":500,
+                    "Mezcal Señorío":750,
+                    "White Horse":300,
+                    "Jameson":850,
+                    "J&B Classic":300,
+                    "Ballantines Finest":600,
+                    "Johnnie Walker Red Label":700,
+                    "Johnnie Walker Black Label":1700,
+                    "Black and White":350,
+                    "Chivas Regal 12 anos":1100,
+                    "Chivas Regal Royal Salute 21 anos":1100,
+                    "Brandy Torres 5":850
+               }
+
+          },
+          "water":{
+               "Agua natural":300,
+               "Agua gaseada Ciego Montero":400,
+               "Agua Tónica Ciego Montero":250
+
+          },
+          "soft_drinks":{
+               "Refrescos importados":350
+          },
+          "juices":{
+               "Jugos de frutas naturales":300
+          },
+          "lemonade":{
+               "Limonada Frappé":550,
+               "Limonada Natural":550,
+               "Limonada  Frescura":600,
+               "Limonada de frutas":700
+          },
+          "red bull":"",
+          "malta":{
+               "Malta importada":450
+          },
+          "copas":{
+               "Copa de Vino Tinto ":600
+          },
+          "coffees":{
+               "Expresso":200,
+               "Americano":200,
+               "Café con leche":350,
+               "Cortadito":250,
+               "Cappuccino":350,
+               "Frappuccino":600
+
+          }
+        }
+     },
+     "10%_of_the_service": true,
+     "5%_of_the_service": false,
+     "reservation":true,
+     "type_of_currency": "cup"  
+} 

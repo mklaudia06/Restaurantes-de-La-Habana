@@ -1,0 +1,74 @@
+{
+  "name": "Pizzeria Los Atrevidos",
+  "municipality":"Arroyo Naranjo",
+  "location":{
+    "address":"Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra, Arroyo Naranjo",
+    "coordinates_latitude_length":[23.0624142,-82.3664301]
+  },
+  "phone_number": "52966948",
+  "food_type":"Italiana",
+  "schedule": {
+    "opening": "10:00 am",
+    "closure": "9:00 pm",
+    "days_of_the_week": "todos los dias"
+  },
+  "quality":"Muy Bueno",
+  "social_media": {
+    "instagram":null,
+    "facebook":"pizzerialosatrevidos"
+  },
+  "menu":{
+    "breakfast":null,
+    "started":null,
+    "tacos":null,
+    "strong_dishes":null,
+    "pastas":{
+      "Lasaña" : 1100,
+      "Spaguetis Napolitanos": 1000,
+      "Spaguetis d' Parmesano": 1200,
+      "Spaguetis d' Jamón": 1250,
+      "Spaguetis d' Atún": 1350, 
+      "Spaguetis d' Chorizo": 1250, 
+      "Spaguetis d' Aceituna": 1300, 
+      "Spaguetis d' Cebolla": 1150, 
+      "Spaguetis Hawaianos": 1300, 
+      "Spaguetis 4 Quesos": 1400, 
+      "Spaguetis Atrevidos": 1050,
+      "Spaguetis Bolonesa": 1450
+    },
+    "pizzas":{ 
+      "Pizza Napolitana": 1100,
+      "Pizza d' Cebolla": 1250,
+      "Pizza d' Champiñones" : 1300,
+      "Pizza d' Pimiento": 1250,
+      "Pizza d' Jamón" : 1350,
+      "Pizza d' Aceitunas" : 1400,
+      "Pizza d' Chorizo": 1350,
+      "Pizza d' Chorizo Vela" : 1150,
+      "Pizza Hawaiana" : 1400,
+      "Pizza d' Bacon" : 1400,
+      "Pizza d' Atún" : 1500,
+      "Pizza Bolonesa" : 1600,
+      "Pizza d' Jamón Serrano" : 1550,
+      "Pizza d' Camarones": 1650,
+      "Pizza 4 Quesos" : 1500,
+      "Pizza Atrevida" : 1800,
+      "Pizza Jamón Pernia": 1500
+    },
+    "pizza_pasta_add":null,
+    "side_dishes":null,
+    "desserts":null,
+    "hamburgers_and_sandwichs":null,
+    "hamburgers_add-on":null,
+    "aperitivos":null,
+    "snacks":null,
+    "creams_and_soup":null,
+    "digestive":null,
+    "liquids":null
+  },
+  "10%_of_the_service": false,
+  "5%_of_the_service": false,
+  "reservation":false,
+  "type_of_currency": "cup"
+       
+}

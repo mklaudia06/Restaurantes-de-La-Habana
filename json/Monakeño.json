@@ -34,9 +34,7 @@
             "Picadera super Monakeño":5000.00,
             "Eperlan":1600.00
         },
-        "tacos":{
-           
-        },
+        "tacos":null,
         "strong_dishes":{
             "Pescado Grille":3300.00,
             "Langosta":3500.00,
@@ -46,12 +44,7 @@
             "Ropa Vieja de Res o Vaca Frita":2800.00,
             "Chuleta de cerdo":2400.00,
             "Milanesa Monakeño":2150.00,
-            "Camarón al gusto":2500.00,
-            "Arroz congri":500.00,
-            "Arroz blanco":250.00,
-            "Arroz Pilaf":500.00,
-            "Vegetales salteados":250.00,
-            "Guarnición de Puré de Boniato":200.0
+            "Camarón al gusto":2500.00
             },
         "pastas": {
             "Pasta napolitana":1450.00,
@@ -93,7 +86,13 @@
             "Jamon Serrano":800.00,
             "Atun":550.00
         },
-        "side_dishes":null,
+        "side_dishes":{
+            "Arroz congri":500.00,
+            "Arroz blanco":250.00,
+            "Arroz Pilaf":500.00,
+            "Vegetales salteados":250.00,
+            "Guarnición de Puré de Boniato":200.0
+        },
         "desserts":{ 
             "Tarta Flan":1000.00,
             "Cheesecake":1125.00,

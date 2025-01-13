@@ -1,0 +1,131 @@
+{
+    "name": "Café D la Esquina", 
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address": "Paseo #101, esq. a 5ta., Vedado",
+        "coordinates_latitude_length":[23.1388248,-82.4011184]
+    },
+    "phone_number": "78362565",
+    "food_type":["Comida cubana", "caribeña", "americana"],
+    "schedule": {
+        "opening": "8:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "Pizza Tacos Mix(3 masas de pizza tipo taco con queso tipo mozzarella y ropa vieja de pollo o cerdo)":2600,
+            "Tabla de la casa(Tabla con jamón serrano, jamón cocido, aceitunas, queso azul, empellitas, pico de gallo y bambinas)":4200,
+            "Canoa de Olga(Tamal de maíz con empellitas y toque de pesto)":800,
+            "Trío de pizzeta Margarita(3 pizzas pequeñas, queso tipo mozzarella y salsa de tomate)":1000,
+            "Tapa Hot Dog(5 masas de pizza enrollada con queso tipo mozzarella, perro caliente, mayonesa, ketchup y mostaza)":2200,
+            "Trío de pizzeta especial(1 pizza pequeña con queso tipo mozzarella y salsa de tomate, 1 pizza pequeña con queso tipo mozzarella, salsa de tomate y jamón, 1 pizza pequena con queso tipo mozzarella, salsa de tomate y jamón serrano)":1300 
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Falso Sushi(5 rollitos de masa de pizza picados en forma de sushi con queso tipo mozzarella y tomate (jamón, queso azul o gouda, atún))":2600,
+            "Rollo Criollo(Masa de pizza enrollada, queso tipo mozzarella y lechón asado)":1900,
+            "Rollo La Esquina(Ropa vieja de res, plátano maduro frito y queso tipo mozarella)":1900,
+            "Plato Campesino(Lechón asado o ropa vieja de res, tamal, ensalada de vegetales, vianda, arroz y frijoles)":2500
+        },
+        "pastas": {
+            "Pasta clásica":1300,
+            "Pasta al pesto":1500,
+            "Pasta  Ragú/Bolognesa":1800,
+            "Pasta Carbonara":2200
+
+        },
+        "pizzas": null,
+        "pizza_pasta_add-on": {
+            "Cebolla":120,
+            "Champiñón":170,
+            "Queso Gouda":200,
+            "Jamón Embuchado":100,
+            "Bacon":150
+
+        },
+        "side_dishes":null,
+        "desserts":{ 
+            "Tarta de la casa":700,
+            "icecream_flavors":{
+                "Batido de helado":650
+            }
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids":{
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito":700,
+                    "Mojito Especial":750,
+                    "Pina Colada":900,
+                    "Daikirí":700,
+                    "Margarita":1000,
+                    "Sangría":750,
+                    "Caipirina":750,
+                    "Caipiroska":750,
+                    "Gin Tonic":900,
+                    "Vodka Tonic":900,
+                    "Limonada Lizzie con ron":750
+                },
+                "beers":{
+                    "Cerveza importada":400,
+                    "Cerveza nacional superior":550
+                },
+                "bottles":null,
+                "drinks_with":null
+            },
+            "water":{
+                "Agua gaseada importada":1050,
+                "Agua natural pequeña":300,
+                "Agua natural grande":500,
+                "Agua gaseada nacional":500,
+                "Agua Tónica nacional":350
+            },
+            "soft_drinks":{
+                "Refresco nacional":350,
+                "Refresco importado":350
+            },
+            "juices":{
+                "jugo de frutas naturales":250,
+                "Batido de frutas":450
+            },
+            "lemonade":{
+                "Limonada natural":450,
+                "Limonada Lizzie sin ron":700
+            },
+            "malta":450,
+            "Energizante":600,
+            "copas":{
+                "Copa de vino tinto":600,
+                "Copa de vino blanco":600
+            },
+            "coffees":{
+                "expresso ":200,
+                "Capuccino":350,
+                "Frapuccino":700,
+                "Americano":220,
+                "Cortado":260,
+                "Café con leche":350,
+                "Carajillo":360,
+                "Café Bombón":600,
+                "Café frío":300,
+                "Té":250
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+} 

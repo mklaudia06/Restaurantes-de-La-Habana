@@ -1,0 +1,61 @@
+{
+    "name": "Cafe Bohemio",
+    "municipality":"Plaza de la Revolucion",
+    "location":{
+        "address":"Malecon y C",
+        "coordinates_latitude_length":[23.142678, -82.400146]
+    },
+    "phone_number":null ,
+    "food_type":["Americana"],
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "9:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Muy Bueno",
+    "social_media": {
+        "instagram":"",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast":{
+            "Baguette Jamón y Queso":700.00,
+            "Croissant Nutella":800.00,
+            "Croissant Jamón y Queso":900.00,
+            "Mini Croissants Chocolate":150.00,
+            "Dona Chocolate":250.00
+        },
+        "started": null,
+        "main_courses": null,
+        "pizzas": null,
+        "pasta":null,
+        "desserts": null,
+        "liquids":{
+            "alcoholic_drinks":null,
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "Frutos del Bosque/Plátano":600.00,
+                "Mango": 500.00,
+                "Frutabomba":500.00
+            },
+            "lemonade":null,
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "coffees":{
+                "Capuchino":250.00,
+                "Expresso":100.00,
+                "Cortado":150.00,
+                "Bombón":250.00,
+                "Affogato":500.00,
+                "Frappuccino":500.00
+            }
+
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

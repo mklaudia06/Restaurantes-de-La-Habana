@@ -1,0 +1,228 @@
+{
+    "name": "Habana Blues",
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address": "Calle H no. 405 entre 17 y 19, Vedado",
+        "coordinates_latitude_length":[23.1392559,-82.3892525]
+    },
+    "phone_number": "78356545",
+    "food_type": ["Comida caribeña", "latina", "criolla", "cubana"],
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "Las Honradas(Frituritas de Malanga)": 550,
+            "Cuando el amor no alcanza(croquetas de la casa)": 650,
+            "Se permuta(Tamal en cazuela)": 980,
+            "Sueno tropical(Ensalada de frutas tropicales)": 550,
+            "Al atardecer(Ensalada de pollo)": 900,
+            "Hasta cierto punto(Fajitas de pollo)": 1000,
+            "Como la vida misma (Eperlan de Pescado)": 1200,
+            "Perfecto amor equivocado(Coctel de marsicos)": 1200,
+            "Boccacerias Habaneras(picadera variada)": 1700,
+            "Irremediablemente juntos(tostones rellenos con jamon y queso)": 950,
+            "A otro con ese cuento(cesta de pan)": 400,
+            "Sopa de pollo de Enrique Molina": 550   
+        },
+        "tacos":null,
+        "strong_dishes":{
+            "Juan de los muertos(Suprema de pollo grille)": 1600,
+            "Viva Cuba(Suprema de pollo empanada)": 1800,
+            "La bella del alhambra(Pollo cordon bleu)": 2400,
+            "Clandestinos(Pollo grille con camarones y punta de ajo) ": 2600,
+            "Al habla con los muertos(Fajitas de pollo)": 2000,
+            "Esther en alguna parte(Arroz primavera)": 650,
+            "Doble juego(Arroz Pilaf)": 500,
+            "El cuerno de la abundancia(Arroz frito especial)": 1500,
+            "Memorias del subdesarrollo(Arroz salteado)": 1100,
+            "Camino a eden(Filete de pescado grille)": 1990,
+            "Un paraiso bajo las estrellas(Filete de pescado grille con salsa de mariscos)": 2300,
+            "Amor cronico(Filete de pescado grille con camarones y punta de ajo)": 3100,
+            "No hay sabado sin sol(Filete de pescado al pesto)": 1990,
+            "Una casa colonial(Filete de pescado canciller)": 2700,
+            "Patty Candela(Filete de pescado con salsa de limon)": 1990,
+            "Una novia para david(Filete de pescado sofia estilo habana blues)": 2000,
+            "El regreso(Filete de pescado joinville)": 3900,
+            "La cara oculta de la luna(Eperlan de pescado)": 2500,
+            "Vuelos prohibidos(Camarones grille)": 2200,
+            "Los pequenos fugitivos(Camarones empanados o rebosados)": 2600,
+            "La tierra y el cielo(Camaron al ajillo)": 2400,
+            "Rompiendo el silencio(Camaron enchilado)": 2400,
+            "Ciudad en rojo(Filete mignon)": 3800,
+            "Mas alla del limite(Bistec de res encebollado)": 2200,
+            "Promesas(Filete de res a la Douche)": 2300,
+            "Algo mas que sonar(Ropa vieja de res)": 1990,
+            "La noche de los inocentes(Bistec de cerdo grille)": 1750,
+            "El premio flaco(Escalope de cerdo)": 1970,
+            "Boleto a paris(Bistec de cerdo uruguallo)": 2600,
+            "Suite habana(Lomo de cerdo ahumado)": 1900,
+            "Vientos en la habana(Masa de cerdo frita)": 2000,
+            "Lejania(Chulestas de cerdo)": 1800,
+            "Como la vida misma(Rollito de cerdo caribeno)": 2800
+        },
+        "pastas": {
+            "De cierta manera(Pasta con vegetales)": 1000,
+            "Un rey en la habana(Pasta con tomate y queso)": 990,
+            "Aventuras de Juan Quinquin(Pasta frutos del mar)": 1900
+        },
+        "pizzas": {
+            "un hombre de exito(Pizza con tomate y queso)": 1300,
+            "Son o no son(Pizza cuatro estaciones)": 2000,
+            "Habanera(Pizza Habanera)": 1900
+        },
+        "pizza_pasta_add-on": {
+            "Pina": 300,
+            "Aji piminento": 300,
+            "Cebolla": 310,
+            "Jamon": 400,
+            "Chorizo": 400,
+            "Aceitunas": 400,
+            "Atun": 500,
+            "Champinon": 600,
+            "Queso": 510,
+            "Camaron": 800,
+            "Ropa vieja": 840
+        },
+        "side_dishes":{
+            "Vestido de novia(Arroz blanco)": 480,
+            "Oh, la habana(Arroz moro)": 520,
+            "Cuando el agua regresa a la tierra(Frijoles negros dormidos)": 520,
+            "Las doce sillas(Vegetales salteados con mantequilla)": 540,
+            "Habanastation(Vianda frita del dia)": 540,
+            "Tierra brava(Ensalada de vegetales frescos)": 530,
+            "Miel para oshun(Crema de malanga)": 530,
+            "El brigadista(Fufu de platano, yuca, malanga)": 400
+        },
+        "desserts":{ 
+            "El benny(Brownie de chocolate con una bola de helado)": 700,
+            "En tres y dos(Tarta de chocolate con vainilla)": 380,
+            "Tres veces dos(Cake a la moda)":990 ,
+            "Regreso a itaca(Dulce cubano casero)": 400,
+            "Plaff(Flan de caramelo)": 450,
+            "En tiempo de amar(Tarta de mousse)": 880,
+            "Bajo presion(Pie de limon o de dulce de leche)": 880,
+            "icecream_flavors":{
+                "Madagascar (Copa con dos bolas de helado)": 700,
+                "Melaza(Copa de helado artesanal italiano)": 990
+            }
+
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "La primera carga al machete(Crema de calabaza)": 480,
+            "Adorables mentiras(Sopa china especial)": 700,
+            "Hoy como ayer(Crema de queso)": 1000
+        },
+        "digestive":null,   
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Cubanito": 550,
+                    "Cuba libre": 550,
+                    "Daiquiri frappe": 500,
+                    "Daiquiri rebelde": 550,
+                    "Pina colada": 600,
+                    "Mojito de frutas": 580,
+                    "Mojito Mulatico": 700,
+                    "Mojito Tradicional": 550,
+                    "Mojito santiaguero": 850,
+                    "Sangria": 650,
+                    "Bloody mary": 650,
+                    "Dry Martini": 590,
+                    "Alexander": 550,
+                    "Caipirinha": 600,
+                    "Caipirisima": 600,
+                    "Screwdriver": 500,
+                    "Margarita": 580,
+                    "Cubata": 550,
+                    "Gin Tonic": 750,
+                    "Mulata": 500,
+                    "Havana green": 700,
+                    "servicio de michelada": 300,
+                    "Limonada frappe": 350,
+                    "Malteada": 650,
+                    "Coctel San Francisco": 500,
+                    "Virgen Colada": 450
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Crema Baileys": 600,
+                    "Crema al ron": 600,
+                    "Licores nacionales": 350,
+                    "Licor frangelico": 800,
+                    "Vermouth blanco": 280,
+                    "Havana Club anejo 3 anos": 350,
+                    "Havana Club anejo reserva": 500,
+                    "Havana Club anejo especial": 450,
+                    "Havana Club anejo 7 anos": 600,
+                    "Ron santiago": 650,
+                    "Ron seleccion de maestro": 800,
+                    "Chivas regal": 800,
+                    "Jameson": 600,
+                    "Ballentines": 780,
+                    "Clan Campbell": 450,
+                    "Jhonnie walker e.roja": 800,
+                    "Jhonnie walker e.negra": 950,
+                    "JyB": 550,
+                    "Vodka": 400,
+                    "Ginebra": 500,
+                    "Tequia": 600,
+                    "Tequila Reposado": 650
+                },
+                "beers":{
+                    "Cerveza": 400,
+                    "Cerveza cristal/bucanero": 450,
+                    "Cerveza corona/modelo": 700
+                }
+            },
+            "water":{
+                "Agua natural/gaseada 500ml": 250,
+                "Agua natural/gaseada 1500ml": 350
+            },
+            "soft_drinks":{
+                "Refrescos": 380
+            },
+            "juices":{
+                "Jugos Naturales": 280
+            },
+            "lemonade":{
+
+            },
+            "Kermato": 650,
+            "red bull":750,
+            "malta":400,
+            "copas":{
+                "Vino blanco": 700,
+                "Vino tinto": 700,
+                "Vino rosado": 700
+            },
+            "coffees":{
+                "Expresso": 300,
+                "Americano": 270,
+                "Carajillo": 350,
+                "Cortado": 320,
+                "Cappuccino": 400,
+                "Te": 230,
+                "Cafe con leche": 450,
+                "Frappuccino": 580,
+                "Bombon": 550
+            }
+        }     
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup" 
+} 

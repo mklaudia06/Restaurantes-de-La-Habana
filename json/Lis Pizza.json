@@ -1,0 +1,123 @@
+{
+    "name": "Doña Lis Pizza",
+    "municipality":"Plaza de la Revolucion",
+    "location": {
+        "address":" 1169 A Neptuno",
+        "coordinates_latitude_length":[23.1372875,-82.381778]
+    },
+    "phone_number": "5510909",
+    "food_type":"Pizzas",
+    "schedule": {
+        "opening": "10:30 am",
+        "closure": "12:00 am",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Excelente",
+    "social_media": {
+        "instagram":"",
+        "facebook":""
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "Croquetas": 400.00,
+            "Bolitas de queso/jamón": 500.00,
+            "Bolitas de pescado": 450.00,
+            "Frituras Malanga": 350.00,
+            "Papas fritas": 500.00,
+            "Fajitas de pollo": 600.00,
+            "Tostones rellenos": 500.00,
+            "Nachos": 300.00,
+            "Ración Yuca/Mojo": 250.00         
+        },
+        "tacos":{
+            "Tacos al Pastor": 700.00,
+            "Tacos Cerdo": 800.00,
+            "Tacos Pollo/Vegetales": 700.00,
+            "Tacos de pescado": 750.00
+        },
+        "strong_dishes":{
+            "Pechuga Grillé": 800.00,
+            "Pechuga empanada": 850.00,
+            "Fajitas salteadas": 700.00,
+            "Bistec de cerdo": 900.00,
+            "Bistec de cerdo gratinado": 1000.00,
+            "Filete de pescado grillé": 900.00
+        },
+        "pastas": {
+            "Lasaña": 800.00
+        },
+        "pizzas": {
+            "Pizza napolitana": 650.00,
+            "Pizza Margarita": 700.00,
+            "Pizza Hawaiana": 900.00,
+            "Pizza Doña Lis": 1400.00,
+            "Pasta Napolitana": 500.00,
+            "Pasta Vegetariana": 650.00
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":{ 
+            "icecream_flavors":{
+                "Pote de helado": 750.00,
+                "Paleta de helado": 200.00,
+                "Batido de Helado": 500.00
+            }
+
+        },
+        "hamburgers_and_sandwichs":{
+            "Don Hamburgueso/Vianda frita": 550.00,
+            "Hamburguesa Doña Lis/Vianda frita": 1000.00,
+            "Cheeseburger/Vianda frita": 650.00,
+            "Sándwich Atún/Vianda frita": 650.00,
+            "Sándwich Jamón y Queso/Vianda frita": 550.00,
+            "Sándwich Pollo y Vegetales/Vianda frita": 650.00
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Servicio Michelada": 300.00,
+                    "Servicio Chelada": 200.00
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza Nacional": 300.00,
+                    "Cerveza de botella":300.00,
+                    "Cerveza Importada": 280.00
+                }
+            },
+            "water":{
+                "Agua": 180.00
+            },
+            "Energizante": 250.00,
+            "soft_drinks":{
+                "Refresco": 280.00
+            },
+            "juices":{
+                "Jugo natural": 150.00,
+                "Batido de fruta": 350.00,
+                "Batido de Trigo": 500.00
+            },
+            "lemonade":{
+                "Limonada Frappé": 300.00
+            },
+            "red bull":"",
+            "malta":{
+                "Malteada": 500.00,
+                "Malta": 300.00
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,138 @@
+{
+    "name":"Wapa",
+    "municipality": "Plaza de la Revolución",
+    "location": {
+        "address": "Calle 4 entre 15 y 17, Vedado",
+        "coordinates_latitude_length": [23.133054069126786, -82.39869353392423]
+    },
+    "phone_number": "5378314553",
+    "food_type":["Cuban", "Centroamerican"],
+    "schedule": {
+        "opening": "9:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": "todos los dias"
+    },
+    "quality":"Normal",
+    "social_media": {
+        "instagram":"wapa537",
+        "facebook":"Wapa537"
+    },
+    "menu": {
+        "breakfast":{  
+            "combo 1": 1500 ,
+            "combo 2" : 1900 ,
+            "combo 3 infantil": 1100 ,
+            "omelette jardinera" : 1200 ,
+            "omelette tentación" : 1200 ,
+            "omelette del campo" : 1100 ,
+            "omelette" : 600 
+        },
+        "started":{  
+            "croquetas de la abuela" : 700 ,
+            "croquetas de jamón serrano" : 1000 ,
+            "bolitas de queso" : 1000 ,
+            "ceviche de pescado": 2000 ,
+            "ceviche mixto tropical" : 2600 ,
+            "ceviche de camarón" : 2900 ,
+            "cóctel de camarón" : 2000 ,
+            "bastón de pollo" : 1900 ,
+            "daditos de pescado" : 2100 ,
+            "fritura de malanga" : 500 ,
+            "brusquetas" : 900 ,
+            "tartaleta de jamón y queso" : 900 ,
+            "tartaleta de pollo" : 1350 ,
+            "tartaleta de atún": 1100 
+        },
+        "tacos":null,
+        "strong_dishes":null,  
+        "pastas": {
+            "lasaña" : 1300,
+            "canelón de jamón" : 1200,
+            "canelón boloñesa" : 1750 
+        },
+        "pizzas": {
+            "pizza": 1200
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":{ 
+            "wapetón" : 2000 ,
+            "wapetón dinamita" : 2000 ,
+            "wapetón volcán" : 2000 ,
+            "wapito" : 1200 ,
+            "batidos de frutas naturales" : 700 ,
+            "tartaleta": 1000,
+            "icecream_flavors":{
+                "copa de helado": 1000 ,
+                "batidos de helados" : 1200,
+                "bola de helado": 300 
+            }
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "crema de queso" : 600 
+        },
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "michelada" : 600 ,
+                    "sangria" : 1000 ,
+                    "copa de vino": 800 ,
+                    "cuba libre": 800 ,
+                    "cubata" : 850 ,
+                    "mojito" : 800 ,
+                    "caipiriña" : 500 ,
+                    "caipiroska" : 500 ,
+                    "caipirisima" : 550 ,
+                    "ron collins" : 850 ,
+                    "piña colada" : 850 ,
+                    "barbie": 700 ,
+                    "canchánchara" : 550 ,
+                    "daiquirí": 650 
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "cerveza importada" : 450 ,
+                    "cerveza nacional" : 550 
+                }
+            },
+            "water":{
+                "agua natural" : 300
+            },
+            "soft_drinks":{
+                "refresco importado" : 400
+            },
+            "juices":null,
+            "lemonade":null,
+            "red bull":"",
+            "malta":{
+                "malta" : 500,
+                "malteada" : 800 
+            },
+            "copas":null,
+            "coffees":{
+                "expresso": 220 ,
+                "americano": 360 ,
+                "cortadito" : 250 ,
+                "cappuccino" : 550 ,
+                "cappuccino wapa" : 600 ,
+                "bombon" : 600 ,
+                "mocaccino" : 550 ,
+                "frappuccino": 950 ,
+                "Q locura": 850,
+                "café con leche" : 550 ,
+                "chocolate caliente" : 350 ,
+                "té": 100 
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}
