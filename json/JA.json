@@ -2,17 +2,21 @@
     "name": "JA",
     "municipality":"10 de octubre",
     "location": {
-        "address":"Avenida Acosta, entre Juan Delgado y Goicuria",
+        "address":{
+            "Street1":"Avenida Acosta",
+            "Street2":"Juan Delgado",
+            "Street3":"Goicuria"
+        },
         "coordinates_latitude_length" : [23.0893110, -82.3763349]
     },
     "phone_number": null,
-    "food_type":"comida rapida",
+    "food_type":["rapida"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Malo",
+    "quality":null,
     "social_media": {
         "instagram":null,
         "facebook":null

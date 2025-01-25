@@ -1,21 +1,25 @@
 {    
   "name" : "Aroma de Café",
   "municipality" : "La Lisa",
-  "food_type":"Cafe",
+  "food_type":["cafe"],
   "location": {
-    "address":"Calle 244 No. 5106 e/ 51 y 61, San Agustín",
+    "address":{
+            "Street1":"Calle 244",
+            "Street2":"51",
+            "Street3":"61"
+        },
     "coordinates_latitude_length" : [23.0509868,-82.4603117]
   },
   "phone_number": "053397639",
   "schedule": {
     "opening": "12:00 pm.",
     "closure": "12:00 am",
-    "days_of_the_week": "todos los dias"
+    "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
   },
-  "quality":"Excelente",
+  "quality": 4.9,
   "social_media": {
-    "instagram":"",
-    "facebook":""
+    "instagram":null,
+    "facebook":null
   },
   "menu" : {
     "breakfast":null,

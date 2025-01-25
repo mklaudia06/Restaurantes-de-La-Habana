@@ -2,20 +2,24 @@
     "name": "Tablazo", 
     "municipality": "Plaza de la Revolucion",
     "location": {
-        "address": "Calle 1era entre C y D, Vedado.",
+        "address":{
+            "Street1":"Calle 1era",
+            "Street2":"Calle C",
+            "Street3":"Calle D"
+        },
         "coordinates_latitude_length":[23.1426805,-82.399496]
     },
     "phone_number": "78351321",
-    "food_type": ["Italiana", "caribeña", "latina", "internacional", "cubana"],
+    "food_type": ["italiana", "caribeña", "latina", "internacional", "cubana"],
     "schedule": {
-        "opening": "9:00 am",
+        "opening": "09:00 am",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.4,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"tablazobarrestaurante",
+        "facebook":"Tablazo"
     },
     "menu": {
         "breakfast":{

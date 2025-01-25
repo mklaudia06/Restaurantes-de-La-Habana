@@ -2,20 +2,24 @@
     "name":"Pal'Karajo",
     "municipality":"Cotorro",
     "location":{
-        "adress":"Avenida 101 Esquina 16 Centro Cotorro",
+        "address":{
+            "Street1":"Avenida 101",
+            "Street2":"16",
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.1431251,-82.3566608]
     },
-    "phone_number": "",
-    "food_type":"",
+    "phone_number": "063436878",
+    "food_type":["mixta"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.5,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"pal.karajo",
+        "facebook":null
     },
     "menu": {
         "breakfast":null,

@@ -2,17 +2,21 @@
     "name": "Beirut", 
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address":"Calle 1ra entre A y B",
+        "address":{
+            "Street1":"Calle 1ra",
+            "Street2":"A",
+            "Street3":"B"
+        },
         "coordinates_latitude_length" : [23.1413285,-82.401272]
     },
     "phone_number": "78315883",
-    "food_type":"Comida libanesa",
+    "food_type":["libanesa"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.4,
     "social_media": {
         "instagram":"beiruthabana",
         "facebook":"Beirut Shawarma"

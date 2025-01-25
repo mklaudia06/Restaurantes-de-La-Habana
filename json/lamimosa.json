@@ -2,23 +2,27 @@
     "name": "Mimosa",
     "municipality": "Centro Habana",
     "location": {
-        "address":"Salud entre Escobar y C.Gervasio",
+        "address":{
+            "Street1":"Salud",
+            "Street2":"Escobar",
+            "Street3":"C.Gervasio"
+        },
         "coordinates_latitude_length": [23.134370150762123,-82.3682591198702]
     },
-   "phone_number": 78671790,
-    "food_type":"italiana",   
+   "phone_number": "78671790",
+    "food_type":["italiana"],   
     "schedule": {
         "opening": "12:00 pm",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.4,
     "social_media": {
         "instagram":"restaurantemimosa",
         "facebook":"La Mimosa" 
     },
     "menu": {
-        "breakfasts": false,
+        "breakfast": false,
         "started": {
             "croquetas de jamón":1280,
             "focaccia al orégano":994, 

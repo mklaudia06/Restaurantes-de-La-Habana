@@ -2,17 +2,21 @@
     "name": "El Rápido",
     "municipality": "Cerro",
     "location": {
-        "address":"Cruz del Pader entre Pedrosa y Amenidares",
+        "address":{
+            "Street1":"Cruz del Padre",
+            "Street2":"Pedrosa",
+            "Street3":"Amenidares"
+        },
         "coordinates_latitude_length":[23.120672, -82.374343]
     },
     "phone_number": null,
-    "food_type":"comida rapida",
+    "food_type":["rapida"],
     "schedule": {
-        "opening": "7:30 am",
-        "closure": "7:30 pm",
-        "days_of_the_week": "todos los dias"
+        "opening": "07:30 am",
+        "closure": "07:30 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Malo",
+    "quality":null,
     "social_media": {
         "instagram": null,
         "facebook":null

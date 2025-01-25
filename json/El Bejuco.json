@@ -2,20 +2,24 @@
     "name": "El Bejuco",
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address":"Calle Línea 1206 entre 18 y 20",
+        "address":{
+            "Street1":"Calle Línea",
+            "Street2":"18",
+            "Street3":"20"
+        },
         "coordinates_latitude_length":[23.130904,-82.410697]
     },
     "phone_number": "5350671673",
     "food_type":null,
     "schedule": {
-        "opening": "24h abierto",
-        "closure": "24h abierto",
-        "days_of_the_week": "todos los dias"
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.8,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"_elbejuco_",
+        "facebook":null
     },
     "menu": {
         "breakfast":{

@@ -2,19 +2,23 @@
     "name": "Cafe Bohemio",
     "municipality":"Plaza de la Revolucion",
     "location":{
-        "address":"Malecon y C",
+        "address":{
+            "Street1":"Malecon",
+            "Street2":"C",
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.142678, -82.400146]
     },
     "phone_number":null ,
-    "food_type":["Americana"],
+    "food_type":["americana"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "9:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
     "quality":"Muy Bueno",
     "social_media": {
-        "instagram":"",
+        "instagram":null,
         "facebook":null
     },
     "menu": {

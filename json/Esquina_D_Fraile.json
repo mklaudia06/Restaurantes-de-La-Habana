@@ -2,20 +2,24 @@
     "name": "Esquina D-Fraile ",  
     "municipality": "Plaza de la Revolucion",
     "location": {
-        "address": "Calle D entre 1era y 3era, Vedado.",
+        "address":{
+            "Street1":"Calle D ",
+            "Street2":"entre 1era",
+            "Street3":"3era"
+        },
         "coordinates_latitude_length":[23.1424393,-82.3989599]
     },
     "phone_number": "52932497",
-    "food_type":["Comida Americana", "caribeña", "latina", "criolla"],
+    "food_type":["americana", "caribeña", "latina", "criolla"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"excelente",
+    "quality":4.8,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast":null,

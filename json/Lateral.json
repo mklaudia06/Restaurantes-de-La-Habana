@@ -2,17 +2,21 @@
     "name": "Lateral",
     "municipality":"10 de octubre",
     "location": {
-        "address":"Esquina Goicuria y Avenida Acosta, La Habana",
+        "address":{
+            "Street1":"Goicuria",
+            "Street2":"Avenida Acosta",
+            "Street3":null
+        },
         "coordinates_latitude_length" : [23.089467, -82.377039]
     },
     "phone_number": "59525677",
-    "food_type":"",
+    "food_type":["mixta"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "10:30 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":3.6,
     "social_media": {
         "instagram":"lateral.at",
         "facebook":null

@@ -2,20 +2,24 @@
     "name": "Distrito 25", 
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address": "Calle 25 entre M y N, Vedado",
+        "address":{
+            "Street1":"Calle 25",
+            "Street2":"M",
+            "Street3":"N"
+        },
         "coordinates_latitude_length":[23.1398001,-82.3815331]
     },
     "phone_number": "52831416",
-    "food_type":"Comida mexicana",
+    "food_type":["mexicana"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality": 3.2,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast":null,

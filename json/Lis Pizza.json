@@ -2,20 +2,24 @@
     "name": "Doña Lis Pizza",
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address":" 1169 A Neptuno",
-        "coordinates_latitude_length":[23.1372875,-82.381778]
+        "address":{
+            "Street1":"Neptuno",
+            "Street2":"Basarrata",
+            "Street3":"Infanta"
+        },
+        "coordinates_latitude_length":[23.1370815,-82.379296]
     },
     "phone_number": "5510909",
-    "food_type":"Pizzas",
+    "food_type":["pizzas"],
     "schedule": {
         "opening": "10:30 am",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality": 5.0,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"donalis_pizza",
+        "facebook":"Doña Lis"
     },
     "menu": {
         "breakfast":null,

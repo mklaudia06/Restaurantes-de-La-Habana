@@ -2,17 +2,21 @@
     "name": "La Casona del Cerro",
     "municipality": "Cerro",
     "location":{
-        "address": "Calzada del Cerro entre Alzobispo y Peñón",
+        "address":{
+            "Street1":"Calzada del Cerro",
+            "Street2":"Alzobispo",
+            "Street3":"Peñón"
+        },
         "coordinates_latitude_length":[23.109588, -82.382683]
     },
     "phone_number": null,
-    "food_type":"comida criolla",
+    "food_type":["criolla"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":null,
     "social_media": {
         "instagram":null,
         "facebook":null
@@ -61,5 +65,5 @@
     "10%_of_the_service": false,
     "5%_of_the_service": false,
     "reservation":false,
-    "type_of_currency": "cup o usd"
+    "type_of_currency": "cup"
 }

@@ -1,18 +1,22 @@
 {
-    "name": "Café Literario La Copa",
+    "name": "Café Literario Marques de Arcos ",
     "municipality":"Playa",
     "location":{
-        "address":" Calle 1ra A entre 42 y 44, Miramar",
+        "address":{
+            "Street1":"Calle 1ra A",
+            "Street2":"42",
+            "Street3":"44"
+        },
         "coordinates_latitude_length":[23.1408877,-82.3513285]
     },
     "phone_number": "55094105",
     "food_type":null,
     "schedule": {
-        "opening": "9:00 am",
-        "closure": "5:00 pm",
-        "days_of_the_week": "todos los dias"
+        "opening": "09:00 am",
+        "closure": "05:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":2.6,
     "social_media": {
         "instagram":"cafe.literario.lacopa",
         "facebook":null

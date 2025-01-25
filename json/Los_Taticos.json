@@ -2,20 +2,24 @@
     "name": "Los Taticos",
     "municipality":"Marianao",
     "location":{
-        "address":"27 y 27A",
+        "address":{
+            "Street1":"27",
+            "Street2":"27A",
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.0840539,-82.4385685]
     },
     "phone_number": null,
-    "food_type":"Variada",
+    "food_type":["mixta"],
     "schedule": {
-        "opening": "8:00 am",
+        "opening": "08:00 am",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"",
+    "quality":5.0,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast": {

@@ -2,15 +2,19 @@
     "name": "MMCafeteria",
     "municipality":"Marianao",
     "location":{
-        "address": "Avenida 41",
+        "address":{
+            "Street1":"Avenida 41",
+            "Street2":"82",
+            "Street3":"84"
+        },
         "coordinates_latitude_length": [23.0892413,-82.421799]
     },
     "phone_number": "72611382",
-    "food_type":"variada",
+    "food_type":["mixta"],
     "schedule": {
-        "opening": "9:00 am",
+        "opening": "09:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
     "quality":null,
     "social_media": {

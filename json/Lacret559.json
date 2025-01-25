@@ -2,21 +2,25 @@
     "name": "Lacret 559",
     "municipality":"10 de Octubre",
     "location": {
-        "address":"Calle Gral.Lacret entre Goicuria y Avenida Mayia Rodriguez",
+        "address":{
+            "Street1":"Calle Gral.Lacret",
+            "Street2":"Goicuria",
+            "Street3":"Avenida Mayia Rodriguez"
+        },
         "coordinates_latitude_length": [23.101582, -82.374902]
     },
-    "phone_number":"",
-    "food_type": "Internacional",
+    "phone_number":"052906422",
+    "food_type": ["internacional"],
     "schedule": {
         "opening": "12:00 pm",
         "closing": "11:00 pm",
-        "days_of_the_week":"todos los dias"
+        "days_of_the_week":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
       
-    "quality": "Excelente",
+    "quality": 4.3,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfasts":null,
@@ -138,5 +142,5 @@
     "10%_of_the_service": false,
     "5%_of_the_service": false,
     "reservation":true,
-    "type_of_currency": "cup o usd"
+    "type_of_currency": "cup"
 }

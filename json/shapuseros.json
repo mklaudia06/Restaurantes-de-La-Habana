@@ -2,17 +2,21 @@
     "name": "Shapuseros",
     "municipality": "Cerro",
     "location":{
-        "address": "Calzada de Ayestarán entre San Pedro y Ayuntamineto",
+        "address":{
+            "Street1":"Calzada de Ayestarán",
+            "Street2":"San Pedro",
+            "Street3":"Ayuntamineto"
+        },
         "coordinates_latitude_length":[23.0974659,-82.4120171]
     },
     "phone_number": null,
-    "food_type":"Hamburguesera",
+    "food_type":["hamburguesera"],
     "schedule": {
-        "opening": "9:00 am",
-        "closure": "9:00 pm",
-        "days_of_the_week": "todos los dias"
+        "opening": "09:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":3.0,
     "social_media": {
         "instagram":null,
         "facebook":null

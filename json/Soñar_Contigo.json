@@ -2,20 +2,24 @@
     "name": "Sonar contigo", 
     "municipality": "Plaza de la Revolucion",
     "location": {
-        "address": "Esquina Ave 23 y Calle C",
+        "address":{
+            "Street1":"Ave 23",
+            "Street2":"Calle C",
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.1336384,-82.3963861]
     },
     "phone_number": "53395848",
-    "food_type":["Desayunos" , "Cafes"],
+    "food_type":["desayunos" , "cafes"],
     "schedule": {
-        "opening": "1:00 pm",
-        "closure": "8:00 pm",
-        "days_of_the_week": "todos los dias"
+        "opening": "01:00 pm",
+        "closure": "08:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":3.9,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"sonarcontigo_cafe",
+        "facebook":"cafe Soñar Contigo"
     },
     "menu": {
         "breakfast":null,

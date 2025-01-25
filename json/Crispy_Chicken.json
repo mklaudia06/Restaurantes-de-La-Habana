@@ -2,17 +2,21 @@
     "name": "Crispy Ckicken",
     "municipality":"10 de octubre",
     "location": {
-        "address":"Avenida de  Acosta, entre Juan Delgado y D'Strampes",
+        "address":{
+            "Street1":"Avenida de  Acosta",
+            "Street2":"Juan Delgado",
+            "Street3":"D'Strampes"
+        },
         "coordinates_latitude_length" : [23.0893264, -82.3761382]
     },
     "phone_number": "+53 63182745",
-    "food_type":"comida rapida",
+    "food_type":["rapida"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":null,
     "social_media": {
         "instagram":"crispy.chicken.monaco",
         "facebook":null

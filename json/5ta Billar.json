@@ -2,20 +2,24 @@
     "name": "5ta Billar",
     "municipality": "Regla",
     "location": {
-        "address":"Avenida Rotaria, entre A y Enlace",
+        "address":{
+            "Street1":"Avenida Rotaria",
+            "Street2":"A",
+            "Street3":"Enlace"
+        },
         "coordinates_latitude_length":[23.123472,-82.3224115]
     },
     "phone_number": "52943290",
-    "food_type": ["Cocteleria","Internacional"],
+    "food_type": ["cocteleria","internacional"],
     "schedule": {
-        "opening": "1:00 pm",
-        "closure": "1:00 am",
-        "days_of_the_week": "todos los diass"
+        "opening": "01:00 pm",
+        "closure": "01:00 am",
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.8,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast": null,

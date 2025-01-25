@@ -2,25 +2,25 @@
     "name": "Nel Paradiso",
     "municipality":"10 de Octubre",
     "location": {
-        "address":"Esquina Avenida Acosta y Armas",
+        "address":{
+            "Street1":"Avenida Acosta",
+            "Street2":"Armas",
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.0892691,-82.3607109]
     },
     "phone_number": "52953716",
-    "food_type":"Criolla",
+    "food_type":["criolla"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":3.7,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"nelparadiso",
+        "facebook":"Nel Paradiso"
     },
-    "reservation_options": true,
-    "social_networks": ["Facebook","WhatsApp","Instagram"],
-    "payment_options": ["Transfermovil","Efectivo","Euro","USD","Pago desde el exterior"],
-    "service_details": ["Guardería","Wifi","A la carta","A domicilio"],
     "menu": {
         "breakfast":null ,
         "started": {
@@ -42,7 +42,7 @@
                 "Picadera Paradiso ":2992.00,
                 "Cóctel de Camarones":1936.00   
             },
-            "tacos":null,
+        "tacos":null,
         "strong_dishes":{
             "Ropa Vieja de Cordero":1848.00,
             "Cabrito Picoso":2640.00,

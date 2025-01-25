@@ -2,20 +2,24 @@
     "name": "Decamerón", 
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address": "Calle Línea entre Paseo y 2, Vedado",
+        "address":{
+            "Street1":"Calle Línea ",
+            "Street2":"Paseo",
+            "Street3":"2"
+        },
         "coordinates_latitude_length":[23.1366671,-82.4016725]
     },
     "phone_number": "78322444",
-    "food_type":"Comida caribeña y cubana",
+    "food_type":["caribeña","cubana"],
     "schedule": {
         "opening": "11:30 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.5,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast":null,
@@ -57,12 +61,8 @@
         "pastas": {
             "Pasta fresca primavera con parmesano y pesto hecho a nuestro modo": 3300
         },
-        "pizzas": {
-
-        },
-        "pizza_pasta_add-on": {
-
-        },
+        "pizzas": null,
+        "pizza_pasta_add-on": null,
         "side_dishes":{
             "Arroz blanco": 600,
             "Frijoles negros dormidos": 600,
@@ -82,18 +82,10 @@
             }
 
         },
-        "hamburgers_and_sandwichs":{
-            
-        },
-        "hamburgers_add-on":{
-
-        },
-        "aperitivos":{
-
-        },
-        "snacks":{
-
-        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
         "creams_and_soup":{
             "Crema de calabaza con costrones de pan y queso": 1350,
             "Sopa-crema de pollo a la casera": 1500

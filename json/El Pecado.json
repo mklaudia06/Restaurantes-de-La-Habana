@@ -2,20 +2,24 @@
     "name":"El Pecado",
     "municipality":"San Miguel del Padron",
     "location":{
-        "address":"calle Matos #152 % Fernanda y Central, La Fernanda",
+        "address":{
+            "Street1":"calle Matos",
+            "Street2":"Fernanda",
+            "Street3":"Central"
+        },
         "coordinates_latitude_length":[23.1015964,-82.3412436]
     },
     "phone_number":"76795921",
-    "food_type":"Comida Mixta",
+    "food_type":["mixta"],
     "schedule":{
         "opening":"11:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week":"todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.0,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu":{
         "breakfast":null,

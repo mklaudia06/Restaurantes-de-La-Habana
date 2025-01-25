@@ -2,15 +2,19 @@
     "name": "",
     "municipality":"",
     "location": {
-        "address":"",
-        "coordinates_latitude_length" : ""
+        "address":{
+            "Street1":"",
+            "Street2":"",
+            "Street3":""
+        },
+        "coordinates_latitude_length" : []
     },
     "phone_number": "",
-    "food_type":"",
+    "food_type":[],
     "schedule": {
         "opening": "",
         "closure": "",
-        "days_of_the_week": ""
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
     "quality":"",
     "social_media": {

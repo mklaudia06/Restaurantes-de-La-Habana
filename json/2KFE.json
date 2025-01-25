@@ -2,16 +2,20 @@
     "name": "2KFE",
     "municipality": "Regla",
     "location": {
-        "address":"Pereira entre Martí y Maceo",
-        "coordinates_latitude_length":[23.1281684,-82.33875]
+        "address":{
+            "Street1":"Pereira",
+            "Street2":"Martí",
+            "Street3":"Maceo"
+        },
+        "coordinates_latitude_length":[23.1284173,-82.3367086]
     },
-    "food_type": ["Cafe","Internacional","Criolla"],
+    "food_type": ["cafe","internacional","criolla"],
     "schedule": {
         "opening": "10:00 am",
-        "closing": "8:00 pm",
-        "days_of_the_week":"todos los dias"
+        "closing": "08:00 pm",
+        "days_of_the_week":["Lunes", "Martes","Miercoles","Jueves","Viernes", "Sabado", "Domingo"]
     },
-    "quality":"Excelente",
+    "quality":5.0,
     "menu": {
         "breakfast":null,
         "started": {

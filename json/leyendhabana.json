@@ -2,17 +2,21 @@
     "name": "Leyendhabana",
     "municipality": "Cerro",
     "location":{
-        "address": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
+        "address":{
+            "Street1":"Calle Santa Rosa",
+            "Street2":"Infanta",
+            "Street3":"Cruz del Padre"
+        },
         "coordinates_latitude_length":[23.1190847,-82.3721198]
     },
     "phone_number": "78781332",
-    "food_type":"Comida Caribeña",
+    "food_type":["caribeña"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.6,
     "social_media": {
         "instagram":"restaurante.leyendhabana",
         "facebook":null

@@ -2,17 +2,21 @@
     "name": "Jorgito's Pizzas",
     "municipality": "Cerro",
     "location":{
-        "address": "Pedroso entre Infanta y Cruz del Pader",
+        "address":{
+            "Street1":"Pedroso",
+            "Street2":"Infanta",
+            "Street3":"Cruz del Padre"
+        },
         "coordinates_latitude_length":[23.1207887,-82.374062]
     },
     "phone_number": "+53 54031349",
-    "food_type":"Pizzeria",
+    "food_type":["pizzeria"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.0,
     "social_media": {
         "instagram":null,
         "facebook":null

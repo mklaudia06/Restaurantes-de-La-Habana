@@ -2,15 +2,19 @@
   "name": "Magic's Cream & Burguer",
   "municipality":"Arroyo Naranjo",
   "location":{
-    "address": "Calzada de 10 de Octubre, % Santa Amalia y Arnao, Arroyo Naranjo",
+    "address":{
+      "Street1":"Calzada de 10 de Octubre",
+      "Street2":"Santa Amalia",
+      "Street3":"Arnao"
+  },
     "coordinates_latitude_length":[23.0788254,-82.3621688]
   },
   "phone_number": null,
-  "food_type":"comida rapida",
+  "food_type":["rapida"],
   "schedule": {
     "opening": "11:00 am",
     "closure": "10:00 pm",
-    "days_of_the_week": "todos los dias"
+    "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
   },
   "quality":null,
   "social_media": {

@@ -2,17 +2,21 @@
     "name": "Asia Cuba", 
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address": " Calle 6 ##562 entre 23 y 25, Vedado",
+        "address":{
+            "Street1":"Calle 6",
+            "Street2":"Calle 23",
+            "Street3":"Calle 25"
+        },
         "coordinates_latitude_length":[23.1286359,-82.3973172]
     },
     "phone_number": "50956929",
-    "food_type":"Comida asiática",
+    "food_type":["asiática"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":5.0,
     "social_media": {
         "instagram":"jama.asianfood",
         "facebook":null
@@ -138,5 +142,5 @@
     "10%_of_the_service": true,
     "5%_of_the_service": false,
     "reservation":true,
-    "type_of_currency": "cup o usd"  
+    "type_of_currency": "cup"  
 } 

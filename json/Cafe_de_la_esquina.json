@@ -2,20 +2,24 @@
     "name": "Café D la Esquina", 
     "municipality": "Plaza de la Revolucion",
     "location": {
-        "address": "Paseo #101, esq. a 5ta., Vedado",
+        "address":{
+            "Street1":"Paseo",
+            "Street2":"5ta",
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.1388248,-82.4011184]
     },
     "phone_number": "78362565",
-    "food_type":["Comida cubana", "caribeña", "americana"],
+    "food_type":["comida cubana", "caribeña", "americana"],
     "schedule": {
         "opening": "8:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality": 4.0,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast":null,

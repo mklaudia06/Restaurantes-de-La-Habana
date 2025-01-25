@@ -2,17 +2,21 @@
     "name": "Don Burguer",
     "municipality":"Arroyo Naranjo",
     "location": {
-        "address":"Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel, La Palma ",
+        "address":{
+            "Street1":"Calzada de 10 de Octubre",
+            "Street2":"Aranguren",
+            "Street3":" Santa Isabel"
+        },
         "coordinates_latitude_length" : [23.075256, -82.358692]
     },
     "phone_number": "+53 56073379",
-    "food_type":"comida chatarra",
+    "food_type":["comida chatarra"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":5.0,
     "social_media": {
         "instagram":"donburguercuba",
         "facebook":"Don Burguer JJ"

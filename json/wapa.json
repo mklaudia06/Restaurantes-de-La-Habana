@@ -2,17 +2,21 @@
     "name":"Wapa",
     "municipality": "Plaza de la Revolución",
     "location": {
-        "address": "Calle 4 entre 15 y 17, Vedado",
+        "address":{
+            "Street1":"Calle 4",
+            "Street2":"15",
+            "Street3":"17"
+        },
         "coordinates_latitude_length": [23.133054069126786, -82.39869353392423]
     },
     "phone_number": "5378314553",
-    "food_type":["Cuban", "Centroamerican"],
+    "food_type":["cubana", "centroamericana"],
     "schedule": {
-        "opening": "9:00 am",
+        "opening": "09:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":3.7,
     "social_media": {
         "instagram":"wapa537",
         "facebook":"Wapa537"

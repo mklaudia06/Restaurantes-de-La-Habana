@@ -2,17 +2,21 @@
     "name": "Sport Bar",
     "municipality": "Plaza de la Revolucion",
     "location": {  
-        "streets": "23 y 12, Vedado, Plaza",
+        "address":{
+            "Street1":"Avenida 23",
+            "Street2":"calle 12",
+            "Street3":null
+        },
         "coordinates_latitude_length": [23.12739793607911, -82.3996550067848]
     },
     "phone_number": null,
-    "food_type":"mixto",
+    "food_type":["mixta"],
     "schedule": {
-        "opening": "24h",
-        "closure": false,
-        "days_of_the_week": "todos los dias"
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":2.9,
     "social_media": {
         "instagram":"sportbar_23y12",
         "facebook":null

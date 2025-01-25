@@ -2,17 +2,21 @@
     "name": "La Lola",
     "municipality": "Cerro",
     "location":{
-        "address": "Esquina Ayestarán y Pedro Pérez",
+        "address":{
+            "Street1":"Ayestarán",
+            "Street2":"Pedro Pérez",
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.119569, -82.383361]
     },
     "phone_number": "+53 53654726",
-    "food_type":"",
+    "food_type":null,
     "schedule": {
-        "opening": "2:00 pm",
-        "closure": "2:00 am",
-        "days_of_the_week": ""
+        "opening": "02:00 pm",
+        "closure": "02:00 am",
+        "days_of_the_week": null
     },
-    "quality":"Normal",
+    "quality":5.0,
     "social_media": {
         "instagram":"la_lola_bar",
         "facebook":null

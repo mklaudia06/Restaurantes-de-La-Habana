@@ -2,17 +2,21 @@
     "name": "Colesterol 5.1",
     "municipality":"Marianao",
     "location": {
-        "address":"Avenida 51 entre 134 y 136",
+        "address":{
+            "Street1":"Avenida 51",
+            "Street2":"134",
+            "Street3":"136"
+        },
         "coordinates_latitude_length" : [23.070935, -82.435539]
     },
     "phone_number": "59531065",
-    "food_type":"Variada",
+    "food_type":["mixta"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":5.0,
     "social_media": {
         "instagram":"cafecolesterol5.1",
         "facebook":"Café Colesterol 5.1"

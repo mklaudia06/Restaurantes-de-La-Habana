@@ -2,23 +2,27 @@
     "name":"Mundo Pizza",
     "municipality":"Centro Habana",
     "location": {
-        "address": "C. San Nicolás 309 entre Neptuno y San Miguel",
+        "address":{
+            "Street1":"C. San Nicolás",
+            "Street2":" Neptuno",
+            "Street3":"San Miguel"
+        },
         "coordinates_latitude_length": [23.1377658,-82.3654744]
     },
     "phone_number": "53372715",
-    "food_type":"Internacional",
+    "food_type":["internacional"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.5,
     "social_media": {
-        "instagram":"",
-        "facebook":""    
+        "instagram":"mundopizza_habana",
+        "facebook":"Mundo Pizza"    
     },
     "menu": {
-        "breakfasts": null,
+        "breakfast": null,
         "started": {
             "Croquetas Caseras":590.00,
             "Tostones Criollos":540.00  

@@ -2,18 +2,21 @@
     "name": "Atlanta",
     "municipality":"Arroyo Naranjo",
     "location": {
-       
-        "address":"Atlanta #9, entre Calzada de Porvenir y Calzada de 10 de octubre, La Palma",
+        "address":{
+            "Street1":"Atlanta",
+            "Street2":"Calzada de Porvenir",
+            "Street3":"Calzada de 10 de octubre"
+        },
         "coordinates_latitude_length" : [23.075162, -82.358295]
     },
     "phone_number": "+53 59694801",
-    "food_type":"variado",
+    "food_type":["mixta"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality": 4.0,
     "social_media": {
         "instagram":"cafeatlanta",
         "facebook":null

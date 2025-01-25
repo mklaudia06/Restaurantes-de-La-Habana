@@ -1,15 +1,26 @@
 {
     "name":"Yesterday Havana",
     "municipality":"San Miguel del Padron",
-    "phone_number":"76930649",
-    "food_type":"Comida Mixta",
-    "schedule":null,
     "location": {
-        "address":"Rita % Blanchi y Calzada de Guines",
-        "coordinates_latitude_length":[23.099494,-82.3410061]
+        "address":{
+            "Street1":"Rita",
+            "Street2":"Blanchi",
+            "Street3":"Calzada de Guines"
+        },
+        "coordinates_latitude_length" : [23.099494,-82.3410061]
     },
-    "quality":null,
-    "social_media": null,
+    "phone_number":"76930649",
+    "food_type":["mixta"],
+    "schedule":{
+        "opening": "12:00 pm",
+        "closure": "02:00 am",
+        "days_of_the_week": ["Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.5,
+    "social_media":{
+        "instagram":null,
+        "facebook":"Yesterday Habana"
+    },
     "menu":{
         "breakfast":null,
         "started":{

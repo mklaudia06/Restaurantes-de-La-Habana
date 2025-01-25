@@ -2,7 +2,11 @@
     "name": "Bar Tropicana",
     "municipality":"Marianao",
     "location": {
-        "address":"72A,Avenida 41",
+        "address":{
+            "Street1":"72A",
+            "Street2":"Avenida 41",
+            "Street3":null
+        },
         "coordinates_latitude_length" : [23.094613, -82.419183]
     },
     "phone_number": "7279147",
@@ -10,9 +14,9 @@
     "schedule": {
         "opening": "12:00 pm",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.4,
     "social_media": {
         "instagram":"cabarettropicana",
         "facebook":"Cabaret Tropicana, Habana"

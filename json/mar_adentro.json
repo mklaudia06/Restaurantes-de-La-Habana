@@ -2,17 +2,21 @@
     "name":"Mar Adentro",
     "municipality": "Plaza de la Revolucion",
     "location": {
-        "address": "Calle C, #15, entre 1ª y 3ª, Havana, Cuba",
+        "address":{
+            "Street1":"Calle C",
+            "Street2":"1ª",
+            "Street3":" 3ª"
+        },
         "coordinates_latitude_length": [23.142433620136078, -82.39923307575508]
     },
     "phone_number": "+5378332060",
-    "food_type":"",
+    "food_type":null,
     "schedule": {
-        "opening": "9:00 am",
+        "opening": "09:00 am",
         "closure": "12:30 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.4,
     "social_media": {
         "instagram":"maradentrohabana",
         "facebook":"maradentrohabana"

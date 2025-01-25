@@ -2,23 +2,27 @@
     "name": "La Barrita Onbazar",
     "municipality": "Cerro",
     "location":{
-        "address": "Amenida entre Cruz del Pader e Infanta",
+        "address":{
+            "Street1":"Amenida",
+            "Street2":"Cruz del Padre",
+            "Street3":"Infanta"
+        },
         "coordinates_latitude_length":[23.121561, -82.373949]
     },
     "phone_number": "+53 54494741",
-    "food_type":"Pizzeria",
+    "food_type":["pizzeria"],
     "schedule": {
-        "opening": "9:00 am",
+        "opening": "09:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":5.0,
     "social_media": {
         "instagram":"la_barrita_onbazar",
         "facebook":null
     },
     "menu": {
-        "breakfast": {},
+        "breakfast": null,
         "started": {
             "Tostones rellenos": 1300,
             "Jamón ,queso y aceitunas": 750,

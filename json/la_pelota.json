@@ -2,15 +2,19 @@
     "name":"La Pelota",
     "municipality": "Plaza de la Revolución",
     "location": {
-        "address": "Esquina 23 y 12, Vedado, Plaza",
+        "address":{
+            "Street1":"calle 23",
+            "Street2":"calle 12",
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.127810894630507, -82.39959798623943]
     },
     "phone_number": null,
     "food_type":null,
     "schedule": {
-        "opening": "9:45 am",
-        "closure": "9:45 pm",
-        "days_of_the_week": "todos los dias"
+        "opening": "09:45 am",
+        "closure": "09:45 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
     "quality":null,
     "social_media": {

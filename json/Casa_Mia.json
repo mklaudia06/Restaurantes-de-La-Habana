@@ -2,20 +2,24 @@
     "name": "Casa Mía", 
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address": "Calle 1ra, No.103, entre C y D, Vedado",
+        "address":{
+            "Street1":"Calle 1ra",
+            "Street2":"C",
+            "Street3":"D"
+        },
         "coordinates_latitude_length":[23.1425153,-82.3990712]
     },
     "phone_number": "78329735",
-    "food_type":["Comida Caribeña", "latina", "saludable", "cubana", "internacional", "mariscos"],
+    "food_type":["caribeña", "latina", "saludable", "cubana", "internacional", "mariscos"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "12:00 pm",
-        "days_of_the_week": ""
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality": 5.0,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu":{
         "breakfast":null,

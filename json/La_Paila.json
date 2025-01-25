@@ -2,17 +2,21 @@
     "name": "La Paila",
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address":"Esquina 25 y M, Vedado, La Habana",
+        "address":{
+            "Street1":"25",
+            "Street2":"M",
+            "Street3":null
+        },
         "coordinates_latitude_length" : [23.1391934, -82.3812939]
     },
     "phone_number": "+53 53388837",
-    "food_type":"comida cubana",
+    "food_type":["cubana"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.2,
     "social_media": {
         "instagram":"lapaila_25ym",
         "facebook":"Fonda La Paila"

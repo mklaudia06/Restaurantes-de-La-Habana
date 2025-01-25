@@ -2,20 +2,24 @@
     "name": "El Vampirito", 
     "municipality": "Plaza de la Revolucion",
     "location": {
-        "address": "Calle 6 entre 19 y 21, Vedado",
+        "address":{
+            "Street1":"Calle 6",
+            "Street2":"19",
+            "Street3":"21"
+        },
         "coordinates_latitude_length":[23.1309385,-82.3985623]
     },
     "phone_number": "78300774",
-    "food_type": ["Pizza", "Comida italiana", "Sandwiches"],
+    "food_type": ["pizza", "italiana", "sandwiches"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.1,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"vampiritocafeteria",
+        "facebook":"Vampirito Cafeteria"
     },
     "menu":{
         "breakfast":null,

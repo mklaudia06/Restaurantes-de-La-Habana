@@ -2,17 +2,21 @@
     "name":"Aires de Cojimar",
     "municipality":"Habana del Este",
     "location":{
-        "address":"Pezuela #3e05 entre RUA y Espartero, Cojimar",
+        "address":{
+            "Street1":"Pezuela",
+            "Street2":"RUA",
+            "Street3":"Espartero"
+        },
         "coordinates_latitude_length":[23.1618572,-82.2969923]
     },
     "phone_number": "77666890",
-    "food_type":"Comida mixta",
+    "food_type":["mixta"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.5,
     "social_media": {
         "instagram":"aires_decojimar",
         "facebook":"Aires de Cojimar"

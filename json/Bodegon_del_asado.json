@@ -2,20 +2,24 @@
     "name": "Bodegón del Asado", 
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address": "Calle 24, No 418, e / 23 y 25",
+     "address":{
+          "Street1":"Calle 24",
+          "Street2":"23",
+          "Street3":"25"
+      },
         "coordinates_latitude_length":[23.1223287,-82.4071329]
     },
     "phone_number": "78375201",
-    "food_type":["Comida cubana", "criolla", "italiana"],
+    "food_type":["cubana", "criolla", "italiana"],
     "schedule": {
         "opening": "12: 00 pm",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality": 4.5,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast":null,

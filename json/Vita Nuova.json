@@ -2,22 +2,25 @@
     "name": "Vita Nuova",
     "municipality": "Plaza de la Revolucion",
     "location": {
-        "address": "Calle L esquina 21, Vedado",
+        "address":{
+            "Street1":"Calle L",
+            "Street2":"21",
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.1402054,-82.385074]
     },
     "phone_number": "78329774",
-    "food_type":["Comida Italiana", "caribeña", "internacional", "cubana"],
+    "food_type":["italiana", "caribeña", "internacional", "cubana"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.2,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"vitanuovahabana",
+        "facebook":null
     },
-
     "menu": {
         "breakfast":null,
         "started":{

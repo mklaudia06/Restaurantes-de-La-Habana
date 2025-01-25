@@ -2,15 +2,19 @@
     "name": "Cafeteria obelisco",
     "municipality":"Marianao",
     "location":{
-        "address":"Avenida 31",
+        "address":{
+            "Street1":"Avenida 31",
+            "Street2":null,
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.0873824,-82.4987318]
     },
     "phone_number": null,
-    "food_type":"Variada",
+    "food_type":["mixta"],
     "schedule": {
-        "opening": "9:00 am",
-        "closure": "6:00 pm",
-        "days_of_the_week": "todos los dias"
+        "opening": "09:00 am",
+        "closure": "06:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
     "quality":null,
     "social_media": {

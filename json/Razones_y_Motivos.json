@@ -2,17 +2,21 @@
     "name": "Razones y Motivos",
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address":" Calle F entre 3ra y 5ta, Vedado",
+        "address":{
+            "Street1":"Calle F",
+            "Street2":"3ra",
+            "Street3":"5ta"
+        },
         "coordinates_latitude_length" : [23.143286, -82.395758]
     },
     "phone_number": "+53 78328732 ",
-    "food_type":"variada",
+    "food_type":["mixta"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"",
+    "quality":4.5,
     "social_media": {
         "instagram":"razones_y_motivos",
         "facebook":"Restautante Razones y Motivos"
@@ -122,9 +126,7 @@
             "Sopa China Especial (Cerdo, jamón, camarón, acelga, frijolitos chinos, salsa de soya)":880.00,
             "Sopa de Pollo(Pollo, viandas, especias, fideos)":950.00        
         },
-        "digestive":{
-
-        },
+        "digestive":null,
         "liquids": {
             "alcoholic_drinks":{
                 "cocktails":{

@@ -2,15 +2,19 @@
     "name":"GaraG",
     "municipality":"San Miguel del Padron",
     "location": {
-        "address":"C.Guanabacoa #1214 % B y C, Los Angeles",
+        "address":{
+            "Street1":"C.Guanabacoa",
+            "Street2":"B",
+            "Street3":"C"
+        },
         "coordinates_latitude_length" : [23.091504, -82.283706]
     },
     "phone_number": null,
-    "food_type":"Comida Mixta",
+    "food_type":["mixta"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
     "quality":null,
     "social_media": {

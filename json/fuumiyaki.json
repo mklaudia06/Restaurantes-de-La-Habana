@@ -2,17 +2,21 @@
     "name":"Fuumiyaki",
     "municipality": "Plaza de la Revolucion",
     "location": {
-        "address": "Ave 26/23 y 25, Vedado",
+        "address":{
+            "Street1":"Ave 26",
+            "Street2":"23",
+            "Street3":"25"
+        },
         "coordinates_latitude_length": [23.12226101881169,-82.40508001808305]
     },
     "phone_number": "+5352832188",
-    "food_type":"japanesse",
+    "food_type":["japanesse"],
     "schedule": {
         "opening": "12:00 pm",
-        "closure": "11:50 pm",
-        "days_of_the_week": ""
+        "closure": "11:30 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":3.5,
     "social_media": {
         "instagram":"fuumiyaki",
         "facebook":"fuumiyaki.cuba"

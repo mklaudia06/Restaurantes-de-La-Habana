@@ -2,15 +2,19 @@
   "name":"Los caneyes",
   "municipality":"Arroyo Naranjo",
   "location":{
-    "address": "Calle Martí y Gutierrez, Reparto Electrico, Arroyo Naranjo",
+    "address":{
+      "Street1":"Calle Martí",
+      "Street2":"Gutierrez",
+      "Street3":null
+    },
     "coordinates_latitude_length":[23.0474454,-82.3329201]
   },
   "phone_number":null,
-  "food_type":"cubana",
+  "food_type":["cubana"],
   "schedule":{
     "opening": "12:00 pm",
     "closure": "11:00 pm",
-    "days_of_the_week": "todos los dias"
+    "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
   },
   "quality":null,
   "social_media": {

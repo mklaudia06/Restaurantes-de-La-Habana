@@ -2,17 +2,21 @@
     "name": "Rico Rico",
     "municipality": "Cerro",
     "location":{
-        "address": "Calle Ayestarán entre Perfecto Lacoste y Aranguren",
+        "address":{
+            "Street1":"Calle Ayestarán",
+            "Street2":"Perfecto Lacoste",
+            "Street3":"Aranguren"
+        },
         "coordinates_latitude_length":[23.1242363,-82.4060507]
     },
     "phone_number": "78701632",
-    "food_type":"Comida Italiana",
+    "food_type":["italiana"],
     "schedule": {
-        "opening": "9:00 am",
+        "opening": "09:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Malo",
+    "quality": 2.4,
     "social_media": {
         "instagram":"ricoricopizzeria",
         "facebook":"RicoRicopizzeria"

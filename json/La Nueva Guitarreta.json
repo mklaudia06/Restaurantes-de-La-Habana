@@ -2,7 +2,11 @@
     "name": "La Nueva Guitarreta",
     "municipality":"Regla",
     "location": {
-       "address":"Loredo entre 24 de febrero y Tadeo",
+        "address":{
+            "Street1":"Loredo",
+            "Street2":" 24 de febrero",
+            "Street3":"Tadeo"
+        },
        "coordinates_latitude_length":[23.1243875,-82.3302155]
     },
     "phone_number": "56901253",
@@ -10,17 +14,13 @@
     "schedule": {
         "opening": "12:00 pm",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":5.0,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
-    "reservation_options": true,
-    "social_networks": ["Facebook","Instagram","WhatsApp"],
-    "payment_options": ["Efectivo","Transfermovil"],
-    "service_details": ["A la carta","Entretenimiento"],
     "menu": {
         "breakfast": null,
         "started":{

@@ -2,20 +2,24 @@
     "name": "Cafe Versalles",
     "municipality":"Guanabacoa",
     "location": {
-        "address":null,
+        "address":{
+            "Street1":"Martí",
+            "Street2":null,
+            "Street3":null
+        },
         "coordinates_latitude_length":[23.1084799,-82.2523304]
     },
     "phone_number":null,
-    "food_type":"Criolla",
+    "food_type":["criolla"],
     "schedule": {
-        "opening": "9:00 am",
+        "opening": "09:00 am",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":5.0,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"cafeversalles",
+        "facebook":"Cafe Versalles"
     },
     "menu": {
         "breakfast":null,

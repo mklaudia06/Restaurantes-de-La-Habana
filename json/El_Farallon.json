@@ -2,17 +2,21 @@
     "name": "El Farallon",
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address":" Calle 22 #361, esq. 23, Vedado",
+        "address":{
+            "Street1":"Calle 22",
+            "Street2":"23",
+            "Street3":null
+        },
         "coordinates_latitude_length" : [23.12423345289344, -82.40409285068903]
     },
     "phone_number": "78305187",
-    "food_type":"variada",
+    "food_type":["mixta"],
     "schedule": {
         "opening": "11:00 am",
         "closure":"11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":3.7,
     "social_media": {
         "instagram":"restaurantefarallon",
         "facebook":"farallonrestaurante"

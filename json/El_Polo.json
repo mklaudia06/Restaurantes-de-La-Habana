@@ -2,20 +2,24 @@
    "name": "Polo",
    "municipality":"Guanabacoa",
     "location": {
-        "address":"",
+        "address":{
+            "Street1":"Cruz Verde",
+            "Street2":"Independencia Este",
+            "Street3":"Barreto Este"
+        },
         "coordinates_latitude_length":[23.122035,-82.3104846]
     },
     "phone_number": "52411618",
-    "food_type":"Internacional",
+    "food_type":["internacional"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":5.0,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast":null,

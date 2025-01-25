@@ -2,20 +2,24 @@
     "name": "La yuya",
     "municipality":"Marianao",
     "location":{
-        "Address": "100 Y 51",
+        "address":{
+            "Street1":"Avenida 41",
+            "Street2":"Avenida 51",
+            "Street3":null
+        },
         "coordinates_latitude_length": [23.0811221,-82.4223049]
     },
     "phone_number": "52016522",
-    "food_type":"Variada",
+    "food_type":["mixta"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"",
+    "quality": 5.0,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast": {
@@ -31,9 +35,7 @@
             "Papas fritas": 500,
             "Croquetas": 600
         },
-        "tacos":{
-           
-        },
+        "tacos":null,
         "strong_dishes":{
             "Fajitas de pollo con papa": 900
         },
@@ -52,34 +54,19 @@
             "Queso":260,
             "Salami":200
         },
-        "side_dishes":{
-           
-
-        },
+        "side_dishes":null,
         "desserts":{ 
             "icecream_flavors":{
                "Helados gusto":1000
             }
 
         },
-        "hamburgers_and_sandwichs":{
-            
-        },
-        "hamburgers_add-on":{
-
-        },
-        "aperitivos":{
-
-        },
-        "snacks":{
-
-        },
-        "creams_and_soup":{
-
-        },
-        "digestive":{
-
-        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
         "liquids":{
             "alcoholic_drinks":{
                 "beers":{

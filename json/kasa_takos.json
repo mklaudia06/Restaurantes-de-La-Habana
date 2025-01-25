@@ -2,17 +2,21 @@
     "name": "Kasa Takos",
     "municipality": "Centro Habana",
     "location": {
-        "address": "Hospital y Aramburu, 966 entre San Lazaro",
+        "address":{
+            "Street1":"San Lazaro",
+            "Street2":"Hospital",
+            "Street3":"Aramburu"
+        },
         "coordinates_latitude_length": [23.139644726614794, -82.3755633828391]
     },
     "phone_number": "50122113",
-    "food_type": "caribeña, mexicana, cubana",
+    "food_type": ["caribeña, mexicana, cubana"],
     "schedule":{
-        "opening": "12:00 pm",
+        "opening":"12:00 pm",
         "closure":"12:30 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.4,
     "social_media": {
         "instagram":"kasatakos_havana",
         "facebook":"KasaTakos"

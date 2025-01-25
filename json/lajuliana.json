@@ -2,23 +2,27 @@
     "name": "La Juliana",
     "municipality": "Centro Habana",
     "location": {
-        "address": "Zanja entre Manrique y San Nicolas",
+        "address":{
+            "Street1":"Zanja",
+            "Street2":"Manrique",
+            "Street3":"San Nicolas"
+        },
         "coordinates_latitude_length": [23.135543401312233,-82.3644565648407]
     },
     "phone_number": "78661823",
-    "food_type":"caribeña",
+    "food_type":["caribeña"],
     "schedule":{
         "opening":"10:00 am",
         "closure":"12:00 am",
-        "days_of_the_week":""
+        "days_of_the_week":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.2,
     "social_media":{
         "facebook": "La Juliana",
         "instagram": "lajulianarestaurant"
     },
     "menu": {
-        "breakfasts": false,
+        "breakfast": false,
         "started": {
             "plátano maduro frito":350,
             "tostones chatinos": 350, 

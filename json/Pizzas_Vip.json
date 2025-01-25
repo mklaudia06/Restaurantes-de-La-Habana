@@ -2,15 +2,19 @@
     "name": "Pizzas Vip",
     "municipality":"Guanabacoa",
     "location": {
-        "address":"Marti entre E.Guiral y EV. Valenzuela",
+        "address":{
+            "Street1":"Marti",
+            "Street2":"E.Guiral",
+            "Street3":"EV. Valenzuela"
+        },
         "coordinates_latitude_length":[23.1256301,-82.3054280]
     },
     "phone_number": "52844312",
-    "food_type":"Italiana",
+    "food_type":["italiana"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
     "quality":null,
     "social_media": {

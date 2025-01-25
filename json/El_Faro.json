@@ -2,17 +2,21 @@
     "name": "El Faro",
     "municipality":"Guanabacoa",
     "location": {
-        "address":"Maximo Gomez, La Habana, Cuba",
+        "address":{
+            "Street1":"Maximo Gomez",
+            "Street2":"E.Guiral",
+            "Street3":"Pepe Antonio"
+        },
         "coordinates_latitude_length":[23.1241179,-82.3043223]
     },
-    "phone_number":"",
-    "food_type":"Criolla",
+    "phone_number":null,
+    "food_type":["criolla"],
     "schedule": {
-        "opening": "9:00 am",
+        "opening": "09:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":3.7,
     "social_media": {
         "instagram":null,
         "facebook":null

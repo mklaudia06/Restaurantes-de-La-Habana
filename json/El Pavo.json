@@ -2,7 +2,11 @@
   "name": "El Pavo",
   "municipality": "Guanabacoa",
   "location": {
-    "address":"San Luis entre Via Blanca y 6ta",
+    "address":{
+      "Street1":"San Luis",
+      "Street2":"Via Blanca",
+      "Street3":"6ta"
+  },
     "coordinates_latitude_length":[23.1241385,-82.3198204]
   },
   "phone_number": "077976432",
@@ -10,12 +14,12 @@
   "schedule": {
     "opening": "12:00 pm",
     "closure": "11:00 pm",
-    "days_of_the_week": "todos los dias"
+    "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
   },
-  "quality":"Muy Bueno",
+  "quality":4.2,
   "social_media": {
-    "instagram":"",
-    "facebook":""
+    "instagram":null,
+    "facebook":null
   },
   "menu": {
     "breakfast":null ,

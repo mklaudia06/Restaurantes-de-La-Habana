@@ -2,17 +2,21 @@
     "name": "La Catedral",
     "municipality":"Plaza de la Revolucion",
     "location": {
-        "address": "Calle 8 e/ Calzada 5ta, Vedado. Plaza de la Revolución, La Habana 10400 Cuba",
+        "address":{
+            "Street1":"Calle 8",
+            "Street2":"Calzada",
+            "Street3":"5ta"
+        },
         "coordinates_latitude_length": [23.135892638151837, -82.40453312083959]
     },
     "phone_number": "078300793",
-    "food_type":["Spanish", "Cuban"],
+    "food_type":["española", "cubana"],
     "schedule": {
-        "opening": "8:00 am",
+        "opening": "08:00 am",
         "closure": "11:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.0,
     "social_media": {
         "instagram":"lacatedralcuba",
         "facebook":"mirestaurantencuba"

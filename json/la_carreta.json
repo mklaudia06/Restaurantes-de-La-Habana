@@ -2,17 +2,18 @@
     "name": "La Carreta",
     "municipality": "Plaza de la Revolucion",
     "location": {
+
         "address": "Calle 21 entre J y K, Vedado, Plaza",
         "coordinates_latitude_length": [23.13993175557732, -82.38537118924619]
     },
     "phone_number": "5350990383",
-    "food_type":"Caribean",
+    "food_type":["caribeña"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "10:45 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"excelente",
+    "quality":3.9,
     "social_media": {
         "instagram":"lacarreta_cuba",
         "facebook":"Restaurant La Carreta Cuba"

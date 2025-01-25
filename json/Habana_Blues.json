@@ -2,20 +2,24 @@
     "name": "Habana Blues",
     "municipality": "Plaza de la Revolucion",
     "location": {
-        "address": "Calle H no. 405 entre 17 y 19, Vedado",
+        "address":{
+            "Street1":"Calle H",
+            "Street2":"17",
+            "Street3":"19"
+        },
         "coordinates_latitude_length":[23.1392559,-82.3892525]
     },
     "phone_number": "78356545",
-    "food_type": ["Comida caribeña", "latina", "criolla", "cubana"],
+    "food_type": ["caribeña", "latina", "criolla", "cubana"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
     "quality":"Excelente",
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":"restaurant_habana_blues",
+        "facebook":null
     },
     "menu": {
         "breakfast":null,

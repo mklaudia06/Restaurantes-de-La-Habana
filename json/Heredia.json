@@ -2,17 +2,21 @@
     "name": "Heredia",
     "municipality":"10 de octubre",
     "location": {
-        "address":"Avenida Acosta, entre Heredia y C.Felipe Poey",
+        "address":{
+            "Street1":"Avenida Acosta",
+            "Street2":"Heredia",
+            "Street3":"C.Felipe Poey"
+        },
         "coordinates_latitude_length" : [23.0879912, -82.3684924]
     },
     "phone_number": null,
-    "food_type":"comida italiana",
+    "food_type":["comida italiana"],
     "schedule": {
-        "opening": "9:00 am",
+        "opening": "09:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Normal",
+    "quality":4.5,
     "social_media": {
         "instagram": null,
         "facebook":null

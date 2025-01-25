@@ -2,20 +2,24 @@
     "name": "FoodMaster",
     "municipality":"Playa",
     "location":{
-        "address":"7A entre 70 y 66",
+        "address":{
+            "Street1":"7A",
+            "Street2":"70",
+            "Street3":"66"
+        },
         "coordinates_latitude_length":[23.1093209,-82.4367002]
     },
     "phone_number": "53826366",
-    "food_type":["Mexicana", "Americana"],
+    "food_type":["mexicana", "americana"],
     "schedule": {
         "opening": "10:30 am",
-        "closure": "9:00 pm",
-        "days_of_the_week": "todos los dias"
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.8,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast": null,

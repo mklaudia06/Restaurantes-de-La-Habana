@@ -2,18 +2,22 @@
     "name":"El Batazo",
     "municipality": "Cerro",
     "location":{
-        "address": "Primelles 356 entre Santa Teresa y Daois",
+        "address":{
+            "Street1":"Primelles",
+            "Street2":"Santa Teresa",
+            "Street3":"Daois"
+        },
         "coordinates_latitude_length":[23.1055757,-82.3892364]
     },
    
     "phone": "+53 58050408",
-    "food_type":"Pizzeria",
+    "food_type":["pizzeria"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Malo",
+    "quality":null,
     "social_media": {
         "instagram":null,
         "facebook":null

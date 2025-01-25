@@ -2,20 +2,24 @@
    "name": "El Pelícano",
    "municipality":"Plaza de la Revolucion",
     "location": {
-        "address":"Recurso, entre avenida 26 y avenida kohly",
+        "address":{
+            "Street1":"Recurso",
+            "Street2":"avenida 26",
+            "Street3":"avenida kohly"
+        },
         "coordinates_latitude_length":[23.1085082,-82.3989837]
     },
     "phone_number": "63960310",
     "food_type":null,
     "schedule": {
         "opening": "10:00 am",
-        "closure": "6:00 pm",
-        "days_of_the_week": "todos los dias"
+        "closure": "06:00 pm",
+        "days_of_the_week":  ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":null,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast":{
@@ -32,9 +36,7 @@
             "Bolitas de Queso": 650.00,
             "Salchipapa": 750.00
         },
-        "tacos":{
-           
-        },
+        "tacos":null,
         "strong_dishes":{
             "Pollo Frito": 420.00,
             "Pollo Chiflado": 520.00,
@@ -45,12 +47,8 @@
             "Lonja de Cerdo": 950.00,
             "Masa de Cerdo": 990.00
         },
-        "pastas": {
-
-        },
-        "pizzas": {
-
-        },
+        "pastas": null,
+        "pizzas":null,
         "pizza_pasta_add-on": {
 
         },
@@ -65,24 +63,12 @@
             }
 
         },
-        "hamburgers_and_sandwichs":{
-            
-        },
-        "hamburgers_add-on":{
-
-        },
-        "aperitivos":{
-
-        },
-        "snacks":{
-
-        },
-        "creams_and_soup":{
-
-        },
-        "digestive":{
-
-        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
         "liquids":{
             "alcoholic_drinks":{
                 "cocktails":{

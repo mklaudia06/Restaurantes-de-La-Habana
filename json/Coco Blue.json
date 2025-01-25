@@ -2,20 +2,24 @@
     "name": "Coco Blue",
     "municipality":"Plaza de la Revolucion",
     "location":{
-        "address":"Calle 14 entre 11 y 13",
+        "address":{
+            "Street1":"Calle 14",
+            "Street2":"11",
+            "Street3":"13"
+        },
         "coordinates_latitude_length":[23.1310625,-82.4073928]
     },
     "phone_number": "59121916",
-    "food_type":"Caribeña",
+    "food_type":["caribeña"],
     "schedule": {
         "opening": "10:00 am",
         "closure": "12:30 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":4.5,
     "social_media": {
-        "instagram":"",
-        "facebook":""
+        "instagram":null,
+        "facebook":null
     },
     "menu": {
         "breakfast":{

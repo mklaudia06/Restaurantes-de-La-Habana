@@ -2,17 +2,21 @@
     "name": "Monakeño",
     "municipality":"10 de octubre",
     "location": {
-        "address":"Mayia Rodriguez y Acosta, Havana, Cuba",
+        "address":{
+            "Street1":"Mayia Rodriguez",
+            "Street2":"Acosta",
+            "Street3":null
+        },
         "coordinates_latitude_length" : [23.090020, -82.378391]
     },
     "phone_number": "063444454",
-    "food_type":"comida rapida",
+    "food_type":["rapida"],
     "schedule": {
         "opening": "12:00 pm",
         "closure": "12:00 am",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Excelente",
+    "quality":3.8,
     "social_media": {
         "instagram":"el_monakeno",
         "facebook":"Monakeño"

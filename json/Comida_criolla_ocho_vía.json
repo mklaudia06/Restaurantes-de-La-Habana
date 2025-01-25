@@ -2,20 +2,24 @@
   "name": "Comida Criolla Ocho Vías",
   "municipality":"Arroyo Naranjo",
   "location":{
-    "address": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
-    "coordinates_latitude_length":[23.052096,-82.3355606]
+    "address":{
+      "Street1":"Avenida 1er Anillo",
+      "Street2":"Luis Felipe",
+      "Street3":null
+    },
+    "coordinates_latitude_length":[23.0512093,-82.3347466]
   },
   "phone_number": "+5359107933",
-  "food_type":"cubana",
+  "food_type":["cubana"],
   "schedule": {
       "opening": "11:00 am",
       "closure": "11:00 pm",
-      "days_of_the_week": "todos los dias"
+      "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-  "quality":"",
+  "quality":null,
   "social_media": {
-    "instagram":"",
-    "facebook":""
+    "instagram":null,
+    "facebook":null
   },
   "menu":{
     "breakfast":null,

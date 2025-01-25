@@ -2,17 +2,21 @@
     "name": "Ranchon de 41",
     "municipality":"Marianao",
     "location": {
-        "address":"Avenida 41 y 84",
+        "address":{
+            "Street1":"Avenida 41",
+            "Street2":"84",
+            "Street3":null
+        },
         "coordinates_latitude_length" : [23.089605, -82.421626]
     },
     "phone_number": "52014975",
-    "food_type":"Variada",
+    "food_type":["mixta"],
     "schedule": {
-        "opening": "24h",
-        "closure": "24h",
-        "days_of_the_week": "todos los dias"
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":null,
     "social_media": {
         "instagram":null,
         "facebook":null

@@ -2,17 +2,21 @@
     "name": "Tropicana",
     "municipality":"Marianao",
     "location":{
-        "address": "Avenida 41, calle 72",
+        "address":{
+            "Street1":"Avenida 41",
+            "Street2":"calle 72",
+            "Street3":null
+        },
         "coordinates_latitude_length": [23.094613, -82.419183]
     },
-    "phone_number":"7 2670110" ,
-    "food_type":"variado",
+    "phone_number":"72670110" ,
+    "food_type":["mixta"],
     "schedule": {
         "opening": "11:00 am",
         "closure": "10:00 pm",
-        "days_of_the_week": "todos los dias"
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
     },
-    "quality":"Muy Bueno",
+    "quality":4.4,
     "social_media": {
         "instagram":"cabarettropicana",
         "facebook":"Cabaret Tropicana, Habana"

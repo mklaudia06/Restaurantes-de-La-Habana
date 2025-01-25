@@ -2,20 +2,24 @@
   "name": "Pizzeria Los Atrevidos",
   "municipality":"Arroyo Naranjo",
   "location":{
-    "address":"Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra, Arroyo Naranjo",
+    "address":{
+      "Street1":"Calzada de Bejucal",
+      "Street2":"Estrella",
+      "Street3":"Camilo Sierra"
+    },
     "coordinates_latitude_length":[23.0624142,-82.3664301]
   },
   "phone_number": "52966948",
-  "food_type":"Italiana",
+  "food_type":["italiana"],
   "schedule": {
     "opening": "10:00 am",
-    "closure": "9:00 pm",
-    "days_of_the_week": "todos los dias"
+    "closure": "09:00 pm",
+    "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
   },
-  "quality":"Muy Bueno",
+  "quality":4.4,
   "social_media": {
     "instagram":null,
-    "facebook":"pizzerialosatrevidos"
+    "facebook":"Pizzeria los Atrevidos"
   },
   "menu":{
     "breakfast":null,
