@@ -1,0 +1,185 @@
+{
+    "name": "El Lechoncito",
+    "food_type": null,
+    "municipality": "Habana del Este",
+    "location": {
+        "address":{
+            "Street1":"Avenida 5ta",
+            "Street2":"488 A",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1704388,-82.1367432]
+    },
+    "phone_number": "52637279",
+    "schedule": {
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.6,
+    "social_media": {
+        "instagram":"el_lechoncito_bar",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Tostones Rellenos con Jamon y Queso": 950.0,
+            "Tostones Rellenos con Langosta": 1300.0,
+            "Tostones Rellenos con Camaron": 1300.0,
+            "Frituras de Malanga": 900.0,
+            "Entremes de Jamon, Queso": 900.0,
+            "Croquetas Melosas": 900.0,
+            "Ceviche de Pescado": 1500.0,
+            "Tabla de jamon Serrano": 2700.0,
+            "Picadera Lechoncito": 3000.0,
+            "Coctel de Camaron": 2000.0
+            
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa de Res": 1200.0,
+            "Pan con Bistec": 900.0,
+            "Pan con Lechon": 900.0
+        },
+        "strong_dishes": {
+            "Pollo Grille": 1500.0,
+            "Lonjas de Cerdo Asado al Carbon": 1900.0,
+            "Costillas de Cerdo Criolla": 3000.0,
+            "Costillas de Cerdo BBQ": 3500.0,
+            "Bistec de Cerdo a la Criolla": 1700.0,
+            "Bistec de Cerdo Princesa": 2100.0,
+            "Lomo Ahumado": 1700.0,
+            "Fajitas de Cerdo Salteada": 1700.0,
+            "Filete de Res": 3900.0,
+            "Ropa Vieja de Res": 2500.0,
+            "Vaca Frita": 2500.0,
+            "Camaron Grille": 2000.0,
+            "Camaron Enchilado": 2200.0,
+            "Langosta Enchilada o Grille": 2500.0,
+            "Filete de Pescado a la Maire Hotel": 1800.0,
+            "Pescado Napado con Queso": 1900.0,
+            "Pescado Entero": 2500.0,
+            "Parrillada Lechoncito": 3000.0,
+            "Mariscada Lechoncito": 3950.0
+        },
+        "pizzas": {
+            "Napoles": 1250.0,
+            "con Jamon": 1500.0,
+            "con Atun": 1750.0,
+            "con Cebolla": 1400.0,
+            "con Chorizo": 1650.0,
+            "Hawaiana": 1600.0,
+            "Lechoncito": 1900.0,
+            "Aceituna": 1500.0,
+            "Diavola": 1650.0,
+            "Camaron": 1950.0,
+            "Langosta": 1950.0
+        },
+        "pastas": {
+            "Napoles": 1250.0,
+            "Con Jamon": 1450.0,
+            "Con Atun": 1750.0,
+            "Con Camaron": 1800.0,
+            "Con Langosta": 1900.0
+        },
+        "desserts": {
+            "Flan": 700.0,
+            "icecream_flavors":{
+                "Batidos de Helado": 950.0,
+                "Copa Lolita": 800.0,
+                "Copa de Helado": 600.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 800.0,
+                    "Mojito de Fruta": 1000.0,
+                    "Ginc Tonic": 1500.0,
+                    "Cuba Libre": 900.0,
+                    "Cubata": 1000.0,
+                    "Daiquiri": 850.0,
+                    "Daiquiri de frutas": 1000.0,
+                    "Daiquiri Rebelde": 950.0,
+                    "Pinha Colada": 850.0,
+                    "Pinha Colada con Ron": 950.0,
+                    "Sangria/...Tinto Verano": 950.0,
+                    "Caipiroshka": 1000.0,
+                    "Caipiroshka de frutas": 1200.0,
+                    "Canchanchara": 800.0,
+                    "Canchanchara 7 anhos": 1000.0,
+                    "Margarita": 950.0,
+                    "Tekila 3 Sombreros": 950.0,
+                    "Baileys": 950.0,
+                    "Margarita Blue": 1000.0,
+                    "Coctel Martini": 950.0,
+                    "Aperol Fizz": 1000.0,
+                    "Pantera Rosa": 950.0,
+                    "Agrego de Michelada": 600.0,
+                    "Agrego de Chelada": 500.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Havana Club Anhejo Especial": 480.0,
+                    "Havana Club 3 anhos": 370.0,
+                    "Anhejo Reserva": 500.0,
+                    "Havana Club 7 anhos": 500.0,
+                    "Johnnie Walker Red": 800.0,
+                    "Label 5": 600.0,
+                    "Tequila Blanco": 800.0,
+                    "Tequila Reposado": 900.0,
+                    "Old Partner": 500.0,
+                    "Ballantine": 800.0,
+                    "Vermouth Martini & Rossi": 500.0,
+                    "Vermouth Cinzano": 500.0,
+                    "Jagermeifter": 500.0,
+                    "Licor Aperol/Apricot/Amerato": 700.0
+                },
+                "beers":{
+                    "Cerveza Colonia": 400.0,
+                    "Cerveza Corona": 550.0,
+                    "Cerveza Cristal de Lata": 500.0,
+                    "Cerveza Cristal de Botella": 500.0,
+                    "Cerveza Puerto Santo": 400.0,
+                    "Cerveza dispensada(Jarra 500 ml)": 450.0
+                }
+            },
+            "water":{
+                "Agua de 500 Mlts": 200.0,
+                "Agua de 1500 Mlts": 350.0
+            },
+            "soft_drinks":{
+                "Refresco Pepsi Cola": 400.0
+            },
+            "juices":{
+                "Jugo de cajita": 300.0
+            },
+            "lemonade":{
+                "Limonada Frappe": 700.0
+            },
+            "Energizantes": 400.0,
+            "Guarapo": 250.0,
+            "malta":{
+                "Malta Importada": 400.0,
+                "Malteada": 950.0
+            },
+            "copas":{
+                "Copa de Vino Tinto": 700.0,
+                "Copa de Vino Blanco": 700.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

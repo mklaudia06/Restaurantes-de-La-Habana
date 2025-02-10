@@ -1,0 +1,121 @@
+{
+    "name": "The Place",
+    "food_type": null,
+    "municipality": "Boyeros",
+    "location": {
+        "address":{
+            "Street1":"Calle 100",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0518665,-82.3844016]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":1.5,
+    "social_media": {
+        "instagram":null,
+        "facebook":"The Place Havana"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "croquetas": 600.0,
+            "eperlan": 900.0,
+            "tostones": 500.0,
+            "frituras malanga": 500.0,
+            "garbanzos fritos": 1950.0,
+            "sopon imperial": 1300.0,
+            "picadera the place": 2300.0,
+            "papas fritas": 800.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "pechuga pollo grille": 1400.0,
+            "pollo frito": 1200.0,
+            "chuleta cerdo": 1750.0,
+            "chuleton": 3000.0,
+            "costilla cerdo": 1700.0,
+            "masa cerdo frita": 1700.0,
+            "chilindron cordero": 1950.0,
+            "bistec cerdo grille": 1600.0,
+            "ropa vieja": 1500.0,
+            "bistec res": 1800.0,
+            "bistec uruguayo": 1800.0,
+            "langosta en sus variedades": 1950.0,
+            "pescado": 1500.0,
+            "canciller": 1800.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 800.0
+        },
+        "pastas": {
+            "Espaguetis napolitanos": 800.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "caipiroska": 500.0,
+                    "caipirisima": 500.0,
+                    "mojito": 520.0,
+                    "gin tonic": 500.0,
+                    "sangria": 600.0,
+                    "michelada": 900.0,
+                    "chelada": 500.0,
+                    "margarita": 550.0,
+                    "red label": 550.0,
+                    "old pard": 950.0,
+                    "jamerson": 600.0,
+                    "tequila": 450.0,
+                    "tequila reposado": 500.0,
+                    "seleccion maestro": 1150.0,
+                    "pacto navio": 1150.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "jarra cerveza cristal": 300.0,
+                    "termo cerveza cristal": 2000.0,
+                    "cerveza cristal": 300.0,
+                    "cerveza importada": 250.0
+                }
+            },
+            "water":{
+                "pomo agua": 200.0
+            },
+            "soft_drinks":{
+                "lata refresco": 290.0
+            },
+            "juices":{
+                "caja jugos": 260.0
+            },
+            "lemonade":{
+                "limonada frappe": 600.0
+            },
+            "energizante": 330.0,
+            "malta":{
+                "malta bucanero": 300.0
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+
+}

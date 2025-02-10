@@ -1,0 +1,77 @@
+{
+    "name": "Don Martin",
+    "food_type": ["pizzas"],
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address":{
+            "Street1":"Calle A",
+            "Street2":"661",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1380331,-82.5560444]
+    },
+    "phone_number": "78353693",
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.8,
+    "social_media": {
+        "instagram":"ranchondonmartin",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": null,
+        "pizzas": {
+            "Pizza napolitana": 200.0,
+            "Pizza de queso gouda": 350.0,
+            "Familiar queso gouda": 650.0
+        },
+        "pastas": null,
+        "desserts": null,
+        "side_dishes": {
+            "Cebolla": 200.0,
+            "Queso blanco": 150.0,
+            "Queso gouda": 250.0,
+            "Jamon bikin": 200.0,
+            "Jamon serrano": 800.0,
+            "Aceitunas": 450.0
+        },
+        "pizza_pasta_add":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza cristal": 260.0,
+                    "Cerveza bucanero de botella": 260.0
+                }
+            },
+            "water":{
+                "Agua": 200.0
+            },
+            "soft_drinks":{
+                "Pepsi": 300.0
+            },
+            "juices":null,
+            "lemonade":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

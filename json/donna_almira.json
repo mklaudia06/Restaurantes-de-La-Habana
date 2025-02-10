@@ -1,0 +1,96 @@
+{
+    "name": "Donna Almira",
+    "food_type": ["cubana"],
+    "municipality": "Arroyo Naranjo",
+    "location": {
+        "address":{
+            "Street1":"Calle Finlay",
+            "Street2":"Avenida de Los Pinos",
+            "Street3":"Fernandez de Castro"
+        },
+        "coordinates_latitude_length" : [23.0641433,-82.3782431]
+    },
+    "phone_number": "76472532",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.6,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "tostones rellenos": 850.0,
+            "tamal en cazuela": 785.0,
+            "vegetales rellenos": 895.0,
+            "racion de chicharrones": 300.0,
+            "aderezo donna almira": 385.0,
+            "salsa agridulce": 395.0,
+            "ensalada de chorizo": 1225.0,
+            "ceviche de pescado": 685.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "pollo donna almira": 1340.0,
+            "pollo barbacoa": 1195.0,
+            "pollo salsa agridulce": 1295.0,
+            "pollo grille": 1195.0,
+            "pollo en fricase": 1200.0,
+            "pollo a la pasa": 1220.0,
+            "pollo grille con camarones": 1375.0,
+            "lomo rostizado": 2150.0,
+            "cerdo enrrollado asado": 1545.0,
+            "cerdo enrollado salsa agridulce": 1570.0,
+            "cerdo enrollado glaseado": 1550.0,
+            "fricase de cerdo": 1520.0,
+            "picada a la habanera": 1290.0,
+            "ropa vieja": 1305.0,
+            "vaca frita": 1260.0,
+            "bistec americano": 2430.0,
+            "mignnon de pescado grille": 1370.0,
+            "mignnon de pescado a las finas hierbas": 1410.0,
+            "mignnon de pescado donna almira": 1650.0,
+            "mignnon de pescado gratinado": 1585.0,
+            "mignnon de pescado con queso y bacon": 1720.0,
+            "nasobuco": 1860.0,
+            "bistec de higado": 1290.0,
+            "higado a la italiana": 1380.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "musse variados": 570.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Arroz Congris": 120.0,
+            "Ensalada Estacion": 285.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":null,
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "cafe cubano": 150.0,
+                "cafe cortado": 180.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

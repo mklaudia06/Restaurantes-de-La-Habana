@@ -1,0 +1,130 @@
+{
+    "name": "Las Clavellinas ",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Villegas",
+            "Street2":"Obrapia",
+            "Street3":"Obispo"
+        },
+        "coordinates_latitude_length" : [23.137474, -82.355869]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Racion de croquetas": 900.0,
+            "Tostones de ajo y queso": 900.0,
+            "Entremes de la casa": 1500.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo": 3500.0,
+            "Cerdo": 3500.0,
+            "Carne roja": 3500.0,
+            "Pescado": 3500.0,
+            "Mariscos": 3500.0,
+            "Paella mixta al estilo rieumont": 3500.0,
+            "Paella de carne": 3500.0,
+            "Paella de marisco": 3500.0,
+            "Risotto mixto": 3500.0,
+            "Risotto de carne": 3500.0,
+            "Risotto de marisco": 3500.0
+        },
+        "pizzas": {
+            "Pizza napoles": 3000.0
+        },
+        "pastas": null,
+        "pizza_pasta_add":null,
+        "desserts": {
+            "icecream_flavors":{
+                "Sueros de helado": 900.0
+            }
+        },
+        "side_dishes": {
+            "Vianda frita": 600.0,
+            "Vianda hervida": 600.0,
+            "Ensalada de vegetales": 600.0,
+            "Vegetales salteados": 600.0,
+            "Arroces del dia": 600.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Chelada importada": 600.0,
+                    "Michelada importada": 600.0,
+                    "Chelada nacional": 900.0,
+                    "Michelada nacional": 900.0,
+                    "Mojito": 2400.0,
+                    "Daiquiri": 2400.0,
+                    "Cuba libre": 2400.0,
+                    "Cubata": 2400.0,
+                    "Caipirisima": 2400.0,
+                    "Habana especial": 2400.0,
+                    "Cubanito": 2400.0,
+                    "Presidente": 2400.0,
+                    "Gin tonic": 2700.0,
+                    "Pinha colada": 2700.0,
+                    "Bloody mary": 2700.0,
+                    "Margarita": 2700.0,
+                    "Caipirinha": 2700.0,
+                    "Caipiroska": 2700.0,
+                    "Screw driver": 2700.0,
+                    "Martini": 2700.0,
+                    "Sangria": 2700.0,
+                    "Jarra de sangria": 9000.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza nacional": 600.0,
+                    "Cerveza importada": 600.0
+                }
+            },
+            "water":{
+                "Agua natural": 300.0,
+                "Agua importada": 600.0
+            },
+            "soft_drinks":{
+                "Refresco": 600.0
+            },
+            "juices":{
+                "Batidos": 900.0,
+                "Jugos naturales": 600.0
+            },
+            "lemonade":{
+                "Limonada frappe": 600.0,
+                "Jarra de limonada frappe": 2100.0,
+                "Limonada frappe con hierba buena": 600.0,
+                "Jarra de limonada frappe con hierba buena": 2100.0
+            },
+            "copas":{
+                "Copa de vino": 1200.0
+            },
+            "coffees":{
+                "Cafe cubano": 300.0,
+                "Cafe cortado": 300.0,
+                "Cafe capuccino": 300.0,
+                "Cafe carajillo": 600.0,
+                "Infusiones": 600.0
+            }
+        }
+    }
+}

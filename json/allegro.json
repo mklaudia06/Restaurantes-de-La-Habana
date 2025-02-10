@@ -1,0 +1,59 @@
+{
+    "name": "Allegro",
+    "food_type": ["italiana"],
+    "municipality": "Habana del Este",
+    "location": {
+        "address":{
+            "Street1":"Paseo Panamericano",
+            "Street2":"5ta D",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1602914,-82.3125083]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast":null,
+        "tacos":null,
+        "started": null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes":null,
+        "pizzas": {
+            "Pizza napolitana": 390.0,
+            "Pizza de jamon": 540.0,
+            "Pizza de chorizo": 588.0,
+            "Pizza de bacon": 735.0
+        },
+        "pastas": {
+            "Spaghettis napolitanos": 410.0,
+            "Spaghettis de jamon": 570.0,
+            "Lazagna de jamon": 550.0
+        },
+        "pizza_pasta_add-on": null,
+        "side_dishes":null,
+        "desserts":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Crema de queso": 313.0,
+            "Crema Aurora": 315.0,
+            "Crema Virginia": 329.0
+        },
+        "digestive":null,
+        "liquids":null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

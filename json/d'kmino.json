@@ -1,0 +1,110 @@
+{
+    "name": "D'kmino",
+    "food_type": ["caribeña","latina","cubana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 41",
+            "Street2":"30",
+            "Street3":"34"
+        },
+        "coordinates_latitude_length" : [23.1141791,-82.4158033]
+    },
+    "phone_number": "72090437",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:0 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.8,
+    "social_media": {
+        "instagram":"dkaminocomidasaludable",
+        "facebook":"DKmino"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Pan con chicharrones carnudos y guacamole": 1655.0,
+            "Pan cubano el guapo": 3555.0,
+            "Croquetas de la abuela": 1000.0,
+            "Frituras de malanga y jamon": 1700.0,
+            "Empanadas de la casa": 1700.0,
+            "Carpaccio de ternera aceite trufas y destellos de parmesano": 1700.0,
+            "Berenjenas a la parmesana": 1700.0,
+            "Quesadilla marinera": 1700.0,
+            "Tostas y tacos de res o camaron": 1700.0,
+            "Ensalada cesar con dados de pollo show": 1700.0,
+            "Chorizo gallego al carbon con queso manchego": 1700.0,
+            "Ceviche de pescado y calamares crujientes": 1700.0,
+            "Steak tartar show": 1700.0,
+            "Calamares a la romana con salsa tartara y aceite de sesamo": 945.0,
+            "Burrata fresca con aceite de truffas tomate y aguacate": 2100.0,
+            "Yaquitori de langosta crujiente con salsa chipotle": 2255.0,
+            "Provoleta con blanqueta tomate y pimiento asado": 3335.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Milanesa de pollo con mini ensalada cesar": 2955.0,
+            "Pollo entero relleno de arroz moro y bacon": 2955.0,
+            "Costillas de cerdo caramelizadas con pure de boniato y jengibre": 4145.0,
+            "Churrasco de filete de cerdo con salsa de guayaba y mostaza dijon": 2945.0,
+            "Cerdo asado a lo cubana": 8500.0,
+            "Tamaribs de cerdo 340g con papas fritas": 4500.0,
+            "Bife de chorizo": 7255.0,
+            "Picanha chilena": 8000.0,
+            "Zarzuela de mariscos langosta camaron pescado y pulpo": 5500.0,
+            "Gambon argentino al ajillo": 3555.0,
+            "Filete de pescado con vegetales orientales": 3755.0,
+            "Filete de pescado frito con crujientes de cebolla frita y aderezo": 2950.0,
+            "Rionada argentina": 8000.0,
+            "Tamal relleno con lonjas de cerdo y huevo frito": 2955.0,
+            "Fricando de ternera estofado": 4500.0,
+            "Straccettis con cebolla y jamon": 3500.0,
+            "Solomillo de ternera con papas asadas y crema de piquillos": 4550.0,
+            "Tagliata de res o cerdo queso bifido curado rucula fresca y aceite de truffas": 7500.0,
+            "Punta de filete al ajillo con mostaza": 4550.0
+        },
+        "pizzas": {
+            "Real pizza italiana 33 cm": 2300.0,
+            "Pizza imperial": 3655.0
+        },
+        "pastas": {
+            "Pastas largas y cortas a la piedra": 3100.0,
+            "Pasta alfredo": 2950.0,
+            "Pasta aglio e olio con dados de tomate": 2755.0
+        },
+        "desserts": {
+            "Cookies recien horneadas con helado y cremas": 2000.0,
+            "Cheesecake": 2000.0,
+            "Tres leche con fanguito y helado": 2000.0,
+            "Brownie de nueces y helado de pistacho": 2000.0,
+            "Es mas que un flan": 2000.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Jamon barra": 500.0,
+            "Jamon serrano": 650.0,
+            "Queso gouda": 500.0,
+            "Queso parmesano": 800.0,
+            "Bacon": 500.0,
+            "Pepperoni": 550.0,
+            "Chorizo asturiano": 550.0,
+            "Camaron": 600.0,
+            "Huevo": 400.0,
+            "Aceitunas": 500.0,
+            "Cebolla": 450.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

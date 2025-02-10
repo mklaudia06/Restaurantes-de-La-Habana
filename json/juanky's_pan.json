@@ -1,0 +1,163 @@
+{
+    "name": "Juanky's Pan",
+    "food_type": ["snack"],
+    "municipality": "La Lisa",
+    "location": {
+        "address":{
+            "Street1":"23 A",
+            "Street2":"202",
+            "Street3":"212"
+        },
+        "coordinates_latitude_length" : [ 23.0722127,-82.4984323]
+    },
+    "phone_number": "72718794",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "02:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.8,
+    "social_media": {
+        "instagram":"juankys_pan",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "tacos":{
+            "Tacos de Ropa Vieja de Carnero": 2055,
+            "Tacos de Ropa Vieja de Cerdo": 1400
+        },
+        "started": {
+            "Croquetas de Jamon": 570,
+            "Entremes de Jamon y Queso": 765,
+            "Huevos Rotos": 905,
+            "Mixto de Maria": 2200,
+            "Punetazos de Cerdo c/ Queso": 895,
+            "Punetazos de Cerdo c/ Queso y Bacon": 1030,
+            "Punetazos de cerdo c/ Bacon": 955
+        },
+        "hamburgers_and_sandwichs": {
+            "Sandwich de Atun": 780,
+            "Juankymon": 594,
+            "Media Noche": 454,
+            "Media Noche sin queso": 760,
+            "Sandwich de Queso": 560,
+            "Sandwich Hawaiano": 1360,
+            "Hamburguesa A Caballo de Cerdo": 733,
+            "Big Cheese BUrger de Cerdo": 890,
+            "Big Tasty Cerdo": 870,
+            "Hanburguesa de Cerdo con Atun": 1000,
+            "Hamburguesa de Cerdo con Bacon": 995,
+            "Hamburguesa de Cerdo con Jamon y Queso": 1000,
+            "Doble Hamburguesa de Cerdo": 1050,
+            "Hamburguesa de Cerdo de Doble queso": 895,
+            "Hamburguesa Don JUan Cerdo": 1130,
+            "Hamburguesa Guajira de Cerdo": 2715,
+            "Hamburguesa Sencilla de Cerdo": 838,
+            "Hamburguesa Taquena de Cerdo": 230,
+            "Hamburguesa Don Pascual Cerdo": 1375
+        },
+        "strong_dishes": {
+            "Juanky's Combo de Cerdo con Queso + Jugo": 1094,
+            "Mix sin Pan de Cerdo": 830,
+            "Pina Caramelo de Cerdo": 1055,
+            "Premium de Champinon Cerdo": 730,
+            "Especial de Cerdo": 800
+        },
+        "pizzas": null,
+        "pastas": {
+            "Espaguetis de Bacon con Queso": 470,
+            "Espaguetis Base": 1195,
+            "Espaguetis con carne de Cerdo": 1390,
+            "Espaguetis de Chorizo con Queso": 695,
+            "Espaguetis de Jamon con queso": 985
+        },
+        "pizza_pasta_add":null,
+        "desserts": {
+            "icecream_flavors":{
+                "Batido de Helado": 850,
+                "Batido de Fruta Bomba": 300,
+                "Batido de Guayaba": 300,
+                "Helado Montado": 580,
+                "Suero de Helado": 950
+            }
+        },
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup": null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Caipirisima": 600,
+                    "Caipiroska": 520,
+                    "Caipiroska Absolut": 680,
+                    "Caipiroska c/ Cirok": 950,
+                    "Cuba Libre": 530,
+                    "Cubanito": 420,
+                    "Cubata c/ 7 anos": 600,
+                    "cubata c/ especial": 695,
+                    "cubata c/ Reserva": 580,
+                    "Gin Tonic": 795,
+                    "Gin Tonic Beefeater": 940,
+                    "Gin Tonic c/ Tanqueray": 990,
+                    "sangria": 600,
+                    "Screwdriver": 500,
+                    "Screwdriver Absolut": 780
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Vodka Tonic": 850,
+                    "Vodka Tonic Absolut": 1200,
+                    "Jagger": 350,
+                    "Ron Anejo 7 Anos": 250,
+                    "Ron Anejo Especial": 175,
+                    "Ron Anejo Reserva": 195,
+                    "Ron Seleccion de Maestros": 830,
+                    "Tequila Don Julio Reposado": 1400,
+                    "Tequila Silver Los Corrales": 380,
+                    "Whisky Ballentines": 450,
+                    "Whisky Chivas Regal": 790,
+                    "Whisky J&B": 350,
+                    "Whisky Jack Daniels Black Label": 495,
+                    "Whisky Jack Daniels Honey": 380,
+                    "Whisky Jameson": 575,
+                    "Whisky JW Black Label": 940,
+                    "Whisky JW Red Label": 470,
+                    "Whisky Old Partner": 200,
+                    "Whisky Spirit Speech": 200
+                },
+                "beers":{
+                    "Cerveza Stella": 510,
+                    "Belga Star": 300
+                }
+            },
+            "water":null,
+            "soft_drinks":{
+                "Refresco de Cola": 300,
+                "Refresco de Limon": 300,
+                "Refresco de Naranja": 300
+            },
+            "juices":{
+                "jugo de Fruta Bomba": 185,
+                "Jugo de Guayaba": 185,
+                "Jugo de Melon": 185,
+                "Jugo de PLatano": 185
+            },
+            "lemonade":{
+                "Limonada": 415
+            },
+            "copas":{
+                "Copa de Vino Tinto": 460,
+                "Copa de Vino Tinto Yzaguirre Vermouth": 450
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

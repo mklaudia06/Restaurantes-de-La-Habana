@@ -1,0 +1,204 @@
+{
+    "name": "Doña Alicia",
+    "food_type": ["mixta"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Calle Reina",
+            "Street2":"Padre Varela",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1318427,-82.3744178]
+    },
+    "phone_number": "78666009",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":"restaurantedaalicia",
+        "facebook":"Doña Alicia"
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "Coctel de langosta": 1000.0,
+            "Tostones rellenos con jamon y queso": 700.0,
+            "Bolitas de queso": 1450.0,
+            "Fritura de malanga": 560.0
+        },
+        "tacos":{
+            "Tacos de camaron": 1500.0,
+            "Tacos de pollo": 1000.0,
+            "Tacos al pastor": 1025.0,
+            "Tacos de pollo en salsa pico de gallo": 1250.0,
+            "Tacos de cerdo en salsa de pico de gallo": 1200.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Fajita pollo crema": 2700.0,
+            "Montado de pollo, jamon y queso": 2500.0,
+            "Pollo gratinado": 2375.0,
+            "Pollo donha alicia": 3250.0,
+            "Fajitas de pollo a la campesina": 2400.0,
+            "Pollo entero relleno": 1000.0,
+            "Bistec de cerdo gratinado con jamon y queso": 2200.0,
+            "Masas de cerdo italianas": 3500.0,
+            "Masas de cerdo con salsa agridulce": 2350.0,
+            "Masa de cerdo con mojo criollo": 2350.0,
+            "Lomo deshuesado con mojo criollo": 2000.0,
+            "Lomo ahumado al graten": 2500.0,
+            "Lomo ahumado agridulce": 2250.0,
+            "Fajitas de cerdo a la campesina": 2200.0,
+            "Ropa vieja de cerdo con salsa de tomate": 1900.0,
+            "Ropa vieja de cerdo sin salsa de tomate": 1820.0,
+            "Lomo ahumado grille": 2000.0,
+            "Lomo deshuesado al graten": 2125.0,
+            "Lomo deshuesado en salsa de cebolla": 2000.0,
+            "Fricase de cerdo": 2600.0,
+            "Ropa vieja res con salsa de tomate": 1995.0,
+            "Ropa vieja res sin salsa de tomate": 1970.0,
+            "Langosta salteada al ajo": 3150.0,
+            "Langosta grille con salsa de la casa": 3000.0,
+            "Enchilado de langosta": 3500.0,
+            "Langosta termidor": 3125.0,
+            "Camaron termidor": 3000.0,
+            "Camaron salteado con ajo": 2600.0,
+            "Camarones enchilados": 2800.0,
+            "Pulpo salteado al ajo": 2625.0,
+            "Pulpo enchilado": 2750.0,
+            "Pescado gratinado jamon y queso": 27500.0,
+            "Dados de pescado al ajo": 2200.0,
+            "Dados de pescado en salsa cubana": 2430.0,
+            "Pescado grille con salsa de la casa": 2100.0,
+            "Dados de pescado en salsa italiana": 2900.0,
+            "Pescado del dia": 1950.0,
+            "Ropa vieja de cordero sin salsa de tomate": 1675.0,
+            "Ropa vieja de cordero con salsa de tomate": 1700.0,
+            "Estofado de cordero al vino tinto": 2300.0,
+            "Chilindron de cordero": 2200.0,
+            "Bistec de la abuela con mjo criollo": 1700.0,
+            "Arroz frito con camaron": 2450.0,
+            "Arroz frito": 1825.0,
+            "Bistec de la abuela con salsa de cebolla": 2000.0,
+            "Arroz marinero": 2600.0
+        },
+        "pizzas": {
+            "Pizza de jamon": 1600.0,
+            "Pizza de camarones": 2000.0,
+            "Pizza de atun": 1750.0,
+            "Pizza de bacon": 2000.0,
+            "Pizza napolitana": 1150.0,
+            "Pizza de aji y cebolla": 1550.0,
+            "Pizza estilo margarita": 1250.0,
+            "Pizza ropa vieja de cerdo": 1800.0,
+            "Pizza 4 queso": 2000.0,
+            "Pizza hawaiana": 1625.0,
+            "Pizza de salsa pesto": 1200.0,
+            "Pizza al pastor": 2000.0,
+            "Pizza de ropa vieja de res": 2150.0
+        },
+        "pastas": {
+            "Lasanha de jamon": 1650.0,
+            "Espaguetis con jamon y queso gouda": 1510.0,
+            "Espaguetis con camarones y queso gouda": 2220.0,
+            "Espaguetis carbonara": 2115.0,
+            "Espaguetis napoles con gouda": 1105.0,
+            "Espaguetis con atun": 1660.0,
+            "Canelon de camaron": 1850.0,
+            "Canelones de jamon": 1650.0,
+            "Espaguetis en salsa blanca cremosa con parmesano y albahaca natural": 1500.0,
+            "Espaguettis de vegetales con grana padano": 1650.0
+        },
+        "desserts": {
+            "Cake de chocolate (porcion)": 850.0,
+            "Cisne": 95.0,
+            "Trufa de chocolate": 160.0,
+            "Eclear": 530.0,
+            "Rosca reyes": 350.0,
+            "Arroz con leche": 580.0,
+            "Cheesecake de fresa (porcion)": 520.0,
+            "Tortica": 100.0
+        },
+        "side_dishes": {
+            "Tostones naturales": 250.0,
+            "Vegetales de temporada": 350.0,
+            "Arroz blanco": 220.0,
+            "Arroz moro": 320.0,
+            "Toston al ajo": 350.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":{
+                    "Vino blanco espumoso semisecos condelier": 2625.0,
+                    "Vino espumoso rocamar (brut)": 2750.0,
+                    "Vino rosado espumoso calavinha": 2500.0,
+                    "Vino blanco espumoso calavinha brut": 2500.0,
+                    "Heineken botella 330 ml": 495.0,
+                    "Johnnie walker etiqueta roja": 9050.0,
+                    "Chivas regal 12 (750ml)": 19500.0,
+                    "H.c seleccion de maestros": 8950.0,
+                    "H.c anhejo reserva": 4300.0,
+                    "H.c anhejo especial": 2625.0,
+                    "Tequila olmeca silver": 5800.0,
+                    "Ron santiago de cuba carta blanca (700ml)": 3500.0,
+                    "Whisky black & white (750ml)": 4125.0,
+                    "Whisky j/w black label (750ml)": 17500.0,
+                    "Ron santiago de cuba anhejo 12": 12000.0,
+                    "Black tears (700ml)": 2000.0,
+                    "Cerveza corona": 660.0,
+                    "H.c.pacto navio": 10000.0,
+                    "Cerveza presidente licht": 570.0,
+                    "Vt frontera merlot (botella)": 2300.0,
+                    "Espumoso cava mistinguett brut": 3800.0,
+                    "Espumoso cava brut reserva mistinguett": 3800.0,
+                    "Espumoso gran baron cava brut": 3800.0,
+                    "Vt frontera cabernet sauvignon (mercado)": 2100.0,
+                    "Vb frontera chardonay (mercado)": 2100.0,
+                    "Vt frontera merlot (mercado)": 2100.0,
+                    "Espumoso torre de la vid (brut)": 2750.0,
+                    "Cava brut rose gran baron": 2250.0
+                },
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza importada modelo especial": 650.0,
+                    "Cerveza presidente": 595.0,
+                    "Cerveza nacional cristal": 440.0
+                }
+            },
+            "water":{
+                "Agua tonica mg": 600.0,
+                "Agua natural buona": 280.0,
+                "Agua gaseada tehuacan": 650.0
+            },
+            "soft_drinks":{
+                "Pepsi cola de lata": 380.0,
+                "Refresco importado 7 up": 320.0,
+                "Refresco ritz cola": 345.0,
+                "Refresco santa naranja": 350.0
+            },
+            "juices":{
+                "Jugo kermato": 710.0
+            },
+            "lemonade":null,
+            "red bull":900.0,
+            "malta":{
+                "Malta nacional bucanero": 405.0
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

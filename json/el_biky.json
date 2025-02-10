@@ -1,0 +1,211 @@
+{
+    "name": "El biky",
+    "food_type": ["caribeña"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Infanta",
+            "Street2":"San Lazaro",
+            "Street3":"Concordia"
+        },
+        "coordinates_latitude_length" : [23.1380134,-82.3811151]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.5,
+    "social_media": {
+        "instagram":"elbiky",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croqueticas de la casa": 700.0,
+            "Frituras de Malanga": 500.0,
+            "Tostones rellenos de jamon": 2000.0,
+            "Tostones rellenos de ropa vieja": 2200.0,
+            "Tostones rellenos mixtos": 2200.0,
+            "Tostones rellenos de atun": 2200.0,
+            "Surtido de Quesos": 2200.0,
+            "Pimientos Piquillos Rellenos (queso crema, atun y vegetales)": 1950.0,
+            "Entremes de Jamon Serrano": 2000.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich de jamon en pan baguette (con viandas fritas)": 700.0,
+            "Sandwich de queso en pan baguette (con viandas fritas)": 1400.0,
+            "Sandwich de jamon y queso en pan baguette (con viandas fritas)": 1200.0,
+            "Baguette con lomo de cerdo (con viandas fritas)": 3500.0,
+            "Baguette de atun": 1900.0,
+            "Baguette catalana (jamon serrano con viandas fritas)": 1800.0,
+            "Baguette de pollo (pechuga de pollo con viandas fritas)": 1900.0,
+            "Baguette cubano (cerdo asado, jamon ahumado y queso)": 1393.0,
+            "Pepito de filete de res (filete de res con vegetales y viandas fritas)": 5000.0,
+            "Hamburguesa de carne (res) con vegetales y vianda frita": 2740.0,
+            "Cheeseburger (res) con queso, vegetales y vianda frita": 2950.0,
+            "Hamburguesa especial (res) con jamon, queso, bacon y vegetales": 3700.0
+        },
+        "strong_dishes": {
+            "Fajitas de pollo": 1300.0,
+            "Pollo Grille": 1800.0,
+            "Gorden Blue": 2400.0,
+            "Lomo de Cerdo Grille": 3500.0,
+            "Masas de Cerdo Fritas": 2800.0,
+            "Chuleta de Cerdo Frita": 2300.0,
+            "Escalope de Cerdo": 3900.0,
+            "Bistec de Cerdo a la plancha": 3500.0,
+            "Carpaccio de Res": 3800.0,
+            "Solomillo de Res": 6800.0,
+            "Esperlan de langosta": 2900.0,
+            "Ceviche de Camarones": 2800.0,
+            "Coctel de Camarones en Salsa Rosa": 2400.0,
+            "Carpaccio de Pulpo aderezado de aceite extra virgen de olivas": 2300.0,
+            "Zalzuela de Mariscos": 6000.0,
+            "Pulpo": 5800.0,
+            "Ceviche de Pescado": 2650.0,
+            "Esperlan de pescado": 1300.0,
+            "Filete de Pescado": 3000.0,
+            "Filete de Salmon": 5500.0,
+            "Rosa de salmon ahumado": 4100.0,
+            "Cazuela de Garbanzos": 2100.0
+        },
+        "pizzas": {
+            "Pizza de Queso": 1300.0
+        },
+        "pastas": {
+            "Espaguetis a la Carbonara": 3000.0,
+            "Espaguetis con Jamon y Queso": 1250.0,
+            "Espaguetis Napolitanos": 970.0,
+            "Espaguetis Bolognesa": 2500.0,
+            "Espaguetis con Atun": 2400.0,
+            "Lasanha Bolognesa": 3800.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Crema de Queso": 850.0,
+            "Crema Reina": 850.0,
+            "Crema Aurora": 850.0,
+            "Crema Virginia": 850.0
+        },
+        "digestive":null,
+        "desserts": {
+            "Flan de Caramelo": 400.0,
+            "Cheesecake": 920.0,
+            "Bizcocho con helado": 720.0,
+            "Pie de Limon": 1100.0,
+            "icecream_flavors":{
+                "Copa Tres Leches": 960.0,
+                "Helado Sencillo": 420.0,
+                "Batido de Helado": 850.0,
+                "Suero de Helado": 970.0,
+                "Jimaguas": 740.0,
+                "Tres Gracias": 680.0,
+                "Copa Lolita (Helado con Flan)": 860.0,
+                "Ensalada de Helado": 900.0
+            }
+        },
+        "pizza_pasta_add": {
+            "Racion de Jamon": 350.0,
+            "Racion de Pimientos": 250.0,
+            "Racion de Bacon": 1300.0,
+            "Racion de Queso Gouda": 750.0,
+            "Racion de Salsa Bolonhesa": 1100.0,
+            "Racion de Aceitunas": 400.0,
+            "Racion de Champinhones": 400.0,
+            "Racion de Jamon Serrano": 1100.0,
+            "Racion de Atun": 1600.0,
+            "Racion de Camaron": 2150.0,
+            "Racion de Chorizo Vela": 2000.0,
+            "Racion Queso Parmesano": 950.0
+        },
+        "side_dishes": {
+            "Ensalada de Vegetales, vegetales de estacion": 1000.0,
+            "Ensalada Mixta Vegetal (Queso, atun, huevo y cebolla)": 2300.0,
+            "Ensalada Fria de Pasta (De la casa) Italiana": 900.0,
+            "Racion de Arroz Blanco": 140.0,
+            "Racion de Arroz Mongol": 180.0,
+            "Ensalada Verde": 200.0,
+            "Papas Fritas": 1300.0,
+            "Pure de Malanga": 650.0
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Ron Collis": 750.0,
+                    "Sangria": 750.0,
+                    "Cuba Libre": 1800.0,
+                    "Mary Pickford": 750.0,
+                    "Cuba Bella": 750.0,
+                    "Majto": 750.0,
+                    "Daiquiri Rebelde": 750.0,
+                    "Havana Special": 750.0,
+                    "B-52": 800.0,
+                    "Piña Colada": 1000.0,
+                    "Bloody Mary": 800.0,
+                    "Manhattan": 900.0,
+                    "Cantharchars": 750.0,
+                    "Martini": 800.0,
+                    "San Francisco": 400.0,
+                    "Colada": 400.0,
+                    "Miami Vice": 400.0,
+                    "Virgin Maria": 400.0,
+                    "47'S Frozen": 400.0,
+                    "Michelada": 250.0,
+                    "Chelada": 200.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cervezas": 1200.0,
+                    "Jarra de Cerveza": 400.0,
+                    "Vaso de Cerveza": 350.0
+                }
+            },
+            "water":{
+                "Agua Gaseosa Importada": 550.0,
+                "Agua Natural sin gas": 440.0,
+                "Agua Tonica": 1000.0
+            },
+            "soft_drinks":{
+                "Refrescos": 550.0
+            },
+            "juices":{
+                "Kermato": 1200.0,
+                "Jugos de Frutas Naturales": 500.0,
+                "Batidos de Frutas Naturales": 600.0
+            },
+            "lemonade":{
+                "Limonada Clarete": 2000.0,
+                "Limonada": 720.0,
+                "Limonada Fresca": 850.0
+            },
+            "red bull":1200.0,
+            "malta":650.0,
+            "copas":{
+                "Copa de Vino": 1500.0,
+                "Copa de vino digestivo dulce (50ml)": 1200.0
+            },
+            "coffees":{
+                "Vaso de Leche": 200.0,
+                "Cafe Expreso": 170.0,
+                "Cafe Americano": 170.0,
+                "Cafe Cortado": 200.0,
+                "Cafe con Leche": 270.0,
+                "Cafe Carajillo": 400.0,
+                "Cafe Bombon": 400.0,
+                "Capuchino": 310.0,
+                "Te": 150.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

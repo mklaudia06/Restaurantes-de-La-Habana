@@ -1,0 +1,147 @@
+{
+    "name": "Obispo 510",
+    "food_type": ["criolla","italiana"],
+    "municipality": "Habana Vieja",
+    "location": {
+       "address":{
+            "Street1":"Obispo",
+            "Street2":"Villegas",
+            "Street3":"Bernaza"
+        },
+        "coordinates_latitude_length" : [23.137584,-82.3578579]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Coctel de Camarones": 1500.0,
+            "Tacos": 1200.0,
+            "Tostones a la Campesina": 1200.0,
+            "Croquetas": 600.0,
+            "Frituras de Malanga": 600.0,
+            "Ensalada Primavera": 600.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich": 1200.0
+        },
+        "strong_dishes": {
+            "Cordon Bleu": 2100.0,
+            "Fricasse de Pollo": 1800.0,
+            "Pollo al Curry": 1800.0,
+            "Pollo al Grill": 1500.0,
+            "Paella": 3000.0,
+            "Chorrera": 2400.0,
+            "Chuleton a la Pinha": 2100.0,
+            "Masas de Cerdo Fritas": 2100.0,
+            "Cerdo Encebollado": 1800.0,
+            "Res al Vino Tinto": 2400.0,
+            "Estofado de Res": 2100.0,
+            "Ropa Vieja": 1800.0,
+            "Langosta en Salsa Americana": 3600.0,
+            "Pulpo al Ajillo": 3600.0,
+            "Langosta al Grill": 3000.0,
+            "Langosta al Ajillo": 3000.0,
+            "Pescado Canciller": 3000.0,
+            "Camarones Rebozados": 2400.0,
+            "Pescado al Grill": 2100.0,
+            "Pescado al Plato X KG": 4500.0,
+            "Cazuela Marinera X2PAX": 7500.0,
+            "Canoa de Carnes X2PAX": 6000.0,
+            "Mar y Tierra X2PAX": 10500.0,
+            "Arroz Frito": 600.0,
+            "Arroz con Vegetales": 900.0
+        },
+        "pizzas": {
+            "Jamon Serrano": 2100.0,
+            "Diavola": 1500.0,
+            "Hawaiana": 1500.0,
+            "Napoletana": 900.0,
+            "Pizza Ropa Vieja": 2100.0
+        },
+        "pastas": {
+            "De Mariscos": 3000.0,
+            "Carbonara": 2400.0,
+            "Bolognesa": 2100.0,
+            "Pesto": 1200.0,
+            "Pomodoro": 1200.0,
+            "Fetuccini Ropa Vieja": 2100.0
+        },
+        "desserts": {
+            "Tarta": 900.0,
+            "Affogato": 600.0,
+            "icecream_flavors":{
+                "Batido de Helado": 600.0,
+                "Helado": 300.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito Frutal": 600.0,
+                    "Daiquiri": 600.0,
+                    "Cuba Libre": 600.0,
+                    "Cubata": 900.0,
+                    "Cancha": 600.0,
+                    "Ron Collins": 600.0,
+                    "Cubanito": 600.0,
+                    "Mary Pickford": 1200.0,
+                    "Presidente": 1200.0,
+                    "Cuba Bella": 1200.0,
+                    "Gin Tonic": 1500.0,
+                    "Long Island": 1500.0,
+                    "Bloody Mary": 1200.0,
+                    "Caipirinha": 1200.0,
+                    "Pinha Colada": 1200.0,
+                    "Michelada": 900.0,
+                    "Chelada": 600.0,
+                    "Sangria": 1200.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza": 450.0
+                }
+            },
+            "water":{
+                "Agua Natural": 300.0
+            },
+            "soft_drinks":{
+                "Sodas": 400.0
+            },
+            "juices":{
+                "Jugos": 300.0,
+                "Batidos": 600.0
+            },
+            "lemonade":{
+                "Limonada": 300.0
+            },
+            "copas":{
+                "Copa de Vino Tinto": 600.0,
+                "Copa de Vino Blanco": 600.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

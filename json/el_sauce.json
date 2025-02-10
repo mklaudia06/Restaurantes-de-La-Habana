@@ -1,0 +1,87 @@
+{
+    "name": "El Sauce",
+    "food_type": ["pizza"],
+    "municipality": "Boyeros",
+    "location": {
+        "address":{
+            "Street1":"Calle 403",
+            "Street2":"180",
+            "Street3":"184"
+        },
+        "coordinates_latitude_length" : [23.0902718,-82.4511266]
+    },
+    "phone_number": "72047114",
+    "schedule": null,
+    "quality":4.3,
+    "social_media": {
+        "instagram":null,
+        "facebook":"El Sauce"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "bocadito de jamon": 200.0,
+            "bocadito de queso": 250.0,
+            "bocadito de jamon y queso": 300.0,
+            "hamburguesa simple": 400.0,
+            "hamburguesa con jamon": 500.0,
+            "hamburguesa con queso": 550.0,
+            "hamburguesa con bacon": 550.0,
+            "hamburguesa con jamon y queso": 600.0,
+            "hamburguesa sauce": 850.0
+        },
+        "strong_dishes": null,
+        "pizzas": {
+            "pizza napole": 500.0,
+            "pizza de jamon": 700.0,
+            "pizza de chorizo": 700.0,
+            "pizza de cebolla": 600.0,
+            "pizza de pimiento": 600.0,
+            "pizza hawaiana": 750.0,
+            "pizza de bacon": 750.0,
+            "pizza de atun": 800.0,
+            "pizza de aceitunas": 700.0,
+            "pizza sauce": 900.0
+        },
+        "pastas": {
+            "lasagna de jamon": 900.0,
+            "canelon": 700.0
+        },
+        "desserts": {
+            "icecream_flavors":{
+                "suero de helado": 550.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza": 280.0
+                }
+            },
+            "water":null,
+            "soft_drinks":{
+                "refresco": 220.0
+            },
+            "juices":null,
+            "lemonade":null,
+            "malta":250.0,
+            "copas":null,
+            "coffees":{
+                "cafe expreso": 100.0,
+                "cafe cortadito": 150.0
+            }
+        }
+    }
+}

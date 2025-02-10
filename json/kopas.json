@@ -1,0 +1,121 @@
+{
+    "name": "Kopas",
+    "food_type": ["mixta"],
+    "municipality": "Habana del Este",
+    "location": {
+        "address":{
+            "Street1":"Avenida 5ta",
+            "Street2":"482",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1694235,-82.1420831]
+    },
+    "phone_number": "51566616",
+    "schedule": {
+        "opening": "10:30 am",
+        "closure": "11:30 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.1,
+    "social_media": {
+        "instagram":"kopas_bar_restaurant",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Fritura de malanga": 750.0,
+            "Tostones rellenos de camaron": 1100.0,
+            "Tostones rellenos de jamon y queso": 975.0
+        },
+        "tacos":{
+            "Tacos de camaron": 1250.0,
+            "Tacos de res": 995.0,
+            "Tacos de cerdo": 975.0,
+            "Tacos de langosta": 1350.0,
+            "Tacos de pescado": 975.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Brochetas de pollo": 1550.0,
+            "Fajitas de pollo empanadas": 1450.0,
+            "Bistec de pollo grille": 1250.0,
+            "Pechuga de pollo en salsa de jengibre y ajonjoli": 1450.0,
+            "Pollo al limon y al oregano": 1350.0,
+            "Pollo a la parmesana": 1650.0,
+            "Pollo al ajo y vino blanco": 1350.0,
+            "Fajitas de pollo a la pina y miel": 1275.0,
+            "Pollo Princesa": 1650.0,
+            "Lomo de cerdo ahumado con salsa barbecue": 1850.0,
+            "Lomo de cerdo ahumado con salsa agridulce": 1875.0,
+            "Lomo de cerdo ahumado encebollado": 1775.0,
+            "Fajitas de cerdo a la pina y miel": 1875.0,
+            "Uruguayo de cerdo": 2250.0,
+            "Bistec de cerdo Princesa": 2000.0,
+            "Masa de cerdo al estilo Kopas": 1875.0,
+            "Bistec de cerdo encebollado": 1550.0,
+            "Bistec de res encebollado": 1750.0,
+            "Fajitas de res": 1750.0,
+            "Mignon salsa del Chef": 1850.0,
+            "Ropa vieja": 1575.0,
+            "Uruguayo de res": 2250.0,
+            "Vaca frita": 1450.0,
+            "Brochetas de cerdo": 1850.0,
+            "Brochetas de langosta": 2350.0,
+            "Langosta enchilada": 2475.0,
+            "Langosta grille": 2100.0,
+            "Camaron enchilado": 2300.0,
+            "camaron grille": 2000.0,
+            "Camaron empanado": 2300.0,
+            "Camarones al ajillo": 2200.0,
+            "Langosta al ajillo": 2250.0,
+            "Brochetas de camaron": 2100.0,
+            "Camaron tropical": 3250.0,
+            "Filete de pescado Costa Sur": 2650.0,
+            "Dados de pescado al ajillo": 1750.0,
+            "Filete a la Deutch": 1750.0,
+            "Filete de pescado Princesa": 2150.0,
+            "Filete de pescado en salsa de limon": 1975.0,
+            "Langosta a las brasas": 2350.0,
+            "Lomo de pescado a las brasas": 2200.0,
+            "Rueda de albacora a las brasas": 1775.0,
+            "Mar y tierra": 3650.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "Desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": {
+                    "Vodka Ciroc Red Berry": 8900.0,
+                    "Whisky Jameson": 8500.0,
+                    "Whisky J&B Rare": 5900.0,
+                    "Whisky Elliot Hall": 4900.0,
+                    "whisky Chanceler": 2900.0,
+                    "Whisky Ballantines": 8500.0
+
+                },
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

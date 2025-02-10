@@ -1,0 +1,166 @@
+{
+    "name": "Cafe Tilin",
+    "food_type": null,
+    "municipality": "Boyeros",
+    "location": {
+        "address":{
+            "Street1":"Avenida Independencia",
+            "Street2":"Km 9 1/2",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.027338, -82.398583]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": null,
+        "closure": null,
+        "days_of_the_week": null
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "croquetas de la casa": 850.0,
+            "tostones rellenos de jamon y queso": 950.0,
+            "tostones rellenos de atun": 950.0,
+            "tostones rellenos de ropa vieja": 950.0,
+            "frituras de malanga": 850.0,
+            "fajitas de pollo": 950.0,
+            "fajitas de cerdo": 950.0,
+            "picadera tilin": 2500.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "hamburguesa clasica": 1100.0,
+            "hamburguesa bar": 1300.0,
+            "hamburguesa mexicana": 1750.0,
+            "hamburguesa tilin": 2000.0,
+            "combo americano": 1750.0,
+            "hamburguesa la cubana": 1800.0,
+            "hamburguesa super clasica": 1750.0
+        },
+        "strong_dishes": {
+            "suprema de pollo": 1850.0,
+            "fajitas de pollo salteadas con vegetales": 1750.0,
+            "pollo frito": 1450.0,
+            "gordon bleu": 3050.0,
+            "bistec de cerdo encebollado": 1850.0,
+            "bistec de cerdo grille": 1600.0,
+            "masas de cerdo": 1850.0,
+            "escalope de cerdo": 1950.0,
+            "ropa vieja de cerdo": 1700.0,
+            "bistec uruguayo": 3250.0
+        },
+        "pizzas": {
+            "pizza napolitana": 1300.0,
+            "pizza de chorizo": 1700.0,
+            "pizza de atun": 1700.0,
+            "pizza hawaiana": 1950.0,
+            "pizza tilin": 2500.0,
+            "pizza de jamon": 1700.0,
+            "pizza de cebolla": 1500.0,
+            "pizza napolitana de 21cm": 500.0
+        },
+        "pastas": {
+            "milanesa a la napolitana": 3300.0,
+            "spaghetti napolitano": 1300.0,
+            "spaghetti de jamon": 1700.0
+        },
+        "desserts": {
+            "postre del dia": 500.0,
+            "tarta helada": 950.0,
+            "flan de caramelo": 350.0,
+            "icecream_flavors":{
+                "copa de helado": 450.0,
+                "copa lolita": 650.0,
+                "Suero de Helado": 850.0
+            }
+        },
+        "pizza_pasta_add": {},
+        "side_dishes": {
+            "arroz frito": 1500.0,
+            "arroz moro": 350.0,
+            "arroz blanco": 250.0,
+            "crema de malanga": 800.0,
+            "ensalada mixta": 750.0,
+            "viandas fritas": 650.0,
+            "papas fritas": 750.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Pinna Colada": 950.0,
+                    "Michelada": 750.0,
+                    "Chelada": 650.0,
+                    "Cubanito": 800.0,
+                    "Mojito": 500.0,
+                    "Mojito de Fruta": 750.0,
+                    "Daiquiri": 500.0,
+                    "Daiquiri de Fruta": 750.0,
+                    "Caipirinna": 500.0,
+                    "Caipiroska": 650.0,
+                    "Caipirisima": 600.0,
+                    "Bloody Mary": 900.0,
+                    "Screwdriver": 700.0,
+                    "Cubalibre": 550.0,
+                    "Sangria": 850.0,
+                    "Tequila": 900.0,
+                    "Margarita": 1250.0,
+                    "Blue Lagon": 800.0,
+                    "Coctel de La Casa \"Un Tilin\"": 1500.0
+                },
+                "bottles":{
+                    "Botella de Vino Frontera": 4500.0,
+                    "Botella de Vino Casillero del Diablo": 8000.0,
+                    "Linea Chanceler": 250.0,
+                    "Linea Jaggermeister": 1000.0,
+                    "Linea Red Label": 1200.0,
+                    "Linea Ballentines Finest": 1200.0,
+                    "Linea Ballentines 10 Annos": 1500.0,
+                    "Linea Chivas Regal 12 Annos": 1800.0,
+                    "Linea Jack Daniels": 2500.0
+                },
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza Nacional": 400.0
+                }
+            },
+            "water":{
+                "Agua Natural Nacional": 250.0,
+                "Agua Natural Importada": 300.0
+            },
+            "soft_drinks":{
+                "Refresco Importado": 300.0
+            },
+            "juices":{
+                "Jugo de Frutas": 500.0
+            },
+            "lemonade":{
+                "Limonada Frappe": 450.0
+            },
+            "Energizante": 350.0,
+            "San Francisco": 750.0,
+            "malta":{
+                "Malta Importada": 350.0
+            },
+            "copas":{
+                "Copa de Vino Frontera": 900.0,
+                "Copa de Vino Casillero del Diablo": 1200.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

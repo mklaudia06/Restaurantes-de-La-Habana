@@ -1,0 +1,70 @@
+{
+    "name": "Hotel Paseo Habana",
+    "food_type": ["mixta"],
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+       "address":{
+            "Street1":"Calle A",
+            "Street2":"15",
+            "Street3":"17"
+        },
+        "coordinates_latitude_length" : [23.134739,-82.4148211]
+    },
+    "phone_number": "78360808",
+    "schedule": {
+        "opening": "07:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.7,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo asado": 950.0,
+            "Cerdo estofado": 1450.0,
+            "Arroz amarillo": 230.0
+        },
+        "pizzas": null,
+        "pizza_pasta_add":null,
+        "pastas": null,
+        "desserts": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":{
+                    "Vino espumoso condelier": 1725.0,
+                    "Vino espumoso brincos": 2398.0,
+                    "Vino rosado santa digna": 2112.0,
+                    "Vino blanco la vinha": 1200.0,
+                    "Vino tinto la vinha": 1200.0,
+                    "Vino tinto entre rios": 1068.0
+                },
+                "drinks_with":null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":{
+                "Pomo de refresco sirope": 1080.0
+            },
+            "juices":null,
+            "lemonade":null,
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "coffees":null
+        }
+    }
+}

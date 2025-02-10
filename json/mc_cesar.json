@@ -1,0 +1,111 @@
+{
+    "name": "Mc Cesar",
+    "food_type": ["criolla","italiana","tapas"],
+    "municipality": "Cotorro",
+    "location": {
+        "address":{
+            "Street1":"Calle primera",
+            "Street2":"220",
+            "Street3":"221"
+        },
+        "coordinates_latitude_length" : [23.0518125,-82.2783405]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:30 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.1,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "dados jamon y queso": 1000.0,
+            "eperlan": 1300.0,
+            "tostones rellenos": 600.0,
+            "tostones criollos": 350.0,
+            "croquetas de la casa": 500.0,
+            "picadera Mc Cesar": 2500.0,
+            "papas fritas": 600.0,
+            "fritura de malanga": 400.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "pan con atun": 600.0,
+            "pan con jamon y queso": 500.0,
+            "pan con pechuga": 500.0,
+            "pan con bistec": 500.0,
+            "hamburguesa de cerdo": 500.0
+        },
+        "strong_dishes": {
+            "pechuga de pollo grille": 1300.0,
+            "salteado de pollo": 1400.0,
+            "pollo deshuesado": 900.0,
+            "pollo gordon blue": 1500.0,
+            "suprema de pollo princesa": 1500.0,
+            "churrasco de cerdo": 2000.0,
+            "higado de cerdo a la italiana": 1000.0,
+            "cerdo salteado de vegeteales": 1500.0,
+            "bistec de cerdo grille": 1300.0,
+            "faja de cerdo": 1400.0,
+            "escalope de cerdo": 1400.0,
+            "solomillo de cerdo": 2000.0,
+            "lomo ahumado deshuesado": 1300.0,
+            "bistec uruguayo": 1500.0,
+            "ropa vieja": 1800.0,
+            "vaca frita": 1800.0,
+            "bistec de res": 2000.0,
+            "churrasco de res": 3000.0,
+            "langosta enchilada": 2000.0,
+            "langosta al ajillo": 2000.0,
+            "langosta mariposa": 2300.0,
+            "pescado grille": 1500.0,
+            "pescado Mc Cesar": 2500.0,
+            "canciller de pescado": 1800.0,
+            "pescado empanado": 1600.0,
+            "pescado con salsa de limon": 1700.0,
+            "camaron grille": 1900.0,
+            "camaron al ajillo": 1900.0,
+            "camaron enchilado": 2000.0,
+            "brocheta de cerdo y pollo": 1700.0,
+            "garbanzo frito": 1000.0
+        },
+        "pizzas": {
+            "pizza": 500.0
+        },
+        "pastas": {
+            "spaghetti": 500.0
+        },
+        "desserts": {
+            "torrejas": 250.0,
+            "icecream_flavors":{
+                "ensalada de helado": 500.0,
+                "bola de helado": 100.0,
+                "batido de helado": 500.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "arroz Mc Cesar": 1500.0,
+            "arroz a la campesina": 1500.0,
+            "arroz moro": 300.0,
+            "arroz blanco": 200.0,
+            "arroz frito": 500.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+
+}

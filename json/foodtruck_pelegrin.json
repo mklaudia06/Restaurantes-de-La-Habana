@@ -1,0 +1,78 @@
+{
+    "name": "FoodTruck Pelegrin",
+    "food_type": ["cubana","internacional"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Calle 76",
+            "Street2":"3era",
+            "Street3":"5ta"
+        },
+        "coordinates_latitude_length" : [23.108523, -82.440244]
+    },
+    "phone_number": "52819512",
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.5,
+    "social_media": {
+        "instagram":"food_truck_pelegrin",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": {
+            "Waffles": 700.0,
+            "Desayuno": 1250.0
+        },
+        "started": {
+            "Bolitas de queso": 850.0,
+            "Papas fritas": 600.0,
+            "Croquetas": 700.0,
+            "Sandwich jamon y queso": 750.0,
+            "Sandwich atun": 850.0,
+            "Sandwich cubano": 1200.0,
+            "Sandwich pelegrin": 1300.0,
+            "Sandwich pechuga": 2500.0,
+            "Perro caliente": 750.0,
+            "Palomitas": 850.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": null,
+        "pizzas": null,
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":null,
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "Jugos": 270.0
+            },
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "Expresso": 150.0,
+                "Cortado": 250.0,
+                "Capuchino": 400.0,
+                "Cafe bombon": 450.0,
+                "Frapuchino": 550.0,
+                "Carajillo": 350.0,
+                "Leche fria": 370.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

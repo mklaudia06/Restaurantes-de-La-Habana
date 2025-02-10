@@ -1,0 +1,145 @@
+{
+    "name": "La Novia",
+    "food_type": ["caribeña"],
+    "municipality": "La Lisa",
+    "location": {
+        "address":{
+            "Street1":"310",
+            "Street2":"autopista",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0242817,-82.4693154]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": null,
+        "closure": null,
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":"Restaurante LA Novia"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas de la Casa": 600,
+            "Frituras de Malanga": 400,
+            "Bolitas de yuca y queso": 350,
+            "Fajitas de cerdo": 1000,
+            "Fajitas de pollo": 1000,
+            "Picadera Mixta": 2200,
+            "Chips de Vianda": 200,
+            "Milanesa de Pollo": 1200,
+            "Ensaladita de aceitunas, queso y peperoni": 1100
+        },
+        "tacos":{
+            "Tacos de cerdo": 1100,
+            "Tacos de pollo": 1100,
+            "Tacos de jamon y queso": 1100,
+            "Tacos marineros": 1100,
+            "Tacos de ropa vieja": 1300
+        },
+        "hamburgers_and_sandwichs": {
+            "Sandwich de Jamon": 580,
+            "Sandwich de Jamon y Queso": 730,
+            "Sandwich Cubano con cerdo asado": 1300
+        },
+        "strong_dishes": {
+            "Pollo frito": 1300,
+            "Pollo asado": 1300,
+            "Bistec de Pechuga": 1600,
+            "Cerdo asado": 1500,
+            "Bistec de Cerdo": 1200,
+            "Chuleta de Cerdo": 1600,
+            "Brochetas de Cerdo": 1800,
+            "Masas fritas de cerdo": 1700,
+            "Ropa Vieja": 1900,
+            "Completa de enchilado de Cangrejo": 1500
+        },
+        "pizzas": {
+            "Pizza Napolitana": 280,
+            "Pizza de Peperoni": 400
+        },
+        "pastas": {
+            "Espaguetis Napolitanos": 700
+        },
+        "desserts": {
+            "Flan": 270,
+            "icecream_flavors":{
+                "Copa de Helado": 550,
+                "Batido de Helado": 700
+            }
+        },
+        "pizza_pasta_add": {
+            "Vegetales": 180,
+            "Jamon": 250,
+            "Queso": 300,
+            "Cebolla": 120,
+            "Chorizo": 200,
+            "Pina glaseada": 150,
+            "Pimiento": 150,
+            "Huevos": 120,
+            "Peperoni": 300
+        },
+        "side_dishes": {
+            "Tostones criollos": 300,
+            "Tostones Rellenos": 850,
+            "Racion de Arroz Moro": 300,
+            "Racion de Ensalada": 300
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada mexicana": 250,
+                    "Michelada": 230,
+                    "Sangria": 550,
+                    "Cuba Libre": 250,
+                    "Caipiroska": 300,
+                    "Caipirinha": 300,
+                    "Pina Colada": 550
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Jarra de Cerveza dispensada": 300,
+                    "cerveza importada": 250,
+                    "cerveza nacional": 290
+                }
+            },
+            "water":{
+                "Agua": 150
+            },
+            "soft_drinks":{
+                "Refresco importado": 260
+            },
+            "juices":{
+                "Jugos Naturales": 160,
+                "Batido de Frutas": 350
+            },
+            "lemonade":{
+                "Limonada Frappe": 340,
+                "Limonada Natural": 340
+            },
+            "Energizante": 260,
+            "malta":{
+                "Malta importada": 290
+            },
+            "copas":null,
+            "coffees":{
+                "Cafe expresso": 100,
+                "Cafe frapuccino": 450
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,146 @@
+{
+    "name": "Amalfi",
+    "food_type": ["italiana","mediterranea","europea"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"3ra",
+            "Street2":"36A",
+            "Street3":"38"
+        },
+        "coordinates_latitude_length":[23.1187455,-82.4298548]
+    },
+    "phone_number": "52841045",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:30 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.1,
+    "social_media": {
+        "facebook": "Amalfi",
+        "instagram": "amalfi_havana_restaurant"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Bruschetta": 1600.0,
+            "Bruschetta amalfi": 1920.0,
+            "Focaccia clasica": 1280.0,
+            "Parmigiana": 2240.0,
+            "Carpaccio pulpo": 3840.0,
+            "Carpaccio res": 4160.0,
+            "Carpaccio atun": 3520.0,
+            "Focaccia 500": 1280.0,
+            "Focaccia con prosciutto": 3840.0,
+            "Focaccia pomodoro e rucola": 2560.0,
+            "Focaccia salume del giorno e formaggio": 3200.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes":{
+            "Fantasia di mare": 4800.0,
+            "Gambari al limone": 3840.0,
+            "Profumo mediterraneo": 5120.0
+        },
+        "pizzas": {
+            "Pizza margarita": 1920.0,
+            "Pizza de la casa": 3520.0,
+            "Pizza vegetariana": 2560.0,
+            "Pizza mixta": 3200.0,
+            "Pizza de atun": 3200.0,
+            "Pizza de brocoli y salchicha": 2880.0,
+            "Pizza diavola": 3880.0,
+            "Pizza de serrano": 3200.0,
+            "Pizza romana": 3200.0,
+            "Pizza de jamon barra": 2560.0
+        },
+        "pastas": {
+            "Salsiccia italiana la plancha": 3840.0,
+            "Pomodoro fresco": 3520.0,
+            "Carbonara": 3520.0,
+            "Amatriciana": 3520.0,
+            "Carbonara salsiccia": 3840.0,
+            "Puttanesca": 3840.0,
+            "Ragu malale": 3840.0,
+            "Zucca e salsiccia": 3840.0,
+            "Funghi e salsiccia": 4800.0,
+            "Penne a la sorrentina": 3840.0,
+            "Spaghetti con bottarga": 3200.0,
+            "Penne al salmon": 3840.0,
+            "Pasta amalfi": 3840.0,
+            "Spaghetti cetara": 3840.0,
+            "Linguine con calamar": 5120.0,
+            "Pasta mediterranea": 5120.0
+        },
+        "desserts": {
+            "Torta al limon": 1280.0,
+            "Tortino al cioccolato": 1600.0,
+            "Profiterol": 1280.0,
+            "Tiramisu": 1280.0,
+            "Tiramisu pan di stelle": 1600.0,
+            "Delicia del dia": 1280.0
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Ensalada de estacion": 1280.0,
+            "Ensalada positano": 1920.0,
+            "Ensalada ravello": 1920.0,
+            "Ensalada vettica": 1920.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Daiquiri": 1400.0,
+                    "Cuba libre": 1400.0,
+                    "Cubanito": 1400.0,
+                    "Cubata": 1400.0,
+                    "Mojito": 1400.0,
+                    "Caipiroska": 1400.0,
+                    "Caipirinna": 1400.0,
+                    "Caipirissima": 1400.0,
+                    "Sangria": 1400.0,
+                    "Margarita": 1400.0,
+                    "Gin tonic": 1400.0,
+                    "Pina colada": 1400.0,
+                    "Negroni": 2240.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza": 980.0
+                }
+            },
+            "water":{
+                "Agua nacional": 500.0,
+                "Agua importada": 850.0
+            },
+            "soft_drinks":{
+                "Refresco nacional": 420.0,
+                "Refresco importado": 750.0
+            },
+            "juices":{
+                "Jugo natural": 700.0
+            },
+            "lemonade":{
+                "Limonada": 840.0
+            },
+            "red bull":null,
+            "malta":null,
+            "copas":{
+                "Copa de vino": 1260.0,
+                "Copa de vino italiano": 1680.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

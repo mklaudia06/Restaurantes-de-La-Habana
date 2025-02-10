@@ -1,0 +1,207 @@
+{
+    "name": "La Chucheria",
+    "food_type": ["italiana","americana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Calle 42",
+            "Street2":"Calle 38",
+            "Street3":"Calle 36 A"
+        },
+        "coordinates_latitude_length" : [23.1138143,-82.4262575]
+    },
+    "phone_number": "72057278",
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":"lachucheria_cafebar",
+        "facebook":"La Chucheria"
+    },
+    "menu": {
+        "breakfast": {
+            "Waffles con nutela": 1250.0,
+            "Waffles con frutas y miel": 1150.0,
+            "Waffles con salmon pastas y queso crema": 1850.0,
+            "Crispy chicken waffles": 1450.0,
+            "Desayuno europeo": 1400.0,
+            "Desayuno americano": 1500.0,
+            "Desayuno chucheria": 1600.0,
+            "Tostadas de serrano": 1750.0,
+            "Tostadas de salmon": 1900.0,
+            "Tortilla vegetariana": 1550.0,
+            "Pancakes": 1200.0,
+            "Tortilla natural": 1000.0,
+            "Crepes chucheria": 1300.0,
+            "Tostadas con mantequilla": 950.0
+        },
+        "started": {
+            "Brusquetas con serrano": 1200.0,
+            "Tapas de croquetas": 900.0,
+            "Picadera chucheria": 3000.0,
+            "Empanadas de carne": 800.0,
+            "Empanada de pollo": 780.0,
+            "Empanada de queso azul y espinacas": 900.0,
+            "Bolitas de queso": 850.0,
+            "Ensalada de verano": 1700.0,
+            "Ensalada chucheria": 1200.0,
+            "Ensalada nueva marinera": 1800.0,
+            "Ensalada de frutas": 800.0,
+            "Ensalada girega": 1600.0,
+            "Ensalada prosciutto": 200.0,
+            "Sandwich jonronero": 1650.0,
+            "Formula 1": 1700.0,
+            "Martinero": 1400.0,
+            "Catalan": 2000.0,
+            "Sandwich helena ruth": 1650.0,
+            "Sandwich beisbolera": 1450.0,
+            "Sandwich pepe sport (res)": 2150.0,
+            "Sandwich pepe sport (cerdo)": 1900.0,
+            "Sandwich vegetariano": 1200.0,
+            "Club sandwich": 1700.0,
+            "Hamburguesa jaque mate": 1750.0,
+            "Hamburguesa chucheria": 2100.0,
+            "Hamburguesa americana": 1350.0,
+            "Super chu": 2350.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pechuga de pollo": 1700.0,
+            "Carne de cerdo": 1800.0,
+            "Filete de res": 2400.0,
+            "Atun": 2200.0,
+            "Mac & cheese": 1250.0,
+            "Combo de niños": 1350.0,
+            "Nuggets de pollo": 1250.0
+        },
+        "pizzas": {
+            "Pizza chucheria": 1250.0,
+            "Pizza familiar": 3000.0
+        },
+        "pastas": {
+            "Pasta chucheria": 1150.0,
+            "Pasta carbonara": 1900.0,
+            "Pasta pesto": 1600.0,
+            "Pasta 4 quesos": 2500.0,
+            "Pasta bolonesa": 1400.0,
+            "Lasagna": 1850.0
+        },
+        "desserts": {
+            "Postre de la casa": 750.0,
+            "Tarta especial": 1300.0,
+            "icecream_flavors":{
+                "Cono de helado": 400.0,
+                "Cesta de helado": 600.0
+            }
+        },
+        "pizza_pasta_add": {
+            "Jamon barra": 400.0,
+            "Jamon pierna": 450.0,
+            "Jamon serrano": 800.0,
+            "Queso gouda": 450.0,
+            "Queso parmessano": 500.0,
+            "Queso mozzarella": 450.0,
+            "Queso azul": 500.0,
+            "Chorizo": 600.0,
+            "Bacon": 450.0,
+            "Atun": 600.0,
+            "Champiñon": 350.0,
+            "Aceituna": 400.0,
+            "Nutella": 400.0,
+            "Piña glaseada": 250.0,
+            "Mayonesa": 250.0,
+            "Jalea de fruta": 300.0,
+            "Mantequilla": 300.0,
+            "Loñesa": 650.0
+        },
+        "side_dishes": {
+            "Vegetales": 300.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 800.0,
+                    "Mojito de frutas": 1000.0,
+                    "Cuba libre": 700.0,
+                    "Ron collins": 750.0,
+                    "Caipiriña": 750.0,
+                    "Caipiroska": 800.0,
+                    "Sangria": 1200.0,
+                    "Cali mocho": 950.0,
+                    "Tinto verano": 950.0,
+                    "Gin tonic": 900.0,
+                    "Gingin tonic premium": 1200.0,
+                    "Vodka tonic": 1100.0,
+                    "Margarita": 950.0,
+                    "Chelada nacional": 650.0,
+                    "Chelada importada": 750.0,
+                    "Chelada corona": 940.0,
+                    "Michelada nacional": 750.0,
+                    "Michelada importada": 950.0,
+                    "Michelada importada premium": 1050.0,
+                    "Daiquiri": 700.0,
+                    "Mary pickford": 650.0,
+                    "Bloody mary": 900.0,
+                    "Bloody premium": 1250.0,
+                    "Screw driver absolut": 950.0,
+                    "Cubata": 750.0,
+                    "Ton collins": 850.0,
+                    "Tom collins premium": 1000.0,
+                    "Long island": 1500.0,
+                    "Piña colada": 1200.0,
+                    "Canchanchara": 750.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cervezas nacionales": 500.0,
+                    "Cervezas importadas": 600.0,
+                    "Cervezas coronas": 790.0
+                }
+            },
+            "water":null,
+            "soft_drinks":{
+                "Refrescos nacional": 380.0,
+                "Refrescos importados": 450.0
+            },
+            "juices":{
+                "Jugos": 350.0
+            },
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "Expresso": 200.0,
+                "Chucheria": 900.0,
+                "Con leche": 450.0,
+                "Cortado": 300.0,
+                "Capuccino": 600.0,
+                "Frapuccino": 850.0,
+                "Carajillo": 650.0,
+                "Bombon": 650.0,
+                "Americano": 250.0,
+                "Nespresso": 500.0,
+                "Nespresso americano": 500.0,
+                "Nespresso bombon": 900.0,
+                "Nespresso cortado": 600.0,
+                "Nespresso capuccino": 900.0,
+                "Nespresso frapuccino": 1200.0,
+                "Descafeinado": 350.0,
+                "Chocolate a la española": 800.0,
+                "Leche con chocolate": 650.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

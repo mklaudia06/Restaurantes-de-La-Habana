@@ -1,0 +1,85 @@
+{
+    "name": "D'Mitu",
+    "food_type": ["italiana"],
+    "municipality": "10 de Octubre",
+    "location": {
+        "address":{
+            "Street1":"Calle 1ra",
+            "Street2":"Gertrudis",
+            "Street3":"Lagueruela"
+        },
+        "coordinates_latitude_length" : [23.0862957,-82.3674945]
+    },
+    "phone_number": "53578505",
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "10:0 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":2.5,
+    "social_media": {
+        "instagram":"d_mitu.restaurante",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pastelon a su gusto": 1700.0,
+            "Super Takazo": 1900.0,
+            "Takazo D'Mitu": 1000.0
+        },
+        "pizzas": {
+            "Pizza de queso": 850.0,
+            "Pizza de jamon": 1000.0,
+            "Pizza de chorizo": 1000.0,
+            "Pizza Hawaiana": 1050.0,
+            "Pizza Familiar mixta": 2800.0,
+            "Pizza Familiar con bordes de queso": 3200.0,
+            "Super Pizza de queso": 1200.0,
+            "Super Pizza de jamon": 1300.0,
+            "Super Pizza de chorizo": 1300.0,
+            "Super Pizza Hawaiana": 1300.0,
+            "Pizza Sol": 2000.0,
+            "Pizza D'Mitu": 1400.0,
+            "Super Pizza mixta": 2000.0
+        },
+        "pastas": {
+            "Fugazzeta D'Mitu": 2100.0,
+            "Canelones": 800.0,
+            "Espaghettis": 800.0,
+            "Fettuccine": 800.0,
+            "Farfalle": 800.0,
+            "Lasagna": 900.0,
+            "Calzone D'Mitu": 900.0,
+            "Raviolis": 900.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": {
+            "Pina": 200.0,
+            "Cebolla": 200.0,
+            "Pimiento": 200.0,
+            "Jamon": 300.0,
+            "Bacon": 500.0,
+            "Queso": 300.0,
+            "Aceituna": 350.0,
+            "Chorizo": 300.0,
+            "Champignon": 400.0,
+            "Atun": 450.0,
+            "Camaron": 600.0
+        },
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

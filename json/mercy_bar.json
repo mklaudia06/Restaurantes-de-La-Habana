@@ -1,0 +1,232 @@
+{
+    "name": "Mercy bar",
+    "food_type": ["italiana","cubana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"1era",
+            "Street2":"70",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1140961,-82.4417641]
+    },
+    "phone_number": "52731371",
+    "schedule": {
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.4,
+    "social_media": {
+        "instagram":"mercybarcafe",
+        "facebook":"MERCY bar-cafe"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Pan baguette": 250.0,
+            "Croquetas del dia (8u)": 800.0,
+            "Ensalada de vegetales": 500.0,
+            "Mariquitas de pollo": 1200.0,
+            "Bolitas de queso (8u)": 950.0,
+            "Yuca rellena": 1500.0,
+            "Pollo picaro": 1600.0,
+            "Tabla de embutidos": 1900.0,
+            "Tacos mercy": 2100.0,
+            "Tabla de queso": 2600.0,
+            "Eperlan": 2600.0,
+            "Ceviche": 2500.0,
+            "Pescadilla": 2800.0
+        },
+        "tacos":{
+            "Tacos del dia (3u)": 1500.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Entrepan con atun": 1200.0,
+            "Entrepan cubano": 1400.0,
+            "Entrepan serrano": 2200.0
+        },
+        "strong_dishes": {
+            "Pollo asado": 1700.0,
+            "Fajitas de cerdo": 1800.0,
+            "Masas de cerdo": 1800.0,
+            "Lomo ahumado": 2100.0,
+            "Gordon blue de cerdo": 3200.0,
+            "Ropa vieja de res": 2600.0,
+            "Brochetas al hornillo": 2900.0,
+            "Mariscos al gusto": 3500.0,
+            "Pescado frito entero": 3300.0,
+            "Filete de pescado": 2600.0,
+            "Menu ejecutivo (entrante, plato fuerte, jugo/vaso cerveza, cafe)": 3500.0,
+            "Parrillada criolla": 4700.0,
+            "Parrillada marinera": 7300.0,
+            "Parrillada mixta": 8700.0,
+            "Risotto": 2900.0,
+            "Estofado de cordero": 3000.0,
+            "Rabo encendido": 3000.0,
+            "Arroz frito": 1350.0,
+            "Garbanzo frito": 1400.0,
+            "Mixto mercy": 3450.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 1300.0,
+            "Pizza de jamon": 1500.0,
+            "Pizza de chorizo": 150.0,
+            "Pizza hawaiana": 1500.0,
+            "Pizza de vegetales": 1500.0,
+            "Pizza de aceitunas": 1500.0,
+            "Pizza de atun": 1600.0,
+            "Pizza familiar": 2200.0,
+            "Pizza mercy": 3000.0,
+            "Pizza serrano": 3200.0
+        },
+        "pastas": {
+            "Canelon de pollo": 1400.0,
+            "Lasagna de jamon": 1600.0,
+            "Pasta mercy": 2800.0
+        },
+        "desserts": {
+            "Tarta nata": 600.0,
+            "Dulce de tres leche": 900.0,
+            "icecream_flavors":{
+                "Bola jimagua": 750.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Long island": 700.0,
+                    "Screwdriver": 750.0,
+                    "Mojito": 750.0,
+                    "Daiquiri": 750.0,
+                    "Gin tonic": 750.0,
+                    "Vodka tonic": 975.0,
+                    "Piña colada": 750.0,
+                    "Caipirisima": 750.0,
+                    "Caipiroska": 750.0,
+                    "Blody mary": 750.0,
+                    "Mary pickfor": 750.0,
+                    "Tequila sunrise": 900.0,
+                    "Cuba libre": 750.0,
+                    "Shot jager meister": 750.0,
+                    "Daiquiri sabor": 1000.0,
+                    "Margarita": 850.0,
+                    "Margarita sabor": 1000.0,
+                    "Canchanchara con santiago 8 años": 850.0,
+                    "Sangria": 850.0,
+                    "Tinto de verano": 850.0,
+                    "Sangira blanca": 850.0,
+                    "Martini": 900.0,
+                    "Campari orange": 900.0,
+                    "Cubanito": 1000.0,
+                    "Aperol sprite": 1300.0,
+                    "Beer beer": 1200.0,
+                    "Jager bomb": 1200.0,
+                    "Ciroc": 780.0,
+                    "Rones santiago blanco": 600.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Santiago añejo 8 años": 650.0,
+                    "Santiago añejo 11 años": 1000.0,
+                    "Santiago añejo 12 años": 1200.0,
+                    "Black and white": 500.0,
+                    "Johnnie walker red label": 700.0,
+                    "Johnnie walker black label": 1000.0,
+                    "J&b": 650.0,
+                    "Buchanan master": 1000.0,
+                    "Buchanan master 18 años": 45000.0,
+                    "Jw double black": 45000.0,
+                    "Jw gold reserve": 65000.0,
+                    "Jw gold 18 años": 90000.0,
+                    "Le tribute": 750.0,
+                    "Tanqueray": 800.0,
+                    "Licor 43": 450.0,
+                    "Baileys": 690.0,
+                    "Sambuca": 690.0,
+                    "Licor frangelico": 850.0,
+                    "Tequila del a casa": 450.0,
+                    "Servicio chelar o michelar": 200.0,
+                    "Viña esmeralda": 4400.0,
+                    "Sangre de toro blanco": 4000.0,
+                    "Celeste verdejo": 4200.0,
+                    "Viña sol original": 4200.0,
+                    "Sangre de toro chardonnay selection": 5500.0,
+                    "Grahams fine white port": 8800.0,
+                    "Waltraud": 9700.0,
+                    "Vino tinto o rose por copa": 850.0,
+                    "Santa digna gran reserva": 4000.0,
+                    "Sangre de toro rioja": 4400.0,
+                    "Altos ibericos crianza": 4600.0,
+                    "Torres corona crianza": 4600.0,
+                    "Celeste roble": 5000.0,
+                    "Jean 3055 merlot": 6700.0,
+                    "Gran corona reserva": 6900.0,
+                    "Altos ibericos reserva": 7900.0,
+                    "Grahams fine tawny port": 8750.0,
+                    "Celeste crianza": 9300.0,
+                    "Purgatori": 9900.0,
+                    "Secret del priorat": 1100.0,
+                    "Zuccardi o malbec": 1100.0,
+                    "Mas la plana": 38400.0,
+                    "Sangre de toro rose": 6800.0,
+                    "Jean 3055": 6800.0,
+                    "Santa digna": 4000.0,
+                    "Juve & camps gran reserva": 28000.0,
+                    "Viña esmeralda sparkling": 5500.0
+                },
+                "beers":{
+                    "Cerveza lata": 380.0,
+                    "Cerveza cristal": 500.0,
+                    "Cerveza stella artois": 600.0,
+                    "Cubetazo": 1800.0,
+                    "Vaso 240 ml": 250.0,
+                    "Jarra 500ml": 450.0
+                }
+            },
+            "water":{
+                "Agua natural": 280.0,
+                "Agua gaseada": 300.0,
+                "Agua gaseada importada": 750.0,
+                "Agua tonica importada": 590.0
+            },
+            "soft_drinks":{
+                "Refresco lata": 400.0
+            },
+            "juices":{
+                "Jugos naturales": 250.0
+            },
+            "lemonade":{
+                "Limonada frappe": 400.0
+            },
+            "red bull":650.0,
+            "malta":{
+                "Malta": 450.0,
+                "Malteada": 600.0
+            },
+            "copas":{
+                "Vino blanco por copa": 850.0
+            },
+            "coffees":{
+                "Te frio o caliente": 200.0,
+                "Expresso": 400.0,
+                "Cortado": 500.0,
+                "Americano": 400.0,
+                "Capuchino": 700.0,
+                "Frapuchino": 700.0,
+                "Carajillo": 700.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

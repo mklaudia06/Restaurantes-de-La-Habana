@@ -1,0 +1,192 @@
+{
+    "name": "La fransesa",
+    "food_type": ["tapas"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Prado",
+            "Street2":"San Rafael",
+            "Street3":"Neptuno"
+        },
+        "coordinates_latitude_length" : [23.136924,-82.366282]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.5,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Toston relleno 3.0": 1500.0,
+            "Brusquetas": 1500.0,
+            "Coctel de camarones": 1800.0,
+            "Tostas de jamon serrano": 1800.0,
+            "Bolitas de queso estilo La Francesa": 1600.0,
+            "Ceviche de pesca blanca": 1800.0,
+            "Ensalada Capricho": 1800.0,
+            "Papas bravas": 1500.0,
+            "Papas fritas": 1600.0,
+            "Frituritas de malanga": 950.0,
+            "Croissant Natural": 750.0,
+            "Croquetas de la casa": 1600.0,
+            "Tabla fria": 3200.0,
+            "Tabla caliente": 3500.0,
+            "Tabla de jamon serrano": 3500.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich Cubano": 1900.0,
+            "Sandwich Clasico": 1750.0,
+            "Sandwich Club": 2500.0,
+            "Sandwich de Atun": 2500.0,
+            "Croissant Clasico": 1500.0,
+            "Hamburguesa La Francesa": 2500.0
+        },
+        "strong_dishes": {
+            "Nuggets de pollo": 1800.0,
+            "Brochetas de cerdo": 2500.0,
+            "Tacos de cerdo": 2000.0,
+            "Dados de pescado frito con acompanhamiento de salsa tartara": 1800.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Pasta Napolitana": 1250.0,
+            "Pasta Bolonhesa": 1000.0,
+            "Pasta Carbonara": 1800.0,
+            "Pasta al Pesto": 1800.0,
+            "Pasta Aglio Olio": 1260.0
+        },
+        "desserts": {
+            "Brownie de chocolate": 1200.0,
+            "Mousse de cafe": 950.0,
+            "Pie de limon": 1200.0,
+            "Chesse cake": 1200.0,
+            "icecream_flavors":{
+                "Batido de helado": 500.0,
+                "Copa de helado": 1200.0
+            }
+        },
+        "pizza_pasta_add": {
+            "Nutella": 300.0,
+            "Miel": 300.0,
+            "Mantequilla": 300.0,
+            "Bacon": 350.0,
+            "Vegetales": 250.0,
+            "Huevo": 300.0,
+            "Cesta de Pan": 250.0
+        },
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Cuba Libre": 750.0,
+                    "Mojito": 750.0,
+                    "Pinha colada": 950.0,
+                    "Pinha colada sin alcohol": 900.0,
+                    "Margarita": 900.0,
+                    "Daiquiri": 900.0,
+                    "Daiquiri frapeado": 900.0,
+                    "Caipirinha": 900.0,
+                    "Caipiroska": 900.0,
+                    "Caipirisima": 900.0,
+                    "Sangria": 900.0,
+                    "Tinto de verano": 750.0,
+                    "Mimosa": 750.0,
+                    "Aperol Spritz": 900.0,
+                    "Michelada": 900.0,
+                    "Havana Especial": 900.0,
+                    "Cubata": 900.0,
+                    "Cubanito": 900.0,
+                    "Mary Pickford": 900.0,
+                    "Bloody Mary": 900.0,
+                    "Gin tonic": 950.0,
+                    "Negroni": 900.0,
+                    "Tequila sunrise": 900.0,
+                    "Old fashioned": 900.0,
+                    "Sex on the beach": 900.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Ballantines": 900.0,
+                    "Clan Campbell": 900.0,
+                    "Johnnie Walker": 1200.0,
+                    "Chivas Regal 12": 1200.0,
+                    "JB": 950.0,
+                    "Havana Club 3 anhos": 650.0,
+                    "Havana Club Anhejo Especial": 700.0,
+                    "Havana Club 7 anhos": 900.0,
+                    "Havana Club Seleccion de Maestros": 1700.0,
+                    "Santiago 7 anhos": 700.0,
+                    "Santiago 11 anhos": 850.0,
+                    "Santiago 12 anhos": 900.0,
+                    "Cubay": 850.0,
+                    "Pacto Navio": 2000.0,
+                    "Tequila Senhor de los Cielos": 650.0,
+                    "Tequila Olmeca": 650.0,
+                    "Maestro Tequilero": 560.0,
+                    "Maestro Tangueray": 550.0,
+                    "Ginebra Tanqueray": 650.0,
+                    "Ginebra Beefeater": 650.0,
+                    "Vodka Lyubov": 950.0,
+                    "Vodka Igor": 650.0,
+                    "Vodka Absolut": 650.0
+                },
+                "beers":{
+                    "Cristal": 650.0,
+                    "Cristal extra": 750.0,
+                    "Corona": 600.0,
+                    "Bucanero": 650.0
+                }
+            },
+            "water":{
+                "Agua natural": 450.0,
+                "Agua gaseada": 600.0
+            },
+            "soft_drinks":{
+                "Refrescos (Cola, Limon y Naranja)": 500.0
+            },
+            "juices":{
+                "Jugos de frutas": 700.0,
+                "Batidos de frutas": 500.0
+            },
+            "lemonade":{
+                "Limonada Frescura": 700.0
+            },
+            "malta":{
+                "Malteada": 500.0,
+                "Malta": 500.0
+            },
+            "copas":{
+                "Copa de vino de la casa": 760.0
+            },
+            "coffees":{
+                "Espresso": 300.0,
+                "Cortado": 350.0,
+                "Capuccino": 450.0,
+                "Frapuccino": 550.0,
+                "Bombon": 550.0,
+                "Carajillo": 550.0,
+                "Espresso Martini": 700.0,
+                "Cafe con leche": 700.0,
+                "Leche con chocolate": 750.0,
+                "Te": 300.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

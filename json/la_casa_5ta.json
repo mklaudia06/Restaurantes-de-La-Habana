@@ -1,0 +1,179 @@
+{
+    "name": "La Casa Quinta",
+    "food_type": ["criolla"],
+    "municipality": "Habana del Este",
+    "location": {
+        "address":{
+            "Street1":"Avenida 5ta",
+            "Street2":"472",
+            "Street3":"474"
+        },
+        "coordinates_latitude_length" : [23.1631427,-82.2349911]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.9,
+    "social_media": {
+        "instagram":"_casa5ta_",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Tostones Naturales": 300.0,
+            "Tostones Relleno Jamon": 680.0,
+            "Tostones Relleno Atun": 875.0,
+            "Croquetas": 400.0,
+            "Coctel de Camarones": 1150.0,
+            "Eperlan": 1200.0,
+            "Fajitas de Pollo": 1200.0,
+            "Entremes de Jamon y Queso": 800.0,
+            "Garbanzo Frito": 1000.0,
+            "Papas Fritas": 500.0,
+            "Chicharritas": 300.0,
+            "Picadera Casa 5ta": 3100.0,
+            "Bolitas de Queso": 600.0,
+            "Ceviche": 750.0,
+            "Coctel de Langosta": 1150.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pechuga Grillet": 1500.0,
+            "Pechuga Rellena": 1875.0,
+            "Gordon Blue": 1850.0,
+            "Pollo Frito": 1300.0,
+            "Pollo al Curry": 1600.0,
+            "Lomo Ahumado": 1675.0,
+            "Lomo Tres Capas": 1950.0,
+            "Bistec de Cerdo": 1500.0,
+            "Lomo Encebollado": 1675.0,
+            "Filete Mignon": 2300.0,
+            "Ropa Vieja": 1900.0,
+            "Bistec de Res": 2000.0,
+            "Higado de Res": 1200.0,
+            "Uruguayo": 1775.0,
+            "Arroz Salvaje con Pulpo": 1500.0,
+            "Grillada de Mar": 3400.0,
+            "Cazuela del Mar": 3400.0,
+            "Langosta al Gusto": 2150.0,
+            "Camaron al Gusto": 2150.0,
+            "Filete de Pescado Grille": 1500.0,
+            "Pulpo al Gusto": 2800.0,
+            "Canciller": 1800.0,
+            "Grillada Mar y Tierra": 3700.0,
+            "Cordero Montanhes": 2900.0,
+            "Chilindron de Cordero": 2500.0,
+            "Paella Marinera": 2900.0,
+            "Paella Mixta": 3050.0
+        },
+        "pizzas": {
+            "Napolitana": 975.0
+        },
+        "pastas": {
+            "Lasagna": 1525.0
+        },
+        "desserts": {
+            "Flan": 500.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": {
+            "Chorizo": 300.0,
+            "Jamon": 360.0,
+            "Champinhones": 225.0,
+            "Camarones": 800.0,
+            "Langosta": 800.0,
+            "Aceitunas": 200.0,
+            "Pinha": 100.0,
+            "Vegetales": 200.0,
+            "Atun": 525.0,
+            "Bacon": 350.0
+        },
+        "side_dishes": {
+            "Arroz Frito": 1350.0,
+            "Arroz Moro": 200.0,
+            "Arroz Blanco": 200.0,
+            "Arroz Pilaf": 300.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Pinha Colada": 550.0,
+                    "Sangria": 1400.0,
+                    "Copa de Vino1": 650.0,
+                    "Copa de Vino2": 1100.0,
+                    "Tinto Verano": 1400.0,
+                    "Daiquiri": 550.0,
+                    "Mojito": 650.0,
+                    "Cuba Libre": 530.0,
+                    "Cubata": 580.0,
+                    "Ron Collins": 500.0,
+                    "Gin Tonic": 550.0,
+                    "Bloody Mary": 550.0,
+                    "Caipirinha": 550.0,
+                    "Caipirisima": 550.0,
+                    "Michelada": 200.0,
+                    "Cerveza Nacional": 450.0,
+                    "Cerveza Importada": 350.0,
+                    "Bebidas Energeticas": 350.0,
+                    "Licores Nacionales": 180.0,
+                    "Sake": 100.0 
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Havana Club 3 Anhos": 180.0,
+                    "Havana Club Especial": 200.0,
+                    "Havana Club Reserva": 220.0,
+                    "Havana Club 7 Anhos": 400.0,
+                    "Seleccion Maestros": 870.0,
+                    "Ginebra": 230.0,
+                    "Vodka": 400.0,
+                    "Tequila": 400.0,
+                    "Crema de Whisky": 220.0,
+                    "Whisky Chivas Regal": 870.0,
+                    "Whisky White Label": 240.0,
+                    "Whisky Red Label": 850.0,
+                    "Whisky Black Label": 870.0,
+                    "Brandy": 200.0,
+                    "Ron Ritual": 250.0,
+                    "Santiago 12 Anhos": 870.0,
+                    "Legendario": 200.0
+                },
+                "beers":null
+            },
+            "water":{
+                "Agua Natural": 250.0,
+                "Agua Gaseada": 350.0
+            },
+            "soft_drinks":{
+                "Refrescos Nacionales": 325.0,
+                "Refrescos Importados": 350.0
+            },
+            "juices":{
+                "Jugos Naturales": 300.0,
+                "Batido de Frutas": 450.0
+            },
+            "lemonade":null,
+            "red bull":null,
+            "malta":{
+                "Malta1": 350.0,
+                "Malta2": 450.0
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

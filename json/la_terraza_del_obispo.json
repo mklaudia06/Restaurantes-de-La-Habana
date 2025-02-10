@@ -1,0 +1,61 @@
+{
+    "name": "La_Terraza_del_Obispo",
+    "food_type": ["criolla"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Obispo",
+            "Street2":"Aguacate",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1380268,-82.3575083]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Eperlan de Pescado": 600.0,
+            "Croquetas de la Casa": 250.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Chuletas de Cerdo": 900.0,
+            "Masas de Cerdo": 900.0,
+            "Bistec de Cerdo Grille": 850.0,
+            "Fajitas de Cerdo": 850.0,
+            "Lomo Ahumado Grille": 850.0,
+            "Langosta Grille": 1200.0,
+            "Langosta Enchilada": 1200.0,
+            "Camaron Grille": 750.0,
+            "Camaron Enchilado": 750.0,
+            "Rueda de Bonito Grille": 700.0,
+            "Filete de Pescado Empanado": 800.0,
+            "Masas de Pescado Enchiladas": 800.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

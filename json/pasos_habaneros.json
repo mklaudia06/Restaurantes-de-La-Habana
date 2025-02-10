@@ -1,0 +1,154 @@
+{
+    "name": "Pasos Habaneros",
+    "food_type": ["mixta", "heladeria"],
+    "municipality": "10 de Octubre",
+    "location": {
+        "address":{
+            "Street1":"Calle Santos Suarez",
+            "Street2":"Gomez",
+            "Street3":"Mendoza"
+        },
+        "coordinates_latitude_length" : [23.1045063,-82.3784811]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "06:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas": 280.0,
+            "Coctel de camaron sencillo": 400.0,
+            "Coctel de camaron doble": 800.0,
+            "Alitas de pollo (1/2 libra)": 430.0,
+            "Picadera Mi Habana": 750.0,
+            "Picadera Pasos Habaneros": 850.0,
+            "Alitas de pollo (1 libra)": 860.0,
+            "Super Picadera Especial": 1500.0,
+            "Fajitas de cerdo Pasos Habaneros": 950.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Pan con hamburguesa": 280.0,
+            "Pan con hamburguesa y queso": 360.0,
+            "Pan con hamburguesa, jamon y queso": 420.0,
+            "Pan con hamburguesa Pasos Habaneros": 480.0,
+            "Pan Super Hamburguesa": 750.0,
+            "Sandwich de jamon y queso": 400.0,
+            "Sandwich Pasos Habaneros": 550.0,
+            "Sandwich Campesino": 750.0,
+            "Pan con queso blanco": 135.0,
+            "Pan con croquetas": 180.0,
+            "Pan con croquetas y jamon": 280.0,
+            "Bocadito de jamon": 240.0,
+            "Bocadito de jamon y queso": 350.0,
+            "Super Pan Pasos Habaneros": 600.0
+        },
+        "strong_dishes": {
+            "Pollo asado": 275.0,
+            "Pollo asado 1/4": 550.0,
+            "Bistec de cerdo": 750.0,
+            "Bistec de cerdo empanado": 850.0,
+            "Lomo de cerdo": 880.0,
+            "Carne de cerdo asado": 950.0,
+            "Lomo ahumado": 950.0,
+            "Masas de cerdo frita": 950.0,
+            "Chuleta de cerdo": 950.0,
+            "Bistec uruguayo de cerdo": 1000.0,
+            "Ropa vieja de res": 850.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 250.0,
+            "Pizza de doble queso": 300.0,
+            "Pizza de mayonesa": 300.0,
+            "Pizza de jamon y queso": 350.0,
+            "Pizza de doble queso y jamon": 540.0
+        },
+        "pastas": {
+            "Lasagna": 500.0,
+            "Espaghettis napolitano": 380.0,
+            "Espaghettis de doble queso": 440.0,
+            "Espaghettis de jamon y queso": 475.0,
+            "Espaghettis de doble queso y jamon": 540.0
+        },
+        "desserts": {
+            "icecream_flavors":{
+                "Helado Futbolito": 170.0,
+                "Helado Ciudad Deportiva": 225.0,
+                "Helado Jimagua Monaco": 290.0,
+                "Helado Vaca negra o blanca": 320.0,
+                "Helado Sabor a Mi": 345.0,
+                "Helado Capitolio": 400.0,
+                "Helado Esquina de Tejas": 450.0,
+                "Helado Esquina de Toyo": 590.0,
+                "Helado Ensalada Parque Central": 660.0,
+                "Helado Pasos Habaneros": 710.0,
+                "Barquillo de helado": 135.0,
+                "Pote de helado (200ml) sin montaje": 280.0,
+                "Pote de helado (200ml) con montaje": 300.0,
+                "Pote de helado (400ml) sin montaje": 400.0,
+                "Pote de helado (400ml) con montaje": 430.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Arroz blanco": 150.0,
+            "Arroz moro": 200.0,
+            "Arroz Cardenal": 260.0,
+            "Ensalada de estacion": 250.0,
+            "Vianda con mojo": 250.0,
+            "Vianda frita": 300.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": {
+                    "Whiskey 5 Shot": 100.0,
+                    "Silver Dry (shot)": 110.0,
+                    "Chancelier (shot)": 170.0,
+                    "Black Tears (shot)": 170.0,
+                    "Havana Club (shot)": 170.0
+                },
+                "beers":{
+                    "Cerveza de lata": 200.0,
+                    "Cerveza dispensada (500ml)": 290.0,
+                    "Cerveza dispensada (300ml)": 200.0,
+                    "Termo de cerveza Cristal de 6 latas": 1700.0
+                }
+            },
+            "water":{
+                "Agua mineral": 120.0
+            },
+            "soft_drinks":{
+                "Refresco de pomo": 235.0,
+                "Refresco de lata": 230.0
+            },
+            "juices":null,
+            "lemonade":null,
+            "Energizante": 250.0,
+            "malta":235.0,
+            "copas":{
+                "Vino dulce (copa)": 100.0,
+                "Vino tinto (copa)": 150.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

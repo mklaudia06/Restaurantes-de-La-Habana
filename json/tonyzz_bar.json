@@ -1,0 +1,196 @@
+{
+    "name": "Tonyzz Bar",
+    "food_type": ["italiana","americana","india","caribeña","asiatica","cubana","ceilanesa"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"San Miguel",
+            "Street2":"Consulado",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1377749,-82.3628721]
+        
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "02:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":"Tonyzz Bar"
+    },
+    "menu": {
+        "breakfast": {
+            "Desayuno americano": 2200.0
+        },
+        "started": {
+            "Croquetas": 490.0,
+            "Fajitas de pollo": 1090.0,
+            "Entremes de jamon y queso": 990.0,
+            "Empanadas espanholas (atun/pollo/queso)": 640.0,
+            "Papas bravas espanholas": 690.0,
+            "Papas fritas": 690.0,
+            "Picadera familiar": 2690.0
+        },
+        "tacos":{
+            "Tacos (pollo o atun)": 1280.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Sandwich c/ jamon": 600.0,
+            "Sandwich c/ queso": 600.0,
+            "Sandwich c/ jamon y queso": 890.0,
+            "Sandwich c/ huevo (frito o tortilla)": 600.0,
+            "Sandwich c/ atun y mayonesa": 1300.0,
+            "Sandwich tonyzzz": 1290.0
+        },
+        "strong_dishes": {
+            "Pollo asado": 1790.0,
+            "Fricase de pollo": 1790.0,
+            "Chicken tikka": 1290.0,
+            "Traditional chicken curry": 1890.0,
+            "Chicken tikka masala": 1990.0,
+            "Chicken madras": 1990.0,
+            "Butter chicken": 1490.0,
+            "Escalope de cerdo": 1790.0,
+            "Bistec de cerdo": 1690.0,
+            "Bistec uruguayo": 1990.0,
+            "Pollo frito": 1690.0,
+            "Ropa vieja": 1990.0,
+            "Camaron enchilado": 1990.0,
+            "Camaron al ajillo": 1900.0,
+            "Cangrejo enchilado": 1990.0,
+            "Pescado grille": 1800.0,
+            "Pescado a la cubana": 1890.0,
+            "Devilled fish": 1390.0,
+            "Authentic srilankan lamb curry": 1990.0,
+            "Authentic srilankan fish curry": 1990.0,
+            "Rawan curry": 2190.0,
+            "Crab curry": 2190.0,
+            "Yellow masoor dal lentil": 990.0,
+            "Aloo potato": 990.0,
+            "Pumpkin": 590.0,
+            "Sappati rotti": 450.0,
+            "Veggies combo (egg & rice, salad, popodorn)": 1790.0,
+            "Veg samosa (2 pcs)": 690.0,
+            "Lankan meat roll (2 pcs)": 990.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 850.0,
+            "Pizza margarita": 990.0,
+            "Pizza de jamon": 1290.0,
+            "Pizza de champinhones": 1290.0,
+            "Pizza hawaiana": 1390.0,
+            "Pizza de atun y cebolla": 1990.0,
+            "Pizza de atun": 1890.0,
+            "Pizza 4 estaciones": 1590.0,
+            "Pizza de jamon y champinhones": 1490.0,
+            "Pizza de chorizo": 1350.0
+        },
+        "pastas": {
+            "Pasta napolitana": 850.0,
+            "Pasta arrabbiata": 890.0,
+            "Pasta de jamon": 1290.0,
+            "Pasta carbonara": 1800.0,
+            "Pasta al pesto": 990.0,
+            "Pasta de champinhon": 1290.0,
+            "Pasta bolonesa": 1890.0,
+            "Pasta de atun": 1890.0,
+            "Lasanha": 1990.0
+        },
+        "desserts": {
+            "icecream_flavors":{
+                "Helado (diferentes sabores)": 130.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 890.0,
+                    "Cuba libre": 790.0,
+                    "Daiquiri": 790.0,
+                    "Cubata": 790.0,
+                    "Canchanchara": 1190.0,
+                    "Caipirinha": 1190.0,
+                    "Caipirisima": 1190.0,
+                    "Caipiroska": 1190.0,
+                    "Chelada": 490.0,
+                    "Michelada": 850.0,
+                    "Pinha colada": 1190.0,
+                    "Vodka tonic": 990.0,
+                    "Sangria": 990.0  
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Santiago de cuba 12 anhos": 1200.0,
+                    "Santiago de cuba 8 anhos": 790.0,
+                    "Black tears": 400.0,
+                    "Ritual": 600.0,
+                    "Habana club 7 anhos": 790.0,
+                    "Habana club anhejo reserva": 590.0,
+                    "Habana club especial": 500.0,
+                    "Habana club 3 anhos": 490.0,
+                    "Aguardiente": 350.0,
+                    "Olmeca blanco": 600.0,
+                    "Olmeca reposado": 640.0,
+                    "Jose cuervo": 740.0,
+                    "Gin tonic": 1190.0,
+                    "Gin tonic (beefeter o bombay)": 1390.0,
+                    "Jack daniel's": 1400.0,
+                    "Chivas regal 12 anhos": 1200.0,
+                    "J.w. double black": 1800.0,
+                    "J.w. black label": 990.0,
+                    "J.w. red label": 990.0,
+                    "Ballantines": 990.0,
+                    "Clamb campbell": 890.0,
+                    "Jameson": 790.0,
+                    "Old partner": 350.0,
+                    "Paco navio": 900.0
+                },
+                "beers":{
+                    "Cerveza nacional": 300.0,
+                    "Cerveza colonia": 220.0
+                }
+            },
+            "water":{
+                "Agua natural 500ml": 180.0,
+                "Agua natural 1500ml": 300.0
+            },
+            "soft_drinks":{
+                "Refrescos lata": 300.0,
+                "Refresco pomo": 300.0,
+                "Refresco pomo 1500ml": 300.0
+            },
+            "juices":{
+                "Jugos naturales": 250.0
+            },
+            "lemonade":null,
+            "Tigon": 300.0,
+            "malta":300.0,
+            "copas":{
+                "Copa de vino tinto": 700.0,
+                "Copa de vino blanco": 650.0
+            },
+            "coffees":{
+                "Cafe expreso": 290.0,
+                "Cafe cortado": 300.0,
+                "Cafe con leche": 490.0,
+                "Cappuccino": 490.0,
+                "Cafe americano": 350.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

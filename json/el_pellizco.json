@@ -1,0 +1,91 @@
+{
+    "name": "El Pellizco",
+    "food_type": ["criolla"],
+    "municipality": "Guanabacoa",
+    "location": {
+        "address":{
+            "Street1":null,
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0577978,-82.2418771]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.5,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "caldoza de la casa": 250.0,
+            "platano maduro frito": 80.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "pollo asado": 450.0,
+            "higado a la italiana": 450.0,
+            "bistec de cerdo": 600.0,
+            "masa de cerdo": 650.0,
+            "chuleta de cerdo": 650.0,
+            "lomo ahumado": 650.0,
+            "costilla asada": 650.0,
+            "lonjas de cerdo asada": 600.0,
+            "fricase de costilla": 650.0,
+            "ropa vieja de cerdo": 650.0,
+            "bistec de higado": 400.0
+        },
+        "pizzas": {
+            "pizza napolitana": 200.0
+        },
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "racion de chicharron": 150.0,
+            "racion de empella": 100.0,
+            "racion de tostones": 80.0,
+            "racion de mariquitas": 80.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "cerveza nacional": 220.0,
+                    "cerveza importada": 220.0
+                }
+            },
+            "water":{
+                "agua natural": 100.0
+            },
+            "soft_drinks":null,
+            "juices":{
+                "jugo de caja": 150.0,
+                "jugo de botella": 120.0
+            },
+            "lemonade":null,
+            "energizante": 220.0,
+            "malta": 150.0,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

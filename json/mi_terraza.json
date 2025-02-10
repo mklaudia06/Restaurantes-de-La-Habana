@@ -1,0 +1,104 @@
+{
+    "name": "Mi Terraza",
+    "municipality": "Cotorro",
+    "food_type": ["italiana","tapas"],
+    "location": {
+        "address":{
+            "Street1":"Calle 71",
+            "Street2":"24",
+            "Street3":"26"
+        },
+        "coordinates_latitude_length" : [23.044814, -82.263829]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Pica Pica Mi Terraza": 1700.0,
+            "Tostones de jamon y queso": 1000.0,
+            "Tostones de atun": 1200.0,
+            "Fajitas de pollo (con mayonesa)": 1000.0,
+            "Ensalada de pollo": 400.0,
+            "Frituras de malanga (con miel)": 400.0,
+            "Bolitas de queso (con miel)": 400.0,
+            "Croquetas (con mayonesa)": 400.0,
+            "Chicharritas": 300.0,
+            "Papas prefritas": 600.0
+        },
+        "tacos":null,
+        "creams_and_soup":{
+            "Crema de queso": 850.0,
+            "Crema Virginia": 1100.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Sandwich de queso": 700.0,
+            "Sandwich de jamon": 650.0,
+            "Sandwich de jamon y queso": 900.0,
+            "Sandwich de atun": 1100.0,
+            "Sandwich Mi Terraza": 1100.0
+        },
+        "strong_dishes":null,
+        "pizzas": {
+            "Pizza Napolitana": 1200.0,
+            "Pizza Hawaiana": 1700.0,
+            "Pizza Mi Terraza": 1800.0
+        },
+        "pastas": {
+            "espaguetis napolitanos": 1000.0,
+            "Espaguetis de jamon": 1250.0,
+            "Espaguetis de atun": 1400.0,
+            "Espaguetis a la Carbonara": 1600.0,
+            "Espaguetis doble queso": 1500.0,
+            "Canelon": 1500.0
+        },
+        "pizza_pasta_add":null,
+        "side_dishes":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "digestive":null,
+        "desserts": {
+            "icecream_flavors":{
+                "Batidos de Helado (fresa, chocolate, helado con galleta, mozcatel)": 600.0
+            }
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Chelada": 550.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "Batidos (mango, fruta bomba o guayaba)": 400.0
+            },
+            "lemonade":{
+                "Limonada Frappe": 350.0
+            },
+            "red bull":"",
+            "malta":{
+                "Malteada": 500.0
+            },
+            "copas":null,
+            "coffees":null        
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

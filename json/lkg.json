@@ -1,0 +1,84 @@
+{
+    "name": "LKG",
+    "food_type": ["caribeña"],
+    "municipality": "La Lisa",
+    "location": {
+        "address":{
+            "Street1":null,
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.054083, -82.467756]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": null,
+        "closure": null,
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Bistec": 900,
+            "Fricase": 900,
+            "Pollo": 1200,
+            "Cangrejo": 550,
+            "Langosta": 1400,
+            "Rueda Pescado": 950,
+            "Pescado Entero": 950
+        },
+        "pizzas": {
+            "Pizza de Jamon": 300,
+            "Pizza de Queso": 200,
+            "Pizza de doble queso": 250,
+            "Pizza de queso gouda": 250
+        },
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Arroz Frito": 600
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza": 250
+                }
+            },
+            "water":{
+                "Agua mineral": 150
+            },
+            "soft_drinks":{
+                "Refresco importado": 230
+            },
+            "juices":{
+                "Batidos de frutas": 235
+            },
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "espresso": 20
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

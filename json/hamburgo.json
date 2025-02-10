@@ -1,0 +1,59 @@
+{
+    "name": "Hamburgo",
+    "food_type": ["americana"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Avenida Salvador Allende",
+            "Street2":"Retiro",
+            "Street3":"Arbol Seco"
+        },
+        "coordinates_latitude_length" : [23.1311001,-82.3771482]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.3,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa de cerdo (220g)": 275.0,
+            "Hamburguesa de res (220g)": 275.0,
+            "Hamburguesa vegetal con aderezos (235g)": 300.0,
+            "Super hamburguesa (435g)": 550.0
+        },
+        "strong_dishes": null,  
+        "pizzas": null,
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Queso gouda (50g)": 150.0,
+            "Jamon bravo (50g)": 120.0,
+            "Jamon serrano (50g)": 250.0,
+            "Aceitunas (50g)": 120.0,
+            "Vegetales encurtidos (50g)": 80.0,
+            "Papas fritas (50g)": 75.0,
+            "Papas fritas (100g)": 150.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

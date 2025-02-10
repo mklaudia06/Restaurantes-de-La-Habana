@@ -1,0 +1,77 @@
+{
+    "name": "Buena Vibra",
+    "food_type": ["criolla"],
+    "municipality": "San Miguel del Padron",
+    "location": {
+        "address":{
+            "Street1":"Beltran",
+            "Street2":"Velazquez",
+            "Street3":"Vista Hermosa"
+        },
+        "coordinates_latitude_length" : [23.0990987,-82.3334761]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "croquetas": 400.0,
+            "fritura de malanga": 400.0,
+            "vianda frita": 300.0,
+            "tostones tradicionales": 300.0,
+            "tostones rellenos": 500.0
+        },
+        "hamburgers_and_sandwichs": {
+            "hamburguesa de pollo": 300.0
+        },
+        "strong_dishes": {
+            "bistec de pollo": 850.0,
+            "bistec de pollo empanado": 900.0,
+            "pechuga de pollo": 900.0,
+            "higado de cerdo": 800.0,
+            "lomo ahumado": 900.0,
+            "bistec de cerdo": 900.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "espaguetti con queso": 400.0,
+            "espaguetti de jamon": 550.0
+        },
+        "desserts":null,
+        "pizza_pasta_add":null,
+        "side_dishes": null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "tequila reposado": 300.0,
+                    "licor crema": 200.0,
+                    "piña colada": 300.0
+                },
+                "drinks_with":null,
+                "bottles":null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

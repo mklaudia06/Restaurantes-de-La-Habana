@@ -1,0 +1,101 @@
+{
+    "name": "El Palenque",
+    "food_type": ["caribeña","latina","internacional","cubana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Calle 17",
+            "Street2":"Calle 180",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0861519,-82.4651219]
+    },
+    "phone_number": "72038222",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.5,
+    "social_media": {
+        "instagram":null,
+        "facebook":"Restaurante El Palenque"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Cesta de pan": 100.0,
+            "Croquetas": 150.0,
+            "Chicharrones": 400.0,
+            "Entremes surtido": 100.0,
+            "Entremes de jamon y chorizo": 150.0,
+            "Variado de queso": 200.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo asado (1kg)": 630.0,
+            "Pechuga con papas fritas": 700.0,
+            "Fajitas de pollo salteadas": 400.0,
+            "Masas de cerdo fritas": 1000.0,
+            "Bistec de cerdo": 300.0,
+            "Cerdo asado 400gr": 800.0,
+            "Picadillo de res": 350.0,
+            "Bistec de res": 300.0,
+            "Res de campesina": 400.0,
+            "Arroz con pollo": 250.0,
+            "Chilindron de cordero": 1700.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Pasta napolitana": 250.0,
+            "Lasagna de carne": 200.0
+        },
+        "desserts": {
+            "Mermelada con queso": 60.0,
+            "Arroz con leche": 60.0,
+            "Dulce de frutabomba": 120.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Papas fritas": 215.0,
+            "Ensalada de vegetales": 300.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": {
+                    "Licores nacionales": 20.0,
+                    "Ron havana club reserva": 40.0,
+                    "Tequila blanco": 150.0
+                },
+                "beers":{
+                    "Cerveza": 120.0
+                }
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "Jugos naturales": 100.0
+            },
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "Cortadito": 60.0,
+                "Cafe con leche": 80.0,
+                "Te": 30.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

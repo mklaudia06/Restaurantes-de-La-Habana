@@ -1,0 +1,170 @@
+{
+    "name": "La Ronda",
+    "food_type": ["criolla"],
+    "municipality": "10 de Octubre",
+    "location": {
+        "address":{
+            "Street1":"Calzada de Luyano",
+            "Street2":"Calle Guasnabacoa",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.105457, -82.358350]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": null,
+        "closure": null,
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Vianda frita": 380.0,
+            "Tostones naturales": 370.0,
+            "Fajitas de cerdo salteadas": 980.0,
+            "Tostones rellenos de jamon y queso": 620.0,
+            "Fajitas de cerdo empanadas": 1180.0,
+            "Tabla Ronda": 1200.0,
+            "Alitas empanadas": 1100.0,
+            "Croquetas de la casa": 380.0,
+            "Coctel de pescado": 600.0,
+            "Tamal en cazuela": 300.0,
+            "Coctel de camarones": 1500.0,
+            "Entremes de jamon, queso, chorizo y aceitunas": 1050.0,
+            "Eperlan": 960.0,
+            "Ensalada fria": 500.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Pan con bistec": 580.0,
+            "Pan con cerdo": 840.0,
+            "Pan Cubano": 980.0,
+            "Hamburguesa de cerdo": 640.0,
+            "Hamburguesa de chorizo": 640.0
+        },
+        "strong_dishes": {
+            "Pollo asado a la criolla": 1030.0,
+            "Pollo frito a la criolla": 1030.0,
+            "Pollo a la barbacoa": 1150.0,
+            "Masa de cerdo frita": 1890.0,
+            "Lomo a la barbacoa": 1180.0,
+            "Bistec de cerdo grille": 1100.0,
+            "Fricase de cerdo": 1950.0,
+            "Cerdo salteado con vegetales": 1300.0,
+            "Cerdo agridulce": 1140.0,
+            "Bistec uruguayo de cerdo": 1450.0,
+            "Lonjas de cerdo asado": 1460.0,
+            "Brochetas de cerdo": 2350.0,
+            "Bistec de cerdo empanado": 1250.0,
+            "Bistec de cerdo encebollado": 1160.0,
+            "Lomo de cerdo a la pina": 1220.0,
+            "Bistec de res encebollado": 1060.0,
+            "Enchilado de camarones": 1850.0,
+            "Camarones empanados": 1920.0,
+            "Camarones al ajillo": 1920.0,
+            "Filete de pescado empanado": 1200.0,
+            "Filete de pescado grille": 1090.0,
+            "Arroz frito sin mariscos": 690.0,
+            "Arroz frito con camarones": 1150.0,
+            "Monte Mary": 3500.0,
+            "Grillada del mar": 2800.0,
+            "Paella Marinera para dos": 2100.0
+        },
+        "pizzas": {
+            "Pizza Napolitana": 980.0,
+            "Pizza Napolitana Doble Queso": 1300.0,
+            "Pizza con jamon": 1220.0,
+            "Pizza con chorizo": 1280.0,
+            "Pizza con cebolla": 1080.0,
+            "Pizza Hawaiana": 1450.0,
+            "Pizza con aceitunas": 1380.0,
+            "Pizza Super Ronda": 2100.0,
+            "Pizza con camarones": 1750.0
+        },
+        "pastas": {
+            "Espaghettis Napolitanos": 780.0,
+            "Espaghettis de Doble Queso": 950.0,
+            "Espaghettis de jamon": 840.0,
+            "Espaghettis de chorizo": 840.0,
+            "Espaghettis de cebolla": 780.0,
+            "Espaghettis de camarones": 1300.0,
+            "Espaghettis a la Bolognesa": 980.0
+        },
+        "desserts": {
+            "Dulce de coco con queso": 240.0,
+            "icecream_flavors":{
+                "Helado sencillo": 170.0,
+                "Helados jimaguas": 290.0,
+                "Tres Gracias": 390.0,
+                "Ensalada de helado": 620.0,
+                "Batido de helado": 420.0
+            }
+        },
+        "pizza_pasta_add": {
+            "Ketchup": 160.0,
+            "Mostaza": 160.0,
+            "Mayonesa": 160.0,
+            "Lechuga": 160.0,
+            "Tomate": 160.0,
+            "Pepinillo": 170.0,
+            "Cebolla": 210.0,
+            "Pina": 240.0,
+            "Aceitunas": 230.0,
+            "Chorizo": 260.0,
+            "Jamon": 260.0,
+            "Queso Gouda": 380.0,
+            "Pimiento": 210.0,
+            "Camarones": 660.0
+        },
+        "side_dishes": {
+            "Arroz blanco": 180.0,
+            "Arroz moro": 290.0,
+            "Vegetales salteados": 380.0,
+            "Ensalada a la estacion": 370.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza importada": 220.0
+                }
+            },
+            "water":{
+                "Agua en pomo": 140.0
+            },
+            "soft_drinks":{
+                "Refresco de pomo Chico": 130.0,
+                "Refresco de pomo grande": 580.0,
+                "Refresco de lata": 260.0
+            },
+            "juices":{
+                "Jugo de caja": 200.0
+            },
+            "lemonade":null,
+            "Energizante": 230.0,
+            "malta":{
+                "Malta importada": 260.0
+            },
+            "copas":null,
+            "coffees":{
+                "Cafe Express": 120.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

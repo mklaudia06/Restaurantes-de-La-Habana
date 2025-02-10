@@ -1,0 +1,139 @@
+{
+    "name": "El Bleko",
+    "food_type": ["caribeña","italiana","criolla"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Vapor y Hornos",
+            "Street2":"63",
+            "Street3":"Marina"
+        },
+        "coordinates_latitude_length" : [23.1412918,-82.3748043]
+    },
+    "phone_number": "50139808",
+    "schedule": {
+        "opening": "01:00 pm",
+        "closure": "02:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.5,
+    "social_media": {
+        "instagram":"blecohavana",
+        "facebook":"El Bleko"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Frituras de malanga": 750.0,
+            "Croquetas mixtas": 1050.0,
+            "Palitos de queso": 1100.0,
+            "Nachos de salsa de queso": 900.0,
+            "Nachos con pollo a la barbacoa": 1450.0,
+            "Alitas de pollo a la barbacoa": 1350.0,
+            "Crostini mixto": 950.0,
+            "Torrejas saladas con cerdo ahumado": 1050.0,
+            "Quesadillas de jamon pierna": 1650.0
+        },
+        "tacos":{
+            "Tacos de cerdo": 1550.0,
+            "Tacos de cerdo ahumado": 1750.0,
+            "Tacos de pollo": 1450.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo frito": 1500.0,
+            "Fajita de pechuga de pollo": 2500.0,
+            "Bistec a la plancha": 2000.0
+        },
+        "pizzas": {
+            "Pizza de queso": 1250.0,
+            "Pizza de jamon": 1450.0,
+            "Pizza de chorizo": 1450.0
+        },
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Caipirisima": 650.0,
+                    "Canchanchara": 650.0,
+                    "Caipiroska": 650.0,
+                    "Caipirinha": 650.0,
+                    "Mojito": 650.0,
+                    "Cuba libre": 650.0,
+                    "Sangria": 650.0,
+                    "Margarita": 600.0,
+                    "Pinha colada": 650.0,
+                    "Old fashion": 750.0,
+                    "Laguna azul": 650.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Tr reserva": 300.0,
+                    "Tr barcelo dorado": 400.0,
+                    "Tr barcelo anhejo": 450.0,
+                    "Tr ritual": 300.0,
+                    "Tr anhejo especial": 300.0,
+                    "Tr vat 69": 500.0,
+                    "Tr black white": 600.0,
+                    "Tr jw black": 1500.0,
+                    "Tr jw red": 1100.0,
+                    "Tr ballantines": 1000.0,
+                    "Tr doble black": 1800.0,
+                    "Gin master": 650.0,
+                    "Gin master pink": 650.0,
+                    "Gin tanqueray": 650.0,
+                    "Gin beefarer": 550.0,
+                    "Gin johpur reserva": 900.0,
+                    "Vodka tonic": 500.0,
+                    "Tr ciroc": 1000.0,
+                    "Tr ciroc coco": 1000.0,
+                    "Tr finlandia": 600.0,
+                    "Czech driver": 750.0,
+                    "Tequila de la casa": 400.0,
+                    "Licores: bailey's": 800.0,
+                    "Licores: jagermeister": 450.0,
+                    "Licores: jaeger": 800.0
+                },
+                "beers":{
+                    "Cristal lata": 350.0,
+                    "Bucanero lata": 350.0,
+                    "Cristal botella": 500.0,
+                    "Bucanero botella": 500.0,
+                    "Hollandia": 300.0,
+                    "Unlaguer": 330.0
+                }
+            },
+            "water":{
+                "Agua natural": 250.0
+            },
+            "soft_drinks":{
+                "Santa cola": 350.0,
+                "Santa limon": 350.0,
+                "Santa naranja": 350.0
+            },
+            "juices":null,
+            "lemonade":null,
+            "Energizante": 500.0,
+            "copas":{
+                "Copa de vino": 500.0
+            },
+            "coffees":{
+                "Cafe expreso": 250.0,
+                "Cafe capuccino": 400.0,
+                "Cafe cortadito": 300.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

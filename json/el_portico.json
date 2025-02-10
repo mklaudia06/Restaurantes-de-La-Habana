@@ -1,0 +1,76 @@
+{
+    "name": "El portico",
+    "food_type": ["cubana"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Dragones",
+            "Street2":"Aguila",
+            "Street3":"Amistad"
+        },
+        "coordinates_latitude_length" : [23.1335335,-82.3664613]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "03:00 pm",
+        "closure": "03:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Papas fritas": 350.0,
+            "Croquetas": 350.0,
+            "Tostones": 250.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo chiflado": 400.0,
+            "Chuleton": 950.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza dispensada (jarra)": 300.0,
+                    "Cerveza dispensada (termo)": 2000.0,
+                    "Cerveza parranda": 400.0,
+                    "Cerveza hollandia": 200.0,
+                    "Cerveza cacique": 240.0,
+                    "Cerveza unlaguer": 200.0,
+                    "Cerveza la fria": 180.0,
+                    "Cerveza almara": 180.0,
+                    "Cerveza bucanero": 240.0,
+                    "Cerveza cristal": 250.0
+                }
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

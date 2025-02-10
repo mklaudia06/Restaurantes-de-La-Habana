@@ -1,0 +1,168 @@
+{
+    "name": "Al Campestre",
+    "food_type": ["mixta"],
+    "municipality": "Habana del Este",
+    "location": {
+        "address":{
+            "Street1":"El Intermitente",
+            "Street2":" Via Blanca",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1550703,-82.2734255]
+    },
+    "phone_number":null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.5,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "tacos":{
+            "Tacos al chili": 1600.0,
+            "Tacos de res": 2450.0,
+            "Tacos de pollo": 1960.0,
+            "Tacos de cerdo": 2500.0,
+            "Tacos del mar": 2650.0,
+            "Tacos de queso": 1400.0
+        },
+        "started": {
+            "Vianda hervida": 180.0,
+            "Vianda frita": 350.0,
+            "Tostones criollos": 350.0,
+            "Croquetas de la casa": 400.0,
+            "Tostones en tapas": 560.0,
+            "Firtura de malanga": 450.0,
+            "Ensalada fria": 650.0,
+            "Papas fritas": 700.0,
+            "Ceviche": 1000.0,
+            "Crema de queso": 400.0,
+            "Crema aurora": 450.0,
+            "Crema Virginia": 470.0,
+            "Fajitas de pollo": 1560.0,
+            "Eperlan": 2100.0,
+            "Coctel de camarones": 2200.0,
+            "Brusquetas": 650.0,
+            "Tabla Charcutera": 1750.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Entrecot": 4150.0,
+            "Churrasco de res": 4150.0,
+            "Chuleton de res": 5500.0,
+            "Ropa vieja de res": 2450.0,
+            "Vaca Frita": 2560.0,
+            "Filete de res a la Deuch": 2560.0,
+            "Calamar al ajillo": 4500.0,
+            "Calamar grille": 4500.0,
+            "Calamar en salsa de tomate": 4500.0,
+            "Pulpo grille": 5200.0,
+            "Pulpo enchilado": 5200.0,
+            "Pulpo al ajillo": 5200.0,
+            "Langosta grille": 4860.0,
+            "Langosta americana": 4860.0,
+            "Langosta termidor": 5000.0,
+            "Arroz frito": 1300.0,
+            "Estofado de conejo": 2750.0,
+            "Fricase de conejo": 2750.0,
+            "Paella Al Campestre": 10500.0
+        },
+        "pizzas": {
+            "Pizza Napolitana": 970.0,
+            "Pizza Bambina": 550.0,
+            "Pizza Al Campestre": 1960.0
+        },
+        "pastas": {
+            "Spaghetti con queso": 820.0,
+            "Spaghetti Frutti di Mare": 2400.0,
+            "Spaghetti Aioli": 960.0,
+            "Spaghetti Al Pesto": 1200.0,
+            "Spaghetti Bolonesa": 1890.0,
+            "Spaghetti Carbonara": 1450.0,
+            "Spaghetti Alfredo": 930.0,
+            "Spaghetti Primavera": 1000.0
+        },
+        "desserts": {
+            "Dulces caseros": 380.0,
+            "Torrejas de la casa": 500.0,
+            "Cuna de Mousse": 570.0,
+            "Tarta de Mousse": 4500.0,
+            "Cuna Cheesecake": 650.0,
+            "Tarta Cheesecake": 5000.0,
+            "Tarta Tiramisu": 5000.0,
+            "Cuna Tiramisu": 650.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": {
+            "Pina": 150.0,
+            "Cebolla": 200.0,
+            "Chorizo": 580.0,
+            "Pimiento": 200.0,
+            "Jamon": 350.0,
+            "Bacon": 480.0,
+            "Queso Gouda": 300.0,
+            "Aceituna": 180.0,
+            "Atun": 450.0,
+            "Camarones": 780.0,
+            "Ropa vieja de cerdo": 780.0,
+            "Ropa vieja de res": 960.0,
+            "Pepperoni": 350.0
+        },
+        "side_dishes": {
+            "Ensalada de estacion": 100.0,
+            "Arroz blanco": 150.0,
+            "Arroz moro": 220.0,
+            "Arroz con vegetales": 350.0,
+            "Vegetales salteados": 250.0,
+            "Frijoles negros": 350.0,
+            "Frijoles colorados": 400.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Alexander": 450.0,
+                    "Bloddy Marry": 450.0,
+                    "Cubanito": 450.0,
+                    "Daiquiri": 460.0,
+                    "Daiquiri rebelde": 500.0,
+                    "Martin": 450.0,
+                    "Mojito": 750.0,
+                    "Pina Colada": 720.0,
+                    "Sangria": 850.0,
+                    "Virgen Colada": 450.0,
+                    "Caipirina": 400.0,
+                    "Caipiroska": 400.0,
+                    "Caipirisima": 400.0,
+                    "Canchanchara": 400.0,
+                    "Margarita": 650.0,
+                    "Tinto Verano": 1100.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

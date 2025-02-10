@@ -1,0 +1,103 @@
+{
+    "name": "Cafe cristo",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Bernaza",
+            "Street2":"Teniente Rey",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1354886,-82.3568359]
+    },
+    "phone_number":null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.6,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Toston natural": 300.0,
+            "Toston chorrera": 400.0,
+            "Toston relleno": 450.0,
+            "Surtido de croqueta": 250.0,
+            "Eperlan": 1000.0,
+            "Cerdo juliana": 800.0,
+            "Pollo juliana": 800.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa": 250.0,
+            "Pan con croqueta": 200.0,
+            "Pan con perro": 200.0
+        },
+        "strong_dishes": {
+            "Pollo asado": 750.0,
+            "Pollo en salsa": 780.0,
+            "Pollo a la barbacoa": 780.0,
+            "Fajas de cerdo": 800.0,
+            "Bistec de cerdo": 800.0,
+            "Lomo ahumado": 1100.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 200.0,
+            "Familiar napolitana": 400.0,
+            "Hawaiana": 470.0,
+            "Familiar hawaiana": 670.0
+        },
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": {
+            "Jamon": 200.0,
+            "Queso": 200.0,
+            "Pinha": 150.0,
+            "Pimiento": 150.0,
+            "Cebolla": 150.0
+        },
+        "side_dishes":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 300.0,
+                    "Caipirisima": 350.0,
+                    "Canchanchara": 350.0,
+                    "Cuba libre": 300.0,
+                    "Daiquiri": 300.0,
+                    "Pinha colada": 550.0,
+                    "Daiquiri sabor": 550.0,
+                    "Sangria": 550.0,
+                    "Gin tonic": 550.0,
+                    "Vodka tonic": 550.0,
+                    "Long island": 1500.0 
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

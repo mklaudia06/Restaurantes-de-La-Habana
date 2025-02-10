@@ -1,0 +1,131 @@
+{
+    "name": "12X17",
+    "food_type": ["mixta"],
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address":{
+            "Street1":"Calle 12",
+            "Street2":"Calle 17",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1292162,-82.4052252]
+    },
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "phone_number":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "Croquetas de la casa": 875.0,
+            "Frituras de malanga": 750.0,
+            "Papas foster (papas fritas con jamon, queso y chorizo gratinadas al horno)": 1600.0,
+            "Fajitas de pollo": 1200.0,
+            "Fajitas de cerdo": 1380.0,
+            "Tostones rellenos": 1150.0,
+            "Tostones 12 x 17": 1350.0
+        },
+        "tacos":{
+            "Tacos de res": 1450.0,
+            "Tacos de cerdo": 1350.0,
+            "Tacos de pollo": 1250.0,
+            "Tabla de 12x17": 3050.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa sencilla": 1050.0,
+            "Hamburguesa 12x17": 1650.0,
+            "Hamburguesa tik tok": 1400.0,
+            "Cheese burguer": 1300.0
+        },
+        "strong_dishes":{
+            "Suprema de pollo": 1950.0,
+            "Bistec de cerdo": 1870.0,
+            "Vaca frita": 2050.0,
+            "Ropa vieja": 2050.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 1350.0,
+            "Pizza hawaiana": 1750.0,
+            "Pizza de jamon serrano": 2200.0
+        },
+        "pastas": {
+            "Pasta pomodoro": 1050.0,
+            "Pasta bolognesa": 1850.0,
+            "Pasta vegetariana": 1150.0
+        },
+        "desserts":null,
+        "side_dishes": {
+            "Arroz moro": 450.0,
+            "Arroz blanco": 400.0,
+            "Arroz pilaf": 450.0,
+            "Pure de malanga": 550.0,
+            "Vianda hervida": 490.0,
+            "Vianda frita": 500.0
+        },
+        "pizza_pasta_add":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Cuba libre": 600.0,
+                    "Cubata": 650.0,
+                    "Daiquiri": 780.0,
+                    "Daiquiri de frutas": 850.0,
+                    "Mojito": 650.0,
+                    "Screw driver": 600.0,
+                    "Canchanchara": 750.0,
+                    "Pinha colada": 800.0,
+                    "Caipirinha": 750.0,
+                    "Caipirissima": 750.0,
+                    "Caipiroska": 750.0,
+                    "Vodka tonic": 850.0,
+                    "Margarita": 850.0,
+                    "Gin tonic": 1050.0,
+                    "Gin tonic premium": 1150.0,
+                    "Gin tonic super premium": 1250.0,
+                    "Sangria": 1150.0,
+                    "Tinto de verano": 800.0,
+                    "Tequila sunrise": 850.0,
+                    "Aperol spritz": 1480.0,
+                    "Cubanito": 850.0,
+                    "Bloddy mary": 980.0,
+                    "Long island ice": 980.0,
+                    "Sex on the beach": 850.0,
+                    "Jack frost": 950.0,
+                    "Negroni de la casa": 1120.0,
+                    "Jagger bore": 1120.0,
+                    "Bob marley": 1100.0,
+                    "Havana tropical": 720.0,
+                    "Tropical fresh": 1250.0 
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "copas":{
+                "Copa de vino blanco": 720.0,
+                "Copa de vino tinto": 750.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

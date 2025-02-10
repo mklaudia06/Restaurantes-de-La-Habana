@@ -1,0 +1,196 @@
+{
+    "name": "La Vitrola",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Plaza Vieja",
+            "Street2":"Muralla",
+            "Street3":"San Ignacio"
+        },
+        "coordinates_latitude_length" : [23.1354205,-82.3528166]
+    },
+    "phone_number": "78018264",
+    "schedule": {
+        "opening": "08:30 am",
+        "closure": "02:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.1,
+    "social_media": {
+        "instagram":"lavitrolaa",
+        "facebook":"La Vitrola"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Yuca with cheese": 440.0,
+            "Bruschetta": 540.0,
+            "Croquettes": 440.0,
+            "Fish eperlan": 1730.0,
+            "Meat ball": 720.0,
+            "Fried pork chunks": 1730.0,
+            "Fried pork ribs": 1730.0,
+            "Beef of chicken or pork burguer": 870.0,
+            "Fried chickpea": 870.0,
+            "Fried stuffed plantain": 650.0,
+            "Tamales in leaves": 360.0,
+            "Tamales vitrola": 700.0,
+            "Vitrola mixed": 2880.0,
+            "Vitrola salad": 530.0,
+            "Plaza vieja salad": 720.0,
+            "Picadera vitrola": 1730.0,
+            "Assorted picadera": 1730.0,
+            "Shrimps cocktail": 1590.0,
+            "Fish cebiche": 1880.0,
+            "Octopus in gardin / grill": 3000.0,
+            "Grandma's patacon": 1500.0
+        },
+        "tacos":{
+            "Chicken or pork tacos": 1040.0,
+            "Shrimps tacos": 1240.0,
+            "Chicken sandwich": 720.0,
+            "Cuban sandwich": 940.0,
+            "Vitrola sandwich": 940.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Ham and cheese sandwich": 720.0,
+            "Tuna fish sandwich": 720.0
+        },
+        "strong_dishes": {
+            "Grilled chicken breast": 1160.0,
+            "Chicken gordon blue": 1440.0,
+            "Grilled chicken": 1160.0,
+            "Uruguayo steak": 1440.0,
+            "Pork steak with onion": 1230.0,
+            "Fried pork chunks": 1730.0,
+            "Fried pork ribs": 1730.0,
+            "Beef steak": 2160.0,
+            "Fried beef": 1440.0,
+            "Ropa vieja": 1440.0,
+            "Grilled fish fillet / breaded": 1850.0,
+            "Fish fillet gouda": 2100.0,
+            "Camarones al gusto": 1590.0,
+            "Fried whole fish": 2600.0,
+            "John bill fish": 2400.0,
+            "Fish fillet monte toro": 2400.0,
+            "Fish fillet canciller": 2600.0,
+            "Mixed grill": 2160.0,
+            "Rural grill": 2600.0,
+            "Skewer of your choice": 1160.0,
+            "Chicken or pork fajitas": 1160.0,
+            "Lamb stew": 2600.0,
+            "Fried rice with shrimps": 1020.0,
+            "Three piece of pork loin": 1730.0,
+            "Land and sea": 2600.0
+        },
+        "pizzas": {
+            "Pizza margarita": 1250.0,
+            "Pizza de jamon viking": 1650.0,
+            "Pizza de jamon pierna": 1900.0,
+            "Pizza de jamon serrano": 2500.0,
+            "Pizza hawaiana": 1750.0,
+            "Pizza de atun": 1750.0,
+            "Pizza cuatro estaciones": 1750.0,
+            "Pizza de salame": 1900.0,
+            "Pizza de cebolla": 1350.0,
+            "Pizza de champignones": 1750.0,
+            "Pizza de calzone": 1750.0,
+            "Pizza de pepperone": 1750.0,
+            "Pizza retro": 2500.0,
+            "Pizza habanera": 3000.0,
+            "Pizza cuatro quesos": 1900.0,
+            "Pizza de camarones": 2250.0,
+            "Pizza mixta-": 2500.0,
+            "Pizza de sardina": 1500.0,
+            "Pizza de langosta": 3750.0
+        },
+        "pastas": {
+            "Pasta cuatro quesos": 2190.0,
+            "Pasta alberto": 1740.0,
+            "Pasta bolognesa": 1900.0,
+            "Pasta carbonara": 1740.0,
+            "Pasta puttanesca": 2590.0,
+            "Pasta al pesto": 1740.0,
+            "Pasta de jamon": 1740.0,
+            "Pasta de chorizo": 1740.0,
+            "Pasta al ajo": 1560.0,
+            "Pasta al pomodoro": 1560.0,
+            "Pasta retro": 2590.0,
+            "Pasta al horno": 2590.0,
+            "Pasta amatriciana": 1740.0,
+            "Pasta frutti di mare": 2590.0,
+            "Pasta focaccia": 750.0,
+            "Brusquetas": 820.0,
+            "Crema (queso, aurora, virginia, champignon)": 880.0,
+            "Lasagna": 1740.0,
+            "Canelones": 1740.0
+        },
+        "pizza_pasta_add":null,
+        "desserts": {
+            "icecream_flavors":{
+                "Ice cream milk shake": 540.0
+            }
+        },
+        "side_dishes": {
+            "Fried viands": 240.0,
+            "Vegetable salad": 300.0,
+            "White rice": 160.0,
+            "Moro rice": 240.0,
+            "Day beans": 240.0,
+            "Rice with vegetables": 240.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "National michelada": 340.0,
+                    "Imported michelada": 540.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Glass of dispensed beer": 180.0,
+                    "Imported beer": 350.0,
+                    "Dispensed beer mug": 350.0
+                }
+            },
+            "water":{
+                "National water": 390.0
+            },
+            "soft_drinks":{
+                "National softdrinks": 400.0,
+                "Imported softdrinks": 400.0,
+                "Softdrink dispensed": 250.0
+            },
+            "juices":{
+                "Natural juice": 240.0,
+                "Fruits milk shake": 450.0
+            },
+            "lemonade":{
+                "Lemonade": 390.0
+            },
+            "malta":{
+                "Malt drink": 400.0,
+                "Imported malt": 400.0
+            },
+            "copas":null,
+            "coffees":{
+                "Expresso": 240.0,
+                "American coffee": 240.0,
+                "Coffe with a dash of milk": 300.0,
+                "Coffee with milk": 300.0,
+                "Chocolate with milk": 390.0,
+                "Capuccino": 390.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

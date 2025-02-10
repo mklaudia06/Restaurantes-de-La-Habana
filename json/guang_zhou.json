@@ -1,0 +1,158 @@
+{
+    "name": "Guang zhou",
+    "food_type": ["china"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Cuchillo",
+            "Street2":"San Nicolas",
+            "Street3":"Rayo"
+        },
+        "coordinates_latitude_length" : [23.1348628,-82.3663617]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.1,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo a la plancha": 1800.0,
+            "Pollo Grille": 1500.0,
+            "Cerdo a la plancha": 2000.0,
+            "Cerdo Grille": 1650.0,
+            "Res a la plancha": 2100.0,
+            "Cazuela de Mariscos": 5575.0,
+            "Marisco a la plancha": 3100.0,
+            "Pescado a la plancha": 2100.0,
+            "Pescado Grille": 1500.0,
+            "Termo Pack": 120.0,
+            "Caja de Pizza": 1000.0,
+            "De la Tierra": 4200.0,
+            "Del Mar": 5500.0,
+            "Mar y Tierra": 5900.0
+        },
+        "pizzas": {
+            "Pizza Napolitana con queso blanco": 1150.0,
+            "Pizza Napolitana con queso Gouda": 1250.0
+        },
+        "pastas": {
+            "Espaguetis Napolitanos": 1080.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": {
+            "Tomate natural": 200.0,
+            "Pimiento": 200.0,
+            "Cebolla": 200.0,
+            "Pinha": 200.0,
+            "Jamon": 450.0,
+            "Chorizo": 300.0,
+            "Bacon": 300.0,
+            "Champinhones": 300.0,
+            "Aceitunas": 250.0,
+            "Atun": 500.0,
+            "Queso Blanco": 250.0,
+            "Marisco": 750.0,
+            "Jamon Serrano": 500.0
+        },
+        "side_dishes": {
+            "Arroz blanco": 315.0,
+            "Arroz frito": 1710.0,
+            "Arroz Moro": 415.0,
+            "Arroz frito especial": 2110.0,
+            "Arroz frito familiar": 2970.0,
+            "Chao mian (Fideos fritos)": 900.0,
+            "Chop Suey de Pollo": 1700.0,
+            "Chop Suey de Cerdo": 1900.0,
+            "Chop Suey de vegetales": 800.0,
+            "Viandas fritas del dia": 300.0,
+            "Yuca con mojo": 250.0,
+            "Ensalada mixta": 300.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada ": 200.0,
+                    "Mojito": 400.0,
+                    "Cuba Libre": 400.0,
+                    "Ron Collins": 400.0,
+                    "Daiquiri Frappe": 400.0,
+                    "Piña Colada": 600.0,
+                    "Cubata": 400.0,
+                    "Sangria": 600.0,
+                    "Gin Tonic": 550.0,
+                    "Margarita": 550.0,
+                    "Caipirinha": 450.0,
+                    "Caipiroska": 550.0 
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Havana Club 3 anhos": 350.0,
+                    "Havana Club Especial": 250.0,
+                    "Havana Club Reserva": 400.0,
+                    "Havana Club 7 anhos": 450.0,
+                    "Whisky": 400.0,
+                    "Vodka": 500.0,
+                    "Tequila Blanco": 500.0,
+                    "Tequila Reposado": 500.0,
+                    "Ginebra": 500.0
+                },
+                "beers":{
+                    "Cerveza Nacional": 385.0,
+                    "Cerveza Importada": 300.0
+                }
+            },
+            "water":{
+                "Agua": 190.0,
+                "Agua 1.5L": 280.0
+            },
+            "soft_drinks":{
+                "Refresco Nacional": 350.0,
+                "Refresco Importado": 350.0
+            },
+            "juices":{
+                "Kermato (Jugo de tomate)": 200.0,
+                "Jugo Natural": 325.0,
+                "Jugo en conserva": 350.0
+            },
+            "lemonade":{
+                "Limonada Frappe": 350.0
+            },
+            "red bull":null,
+            "malta":{
+                "Malta": 400.0,
+                "Malteada (Malta con leche)": 550.0
+            },
+            "copas":{
+                "Vino tinto": 500.0,
+                "Vino blanco": 500.0
+            },
+            "coffees":{
+                "Cafe Expreso": 100.0,
+                "Cafe Americano": 150.0,
+                "Cafe Cortado": 150.0,
+                "Cafe Capsula": 300.0,
+                "Te": 60.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "Cafe Toscano",
+    "food_type": ["criolla","italiana"],
+    "municipality": "San Miguel del Padron",
+    "location": {
+        "address":{
+            "Street1":"Calzada de Guines",
+            "Street2":null,
+            "Street3": null
+        },
+        "coordinates_latitude_length" : [23.072243, -82.308944]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "tostones rellenos": 250.0,
+            "tostones": 150.0,
+            "platano": 100.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "hamburguesa sencilla": 300.0,
+            "hamburguesa con queso": 380.0,
+            "hamburguesa doble con queso": 550.0
+        },
+        "strong_dishes": {
+            "pollo chiflado": 400.0,
+            "pollo especial": 1000.0
+        },
+        "pizzas": {
+            "pizza napolitana": 17.0,
+            "pizza doble de queso": 250.0,
+            "pizza hawaiana": 290.0,
+            "pizza gouda": 250.0,
+            "pizza cubana": 320.0,
+            "pizza grande napolitana": 550.0,
+            "pizza grande doble de queso": 790.0,
+            "pizza grande gouda": 940.0
+        },
+        "pastas": {
+            "espaguetti": 330.0,
+            "espaguetti con queso gouda": 400.0
+        },
+        "desserts": null,
+        "pizza_pasta_add":null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,58 @@
+{
+    "name": "El Balcon de los Hermanos",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Obispo",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1381204,-82.3602308]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.8,
+    "social_media": {
+        "instagram":"",
+        "facebook":"El Balcon de los Hermanos"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Fajitas de pollo": 2500.0,
+            "Pollo dos hermanos": 2600.0,
+            "Mixto de cerdo y pollo con vegetales": 2900.0,
+            "Mixto grille de langosta y camarones": 2900.0,
+            "Mixto de langosta y pescado": 3000.0,
+            "Langosta": 3500.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Pasta napoles": 1700.0,
+            "Pasta del mar": 2500.0
+        },
+        "desserts": null,
+        "side_dishes": {
+            "Arroz con vegetales": 1900.0
+        },
+        "pizza_pasta_add":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,265 @@
+{
+    "name": "Parrandas Grill Bar",
+    "food_type": ["mixta"],
+    "municipality": "10 de Octubre",
+    "location": {
+        "address":{
+            "Street1":"Calle O'Farril",
+            "Street2":"Destrampes",
+            "Street3":"Figueroa"
+        },
+        "coordinates_latitude_length" : [23.0898635,-82.3763708]
+    },
+    "phone_number": "55353463",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.7,
+    "social_media": {
+        "instagram":"parrandasgrillbar",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Picadera Parrandas": 2500.0,
+            "Tabla de jamon Serrano": 1900.0,
+            "Garbanzos fritos": 1000.0,
+            "Nachos": 1400.0,
+            "Ceviche": 900.0,
+            "Eperlan": 800.0,
+            "Entremes de jamon / queso / chorizo": 1000.0,
+            "Chorizos parrilleros con queso al horno": 1600.0,
+            "Tostones rellenos": 800.0,
+            "Papas fritas": 500.0,
+            "Brusquetas": 700.0,
+            "Croquetas caseras": 700.0,
+            "Tambor de bonieto con cangrejo picante": 1100.0,
+            "Empanadas de queso azul": 1100.0,
+            "Coctel de langosta": 1300.0,
+            "Coctel de camaron": 1400.0,
+            "Tabla de queso": 2700.0,
+            "Papas bravas con queso y guacamole": 1300.0,
+            "Patacon con vaca frita": 1100.0,
+            "Rollitos de salmon con queso crema": 1700.0,
+            "Crema de papa con crujiente de jamon Serrano": 1200.0,
+            "Tartar de salmon": 1200.0,
+            "Tostas de ceviche con Pesto": 1000.0
+        },
+        "tacos":{
+            "Tacos Parrandas": 1500.0,
+            "Tacos de camaron": 2300.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Pan con lechon": 1200.0,
+            "Pan con pollo crujiente": 1500.0
+        },
+        "strong_dishes": {
+            "Faitas de pollo": 2400.0,
+            "Fajitas de cerdo": 2500.0,
+            "Pechuga de pollo": 2400.0,
+            "Masas de cerdo": 2500.0,
+            "Costillas en salsa barbacoa": 2800.0,
+            "Picana de ternera con papas fritas": 5000.0,
+            "Ropa vieja": 2100.0,
+            "Vaca frita": 2000.0,
+            "Langosta enchilada": 2700.0,
+            "Camaron al gusto": 2600.0,
+            "Pulpo al gusto": 3500.0,
+            "Salteado de mariscos": 3200.0,
+            "Meloso de mariscos": 3200.0,
+            "John Bill": 3200.0,
+            "John Bill de langosta": 3300.0,
+            "Filete de pescado": 2400.0,
+            "Paella de Tierra": 3000.0
+        },
+        "pizzas": {
+            "Pizza Carbonara": 1700.0,
+            "Pizza Napolitana": 1200.0
+        },
+        "pastas": {
+            "Pasta Napolitana": 1000.0,
+            "Pasta Frutti di Mare": 1900.0,
+            "Pasta Carbonara": 1800.0,
+            "Pasta de salmon con crema": 1900.0
+        },
+        "desserts": {
+            "Mousse de chocolate": 800.0,
+            "Mousse de vainilla": 800.0,
+            "Pie de fanguito con mani": 800.0,
+            "Pie de limon": 800.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": {
+            "Queso": 700.0,
+            "Chorizo": 450.0,
+            "Bacon": 500.0,
+            "Jamon": 450.0,
+            "Jamon pierna": 500.0,
+            "Jamon ahumado pierna canario": 700.0,
+            "Atun": 600.0,
+            "Pina": 200.0,
+            "Cebolla": 250.0,
+            "Aceituna": 500.0,
+            "Jamon Serrano": 800.0,
+            "Trufa negra": 450.0,
+            "Langosta": 1100.0,
+            "Camaron": 1200.0,
+            "Champignon": 400.0,
+            "Queso azul": 700.0,
+            "Salmon ahumado": 1000.0
+        },
+        "side_dishes": {
+            "Arroz moro": 250.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Tonica MG": 600.0,
+                    "Cuba Libre Coca Cola": 600.0,
+                    "Cubata Coca Cola": 650.0,
+                    "Caipiroska": 700.0,
+                    "Caipiroska de la casa": 800.0,
+                    "Caipirissima": 700.0,
+                    "Caipirinha": 700.0,
+                    "Ron Collins": 650.0,
+                    "Margarita": 700.0,
+                    "Screwdriver": 600.0,
+                    "Gin Tonic MG": 1200.0,
+                    "Pina Colada Virgen": 750.0,
+                    "Pina Colada": 800.0,
+                    "Mojito": 700.0,
+                    "Mary Pickford": 650.0,
+                    "Tinto de verano": 650.0,
+                    "Blue Lagoon": 700.0,
+                    "Sangria": 650.0,
+                    "Sangria blanca": 600.0,
+                    "Daiquiri": 700.0,
+                    "Daiquiri saborizado": 800.0,
+                    "Vodka Tonic MG": 1000.0,
+                    "Caipirita": 700.0,
+                    "Negroni": 1400.0
+                },
+                "bottles":{
+                    "Botella de vino tinto Hoya de Cadenas": 7500.0,
+                    "Botella de vino tinto Valdubon": 8000.0,
+                    "Botella de vino tinto Orube": 7500.0
+                },
+                "drinks_with": {
+                    "Tito's 2 Ligant": 10000.0,
+                    "Ballantine 2 Ligant": 8000.0,
+                    "Ballantine 12 2 Ligant": 12000.0,
+                    "Chivas 12 1 Ligant": 12000.0,
+                    "Chivas 18 1 Ligant": 20000.0,
+                    "Glenlivet 2 Ligant": 14000.0,
+                    "White Label Dewars": 4500.0,
+                    "Jameson": 9000.0,
+                    "JB": 9000.0,
+                    "Etiqueta Roja LT 2 Ligant": 12000.0,
+                    "Buchanan's 12": 21000.0,
+                    "Old Parr": 10000.0,
+                    "Santiago 8": 9000.0,
+                    "7 anos LT": 6000.0,
+                    "Pacto Navio": 15000.0,
+                    "Seleccion de Maestro": 14000.0,
+                    "Santiago 11": 14000.0,
+                    "Espumoso Freixenet": 6000.0,
+                    "Grey Goose 2 Tonica": 12000.0,
+                    "Beldevere 2 Tonica": 12000.0,
+                    "Green Label": 55000.0,
+                    "Gold Label": 50000.0,
+                    "Clan Campbell": 400.0,
+                    "Vat 69": 450.0,
+                    "The Glenlivet": 900.0,
+                    "Chivas 12": 1000.0,
+                    "Chivas 15": 1800.0,
+                    "Chivas 18": 3000.0,
+                    "Jameson (shot)": 700.0,
+                    "JB (shot)": 700.0,
+                    "Jack Daniel": 1200.0,
+                    "Jack Daniel Honey": 1000.0,
+                    "JW Red Label": 750.0,
+                    "JW Gold Label": 3500.0,
+                    "Ballantines": 700.0,
+                    "Ballantines 10": 800.0,
+                    "Jameson Black Barrel": 1400.0,
+                    "Buchanan's 12 (shot)": 1800.0,
+                    "Old Parr (Shot)": 1000.0,
+                    "Santiago Anejo (shot)": 400.0,
+                    "Seleccion de Maestro (shot)": 1200.0,
+                    "Santiago 11 (shot)": 1100.0,
+                    "HC Anejo 7 anos (shot)": 550.0,
+                    "Santiago 8 (shot)": 700.0,
+                    "Ron Barcelo Gran Anejo (shot)": 400.0,
+                    "Santisima Trinidad (shot)": 700.0,
+                    "Olmeca Reposado (shot)": 700.0,
+                    "1800 Reposado (shot)": 1600.0,
+                    "Don Ramon Blanco (shot)": 1000.0,
+                    "Patron (shot)": 2000.0,
+                    "Don Julio Reposado (shot)": 2000.0,
+                    "Jagger": 500.0,
+                    "Vodka Absolut": 500.0,
+                    "Vodka Absolut de cafe": 550.0,
+                    "Ciroc de sabores": 1000.0,
+                    "Grey Goose": 1200.0,
+                    "Beldevere": 1300.0,
+                    "Chopin": 1350.0,
+                    "Vincent Van Goth": 500.0,
+                    "Gordon's": 550.0,
+                    "G'Vine": 700.0,
+                    "Master's": 700.0,
+                    "Master's Pink": 700.0,
+                    "Tanqueray Ten": 1100.0,
+                    "Beefeater": 600.0,
+                    "London #1": 1800.0
+                },
+                "beers":{
+                    "Cerveza La Salve": 350.0,
+                    "Cerveza Presidente": 550.0,
+                    "Cerveza Sol": 600.0,
+                    "Cerveza Alhambra": 700.0,
+                    "Jarra de cerveza": 450.0,
+                    "Cana de cerveza": 225.0,
+                    "Cana con limon": 275.0
+                }
+            },
+            "water":{
+                "Agua natural": 250.0,
+                "Agua gaseada": 280.0
+            },
+            "soft_drinks":{
+                "Refresco nacional": 300.0,
+                "Refresco importado": 380.0
+            },
+            "juices":{
+                "Jugo natural": 350.0
+            },
+            "lemonade":{
+                "Limonada natural": 600.0
+            },
+            "Energizante": 450.0,
+            "red bull":700.0,
+            "malta":380.0,
+            "copas":{
+                "Copa de vino tinto": 700.0,
+                "Copa de vino blanco": 650.0
+            },
+            "coffees":{
+                "Cafe Expresso": 200.0,
+                "Cafe Cortado": 250.0,
+                "Cappuccino": 500.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

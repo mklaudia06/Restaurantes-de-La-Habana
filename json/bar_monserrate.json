@@ -1,0 +1,101 @@
+{
+    "name": "Bar Monserrate",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Obrapia",
+            "Street2":"Bernaza",
+            "Street3":"Avenida Belgica"
+        },
+        "coordinates_latitude_length" : [23.1367272,-82.3598614]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.3,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Picada de salchicha": 60.0,
+            "Croquetas de jamon": 250.0,
+            "Croquetas de pollo": 150.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Bistec de cerdo grille": 850.0,
+            "Fajitas de cerdo": 990.0,
+            "Res estofada": 875.0,
+            "Cola de langosta": 2300.0,
+            "Anillas de langosta": 2175.0,
+            "Camaron grille": 1900.0,
+            "Camaron enchilado": 1740.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "pizza_pasta_add":null,
+        "desserts": null,
+        "side_dishes": {
+            "Arroz blanco": 100.0,
+            "Arroz moro": 135.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": {
+                    "Cuba libre 290ml": 300.0,
+                    "Cubata 290ml": 325.0,
+                    "Daiquiri 120ml": 300.0,
+                    "Licor cubay de menta 60ml": 200.0,
+                    "Licor curacao azul 60ml": 200.0,
+                    "Licor cubay de anis": 200.0,
+                    "Chanceler 60ml": 180.0,
+                    "Hc 3 anhos 60ml": 200.0,
+                    "Hc blanco 60ml": 200.0,
+                    "Hc reserva 60ml": 380.0,
+                    "Hc especial 60ml": 250.0,
+                    "Hc ritual 60ml": 250.0
+                },
+                "beers":{
+                    "Cerveza importada": 175.0,
+                    "Cerveza nacional": 160.0,
+                    "Parranda 500ml": 180.0,
+                    "Cerveza 500ml dispensada": 190.0
+                }
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "Jugo nacional": 90.0,
+                "Vaso de jugo importado 200ml": 80.0
+            },
+            "lemonade":{
+                "Limonada 290ml": 100.0
+            },
+            "Bebida energizante": 200.0,
+            "malta":{
+                "Malta importada": 135.0
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

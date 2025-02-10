@@ -1,0 +1,195 @@
+{
+    "name": "Luly Bar Cafe",
+    "food_type": ["internacional"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 3era",
+            "Street2":"Calle 28",
+            "Street3":"Calle 30"
+        },
+        "coordinates_latitude_length" : [23.1215518,-82.4283519]
+    },
+    "phone_number": "52921929",
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":"lulybarcafe_",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": {
+            "Desayuno standard": 1800.0,
+            "Desayuno xl": 2300.0,
+            "Super bowl": 850.0,
+            "Ensalada de frutas": 700.0
+        },
+        "started": {
+            "Croquetas de pollo": 1100.0,
+            "Croquetones de serrano": 1500.0,
+            "Croquetones de pescado": 1300.0,
+            "Empanaditas de cerdo": 1000.0,
+            "Pañuelo de carbonara": 900.0,
+            "Montaditos": 500.0,
+            "Provolone y serrano": 1400.0,
+            "Tamal en cazuela": 1000.0,
+            "Pimientos piquillo rellenos de atun": 1600.0,
+            "Tapas de tumaca": 700.0,
+            "Tapas de serrano": 1500.0,
+            "Tapas de jamon de pavo": 1100.0,
+            "Tapas de jamon st dalmai": 1000.0,
+            "Tapas de salmon": 1900.0,
+            "Tapas de salchichon iberico": 1300.0,
+            "Tapas de chorizo iberico": 1300.0,
+            "Tapas de chorizo cular": 1100.0,
+            "Tapas de queso azul": 900.0,
+            "Croissant": 350.0,
+            "Donuts": 450.0,
+            "Cesta de pan": 600.0,
+            "Feria de quesos": 2200.0,
+            "Feria de embutidos": 3000.0,
+            "El verdadero remix": 2250.0,
+            "Lecho fresco de vegetales": 850.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Baguette jamon st dalmai": 1300.0,
+            "Baguette queso gouda": 1200.0,
+            "Baguette jamon st dalmai y queso gouda": 1400.0,
+            "Baguette serrano": 2000.0,
+            "Baguette jamon de pavo": 1500.0,
+            "Baguette salmon": 2200.0,
+            "Bocadito jamon st dalmai": 600.0,
+            "Bocadito queso gouda": 600.0,
+            "Bocadito jamon st dalmai y queso gouda": 800.0,
+            "Emparedado de huevo": 1100.0,
+            "Emparedado de atun": 1200.0,
+            "Pan con lechon": 1600.0
+        },
+        "strong_dishes": null,
+        "pizzas": null,
+        "pastas": null,
+        "pizza_pasta_add":null,
+        "desserts": {
+            "Casquitos de guayaba con queso": 500.0,
+            "Pudin": 250.0,
+            "Mermelada con queso": 300.0,
+            "Mini muffin": 300.0,
+            "Muffin fusion": 500.0,
+            "Waffle": 600.0,
+            "Pop waffle": 900.0,
+            "icecream_flavors":null
+        },
+        "side_dishes": {
+            "Nutella": 250.0,
+            "Almendras": 160.0,
+            "Chia": 50.0,
+            "Mantequilla": 100.0,
+            "Serrano": 675.0,
+            "Jamon de pavo": 450.0,
+            "Jamon st dalmai": 400.0,
+            "Salmon": 700.0,
+            "Salchichon iberico": 610.0,
+            "Chorizo iberico": 500.0,
+            "Chorizo cular": 500.0,
+            "Queso manchego": 500.0,
+            "Queso azul": 500.0,
+            "Queso provolone": 450.0,
+            "Queso feta": 500.0,
+            "Queso edam": 375.0,
+            "Queso gouda": 350.0,
+            "Huevo": 160.0,
+            "Aceitunas": 800.0,
+            "Lechon asado": 1000.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada": 450.0,
+                    "Clan campbell": 850.0,
+                    "Ballantines": 900.0,
+                    "Jameson": 950.0,
+                    "Johnnie walker rl": 1000.0,
+                    "Tequila silver/reposado": 1200.0,
+                    "Mojito": 1200.0,
+                    "Cuba libre": 1000.0,
+                    "Cubata": 1300.0,
+                    "Gin especial": 2000.0,
+                    "Gin tonic": 1600.0,
+                    "Vodka tonic": 1400.0,
+                    "Caipirinha": 1000.0,
+                    "Caipiroska": 1100.0,
+                    "Tinto de verano": 1300.0,
+                    "Cubanito": 1200.0,
+                    "Daiquiri": 1025.0,
+                    "Screwdriver": 1500.0
+                },
+                "bottles":{
+                    "Botella de campoviejo tempranillo tinto": 4700.0,
+                    "Botella campoviejo tempranillo blanco": 4200.0
+                },
+                "drinks_with": {
+                    "Havana club 7 años": 850.0,
+                    "Havana club 3 años": 400.0,
+                    "Havana club profundo": 250.0,
+                    "Santiago añejo 8 años": 1000.0
+                },
+                "beers":{
+                    "Cristal": 450.0,
+                    "Bucanero": 450.0,
+                    "Corona": 600.0,
+                    "Cruzcampo": 400.0
+                }
+            },
+            "water":{
+                "Agua cm": 250.0,
+                "Agua san benedetto natural": 1000.0,
+                "Agua san benedetto gaseada": 1100.0
+            },
+            "soft_drinks":{
+                "Tukola": 300.0,
+                "Pepsi": 350.0
+            },
+            "juices":{
+                "Jugo cajita": 250.0,
+                "Jugo natural": 500.0,
+                "Jugo verde": 600.0
+            },
+            "lemonade":{
+                "Limonada": 500.0
+            },
+            "Tonica shweppes": 1000.0,
+            "Granizado": 60.0,
+            "red bull":null,
+            "malta":280.0,
+            "copas":{
+                "Copa de campoviejo tempranillo tinto": 1000.0,
+                "Copa campoviejo tempranillo blanco": 900.0
+            },
+            "coffees":{
+                "Expresso": 200.0,
+                "Cortadito": 300.0,
+                "Americano": 300.0,
+                "Bombon": 500.0,
+                "Capuchino": 400.0,
+                "Frapuchino": 800.0,
+                "Cafe con leche": 600.0,
+                "Te": 200.0,
+                "Te helado": 300.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

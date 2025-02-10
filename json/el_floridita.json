@@ -1,0 +1,95 @@
+{
+    "name": "El floridita",
+    "food_type": ["criolla"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Obispo",
+            "Street2":"Avenida Belgica",
+            "Street3":"Bernaza"
+        },
+        "coordinates_latitude_length" : [23.1374171,-82.362263]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "01:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Cebiche caribenho": 1200.0,
+            "Coctel de langosta": 1200.0,
+            "El viejo y el mar": 2150.0,
+            "Jamon serrano": 1350.0,
+            "Seleccion de quesos": 1200.0,
+            "Pica pica del chef(croquetas del dia)": 550.0,
+            "Tapas de mariscos": 1050.0,
+            "Pasta frutti de mare": 1450.0,
+            "Casuelita colonial": 1100.0    
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Caserola de pollo gregorin": 1450.0,
+            "Bistec de cerdo finca vijia": 1700.0,
+            "Solomillo de res": 2400.0,
+            "Clasica ropa vieja": 1800.0,
+            "Langosta a su gusto": 2850.0,
+            "Gran plato hemingway (langosta,pescado y gambas)": 2600.0,
+            "Cazuelita del pescador": 2400.0,
+            "Cayuka mixta": 2400.0,
+            "Papa & mary": 2350.0,
+            "Camarones flambeados al ron": 2200.0,
+            "Pincho de camarones": 1950.0,
+            "Filete de pescado al estilo hemingway": 2200.0,
+            "Filete de pescado a la parrilla": 1800.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "pizza_pasta_add":null,
+        "desserts": null,
+        "side_dishes": {
+            "Arroz marinero": 1450.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Crema floridita": 600.0,
+            "Sopa noche de paris": 350.0
+        },
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Pinha colada": 450.0,
+                    "Daiquiri": 350.0,
+                    "Mojito": 350.0,
+                    "Cuba libre": 400.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "red bull":null,
+            "malta":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

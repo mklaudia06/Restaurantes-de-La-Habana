@@ -1,0 +1,144 @@
+{
+    "name": "Bocattas",
+    "food_type": ["cubana","internacional"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 29",
+            "Street2":"Calle 18",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1203444,-82.4171191]
+    },
+    "phone_number": "53190043",
+    "schedule": {
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality": 4.0,
+    "social_media": {
+        "instagram":"cafe_bocattas",
+        "facebook":"Cafe Bocattas"
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "Brusquetas": 500.0,
+            "Chorizo parrillero": 2000.0,
+            "Croquetas de pollo": 650.0,
+            "Desayuno": 980.0,
+            "Ensalada fria": 540.0,
+            "Croquetas de jamon serrano": 750.0,
+            "Huevos rotos": 1050.0
+        },
+        "tacos":{
+            "Tacos de hab c": 800.0,
+            "Tacos de hamburguesa": 950.0,
+            "Tacos de cerdo": 900.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Bistec con baguette": 1700.0,
+            "Bistec con pan suave": 1500.0,
+            "Hamburguesa de res": 1000.0,
+            "Hamburguesa de cerdo": 780.0,
+            "Pan con lechon": 840.0,
+            "Pan redondo suave": 160.0,
+            "Pan baguette": 240.0,
+            "Pan suave": 160.0,
+            "Tostadas": 240.0,
+            "Smashburger bocattas de res": 1500.0,
+            "Smashburger bocattas de cerdo": 1500.0
+        },
+        "strong_dishes": null,
+        "pizzas":null,
+        "pastas": {
+            "Pasta napolitana": 900.0,
+            "Pasta boloñesa": 2000.0,
+            "Pasta con bacon": 1500.0,
+            "Pasta con jamon pierna especial": 1800.0,
+            "Pasta con jamon barra": 1100.0
+        },
+        "desserts": {
+            "Dulces finos": 1000.0,
+            "icecream_flavors":{
+                "Copa golosa": 800.0,
+                "Bola de helado": 150.0
+            }
+        },
+        "pizza_pasta_add": {
+            "Queso gouda 100g": 430.0,
+            "Jamon barra": 300.0,
+            "Jamon serrano": 570.0,
+            "Jamon pierna especial": 650.0,
+            "Queso gouda": 380.0,
+            "Queso azul": 500.0,
+            "Chorizo español": 400.0,
+            "Bacon": 500.0,
+            "Huevo": 150.0,
+            "Mantequilla": 75.0,
+            "Agrego de cerdo": 400.0,
+            "Atun": 500.0,
+            "Vianda frita": 170.0,
+            "Mayonesa": 50.0,
+            "Tomate": 100.0,
+            "Cebolla": 70.0,
+            "Pepinillo": 35.0,
+            "Pico de gallo": 70.0,
+            "Lechuga": 35.0,
+            "Piña": 35.0
+        },
+        "side_dishes":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada con cerv import": 660.0,
+                    "Michelada con cerv nacional": 750.0,
+                    "Chelada": 180.0,
+                    "Preparado de michelada": 340.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza importada": 280.0,
+                    "Cerveza nacional": 400.0
+                }
+            },
+            "water":{
+                "Agua natural 500 ml": 200.0
+            },
+            "soft_drinks":{
+                "Refresco importado y nacional": 260.0
+            },
+            "juices":{
+                "Jugos naturales": 250.0
+            },
+            "lemonade":{
+                "Limonada frappe": 600.0
+            },
+            "Energizantes": 400.0,
+            "red bull":"",
+            "malta":{
+                "Malta": 300.0
+            },
+            "copas":null,
+            "coffees":{
+                "Expresso": 130.0,
+                "Capuchino": 225.0,
+                "Cortado": 150.0,
+                "Americano": 210.0,
+                "Frappuccino": 600.0,
+                "Cafe con leche": 275.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

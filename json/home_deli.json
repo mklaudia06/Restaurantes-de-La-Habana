@@ -1,0 +1,87 @@
+{
+    "name": "Home Deli",
+    "food_type": ["italiana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Calle 12",
+            "Street2":"Avenida 23",
+            "Street3":"Avenida 21"
+        },
+        "coordinates_latitude_length" : [23.1277425,-82.4029035]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.3,
+    "social_media": {
+        "instagram":"homedelicuba",
+        "facebook":"Home Deli"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Chips mariflye": 380.0,
+            "Focaccina": 400.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich de queso gouda": 1400.0,
+            "Sandwich de jamon serrano": 1600.0,
+            "Sandwich de chorizo iberico": 1300.0,
+            "Sandwich de mortadella": 1300.0,
+            "Sandwich de jamon york": 1300.0
+        },
+        "strong_dishes": null,
+        "pizzas": {
+            "Pizza margarita": 1900.0,
+            "Pizza baby": 1100.0
+        },
+        "pastas": null,
+        "desserts": {
+            "icecream_flavors":{
+                "Copa de helado": 950.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Serrano": 850.0,
+            "Chorizo iberico": 550.0,
+            "Pepperoni": 700.0,
+            "Jamon york": 720.0,
+            "Mozarella": 980.0,
+            "Gouda": 700.0
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Vaso de cerveza": 220.0,
+                    "Jarra de cerveza": 380.0
+                }
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "copas":{
+                "Copa de vino": 600.0
+            },
+            "coffees":{
+                "Expresso": 250.0,
+                "Cortado": 320.0,
+                "Americano": 300.0,
+                "Con leche": 450.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

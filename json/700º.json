@@ -1,0 +1,141 @@
+{
+    "name": "700",
+    "municipality": "Marianao",
+    "food_type": ["mixta"],
+    "location": {
+        "address":{
+            "Street1":"Avenida 41",
+            "Street2":"esquina 86",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0878755,-82.4243383]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "03:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "Tostones rellenos jamon y queso": 890.0,
+            "Croquetas de la casa": 890.0,
+            "Finger de pollo empanizado": 890.0,
+            "Frituras de malanga": 790.0,
+            "Emtremes de aceituna": 1130.0,
+            "Papas fritas": 890.0,
+            "Eperlan de pescado": 1380.0,
+            "Coctel de langosta ": 1600.0,
+            "Coctel de camaron": 1600.0
+        },
+        "tacos":{
+            "Tacos de pollo": 990.0,
+            "Tacos de cerdo": 1100.0
+        },
+        "strong_dishes": {
+            "Pechuga de pollo": 1650.0,
+            "Lonjas de cerdo al carbon": 1850.0,
+            "Saltimboca de cerdo": 1750.0,
+            "Bistec de cerdo": 1650.0,
+            "Fajitas de cerdo salteadas": 1650.0,
+            "Solomillo de cerdo": 2900.0,
+            "Masas de cerdo en salsa teriyaki": 2200.0,
+            "Fricase de cerdo": 2200.0,
+            "Bistec uruguayo": 1850.0,
+            "Ropa vieja de res": 2200.0,
+            "Filete de pescado": 1850.0,
+            "Camaron al gusto": 2800.0,
+            "Enchilado de langosta": 2800.0,
+            "Paella de marisco": 3550.0,
+            "Cazuela de marisco": 3600.0,
+            "Mar y tierra campesina": 3550.0,
+            "Filete john bill": 3550.0
+        },
+        "pizzas": {
+            "Napolitana": 1200.0,
+            "Hawaiana": 1450.0
+        },
+        "pastas": {
+            "Espaguetis napolitano": 1100.0,
+            "Espaguetis con camaron": 2500.0,
+            "Espaguetis de langosta": 2500.0,
+            "Espaguetis marineros": 1100.0
+        },
+        "pizza_pasta_add":null,
+        "desserts": null,
+        "side_dishes": {
+            "Arroz moro": 100.0,
+            "Vianda frita": 100.0,
+            "Platano maduro frito": 100.0,
+            "Ensalada estacion": 100.0,
+            "Platano chatinos": 100.0,
+            "Arroz blanco": 100.0
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Servicio michelada": 490.0,
+                    "Servicio de chelada": 300.0,
+                    "Caipiroska": 380.0,
+                    "Caipirisima": 380.0,
+                    "Mojito": 450.0,
+                    "Caipirina": 380.0,
+                    "Sangria": 400.0,
+                    "Vodca tonic": 480.0,
+                    "Gin tonic": 550.0,
+                    "Cuba libre": 480.0,
+                    "Cubata especial": 490.0,
+                    "Daiquiri": 380.0,
+                    "Pinha colada": 450.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza internacional": 350.0,
+                    "Dispensada cristal": 350.0,
+                    "Cerveza bucanero": 550.0,
+                    "Cerveza cristal": 550.0,
+                    "Cerveza corona": 750.0,
+                    "Cerveza sol": 750.0,
+                    "Cerveza heineken": 750.0
+                }
+            },
+            "water":{
+                "Agua natural": 290.0
+            },
+            "soft_drinks":{
+                "Refresco internacional": 380.0
+            },
+            "juices":null,
+            "lemonade":{
+                "Limonada frescura": 250.0,
+                "Limonada natural": 250.0
+            },
+            "Energizante": 550.0,
+            "Red bull": 830.0,
+            "malta":{
+                "Malta internacional": 440.0
+            },
+            "copas":{
+                "Vino tinto": 400.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

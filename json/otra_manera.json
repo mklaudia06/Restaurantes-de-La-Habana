@@ -1,0 +1,89 @@
+{
+    "name": "Otra manera",
+    "food_type": ["caribeña","internacional","española","cubana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 35",
+            "Street2":"San Lazaro",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1190677,-82.4159991]
+    },
+    "phone_number": "72038315",
+    "schedule": {
+        "opening": "12:30 pm",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Martes","Miercoles","Jueves","Viernes","Sabado"]
+    },
+    "quality":4.6,
+    "social_media": {
+        "instagram":"otramanera.lahabana",
+        "facebook":"Otramaneralahabana"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Ceviche del dia": 2400.0,
+            "Bniato marinado y frito con ali oli de cachucha": 2050.0,
+            "Falafel con salsa tzatziki": 1900.0,
+            "Croquetas de chuleton de cerdo al carbon": 2050.0,
+            "Nachos mexicanos con picadillo de cerdo picanton": 2400.0,
+            "Huevos de codorniz trufados al horno, con papas y chorizo frito": 2050.0,
+            "Mini hamburguesas de cordero con queso de cabra": 3200.0,
+            "Wok de pulpo": 3200.0,
+            "Ensalada de aguacate asado, tomate, pepino y remolacha crujiente": 2050.0,
+            "Tartar de mozzarella fresca, aguacate y tomate": 2050.0,
+            "Ensalada verde con queso de cabra y reduccion de frutas": 1900.0,
+            "Ensalada verde con pollo marinado en nuestra salsa de piña y cilantro": 2050.0
+        },
+        "tacos":{
+            "Tacos de lechon asado": 2400.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Costillar deshuesado de cerdo cocinado en baja temperatura y matajibaro": 3400.0,
+            "Costillas asadas en salsa barbacoa, pastel de yuca y verduritas": 4050.0,
+            "New york steak con papas asadas y salsa chimichurri": 4000.0,
+            "Albondiga de res rellena de setas y papas asadas": 4500.0,
+            "Langosta al horno con mantequilla, limon y mole negro": 5100.0,
+            "Pescado del dia a la plancha con mole verde y boniatos asados": 3400.0,
+            "Dados de pescado blanco, cocinado en salsa de curry amarillo con leche de coco y arroz blanco": 3400.0,
+            "Cordero en salsa de chocolate con verduras grilladas": 4050.0,
+            "Canelon de pollo asado con setas": 3500.0,
+            "Canelon de cangrejo xl con doble salsa": 3400.0,
+            "Wok de atun, vegetales y salsa teriyaki": 2400.0,
+            "Wok de tallarines con cerdo, vegetales, piña y teriyaki": 2400.0,
+            "Risotto de zanahoria con mozzarella y hierbas aromaticas": 4050.0,
+            "Arroz de marisco": 4500.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "Biscocho breton, crema de limon y toffe": 1700.0,
+            "Coulant de chocolate con helado": 2100.0,
+            "Baba al ron con helado": 1700.0,
+            "Arroz con leche": 1800.0,
+            "icecream_flavors":{
+                "Helado": 1350.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishese": {
+            "Arroz blanco": 700.0,
+            "Matajibaro": 700.0,
+            "Vegetales salteados": 700.0,
+            "Cesta de pan": 700.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

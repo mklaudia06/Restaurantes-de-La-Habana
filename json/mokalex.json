@@ -1,0 +1,110 @@
+{
+    "name": "Mokalex",
+    "food_type": ["internacional"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 47",
+            "Street2":"34",
+            "Street3":"36"
+        },
+        "coordinates_latitude_length" : [23.1115042,-82.4128479]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "06:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado"]
+    },
+    "quality":3.3,
+    "social_media": {
+        "instagram":"mokalex_cuba",
+        "facebook":"Mokalex"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Sandwich cubano": 1500.0,
+            "Sandwich de jamon y queso": 1300.0,
+            "Empanada gallega": 800.0,
+            "Tabla de embutidos y quesos": 2300.0,
+            "Aceitunas": 700.0,
+            "Croissant con nutella": 1300.0,
+            "Croissant con jamon y queso": 1800.0,
+            "Ensalada fria": 800.0,
+            "Arroz frito": 1800.0,
+            "Ensalada de humus con pechuga de pollo y vegetales": 1400.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": null,
+        "pizzas": null,
+        "pastas": {
+            "Lasagna bolognesa": 1800.0,
+            "Spaghetti con jamon": 1500.0
+        },
+        "desserts": {
+            "Pasteleria": 350.0,
+            "Torta de la casa": 700.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada": 600.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Crema catalana": 800.0,
+                    "Havana club especial": 400.0,
+                    "Havana club 7 años": 600.0,
+                    "Whisky j&b": 800.0
+                },
+                "beers":{
+                    "Cerveza": 450.0
+                }
+            },
+            "water":{
+                "H2o natural": 300.0,
+                "H2o gaseada": 400.0,
+                "H2o gaseada importada": 600.0
+            },
+            "soft_drinks":{
+                "Refresco": 400.0
+            },
+            "juices":{
+                "Jugos naturales": 400.0,
+                "Jugo oxido rojo": 600.0
+            },
+            "lemonade":null,
+            "Energizante": 400.0,
+            "malta":500.0,
+            "copas":{
+                "Copa de vino tinto": 600.0,
+                "Copa de vino blanco": 600.0
+            },
+            "coffees":{
+                "Cafe exconvicto": 400.0,
+                "Cafe yuma": 400.0,
+                "Cafe suturado": 500.0,
+                "Cafe conde": 600.0,
+                "Cafe mulata": 550.0,
+                "Frapuchino": 800.0,
+                "Frapuhelado": 900.0,
+                "Capuchino": 800.0,
+                "Infusiones": 300.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

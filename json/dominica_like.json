@@ -1,0 +1,185 @@
+{
+    "name": "Dominica Like",
+    "food_type": ["internacional","italiana"],
+    "municipality": "Boyeros",
+    "location": {
+        "address":{
+            "Street1":"Calle 11",
+            "Street2":"6",
+            "Street3":"8"
+        },
+        "coordinates_latitude_length" : [22.9703248,-82.3917123]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.0,
+    "social_media": {
+        "instagram":"dominica_like_oficial",
+        "facebook":"Dominicana Like Restaurante"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "coctel de camarones": 1100.0,
+            "papas fritas": 450.0,
+            "tostones rellenos (jamon y queso)": 550.0,
+            "croquetas de la casa (pollo o pescado)": 500.0,
+            "frituras de malanga": 450.0,
+            "ensalada fria": 650.0,
+            "entremes de jamon, queso y aceitunas": 800.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "bastones de pechuga de pollo empanados": 1500.0,
+            "gordon blue de pechuga de pollo": 1700.0,
+            "pechuga a la pinna": 1400.0,
+            "bistec de pechuga grille": 1400.0,
+            "lomo ahumado con salsa de frutas": 1200.0,
+            "bistec de cerdo grille encebollado": 1400.0,
+            "bistec uruguayo": 1800.0,
+            "ropa vieja": 1600.0,
+            "vaca frita": 1600.0,
+            "ternera al vino": 1900.0,
+            "enchilado de cangrejo": 1200.0,
+            "filete de pescado grille": 1600.0,
+            "filete de pescado canciller": 1800.0
+        },
+        "pizzas": {
+            "pizza napolitana": 1000.0,
+            "pizza hawaiana": 1300.0,
+            "pizza dominica": 1650.0
+        },
+        "pastas": {
+            "lasanna": 1100.0,
+            "espaguetis napolitana": 950.0,
+            "espaguetis a la crema con bacon": 1100.0
+        },
+        "desserts": {
+            "tarta de chocolate con helado": 400.0,
+            "icecream_flavors":{
+                "batidos de helado": 600.0,
+                "copa de helado": 400.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "arroz moro": 300.0,
+            "arroz blanco": 200.0,
+            "ensalada de vegetales mixto de la estacion": 300.0,
+            "platanito maduro frito": 250.0,
+            "tostones al ajillo": 250.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "crema de queso": 600.0,
+            "crema virginia": 600.0,
+            "crema aurora": 500.0,
+            "crema reina (pollo)": 500.0
+        },
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "servicio de michelada": 300.0,
+                    "servicio de chelada": 200.0,
+                    "mojito": 600.0,
+                    "cubanito": 800.0,
+                    "cuba libre": 600.0,
+                    "daiquiri": 700.0,
+                    "daiquiri de frutas": 750.0,
+                    "margarita": 900.0,
+                    "margarita blue": 950.0,
+                    "pinna colada": 850.0,
+                    "bloody mary": 750.0,
+                    "bello monte": 750.0,
+                    "caipirinna": 750.0,
+                    "caipirisima": 750.0,
+                    "caipiroska": 750.0,
+                    "canchanchara": 850.0,
+                    "manhatan": 700.0,
+                    "cubata": 700.0,
+                    "shot medusa": 850.0,
+                    "screw driver": 750.0,
+                    "sangria": 950.0,
+                    "tinto verano": 750.0,
+                    "coctel barbie": 850.0,
+                    "blue lagoon": 700.0,
+                    "expresso martini": 800.0,
+                    "blow job": 850.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "habana club profundo": 400.0,
+                    "habana club cuban spiced": 450.0,
+                    "habana club smoky": 500.0,
+                    "habana club 7 annos": 400.0,
+                    "habana club seleccion de maestros": 950.0,
+                    "santiago de cuba 8 annos": 400.0,
+                    "santiago de cuba 11 annos": 700.0,
+                    "santiago de cuba 12 annos": 800.0,
+                    "don julio reposado": 1500.0,
+                    "jack daniels": 1500.0,
+                    "tequila monte la rosa dorado": 700.0,
+                    "tequila reina del sur flor salvaje": 750.0,
+                    "tequila olmeca reposado": 800.0,
+                    "tequila olmeca silver": 850.0,
+                    "tequila rose": 1000.0,
+                    "vodka grey goose": 800.0,
+                    "baileys": 900.0,
+                    "beefeater": 900.0,
+                    "tanqueray": 900.0
+                },
+                "beers":{
+                    "cerveza heineken": 450.0,
+                    "cerveza nacional": 350.0,
+                    "cerveza importada": 280.0
+                }
+            },
+            "water":{
+                "agua natural importada": 200.0,
+                "agua gaseada carci crespq": 300.0
+            },
+            "soft_drinks":{
+                "refresco cola": 250.0,
+                "refresco naranja": 250.0,
+                "refresco limon": 250.0,
+                "refresco 7 up": 280.0
+            },
+            "juices":{
+                "jugos naturales de frutas": 180.0 
+            },
+            "lemonade":{
+                "limonada natural": 400.0,
+                "limonada frape": 400.0,
+                "limonada frescura": 450.0
+            },
+            "energizante": 280.0,
+            "malta":{
+                "servicio de malteada": 200.0,
+                "malta bucanero": 350.0
+            },
+            "copas":{
+                "copa de vino tinto": 500.0,
+                "copa de vino blanco": 500.0
+            },
+            "coffees":{
+                "cafe expreso": 120.0,
+                "cafe cortado": 150.0,
+                "cafe capuchino": 200.0,
+                "cafe frapuchino": 450.0,
+                "cafe bombon": 400.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

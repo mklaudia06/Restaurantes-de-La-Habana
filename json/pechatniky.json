@@ -1,0 +1,122 @@
+{
+    "name": "Pechatniky",
+    "food_type": ["internacional"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 33",
+            "Street2":"Calle 22",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.117685,-82.4183925]
+    },
+    "phone_number": "50365341",
+    "schedule": {
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":"pechatniky",
+        "facebook":"Pechatniky | Havana"
+    },
+    "menu": {
+        "breakfast": {
+            "Desayuno pechatniky": 900.0
+        },
+        "started": {
+            "Croquetas de la casa": 950.0,
+            "Frituras de malanga": 820.0,
+            "Fajitas de pollo": 950.0,
+            "Tostones rellenos": 700.0,
+            "Garbanzo": 1000.0,
+            "Vegetales sarteados al carbon": 900.0,
+            "Ensalada vegetales": 700.0,
+            "Papas fritas": 800.0,
+            "Picadera pechatniky": 2900.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Baguette de atun": 950.0,
+            "Baguette jamon y queso": 750.0,
+            "Baguette de pollo": 780.0,
+            "Hamburguesa clasica": 750.0
+        },
+        "strong_dishes": {
+            "Pollo": 1050.0,
+            "Cerdo": 1800.0,
+            "Mariscos": 3000.0,
+            "Arroz frito": 1500.0,
+            "Pelmeni": 1100.0,
+            "Shawarma": 1000.0
+        },
+        "pizzas": {
+            "Pizza": 1050.0
+        },
+        "pastas": {
+            "Pastas": 1300.0
+        },
+        "desserts": {
+            "Tarta pechatniky": 590.0,
+            "icecream_flavors":{
+                "Copa 2 bolas": 320.0,
+                "Copa 3 bolas": 380.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Jamon": 250.0,
+            "Queso": 300.0,
+            "Pollo": 350.0,
+            "Huevo": 300.0,
+            "Atun": 500.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza nacional": 350.0,
+                    "Cerveza importada": 290.0
+                }
+            },
+            "water":{
+                "Agua natural": 170.0
+            },
+            "soft_drinks":{
+                "Refresco importando": 350.0,
+                "Refresco nacional": 250.0
+            },
+            "juices":{
+                "Jugo natural": 280.0,
+                "Jugo de lata": 350.0
+            },
+            "lemonade":null,
+            "Energizantes": 350.0,
+            "malta":{
+                "Malta": 330.0,
+                "Malteda": 420.0
+            },
+            "copas":null,
+            "coffees":{
+                "Expreso": 200.0,
+                "Cortado": 280.0,
+                "Capuchino": 350.0,
+                "Americano": 200.0,
+                "Pechatniky": 680.0,
+                "Te o infusion": 180.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

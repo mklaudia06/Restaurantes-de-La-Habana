@@ -1,0 +1,158 @@
+{
+    "name": "La ruta de Hemingway",
+    "food_type": ["mixta"],
+    "municipality": "Habana del Este",
+    "location": {
+        "address":{
+            "Street1":"Calle Real",
+            "Street2":"Victoria",
+            "Street3":"Marcos"
+        },
+        "coordinates_latitude_length" : [23.1670679,-82.2982551]
+    },
+    "phone_number": "50813470",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.7,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas de la casa": 500.0,
+            "Ceviche de pescado": 1300.0,
+            "Tostones rellenos": 1150.0,
+            "Eperlan de pescado": 1300.0,
+            "Garbanzos fritos": 1350.0,
+            "Ensalada fria": 1050.0,
+            "Brusquetas": 450.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pincho Pio": 2500.0,
+            "Bistec de cerdo a la campesina": 2400.0,
+            "Masas de cerdo a la campesina": 3200.0,
+            "Fricase de costilla": 3650.0,
+            "Fajas Ibericas": 4250.0,
+            "Pulpo a las brasas": 3500.0,
+            "Camaron a la mantequilla": 2900.0,
+            "Langosta al carbon": 3600.0,
+            "Rueda de pescado": 2700.0,
+            "Pescado entero": 3100.0,
+            "Chilindron de cordero": 3450.0,
+            "El Balsero": 3100.0,
+            "Tambor cubano": 3100.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 2000.0
+        },
+        "pastas": null,
+        "desserts": {
+            "Postre del dia": 750.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Viandas fritas": 300.0,
+            "Vianda con mojo": 300.0,
+            "Ensalada estacion": 400.0,
+            "Arroz blanco": 300.0,
+            "Arroz moro": 400.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Todos los cocteles": 450.0,
+                    "Sangria": 800.0,
+                    "Pina colada": 700.0
+                },
+                "bottles":{
+                    "Botella de vino": 3000.0
+                },
+                "drinks_with": {
+                    "Gin Tonic": 800.0,
+                    "Ron Barcelo Dorado": 400.0,
+                    "Brandy": 600.0,
+                    "Ginebra Tanqueray": 600.0,
+                    "Conac": 1000.0,
+                    "Habana Club 7 anos": 600.0,
+                    "Habana Club 3 anos": 300.0,
+                    "Habana Club Pacto Navio": 1200.0,
+                    "Habana Club Reserva": 350.0,
+                    "Habana Club Especial": 300.0,
+                    "Habana Club Seleccion del Maestro": 1300.0,
+                    "Jagermeifter": 700.0,
+                    "Legendario": 250.0,
+                    "Ron 15 anos": 1100.0,
+                    "Whiskey Pasportt": 400.0,
+                    "W. Black Label": 1000.0,
+                    "W. Double Black Label": 1800.0,
+                    "W. 15 anos": 1900.0,
+                    "W. Red Label": 800.0,
+                    "W. VAT 69": 350.0,
+                    "W. Black and White": 500.0,
+                    "Bucana": 1650.0,
+                    "Tequila Olmeca": 800.0,
+                    "Ginebra": 600.0
+
+                },
+                "beers":{
+                    "Cerveza nacional": 300.0,
+                    "Cerveza en lata importada": 250.0,
+                    "Cerveza Presidente": 300.0,
+                    "Cerveza Heineken": 400.0,
+                    "Cerveza Corona": 450.0
+                }
+            },
+            "water":{
+                "Agua natural": 250.0,
+                "Agua tonica": 700.0
+            },
+            "soft_drinks":{
+                "Refresco importado": 300.0
+            },
+            "juices":{
+                "Jugo en lata": 300.0,
+                "Jugo de fruta": 300.0,
+                "Batido de fruta": 420.0,
+                "Kermato": 500.0
+            },
+            "lemonade":{
+                "Limonada frappe": 450.0,
+                "Limonada frescura": 480.0
+            },
+            "Energizante": 300.0,
+            "malta":{
+                "Malta": 360.0,
+                "Malteada": 500.0
+            },
+            "copas":{
+                "Copa de vino": 650.0
+            },
+            "coffees":{
+                "Cafe Expresso": 250.0,
+                "Cafe americano": 250.0,
+                "Cafe chocolate": 300.0,
+                "Cafe cortado": 300.0,
+                "Cafe bombon": 370.0,
+                "Cafe con leche": 450.0,
+                "Capuchino": 450.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

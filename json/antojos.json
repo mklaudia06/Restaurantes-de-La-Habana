@@ -1,0 +1,127 @@
+{
+    "name": "Antojos",
+    "food_type": ["caribeña"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Callejon Espada",
+            "Street2":"Cuarteles",
+            "Street3":"Chacon"
+        },
+        "coordinates_latitude_length" : [23.1416085,-82.3577906]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.5,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Fritura de temporada": 950.0,
+            "Croquetas de la casa": 1700.0,
+            "Tostones campesinos": 750.0,
+            "Caldosa guajira": 1400.0,
+            "Ensalada campesina": 1800.0
+        },
+        "tacos":{
+            "Tacos": 2700.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Trozos de pollo a la mantequilla": 2950.0,
+            "Pollo grille": 2950.0,
+            "Costillas de cerdo barbacoa": 4300.0,
+            "Masas de cerdo frita": 3800.0,
+            "Lomo al carbon": 4500.0,
+            "Bistec de cerdo encebollado": 3550.0,
+            "Camarones al gusto": 3900.0,
+            "Pesca al carbon": 3950.0,
+            "Arroz a la chorrera": 3500.0,
+            "Pinchos antojos": 3700.0,
+            "Ropa vieja con platanitos maduros": 3150.0,
+            "Picadillo a la habanera": 2930.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "pizza_pasta_add":null,
+        "desserts": {
+            "Postres de la casa": 950.0,
+            "icecream_flavors":null
+        },
+        "side_dishes": {
+            "Crema de malanga": 1400.0,
+            "Vianda frita": 800.0,
+            "Potaje": 950.0,
+            "Arroz blanco": 800.0,
+            "Pan artesanal": 1050.0,
+            "Vegetales al carbon": 1400.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito antojos": 1280.0,
+                    "Ron collins": 1180.0,
+                    "Pinha colada": 1630.0,
+                    "Cuba libre": 1230.0,
+                    "Cubata": 1230.0,
+                    "Cubanito": 1380.0,
+                    "Canchanchara": 1150.0,
+                    "Daiquiri": 1250.0,
+                    "Havana special": 1180.0,
+                    "Gin tonic": 1450.0,
+                    "Bloody mary": 1500.0,
+                    "Negroni": 1550.0,
+                    "Martini": 1500.0,
+                    "Caipiroska": 1250.0,
+                    "Screwdriver": 1200.0,
+                    "Margarita": 1380.0,
+                    "Mary pickford": 1150.0,
+                    "Chelada": 900.0,
+                    "Michelada": 1100.0,
+                    "Michelada de la casa": 1200.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza": 800.0
+                }
+            },
+            "water":{
+                "Aguas naturales": 650.0,
+                "Aguas tonicas": 750.0
+            },
+            "soft_drinks":{
+                "Refrescos": 650.0
+            },
+            "juices":{
+                "Jugos naturales": 750.0
+            },
+            "lemonade":{
+                "Limonada": 900.0
+            },
+            "red bull":850.0,
+            "malta":"",
+            "copas":{
+                "Vino blanco": 1400.0,
+                "Vino tinto": 1450.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

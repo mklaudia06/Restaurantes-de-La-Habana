@@ -1,0 +1,218 @@
+{
+    "name": "Ole Ole",
+    "food_type": ["criolla"],
+    "municipality": "Cotorro",
+    "location": {
+        "address":{
+            "Street1":"71",
+            "Street2":"46",
+            "Street3":"48"
+        },
+        "coordinates_latitude_length" : [23.0436957,-82.2558677]
+    },
+    "phone_number": "54147124",
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":"oleole_oficial",
+        "facebook":"OleOle Bar-Restaurante-Cafetería"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "frituras de malanga": 450.0,
+            "chicharritas": 320.0,
+            "picadera": 1500.0,
+            "brocheta ole": 1200.0,
+            "croquetas ole ole": 500.0,
+            "tostones tradicionales": 450.0,
+            "ensalada mixta": 350.0,
+            "tostones atun": 1000.0,
+            "eperlan": 1000.0,
+            "coctel de camarones": 1350.0,
+            "baston de pollo": 900.0,
+            "entremes": 1000.0,
+            "picadera premium": 1800.0
+        },
+        "tacos":{
+            "tacos de res": 750.0,
+            "tacos de cerdo": 750.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "pollo frita": 1000.0,
+            "bistec de pollo grille": 900.0,
+            "bistec de pollo encebollado": 950.0,
+            "suprema pollo milanesa": 2200.0,
+            "pechuga grille": 1200.0,
+            "bistec de cerdo grille": 1600.0,
+            "bistec de cerdo encebollada": 1600.0,
+            "masa de cerdo frita": 2300.0,
+            "escalope de cerdo a la milanesa": 2300.0,
+            "solomillo cerdo": 2900.0,
+            "castilla de cerdo ahumada": 3000.0,
+            "chuleta cerdo grille": 2200.0,
+            "loma cerdo grille": 2100.0,
+            "filete de pescado a la grille": 1300.0,
+            "filete de pescado encebollado": 1500.0,
+            "pescado frito al plato": 1200.0,
+            "filete de pescado a la vizcaina": 1700.0,
+            "rueda de pescado marlin": 1650.0,
+            "lomo de pescado a la grille": 1600.0,
+            "lomo de pescado encebollado": 1700.0,
+            "lomo de pescado a la vizcaina": 1750.0,
+            "langosta a la grille": 2000.0,
+            "langosta enchilada": 2200.0,
+            "langosta al ajillo": 2470.0,
+            "mariscada": 4500.0,
+            "camaron enchilado": 2200.0,
+            "camaron al ajillo": 2200.0,
+            "camaron a la grille": 1800.0
+        },
+        "pizzas": {
+            "pizza napolitana gouda": 1100.0,
+            "pizza jamon gouda": 1280.0,
+            "pizza chorizos gouda": 1260.0,
+            "pizza doble queso gouda": 1420.0,
+            "pizza camarones gouda": 1800.0,
+            "pizza hawaiana gouda": 1400.0,
+            "pizza habanera gouda": 1790.0,
+            "pizza al tonno gouda": 1400.0,
+            "pizza jamon pinna gouda": 1500.0,
+            "pizza napolitana": 700.0,
+            "pizza jamon": 900.0,
+            "pizza chorizos": 900.0,
+            "pizza doble queso": 850.0,
+            "pizza camarones": 1600.0,
+            "pizza hawaiana": 1000.0,
+            "pizza habanera": 1400.0,
+            "pizza al tonno": 1280.0,
+            "pizza jamon pinna": 1300.0
+        },
+        "pastas": {
+            "espaguetis napolitanos queso gouda": 720.0,
+            "espaguetis jamon queso gouda": 900.0,
+            "espaguetis al pomodoro queso gouda": 750.0,
+            "espaguetis a la amatriciana queso gouda": 1250.0,
+            "espaguetis doble queso gouda": 1000.0,
+            "espaguetis de camaron queso gouda": 1430.0,
+            "espaguetis a la arabiata queso gouda": 770.0,
+            "espaguetis napolitanos": 600.0,
+            "espaguetis jamon": 800.0,
+            "espaguetis al pomodoro": 650.0,
+            "espaguetis a la amatriciana": 1100.0,
+            "espaguetis doble queso": 800.0,
+            "espaguetis de camaron": 1380.0,
+            "espaguetis a la arabiata": 670.0
+        },
+        "pizza_pasta_add":null,
+        "desserts": null,
+        "side_dishes": {
+            "arroz blanco": 120.0,
+            "arroz moro": 220.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "caipirinna": 450.0,
+                    "caipiroska": 700.0,
+                    "caipirisima": 500.0,
+                    "cubata": 500.0,
+                    "cuba libre": 700.0,
+                    "tequila sunrise": 450.0,
+                    "sex on the beach": 500.0,
+                    "cubanito": 500.0,
+                    "bloody mary": 450.0,
+                    "ron collins": 500.0,
+                    "margarita": 550.0,
+                    "screw driver": 750.0,
+                    "sangria": 1000.0,
+                    "long island": 1000.0,
+                    "blue island": 550.0,
+                    "tom collins": 500.0,
+                    "pinna colada": 650.0,
+                    "daiquiri": 450.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "tequila olmeca bla": 655.0,
+                    "tequila olmeca reposado": 700.0,
+                    "tequila olmeca dark chocolate": 460.0,
+                    "tequila rosa": 415.0,
+                    "ginebra beefeater": 340.0,
+                    "the famous grose": 545.0,
+                    "crema bayles": 570.0,
+                    "crema pattys os": 315.0,
+                    "vino tinto": 560.0,
+                    "vodka absolut": 400.0,
+                    "vodka amg": 270.0,
+                    "vodka veldevere": 270.0,
+                    "santiago extra seco": 350.0,
+                    "h.c cuban smoky": 550.0,
+                    "ron santiago 11 annos": 800.0,
+                    "habana club 7 annos annejo": 410.0,
+                    "santiago annejo tradicion": 360.0,
+                    "whisky red label": 725.0,
+                    "whisky jameson": 580.0,
+                    "whisky black label": 1365.0,
+                    "whisky vat 69": 435.0,
+                    "whisky clan campbell": 590.0,
+                    "whisky ballantine": 460.0,
+                    "whisky grants": 600.0,
+                    "brandy napoleon": 200.0,
+                    "brandy lecuivier": 220.0
+                },
+                "beers":{
+                    "cerveza bucanero max": 300.0,
+                    "cerveza bucanero roja": 300.0,
+                    "cerveza cristal extra": 280.0,
+                    "cerveza caiman": 210.0,
+                    "cerveza surenna": 210.0,
+                    "cerveza tangua": 210.0,
+                    "cerveza gierwalk": 210.0,
+                    "cerveza holandia": 210.0,
+                    "cerveza cristal bot": 300.0,
+                    "cerveza cristal verde": 300.0
+                }
+            },
+            "water":{
+                "agua chiquita": 280.0
+            },
+            "soft_drinks":{
+                "refrescos": 220.0
+            },
+            "energizantes":{
+                "energizante chacal": 280.0,
+                "energizante tigon": 210.0
+            },
+            "juices":{
+                "jugo cajita": 180.0
+            },
+            "lemonade":{
+                "limonada frape": 400.0
+            },
+            "red bull":null,
+            "malta":{
+                "malta licre": 300.0,
+                "malta hiper": 280.0
+            },
+            "copas":{
+                "copas vino": 600.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

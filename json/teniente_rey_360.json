@@ -1,0 +1,109 @@
+{
+    "name": "Teniente Rey 360",
+    "food_type": ["criolla"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Calle Teniente Rey",
+            "Street2":"Aguacate",
+            "Street3":"Villegas"
+        },
+        "coordinates_latitude_length" : [23.1359204,-82.3575487]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.6,
+    "social_media": {
+        "instagram":null,
+        "facebook":"Teniente Rey 360"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas": 400.0,
+            "Bolitas de queso": 500.0,
+            "Tostones rellenos": 600.0,
+            "Garbanzos fritos": 700.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pechuga de pollo": 1950.0,
+            "Fajitas de pechuga de pollo": 2000.0,
+            "Masas de cerdo": 1700.0,
+            "Fricase de cerdo": 1750.0,
+            "Ropa vieja": 1950.0,
+            "Coctel de camarones": 700.0,
+            "Coctel de langosta": 700.0,
+            "Langosta al ajillo o enchilada": 2500.0,
+            "Colas de langosta": 2600.0,
+            "Camarones a la orden (al ajillo o enchilado)": 2500.0,
+            "Camarones rebosados": 2800.0,
+            "Pulpo al ajillo o grille": 2700.0,
+            "Mariscada teniente rey": 2900.0,
+            "Filete de pescado": 2400.0,
+            "Picadillo a la cubana": 1500.0,
+            "Solomillo": 1900.0,
+            "Cazuelita teniente rey": 2900.0,
+            "Filete mignon": 3200.0,
+            "Punta de filete": 2900.0,
+            "Filete jhonvill": 3500.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "pizza_pasta_add":null,
+        "desserts": {
+            "Flan": 500.0,
+            "Torrejas": 400.0,
+            "icecream_flavors":null
+        },
+        "side_dishes": {
+            "Arroz": 200.0,
+            "Chatinos": 300.0,
+            "Yuca": 200.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza nacional enlatada": 360.0,
+                    "Cerveza nacional en botella": 460.0,
+                    "Cerveza importada": 460.0
+                }
+            },
+            "water":{
+                "Agua natural nacional": 250.0,
+                "Agua tonica": 450.0
+            },
+            "soft_drinks":{
+                "Refrescos nacionales": 380.0,
+                "Refrescos importados": 420.0
+            },
+            "juices":{
+                "Kermato": 500.0
+            },
+            "lemonade":null,
+            "red bull":"",
+            "malta":{
+                "Malta nacional": 420.0
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

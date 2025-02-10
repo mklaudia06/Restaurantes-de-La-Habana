@@ -1,0 +1,107 @@
+{
+    "name": "Ruta 66",
+    "food_type": ["criolla","hamburguesas","pizzas","pastas"],
+    "municipality": "Guanabacoa",
+    "location": {
+        "address":{
+            "Street1":"Calle 9",
+            "Street2":"Avenida Primera",
+            "Street3":"Avenida Tercera"
+        },
+        "coordinates_latitude_length" : [23.1347438,-82.3088818]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "09:30 pm",
+        "days_of_the_week": ["Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":"No oficial: Route 66"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "tostones rellenos de jamon y queso": 1090.0,
+            "tostones rellenos de bolognesa": 950.0,
+            "tostones rellenos de vegetales salteados y queso": 910.0,
+            "garbanzos fritos": 1900.0,
+            "ceviche de pescado": 1500.0,
+            "frituras de malanga": 595.0,
+            "croquetas": 490.0,
+            "brosquetas": 420.0,
+            "tamal": 400.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "lomo ahumado (con gratinado de queso)": 1850.0,
+            "lomo ahumado (con salsa de pinna)": 2000.0,
+            "super route 66 (cerdo)": 1965.0,
+            "castrol (cerdo)": 1255.0,
+            "texaco (cerdo)": 940.0,
+            "enchilado de camarones": 3300.0,
+            "camarones al ajillo": 2950.0,
+            "camarones en salsa de frutas": 2800.0,
+            "enchilado de pulpo": 2690.0,
+            "pulpo al ajillo": 2470.0,
+            "filete de pescado route 66 (a la plancha gratinado con queso y camaron)": 3550.0,
+            "monte toro a la francesa (a la plancha gratinado con queso)": 2400.0,
+            "filete de pescado en salsa de frutas": 2250.0,
+            "filete de pescado a la plancha": 1800.0,
+            "arroz frito especial route 66": 2065.0
+        },
+        "pizzas": {
+            "pizza de queso gouda": 850.0
+        },
+        "pastas": {
+            "lasagna queso gouda": 1420.0,
+            "spaghettis de queso gouda": 1100.0
+        }, 
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "arroz frito": 1280.0,
+            "arroz blanco": 200.0,
+            "pure de malanga": 335.0,
+            "ensalada mixta de estacion": 425.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "cerveza importada": 210.0
+                }
+            },
+            "water":{
+                "agua mineral": 190.0
+            },
+            "soft_drinks":{
+                "refrescos importados": 240.0
+            },
+            "juices":{
+                "jugos importados": 210.0
+            },
+            "lemonade":null,
+            "malta":{
+                "malta importada": 250.0
+            },
+            "copas":{
+                "vino tinto": 2200.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

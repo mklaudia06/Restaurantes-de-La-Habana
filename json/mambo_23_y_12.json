@@ -1,0 +1,285 @@
+{
+    "name": "Mambo 23 y 12",
+    "municipality": "Plaza de la Revolucion",
+    "food_type": ["mixta"],
+    "location": {
+        "address":{
+            "Street1":"Calle 23",
+            "Street2":"12",
+            "Street3":"14"
+        },
+        "coordinates_latitude_length" : [23.1264882,-82.4161287]
+    },
+    "phone_number": "",
+    "schedule": {
+        "opening": "11:30 am",
+        "closure": "11:30 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.1,
+    "social_media": {
+        "instagram":"mamborest",
+        "facebook":"MAMBO"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Pollito mambo": 990.0,
+            "Burrito": 1100.0,
+            "Quesadilla": 950.0,
+            "Fajitas de cerdo empanadas": 3680.0,
+            "Bolitas de queso": 1470.0,
+            "Croquetas de la casa": 1420.0,
+            "Brusquetas (tomate troceado, cebolla, ajo, cilantro, aceite de oliva, queso)": 1210.0,
+            "Camaron rebozado": 2050.0,
+            "Fajitas de pollo empanadas": 2200.0,
+            "Eperlan de pescado": 1940.0,
+            "Pica pica mambo": 3570.0,
+            "Garbanzos fritos": 1440.0,
+            "Ensalada fria jamon": 1210.0,
+            "Ensalada fria atun": 1260.0,
+            "Coctel de camaron": 1620.0,
+            "Ceviche de la casa": 2100.0
+        },
+        "tacos":{
+            "Tacos de la casa": 1630.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa de pollo": 1345.0,
+            "Hamburguesa de cerdo": 1365.0,
+            "Hamburguesa de res": 1470.0,
+            "Super hamburguesa mambo": 2100.0,
+            "Bocata de jamon pierna": 1260.0,
+            "Bocata de jamon y queso": 1240.0,
+            "Bocata cubanita": 1365.0,
+            "Bocata de atun": 1360.0,
+            "Bocata de cerdo asado": 1550.0,
+            "Bocata de pechuga de pollo": 1525.0,
+            "Pan baguette": 680.0
+        },
+        "strong_dishes": {
+            "Fajitas de pollo salteadas con vegetales y champinhones": 1800.0,
+            "Pollo grille": 2120.0,
+            "Bistec uruguayo de cerdo": 2500.0,
+            "Bistec de cerdo encebollado": 1650.0,
+            "Gordon blue": 2170.0,
+            "Ropa vieja": 2160.0,
+            "Vaca frita": 1950.0,
+            "Pescado empanizado": 1860.0,
+            "Langosta de la casa": 3480.0,
+            "Camaron de la casa": 1620.0,
+            "Pescado grille": 1550.0,
+            "Canciller": 2700.0,
+            "Bistec de palomilla": 2290.0,
+            "Grillada mar y tierra": 2470.0,
+            "Tacos de marisco": 2000.0,
+            "Rissotto de carne": 2420.0,
+            "Paella de marisco 2 pax": 3890.0,
+            "Paella de carne 2 pax": 3570.0,
+            "Paella carne 1 pax": 2050.0,
+            "Paella de mariscos 1 pax": 2310.0,
+            "Rissoto de mariscos": 2835.0,
+            "Ensalada de pollo": 1650.0,
+            "Ensalada de vegetal": 700.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 1680.0
+        },
+        "pastas": {
+            "Pasta napole": 1400.0,
+            "Al pesto": 1420.0,
+            "Pasta bolonhesa": 1890.0,
+            "Lasanha del dia": 2420.0,
+            "Vegetariano (vegetales salteados, tomate natural y queso)": 1420.0,
+            "Al ajillo": 1420.0,
+            "Amatriciana": 1680.0,
+            "Pasta carbonara": 1890.0,
+            "Pasta frutti di mare": 3780.0
+        },
+        "pizza_pasta_add":null,
+        "desserts": {
+            "Postre del dia": 1100.0,
+            "icecream_flavors":{
+                "Suero de helado": 1700.0
+            }
+        },
+        "side_dishes": {
+            "Arroz blanco": 475.0,
+            "Arroz moro": 575.0,
+            "Vegetales salteados": 475.0,
+            "Pure de temporada": 575.0,
+            "Vianda frita": 420.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Servicio de michelada": 150.0,
+                    "Cubetazo mambo": 5800.0,
+                    "San francisco": 890.0,
+                    "Caipirinha": 630.0,
+                    "Negroni": 1050.0,
+                    "Caipiroska": 680.0,
+                    "Screw driver": 575.0,
+                    "Cuba libre": 800.0,
+                    "Cubata": 900.0,
+                    "Cubanito": 950.0,
+                    "Mojito": 1100.0,
+                    "Que rico mambo": 950.0,
+                    "Mojito de frutas": 1250.0,
+                    "Pinha colada": 1300.0,
+                    "Que rico mambo grey goose": 1750.0,
+                    "Daiquiri natural": 850.0,
+                    "Caipiroska con grey goose": 1840.0,
+                    "Daiquiri de frutas": 1000.0,
+                    "Gin tonic": 1650.0,
+                    "Sangria": 800.0,
+                    "Margarita": 1200.0,
+                    "Martini coctel": 630.0,
+                    "Bloody mary": 1000.0,
+                    "Canchanchara": 700.0,
+                    "Aperol spritz": 2625.0,
+                    "Mimosa": 735.0,
+                    "Servicio de coctel": 200.0,
+                    "Caipirisima": 770.0,
+                    "Servicio de gin tonic": 800.0,
+                    "Servicio de vodka tonic": 800.0,
+                    "Vodka tonic": 1650.0,
+                    "Tinto de verano": 800.0,
+                    "Old parr 12": 1950.0,
+                    "Buchanan's 12": 3200.0,
+                    "Jack daniels": 1650.0,
+                    "Grants": 900.0,
+                    "Grant's triple woods": 650.0,
+                    "Clan macgregor": 500.0,
+                    "J&b": 1260.0,
+                    "Ballantines": 1150.0,
+                    "Chivas regal 12": 2200.0,
+                    "The glenlivest": 1850.0,
+                    "Johnnie walker black label": 2550.0,
+                    "Red label": 1200.0,
+                    "Johnnie walker ": 750.0,
+                    "Jamesson": 1300.0,
+                    "Jack daniel de sabor": 1350.0,
+                    "Black and whie": 750.0,
+                    "Clan campbell": 1130.0,
+                    "Campari": 1470.0,
+                    "Extra dry": 360.0,
+                    "Blanco": 360.0,
+                    "Rosso": 360.0,
+                    "Tito's": 1350.0,
+                    "Grey goose": 3350.0,
+                    "Ciroc": 2900.0,
+                    "Stolichnaya": 750.0,
+                    "Absolut": 1200.0,
+                    "Master gin pink": 900.0,
+                    "Master ginebra": 800.0,
+                    "Gordons": 800.0,
+                    "Mg rose": 900.0,
+                    "Tanqueray": 1350.0,
+                    "Tanqueray ten": 2700.0,
+                    "Beefeater": 900.0,
+                    "Mg": 800.0,
+                    "Bombay": 1950.0,
+                    "1800 cristalino": 7000.0,
+                    "Olmeca reposado": 1200.0,
+                    "Tequila rose": 2900.0,
+                    "Amarula": 1170.0,
+                    "Aperol": 1500.0,
+                    "Licor 43": 1500.0,
+                    "Jagermeifer": 850.0,
+                    "Anis del mono dulce": 110000.0,
+                    "Anis del mono seco": 1100.0,
+                    "Baileys": 1400.0,
+                    "Sambuca": 850.0,
+                    "Limoncello": 860.0,
+                    "Frangelico": 3600.0,
+                    "Amaretto": 560.0 
+                },
+                "bottles":{
+                    "Botella vino blanco vinha esmeralda": 5500.0,
+                    "Botella vino blanco celeste": 4000.0,
+                    "Botella vino blanco casillero del diablo": 5500.0,
+                    "Botella vino rosado acantus": 4000.0,
+                    "Botella vino tinto celeste crianza": 4000.0,
+                    "Botella vino tinto otonhal reserva": 4000.0,
+                    "Botella vino tinto sangre de toro": 4000.0,
+                    "Botella cava mistingett": 2500.0
+                },
+                "drinks_with": {
+                    "Ron cubay extra anhejo": 3150.0,
+                    "Ron cubay ectra viejo": 2625.0,
+                    "Ron pacto navio": 2500.0,
+                    "Habana club spiced": 980.0,
+                    "Ron barcelo gran anhejo": 525.0,
+                    "Habana club 3 anhos": 430.0,
+                    "Habana club especial": 380.0,
+                    "Habana club reserva": 430.0,
+                    "Habana club ritual": 420.0,
+                    "Habana club 7 anhos": 950.0,
+                    "Habana club seleccion de maestros": 2800.0,
+                    "Santiago 8 anhos": 1000.0,
+                    "Santiago 11 anhos": 1900.0,
+                    "Santiago 12 anhos": 2150.0,
+                    "Habana club 7 anhos edicion limitada": 790.0,
+                    "Black tears super dry": 290.0,
+                    "Habana club 15 anhos": 2625.0,
+                    "Torres 5": 500.0,
+                    "Torres 10": 700.0,
+                    "Torres 15": 1000.0,
+                    "Torres 20": 1500.0
+                },
+                "beers":{
+                    "Cerveza nacional de botella": 730.0,
+                    "Cerveza importada de botella": 730.0,
+                    "Cerveza importada de lata": 470.0
+                }
+            },
+            "water":{
+                "Agua nacional": 320.0,
+                "Agua gaseada importada": 850.0,
+                "Agua tonica importada": 750.0
+            },
+            "soft_drinks":{
+                "Refresco importado": 380.0
+            },
+            "juices":{
+                "Jugos mixtos de cajitas 200 ml": 420.0,
+                "Batidos de frutas": 580.0,
+                "Jugos naturales del dia": 450.0
+            },
+            "lemonade":{
+                "Limonada natural": 650.0,
+                "Limonada frappe": 680.0,
+                "Limonada con hierba buena": 680.0
+            },
+            "Bebida energetica": 630.0,
+            "malta":{
+                "Malta importada": 580.0,
+                "Malteada": 800.0
+            },
+            "copas":{
+                "Copa vino blanco": 850.0,
+                "Copa vino tinto": 850.0
+            },
+            "coffees":{
+                "Cafe expreso": 260.0,
+                "Cafe cortado": 275.0,
+                "Cafe americano": 365.0,
+                "Carajillo": 420.0,
+                "Cafe bombon": 630.0,
+                "Frapuchino": 525.0,
+                "Cafe con leche": 525.0,
+                "Cafe capuchino": 575.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

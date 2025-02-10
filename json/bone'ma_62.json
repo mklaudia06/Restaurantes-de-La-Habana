@@ -1,0 +1,197 @@
+{
+    "name": "Bone'Ma 62",
+    "food_type": ["turca","internacional","cocteleria","italiana"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Blvd. de San Rafael",
+            "Street2":"Consulado",
+            "Street3":"P. de Marti"
+        },
+        "coordinates_latitude_length" : [23.1391599,-82.381977]
+    },
+    "phone_number": "78602134",
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":"bonema_62",
+        "facebook":"Bone Ma 62"
+    },
+    "menu": {
+        "breakfast": {
+            "Waffles, nutella, queso crema, mermelada, miel y frutas": 1900.0,
+            "Huevos al gusto, pan, mantequilla, mermelada, frutas de temporada, jugo o cafe": 2100.0,
+            "Huevos al gusto, pan, jamon, queso, mantequilla, jugo o cafe": 2300.0
+        },
+        "started": {
+            "Papas fritas": 1050.0,
+            "Falafel": 1050.0,
+            "Ensalada mixta": 950.0,
+            "Coban salata": 1200.0,
+            "Caprese": 1450.0,
+            "Ensalada nizarda": 1800.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich de vegetales": 1400.0,
+            "Sandwich de jamon y queso": 1650.0,
+            "Sandwich de res": 1800.0,
+            "Sandwich de atun": 1700.0,
+            "Sandwich de jamon serrano": 2250.0,
+            "Hamburguesa natural smash": 2150.0,
+            "Hamburguesa de falafel": 1900.0,
+            "Hamburguesa smash con aguacate": 2250.0,
+            "Hamburguesa smash con bacon y huevo frito": 2500.0,
+            "Doner kebab (pan)": 1700.0
+        },
+        "strong_dishes": {
+            "Plato de kofte de res": 2500.0,
+            "Durum kebab (tortilla)": 1750.0,
+            "Doner falafel": 1300.0,
+            "Durum kofte": 1750.0,
+            "Plato de doner kebab": 2300.0,
+            "Iskender kebab": 2400.0
+        },
+        "pizzas": {
+            "Pizza margarita": 2000.0,
+            "Pizza friarielli y salchicha italiana": 3000.0,
+            "Pizza funghi": 2200.0,
+            "Pizza vegetariana": 2300.0,
+            "Pizza 4 quesos": 2600.0,
+            "Pizza hawaiana": 2600.0,
+            "Pizza pepperoni / diabola": 2700.0,
+            "Pizza de salami": 2800.0,
+            "Pizza de jamon serrano, rucula y parmesano": 3200.0,
+            "Pizza de atun y cebolla": 2600.0
+        },
+        "pastas": {
+            "Pasta napolitana": 1900.0,
+            "Pasta arrabiata": 2000.0,
+            "Pasta pesto": 2200.0,
+            "Pasta bolognesa": 2800.0,
+            "Pasta carbonara": 2650.0
+        },
+        "desserts": {
+            "Flan": 700.0,
+            "Cheesecake": 1150.0,
+            "icecream_flavors":{
+                "Copa de helado": 900.0,
+                "Copa lolita": 1050.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Sopa de lentejas": 1350.0
+        },
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Ayran": 500.0,
+                    "Ginger ale": 700.0,
+                    "Chelada (servicio)": 250.0,
+                    "Michelada (servicio)": 300.0,
+                    "Cuba libre": 1500.0,
+                    "Mojito": 1600.0,
+                    "Gin basil smash": 1700.0,
+                    "Caipirinha": 1400.0,
+                    "Strawberry caipi": 1550.0,
+                    "Daiquiri": 1500.0,
+                    "Strawberry daiquiri": 1600.0,
+                    "Pinha colada": 1700.0,
+                    "Strawberry colada": 1800.0,
+                    "Margarita": 1600.0,
+                    "Whisky sour": 1650.0,
+                    "Espresso martini": 1650.0,
+                    "Sangria": 1500.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Yeni raki": 1300.0,
+                    "Aperol spritz": 1700.0,
+                    "Campari spritz": 1700.0,
+                    "Campari soda": 1600.0,
+                    "Havana club anhejo 3 anhos ron": 800.0,
+                    "Havana club anhejo especial ron": 1050.0,
+                    "Havana club anhejo reserva ron": 1100.0,
+                    "Havana club anhejo 7 anhos ron": 900.0,
+                    "Ron santiago anhejo ron": 1200.0,
+                    "Ron santiago 8 anhos ron": 1650.0,
+                    "Ron santiago 11 anhos ron": 2200.0,
+                    "Seleccion de maestros ron": 1800.0,
+                    "Olmeca blanco tequila": 750.0,
+                    "Olmeca reposado tequila": 850.0,
+                    "Don ramon punta plateau tequila": 1050.0,
+                    "Don ramon punta dorada tequila": 1150.0,
+                    "Don julio reposado tequila": 1500.0,
+                    "Baileys licores & cremas": 1100.0,
+                    "Jagermeister licores & cremas": 1800.0,
+                    "Beefeater gin tonic": 1500.0,
+                    "Gordons gin tonic": 1500.0,
+                    "Tanqueray gin tonic": 1600.0,
+                    "Tanqueray 10 gin tonic": 1800.0,
+                    "Gin mare gin tonic": 1950.0,
+                    "Malfy gin tonic": 2000.0,
+                    "Botanist gin tonic": 2100.0,
+                    "London no. 1 gin tonic": 1900.0,
+                    "Jameson whisky": 1400.0,
+                    "Ballantine's whisky": 1100.0,
+                    "Ballantine's 12 whisky": 1400.0,
+                    "Jack daniels whisky": 1650.0,
+                    "Johnnie walker red label whisky": 1400.0,
+                    "Johnnie walker black label whisky": 1600.0,
+                    "Chivas regal 12 anhos whisky": 1500.0,
+                    "Glenlivet 15 whisky": 1800.0,
+                    "Bruichladdich whisky": 1900.0,
+                    "Highland park whisky": 2250.0,
+                    "Laphroaig whisky": 2450.0,
+                    "Woodford reserve whisky": 2250.0
+                },
+                "beers":{
+                    "Cerveza cristal": 600.0,
+                    "Cerveza heineken": 750.0,
+                    "Cerveza corona": 800.0
+                }
+            },
+            "water":null,
+            "soft_drinks":{
+                "Coca cola": 800.0,
+                "Coca cola zero": 800.0,
+                "Sprite": 800.0
+            },
+            "juices":{
+                "Jugo de fruta nat.": 600.0
+            },
+            "lemonade":{
+                "Limonada natural": 500.0,
+                "Limonada frappe": 550.0
+            },
+            "Energy drink": 850.0,
+            "copas":{
+                "Vino tinto": 950.0,
+                "Vino blanco": 950.0
+            },
+            "coffees":{
+                "Te": 400.0,
+                "Cafe expreso": 380.0,
+                "Espresso macchiato (cortado)": 400.0,
+                "Americano": 420.0,
+                "Cappuccino": 650.0,
+                "Cafe con leche": 700.0,
+                "Leche con chocolate": 700.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

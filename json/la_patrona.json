@@ -1,0 +1,87 @@
+{
+    "name": "La Patrona",
+    "food_type": ["criolla","italiana"],
+    "municipality": "San Miguel del Padron",
+    "location": {
+        "address":{
+            "Street1":"Calzada de Guines",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.086645, -82.329515]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "hamburguesa clasica": 500.0,
+            "hamburguesa sencilla": 700.0,
+            "hamburguesa grosera": 1200.0,
+            "hamburguesa patrona": 1000.0
+        },
+        "strong_dishes": {
+            "escalope de cerdo": 1800.0,
+            "bistec de cerdo": 1600.0,
+            "arroz frito": 1000.0,
+            "bistec uruguayo": 2600.0,
+            "ropa vieja": 1400.0
+        },
+        "pizzas": {
+            "pizza La Patrona": 1800.0
+        },
+        "pastas": {
+            "lasaña": 1250.0,
+            "canelones": 1100.0,
+            "espaguetti carbonara": 15000.0
+        },
+        "desserts": {
+            "flan": 200.0,
+            "icecream_flavors":{
+                "copa lolita": 400.0,
+                "cesta helado": 500.0,
+                "tres gracias": 300.0,
+                "suero helado": 350.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":null,
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "jugos": 100.0,
+                "batidos": 300.0
+            },
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "cafe express": 150.0,
+                "cafe con crema": 180.0,
+                "cafe La Patrona": 250.0,
+                "frapuchino": 250.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

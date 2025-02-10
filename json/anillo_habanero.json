@@ -1,0 +1,129 @@
+{
+    "name": "Anillo Habanero",
+    "food_type": ["criolla","pizzas","cocteles","pastas"],
+    "municipality": "Guanabacoa",
+    "location": {
+        "address":{
+            "Street1":"Primer Anillo de La Habana",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0972984,-82.2667668]
+    },
+    "phone_number": "52042710",
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.5,
+    "social_media": {
+        "instagram":"anillohabanerooficial",
+        "facebook":"Anillo Habanero"
+    },
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "picadera anillo": 3000.0,
+            "tacos de vegetales": 600.0,
+            "croquetas habaneras": 400.0,
+            "nachos, salsa rosa y guacamole": 400.0,
+            "brochetas": 1300.0,
+            "coctel de camarones": 2000.0,
+            "frituras": 300.0,
+            "tostones rellenos": 550.0
+        },
+        "tacos":{
+            "tacos de pollo": 800.0
+        },
+        "strong_dishes": {
+            "lomo ahumado": 2000.0,
+            "chuletas de cerdo": 3000.0,
+            "ropa vieja": 3000.0,
+            "vaca frita": 3000.0,
+            "camarones enchilados": 3500.0,
+            "camarones al ajillo": 3500.0
+        },
+        "pizzas": {
+            "pizza napolitana": 800.0
+        },
+        "pizza_pasta_add":null,
+        "side_dishes":null,
+        "pastas": {
+            "spaghettis napoles": 850.0
+        },
+        "desserts": {
+            "tarta de vainilla": 750.0,
+            "cheesecake de limon": 750.0,
+            "coctel de frutas importadas": 350.0,
+            "icecream_flavors":null
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "michelada": 600.0,
+                    "margarita": 800.0,
+                    "caipiroska": 800.0,
+                    "cocteles analcoholicos": 500.0,
+                    "caipirisima": 800.0,
+                    "vodka tonic": 900.0,
+                    "screwdriver": 800.0,
+                    "gin tonic": 900.0,
+                    "agua marina": 800.0,
+                    "cancha": 800.0,
+                    "tinto de verano": 800.0,
+                    "daiquiri": 800.0,
+                    "chelada": 450.0,
+                    "pinna colada": 1000.0,
+                    "sangria": 1000.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "trago jonny walker": 500.0,
+                    "william lawsons": 350.0,
+                    "lyubov vodka": 200.0
+
+                },
+                "beers":{
+                    "cerveza nacional": 350.0,
+                    "cerveza importada": 300.0
+                }
+            },
+            "water":{
+                "agua natural": 200.0
+            },
+            "soft_drinks":{
+                "pepsi refresco gaseado": 400.0,
+                "refrescos importados": 300.0
+            },
+            "juices":{
+                "jugos naturales": 250.0
+            },
+            "lemonade":{
+                "limonada frappe": 250.0
+            },
+            "energizantes importados": 500.0,
+            "red bull":null,
+            "kermato": 700.0,
+            "malta":{
+                "maltas importadas": 320.0
+            },
+            "copas":null,
+            "coffees":{
+                "expresso": 100.0,
+                "cortadito": 200.0,
+                "capuchino": 250.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

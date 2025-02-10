@@ -1,0 +1,172 @@
+{
+    "name": "5 Esquinas trattoria",
+    "municipality": "Habana Vieja",
+    "food_type": ["mixta"],
+    "location": {
+        "address":{
+            "Street1":"Habana 104",
+            "Street2":"cuarteles",
+            "Street3":null
+        },
+        "coordinates_latitude_length":[23.1405817,-82.3565292]
+    },
+    "phone_number": null,
+    "schedule":{
+        "opening": "08:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "quality":null,
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Focaccia de la casa": 1200.0,
+            "Cesta de panecillos": 300.0,
+            "Combinacion de francoise": 3000.0,
+            "Brusqueta mixta": 1200.0,
+            "Ensalada de pulpo y vegetales en pesto de hierbabuena": 2500.0,
+            "Croquetas de la casa": 1200.0,
+            "Tabla de jamon serrano y salami al olivo": 6000.0,
+            "Carpaccio de res al parmesano y alcaparra": 2500.0
+        },
+        "tacos":null,
+        "pizza_pasta_add":null,        
+        "strong_dishes":{
+            "Solomillo de cerdo": 3900.0,
+            "Filete de res a la milanesa": 4500.0,
+            "Filete de res a la pimienta verde": 4500.0,
+            "Filete de pescado en salsa verde": 3500.0,
+            "Suprema de pescado en limon": 3500.0,
+            "Filete de pescado a la milanesa": 3500.0,
+            "Camarones a su gusto": 4500.0
+        },
+        "pizzas": {
+            "Pizza margarita": 2200.0,
+            "Pizza marinara": 2000.0,
+            "Pizza 4 estaciones": 2500.0,
+            "Pizza charcuteria": 2700.0,
+            "Pizza napolitana": 2600.0,
+            "Pizza calzone": 2700.0,
+            "Pizza gultosa": 3200.0,
+            "Pizza 5 esquinas": 2800.0,
+            "Pizza de pepperoni": 2800.0
+        },
+        "pastas": {
+            "Lasagna de mejillones y perejil": 3000.0,
+            "Lasagna de mariscos": 3500.0,
+            "Lasagna de frutos secos y judia blanca": 3000.0,
+            "Lasagna a la bolognesa": 3000.0,
+            "Nhoquis a los 4 quesos": 3000.0,
+            "Rabiolis a la mantequilla y ajos": 2800.0,
+            "Rabiolis al pesto": 2800.0,
+            "Rabiolis a la bolognesa": 2800.0,
+            "Berengena palmesana": 2800.0,
+            "Risotto con hongos": 3500.0,
+            "Risotto marinero": 3500.0,
+            "Risotto 5 esquinas": 3500.0
+        },
+        "desserts": {
+            "Tiramisu de la casa": 800.0,
+            "Cheesecake": 800.0,
+            "Selva negra": 800.0,
+            "icecream_flavors":null
+        },
+        "side_dishes": {
+            "Ensalada griega": 2000.0,
+            "Ensalada cesar": 2000.0,
+            "Ensalada de vegetales frescos": 1000.0,
+            "Ensalada caprese": 2000.0,
+            "Sopa de verduras": 1200.0,
+            "Crema de quewso azul con frutas confitadas": 1600.0,
+            "Gaspacho": 1500.0,
+            "Sopa de vegetales y mariscos": 2000.0,
+            "Tomate": 2200.0,
+            "Pesto a la genovesa": 2500.0,
+            "Ajo, aceite de oliva y peperonchini": 2500.0,
+            "Alfredo": 2600.0,
+            "Sorrentina": 2500.0,
+            "Arrabiata": 2500.0,
+            "Amatriciana": 2600.0,
+            "Bolognesa": 2700.0,
+            "Carbonara": 2700.0,
+            "Mariscos": 3200.0,
+            "Salsa puttanesca": 2800.0
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 1200.0,
+                    "Pinha colada": 1200.0,
+                    "Daiquiri": 1200.0,
+                    "Habana special": 1200.0,
+                    "Cuba libre": 1200.0,
+                    "Cubata": 1400.0,
+                    "Caipirinha": 1200.0,
+                    "Caipiroska": 1200.0,
+                    "Sangria": 1400.0,
+                    "Tinto de verano": 1400.0,
+                    "Gin tonic": 1600.0,
+                    "Vodka tonic": 1600.0,
+                    "Cubanito": 1200.0,
+                    "Bloody mary": 1200.0,
+                    "Margarita": 1200.0,
+                    "Michelada nacional": 900.0,
+                    "Michelada importada": 800.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cervezas nacionales": 600.0,
+                    "Cervezas importadas": 550.0
+                }
+            },
+            "water":{
+                "Agua natural nacional": 400.0,
+                "Agua gaseada nacional": 400.0,
+                "Agua gaseada importada": 650.0,
+                "Agua tonica nacional": 400.0,
+                "Agua tonica importada": 600.0
+            },
+            "soft_drinks":{
+                "Refrescos importados": 500.0
+            },
+            "juices":{
+                "Jugos naturales": 400.0
+            },
+            "lemonade":{
+                "Limonada natural": 500.0,
+                "Limoonada frappe": 500.0
+            },
+            "copas":{
+                "Copa de vino tinto": 1200.0,
+                "Copa de vino blanco": 1200.0
+            },
+            "coffees":{
+                "Cafe expresso": 300.0,
+                "Cafe americano": 350.0,
+                "Capuccino": 350.0,
+                "Cafe cortado": 350.0,
+                "Cafe con leche": 500.0,
+                "Cafe carajillo": 800.0,
+                "Cafe rocio de gallo": 700.0,
+                "Te": 300.0
+            }
+        }
+        
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+    
+}

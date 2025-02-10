@@ -1,0 +1,90 @@
+{
+    "name": "Delicia de la mama",
+    "food_type": ["mixta"],
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address":{
+            "Street1":"Calle 19",
+            "Street2":"C",
+            "Street3":"D"
+        },
+        "coordinates_latitude_length" : [23.135531, -82.392925]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Fritura de malanga": 550.0,
+            "Croqueta de jamon": 850.0,
+            "Tostada de mantequilla": 350.0,
+            "Vianda frita": 450.0,
+            "Estaciones de la mama": 850.0,
+            "Fajitas de la mama con salsa x0": 750.0,
+            "Ensalada de la mama (jamon, queso, chorizo y croqueta)": 2500.0,
+            "Ensalada de la mama (jamon, queso, chorizo)": 2000.0,
+            "Alitas de pollo": 950.0,
+            "Albondigas": 950.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa sencilla": 800.0,
+            "Hamburguesa de jamon": 1050.0,
+            "Hamburguesa de queso gouda": 1150.0,
+            "Hamburguesa de queso gouda y jamon": 1250.0,
+            "Pan con queso gouda": 700.0,
+            "Pan con jamon y queso gouda": 850.0,
+            "Pan con lomo": 950.0,
+            "Pan con bistec": 980.0,
+            "Pan con atun": 1000.0
+        },
+        "strong_dishes": {
+            "Pollo frito": 1550.0,
+            "Pollo ahumado": 1550.0,
+            "Pechuga": 1650.0,
+            "Pollo gordon blue": 1800.0,
+            "Lomo ahumado": 1550.0,
+            "Chuleta ahumada": 1800.0,
+            "Bistec de cerdo": 1550.0,
+            "Fricase de cerdo": 1750.0,
+            "Fricase de res": 2300.0,
+            "Filete de pescado": 1950.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "pizza_pasta_add":null,
+        "desserts": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":null,
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "Cafe": 150.0,
+                "Cafe con leche": 450.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+
+}

@@ -1,0 +1,119 @@
+{
+    "name": "Ranchon Don Martin",
+    "food_type": ["cubana"],
+    "municipality": "La Lisa",
+    "location": {
+        "address":{
+            "Street1":"198",
+            "Street2":"45",
+            "Street3":"37"
+        },
+        "coordinates_latitude_length" : [23.0673448,-82.450762]
+    },
+    "phone_number":"72677049",
+    "schedule": {
+        "opening": "11:30 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.7,
+    "social_media": {
+        "instagram":"ranchondonmartin",
+        "facebook":"Ranchon Don Martin"
+    },
+    "menu": {
+        "breakfast": null,
+        "tacos":null,
+        "started": {
+            "Ensalada Fria": 400,
+            "Coctel de Camarones": 950,
+            "Fritura de Malanga": 470,
+            "Toston con mojo": 380,
+            "Chicharritas": 370,
+            "Papa frita": 700,
+            "Toston Relleno": 470
+        },
+        "hamburgers_and_sandwichs": {
+            "Pan con Hamburguesa": 900,
+            "Pan con Hamburguesa, Jamon y Queso": 1280
+        },
+        "strong_dishes": {
+            "Pechuga grille": 1440,
+            "Pechuga empanada": 1530,
+            "Pechuga al graten": 1520,
+            "Pechuga a la reina": 1580,
+            "Gordon Blue": 1780,
+            "Masa frita de Cerdo": 2030,
+            "Fricase de cerdo": 2030,
+            "Bistec de Cerdo Grille": 1400,
+            "Bistec de Cerdo Uruguayo": 2050,
+            "Bistec de Cerdo Empanado": 1600,
+            "Bistec de Cerdo al graten": 1600,
+            "Bistec de Cerdo a la reina": 1700,
+            "Vaca Frita": 2820,
+            "Ropa Vieja": 2850,
+            "Camaron Enchilado": 2000,
+            "Camaron al ajillo": 2000,
+            "Camaron Rebosado": 2100,
+            "Langosta al ajillo": 3600,
+            "Langosta Enchilado": 3650,
+            "Filete de Pescado Grille": 1600,
+            "Filete de Pescado Empanado": 1800,
+            "Filete de pescado al graten": 1800,
+            "Canciller": 2000,
+            "Filete Don Martin": 2450,
+            "Chilindron de Cordero": 1810
+        },
+        "pizzas": null,
+        "pastas": {
+            "Espaguetis": 840
+        },
+        "desserts": {
+            "Flan": 350,
+            "icecream_flavors":{
+                "Batido de Helado": 450
+            }
+        },
+        "pizza_pasta_add": {
+            "Jamon": 250,
+            "Queso Gouda": 300,
+            "agrego de camarones": 800,
+            "Pizza": 860
+        },
+        "side_dishes": {
+            "Arroz Moro": 180,
+            "Arroz Blanco": 100
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":null,
+            "water":{
+                "Agua": 180
+            },
+            "soft_drinks":{
+                "Refresco de Lata": 220,
+                "Refresco Manzanita": 290,
+                "Seven-up": 240,
+                "Pinita": 225
+            },
+            "juices":{
+                "Jugo de Caja": 175
+            },
+            "lemonade":null,
+            "Energizante": 245,
+            "malta":{
+                "Malta Caribia": 230
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

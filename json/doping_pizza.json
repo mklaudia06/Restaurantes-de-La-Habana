@@ -1,0 +1,98 @@
+{
+    "name": "Doping pizza",
+    "food_type": ["italiana"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Calle Zanja",
+            "Street2":"Calle San Francisco",
+            "Street3":"Calle Espada"
+        },
+        "coordinates_latitude_length" : [23.1337128,-82.3782084]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.1,
+    "social_media": {
+        "instagram":"dopingpizzas",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Ensalada fria natural": 500.0,
+            "Ensalada fria de jamon": 600.0,
+            "Ensalada fria de atun": 700.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": null,
+        "pizzas": {
+            "Pizza napolitana": 1000.0,
+            "Pizza de jamon": 1100.0,
+            "Pizza hawaiana": 1300.0,
+            "Pizza de atun": 1300.0,
+            "Pizza de chorizo": 1400.0,
+            "Pizza de bacon": 1400.0,
+            "Pizza doping extreme": 1500.0
+        },
+        "pastas": {
+            "Spaghetti napoles": 900.0,
+            "Lasanha": 1300.0
+        },
+        "desserts": {
+            "Paletica de helado clasica": 150.0
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Queso": 450.0,
+            "Jamon": 350.0,
+            "Chorizo": 350.0,
+            "Atun": 400.0,
+            "Cebolla": 200.0,
+            "Pimiento": 200.0,
+            "Aceituna": 300.0,
+            "Bacon": 400.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza": 300.0
+                }
+            },
+            "water":{
+                "Agua": 150.0
+            },
+            "soft_drinks":{
+                "Refresco": 250.0
+            },
+            "juices":{
+                "Jugos": 300.0
+            },
+            "lemonade":null,
+            "red bull":null,
+            "malta":{
+                "Malta": 300.0,
+                "Malteada": 650.0
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

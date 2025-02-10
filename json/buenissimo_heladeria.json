@@ -1,0 +1,66 @@
+{
+    "name": "Buenissimo heladeria",
+    "food_type": ["cubana","italiana"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Infanta",
+            "Street2":"Hospital",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1429519,-82.3807618]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:30 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.6,
+    "social_media": {
+        "instagram":"buenissimo.heladeria",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast":null,
+        "started": null,
+        "tacos":null,
+        "strong_dishes":null,
+        "pastas":null,
+        "pizzas": null,
+        "pizza_pasta_add-on":null,
+        "side_dishes":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "desserts": {
+            "icecream_flavors":{
+                "1/2 kg de helado": 1800.0,
+                "1 kg de helado": 3600.0,
+                "Cono (1bola 95gr)": 280.0,
+                "Cono doble": 560.0,
+                "Cono maxi": 850.0,
+                "Copa buenissimo": 1500.0,
+                "Copa family": 2100.0,
+                "Copa firenze": 1200.0,
+                "Copa habana": 620.0,
+                "Copa roma": 950.0,
+                "Copeta 1 bola": 300.0,
+                "Copeta 2 sabores": 630.0,
+                "Copeta 3 sabores": 920.0,
+                "Copeta 4 sabores": 1200.0,
+                "Tulipan": 1300.0,
+                "Tulipan max": 1500.0
+            }
+           
+        },
+        "liquids":null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

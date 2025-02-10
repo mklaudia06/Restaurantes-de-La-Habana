@@ -1,0 +1,227 @@
+{
+    "name": "Cafe 4 Lunas",
+    "food_type": ["mixta"],
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address":{
+            "Street1":"Calle 21",
+            "Street2":"L",
+            "Street3":"M"
+        },
+        "coordinates_latitude_length" : [23.1412086,-82.3887176]
+    },
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.7,
+    "social_media": {
+        "instagram":"cuatrolunas_restaurant",
+        "facebook":"Cafe Restaurante Cuatro Lunas"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Tabla de jamon iberico": 3500.0,
+            "Cebiche": 1700.0,
+            "Cremas": 1100.0,
+            "Sopa de pollo y vegetales": 1100.0,
+            "Sopa de res": 1500.0,
+            "Caldo del mar": 1600.0,
+            "Croquetas de la casa": 1300.0,
+            "Bolitas de queso": 1450.0,
+            "Eperlan de pescado": 1650.0,
+            "Alubias blancas con chorizo y bacon": 1500.0,
+            "Garbanzos fritos": 1500.0,
+            "Fajitas de pollo empanadas": 1700.0           
+        },
+        "tacos":{ 
+            "Tacos mexicanos de pollo": 1450.0,
+            "Tacos mexicanos de cerdo": 1300.0,
+            "Tacos mexicanos de res": 1500.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Bistec de pechuga de pollo": 3200.0,
+            "Salteado de pechuga de pollo con vegetales": 3400.0,
+            "Bistec de solomillo de cerdo": 3500.0,
+            "Fricase de cerdo": 2900.0,
+            "Masas de cerdo frita": 2980.0,
+            "Costilla de cerdo a la bbq": 4000.0,
+            "Ropa vieja": 2600.0,
+            "Vaca frita": 2600.0,
+            "Estofado de res": 3500.0,
+            "Filete de pescado grille": 2950.0,
+            "Filete de merluza empanada": 3500.0,
+            "Filete de merluza al olivo": 4200.0,
+            "Salmon ahumado a la plancha": 5200.0,
+            "Langosta grille": 2900.0,
+            "Langosta enchilada": 3050.0,
+            "Langosta al ajillo": 3100.0,
+            "Pulpo al gusto": 4700.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Espaguetti a la napolitana": 1500.0,
+            "Espaguetti agrio e olio": 1320.0,
+            "Espaguetti a la bolognesa": 2500.0,
+            "Espaguetti di mare": 3000.0,
+            "Espaguetti a la carbonara tradicional": 3100.0
+        },
+        "pizza_pasta_add":null,
+        "desserts": {
+            "Carlota de limon": 850.0,
+            "icecream_flavors":{
+                "Helado": 750.0
+            }  
+        },
+        "side_dishes": {
+            "Arroz blanco": 300.0,
+            "Arroz moro": 370.0,
+            "Arroz pilaf": 400.0,
+            "Arroz primavera": 350.0,
+            "Ensalada de estacion": 700.0,
+            "Vianda frita": 650.0,
+            "Tostones tradicionales": 550.0,
+            "Fritura de malanga con miel": 650.0,
+            "Pure de vianda": 600.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Luz de luna (coctel de la casa)": 1200.0,
+                    "Sangria selene": 1100.0,
+                    "Daiquiri de frutos del bosque natural": 1200.0,
+                    "Mojito": 610.0,
+                    "Mojito oscuro": 670.0,
+                    "Negroni": 1450.0,
+                    "Cubata": 630.0,
+                    "Cuba libre": 600.0,
+                    "Canchanchara": 520.0,
+                    "Daiquiri": 750.0,
+                    "Daiquiri de frutas": 1000.0,
+                    "Screw driver": 900.0,
+                    "Martini": 970.0,
+                    "Margarita": 1100.0,
+                    "Blue margarita": 1200.0,
+                    "Margarita reposada": 1500.0,
+                    "Havana especial": 680.0,
+                    "Long island tea": 1140.0,
+                    "Vodka martini": 950.0,
+                    "Gin tonic": 1500.0,
+                    "Gin tonic beefeather": 2000.0,
+                    "Gin tonic tangueray": 2280.0,
+                    "Caipirinha/caipirissima/caipisoska": 630.0,
+                    "Caipiroska ciroc": 1750.0,
+                    "Caipiroska absolut": 1500.0,
+                    "Mai tai": 850.0,
+                    "Pinha colada": 950.0,
+                    "Sangria": 850.0,
+                    "Servicio de michelada": 250.0,
+                     "Servicio de chelada": 200.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Ron pacto navio": 1170.0,
+                    "Ron seleccion de maestros": 1770.0,
+                    "Ron havana club spiced": 1200.0,
+                    "Ron havana club smoky": 1100.0,
+                    "Ron santiago extra seco": 1250.0,
+                    "Ron santiago 8 anhos": 1400.0,
+                    "Ron santiago 11 anhos": 1450.0,
+                    "Ron santiago 12 anhos": 5000.0,
+                    "Ron santisima trinidad": 7000.0,
+                    "Ron iminente 7 anhos reserva": 15000.0,
+                    "Ron havana club union": 1000.0,
+                    "Whisky jaminson": 1710.0,
+                    "Whisky buchanans master": 750.0,
+                    "Whisky ballentines": 1000.0,
+                    "Whisky jw red": 1100.0,
+                    "Whisky chivas regal 12 anhos": 1100.0,
+                    "Tequila omelca blanco": 900.0,
+                    "Tequila reina del sur reposado": 800.0,
+                    "Tequila omelca chocolate": 1100.0,
+                    "Tequila tres sombreros reposado": 1645.0,
+                    "Tequila don ramon punta diamante blanco": 1745.0,
+                    "Tequila don ramon punta diamante reposado": 550.0,
+                    "Vodka grin mark": 1140.0,
+                    "Vodka grey goose": 1425.0,
+                    "Vodka cirok": 1320.0,
+                    "Vodka absolut": 650.0,
+                    "Brandi torres 10 anhos": 850.0,
+                    "Brandi torres 15 anhos": 520.0,
+                    "Ginebra beefeather london": 700.0,
+                    "Ginebre perigans": 800.0,
+                    "Ginebra gordons": 400.0,
+                    "Sambuca": 940.0,
+                    "Magdala": 1030.0,
+                    "Baileys": 1000.0,
+                    "Rua vieja tradicional": 5000.0,
+                    "Avadal matis crianza 2020": 5000.0,
+                    "Lafou el sender 2020": 5000.0,
+                    "Garnacha tinta": 5000.0,
+                    "Ramon roqueta crianza 2020": 5500.0,
+                    "Frentano 2022": 5000.0,
+                    "Gaton negro cabernet sauvignon 2023": 5000.0,
+                    "Gato negro carmenere 2022": 5000.0,
+                    "Gato negro merlot 2022": 5000.0,
+                    "Celeste roble 2021": 5000.0,
+                    "Sangre de toro original 2021": 7000.0,
+                    "Loco de piedra": 6000.0,
+                    "I heart merlot": 3500.0,
+                    "Torres sauvignon blanc reserva 2022": 4500.0,
+                    "Gato negro chardonnahy 2023": 4500.0
+
+                },
+                "beers":{
+                    "Cerveza nacional": 460.0
+                }
+            },
+            "water":{
+                "Agua natural nacional": 350.0,
+                "Agua tonica nacional": 500.0,
+                "Agua tonica importada": 1150.0
+            },
+            "soft_drinks":{
+                "Refrescos importados": 570.0
+            },
+            "juices":{
+                "Jugo de frutas naturales": 600.0,
+                "Batido de frutas": 850.0
+            },
+            "lemonade":{
+                "Limonada frappe o natural": 400.0,
+                "Limonada frescura": 550.0,
+                "Limonada primavera": 600.0
+            },
+            "red bull":null,
+            "malta":{
+                "Malta": 600.0
+            },
+            "copas":{
+                "Copa de vino tinto": 700.0,
+                "Copa de vino blanco": 650.0
+            },
+            "coffees":{
+                "Cafe espresso": 330.0,
+                "Cafe capuccino": 390.0,
+                "Cafe americano": 330.0,
+                "Cafe cortado": 390.0,
+                "Cafe frapuccino": 850.0,
+                "Cafe con leche": 450.0,
+                "Cafe carajillo": 550.0,
+                "Cafe bombom": 690.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

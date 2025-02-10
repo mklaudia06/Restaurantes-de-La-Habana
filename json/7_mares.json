@@ -1,0 +1,69 @@
+{
+    "name": "7 Mares",
+    "municipality": "Plaza de la Revolucion",
+    "food_type": ["mixta"],
+    "location": {
+        "address":{
+            "Street1":"Avenida 23",
+            "Street2":"calle I",
+            "Street3":" calle J "
+        },
+        "coordinates_latitude_length":[23.1362689,-82.4062854]
+    },
+    "phone_number":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":2.4,
+    "menu": {
+        "breakfast":null,
+        "started": {
+            "Eperlan de pescado": 600.0,
+            "Croquetas de la casa": 250.0
+        },
+        "tacos":null,
+        "strong_dishes": {
+            "Chuletas de cerdo": 900.0,
+            "Masas de cerdo": 900.0,
+            "Bistec de cerdo grille": 850.0,
+            "Fajitas de cerdo": 850.0,
+            "Lomo ahumado grille": 850.0,
+            "Langosta grille": 1200.0,
+            "Langosta enchilada": 1200.0,
+            "Camaron grille": 750.0,
+            "Camaron enchilado": 750.0,
+            "Rueda de bonito grille": 700.0,
+            "Filete de pescado empanado": 800.0,
+            "Masas de pescado enchilada": 800.0
+        },
+        "pizzas": null,
+        "pastas":null,
+        "pizza_pasta_add":null,
+        "side_dishes": {
+            "Arroz blanco": 90.0,
+            "Arroz moro": 180.0,
+            "Arroz con vegetales": 200.0,
+            "Ensalada mixta": 150.0,
+            "Vianda frita": 200.0,
+            "Vianda hervida con mojo": 100.0
+        },
+        "desserts": null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

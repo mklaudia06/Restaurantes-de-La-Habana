@@ -1,0 +1,105 @@
+{
+    "name": "Cafe Crystal",
+    "food_type": ["criolla","internacional"],
+    "municipality": "Cotorro",
+    "location": {
+        "address":{
+            "Street1":"Calle 101",
+            "Street2":"16",
+            "Street3":"18"
+        },
+        "coordinates_latitude_length" : [23.045518,-82.2749613]
+    },
+    "phone_number": "76823333",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality": 4.2,
+    "social_media": {
+        "instagram":"cafecrystalcuba",
+        "facebook":"Cafe Crystal"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "entremes de jamon y queso": 1000.0,
+            "pica pica Mi Terraza": 1700.0,
+            "tostones de jamon y queso": 1000.0,
+            "tostones de atun": 1200.0,
+            "fajitas de pollo": 1000.0,
+            "ensalada de pollo": 400.0,
+            "frituras de malanga": 400.0,
+            "bolitas de queso": 400.0,
+            "croquetas": 400.0,
+            "chicharritas": 300.0,
+            "papas prefitas": 600.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "sandwich de queso": 700.0,
+            "sandwich de jamon": 650.0,
+            "sandwich de jamon y queso": 900.0,
+            "sandwich de atun": 1100.0,
+            "sandwich Mi Terraza": 1100.0
+        },
+        "strong_dishes": null,
+        "pizzas": {
+            "pizza napolitana": 1200.0,
+            "pizza hawaiana": 1700.0,
+            "pizza Mi Terraza": 1800.0
+        },
+        "pastas": {
+            "spaghetti napolitano": 1000.0,
+            "spaghetti de jamon": 1250.0,
+            "spaghetti de atun": 1400.0,
+            "spaghetti a la carbonara": 1600.0,
+            "spaghetti doble queso": 1500.0,
+            "canelon": 1500.0
+        },
+        "desserts": {
+            "icecream_flavors":{
+                "batido de helado": 600.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "crema de queso": 850.0,
+            "crema virginia": 1100.0
+        },
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with":null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "batido de mango": 550.0,
+                "batido de frutabomba": 400.0,
+                "batido de guayaba": 400.0
+            },
+            "lemonade":{
+                "limonada frappe": 350.0
+            },
+            "red bull":null,
+            "malta":{
+                "malteada": 500.0
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

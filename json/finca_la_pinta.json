@@ -1,0 +1,189 @@
+{
+    "name": "Finca La Pinta",
+    "food_type": ["caribeña"],
+    "municipality": "La Lisa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 251",
+            "Street2":"20",
+            "Street3":"28"
+        },
+        "coordinates_latitude_length" : [23.0191354,-82.4914279]
+    },
+    "phone_number": "72507160",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":"finca_la_pinta",
+        "facebook":"Finca 'La Pinta'"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas de la Casa": 600,
+            "Frituras de Malanga": 600,
+            "Tostones rellenos con ropa vieja": 800,
+            "Eperlan de Pescado": 1000,
+            "Coctel de Camarones": 1000,
+            "Sopa de Cebolla Francesa": 1000,
+            "Ceviche Tropical": 1100,
+            "Coctel de Langostas": 1200,
+            "Garbanzos Fritos": 1500,
+            "Ensalada de Pollo con Vegetales": 1800,
+            "Tartar de atun rojo": 2500,
+            "Queso Provolone al horno": 2500,
+            "Calamares fritos rebozados": 3500,
+            "Tabla espanola": 5000,
+            "Crema de Queso": 650,
+            "Crema Aurora": 650,
+            "Crema de Champinones": 700,
+            "Crema Virginia": 700
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pechuga de Pollo gratinada con jamon y queso": 2000,
+            "Medallon de atun sellado con ajonjoli negro": 2500,
+            "Masas de cerdo fritas": 1800,
+            "Fricase de cerdo a la camagueyana": 2000,
+            "Costillas de cerdo": 3000,
+            "Solomillo de Cerdo en salsa": 3500,
+            "Delmonico Steak con mantequilla de ajo": 8500,
+            "Tomahawk Steak": 19200,
+            "Vaca frita": 1500,
+            "Ropa vieja a la cubana": 1700,
+            "Estofado de ternera": 2000,
+            "Tasajo Montevideo": 3500,
+            "Bistec de palomilla": 3500,
+            "Chuleta de ternera": 3500,
+            "Costilla de res a la parrilla": 3800,
+            "Filete de rinonada": 4500,
+            "Rabo encendido cubano": 4500,
+            "Churrasco con salsa chimichurri": 4500,
+            "Tournedo de ternera": 5000,
+            "Ribeye con salsa BBQ": 5000,
+            "Ossobuco en salsa de Vino tinto": 5000,
+            "T-Bone Steak a la Parrilla": 7000,
+            "Cowboy Ribeye Steak": 9000,
+            "Langosta Thermidor": 3500,
+            "Camarones Franceses sobre linguini": 3500,
+            "Enchiladp de Camarones": 2000,
+            "Camarones a la parrilla": 2000,
+            "Camarones al ajillo": 2200,
+            "Enchilada de langosta": 3000,
+            "Cola de langosta a la mariposa": 3200,
+            "Pulpo mulato": 2500,
+            "Langosta al cafe del chef Gilberto Smith": 4200,
+            "Langosta La Pinta": 3500,
+            "Calderata de Cangrejos moros": 3500,
+            "Cazuela de mariscos": 4000,
+            "Arroz con Mariscos": 4200,
+            "Tataki de atun rojo con sesamo": 3000,
+            "Pescado La Pinta": 3500,
+            "Filete de Salmon en salsa de limon y vinagre balsamico": 4000,
+            "Filete de Pescado Grille": 2000,
+            "Pescado Frances sobre Linguini": 3500,
+            "Bacalao a la gallega": 3500,
+            "Rodaballo en salsa de hinojo": 4000,
+            "Tesoros del Caribe": 7000,
+            "Chilindron de cordero al vino": 3500,
+            "Cordero Steak a la parrilla": 4000,
+            "Risotto Parmesano": 1500,
+            "Risotto Funghi porcini": 2200,
+            "Risotto negro con camarones": 2500,
+            "risotto al queso azul": 3500,
+            "Risotto de Mariscos": 4000,
+            "Chuletillas de cordero con salsa chimichurri": 4000
+        },
+        "pizzas": {
+            "Pizza de la Finca": 1600,
+            "Pizza loncheada de Peperoni": 2000
+        },
+        "pastas": {
+            "Espaguetis a la Carbonara": 2000,
+            "Pasta Alla Routa": 3000,
+            "Pasta alla routa burrata": 5000
+        },
+        "desserts": {
+            "Pastel de Hojaldre": 120,
+            "Roscas rellenas de Nutella": 260,
+            "Roscas de Frambuesas": 260,
+            "Pastel de Limon": 550,
+            "Lonjas de Caramelo": 550,
+            "Lonjas de fresa": 550,
+            "Copa de Tiramisu": 600,
+            "pastel de Chocolate": 600,
+            "Jarra Tres Leches": 600,
+            "cheesecake": 600,
+            "tartaleta de limon": 600,
+            "Torrejas con helado de vainilla": 600
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Ensalada de vegetales": 500,
+            "ensalada De la Finca": 1200,
+            "caprese": 2000
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Jarra de Cerveza": 300,
+                    "Cerveza Stella Arcoiris": 750,
+                    "Cerveza Cristal": 400,
+                    "Cerveza Bucanero": 400,
+                    "Cerveza Cristal Extra": 400,
+                    "Cerveza Corona": 750
+                }
+            },
+            "water":null,
+            "soft_drinks":{
+                "Refresco Ciego Montero": 280,
+                "coca-cola": 450,
+                "Fanta": 450,
+                "Sprite": 450,
+                "Pepsi cola": 450,
+                "Seven-up": 450
+            },
+            "juices":null,
+            "lemonade":null,
+            "Bebida Energizante": 350,
+            "malta":{
+                "Malteada": 800,
+                "malta":320
+            },
+            "copas":null,
+            "coffees":{
+                "Expresso": 250,
+                "Macchiato": 300,
+                "Americano": 300,
+                "Capuccino": 350,
+                "Latte": 350,
+                "Moka": 400,
+                "Bombon": 450,
+                "Macchiato Nutella": 600,
+                "Moka blanco": 600,
+                "Macchiato de vainilla francesa": 600,
+                "Macchiato de caramelo": 600,
+                "Macchiato de avellana": 600,
+                "Chocolate Mexicano Frappuccino": 800,
+                "Frapuccino Moka Blanco y Negro": 850
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

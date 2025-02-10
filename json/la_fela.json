@@ -1,0 +1,233 @@
+{
+    "name": "La Fela",
+    "food_type": ["criolla","italiana"],
+    "municipality": "10 de Octubre",
+    "location": {
+        "address":{
+            "Street1":"Nuestra Senora de Regla",
+            "Street2":"Remedios",
+            "Street3":"Calzada de Luyano"
+        },
+        "coordinates_latitude_length" : [23.1050913,-82.3604713]
+    },
+    "phone_number": "051950601",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.5,
+    "social_media": {
+        "instagram":"lafelarestaurant",
+        "facebook":"La Fela restaurant"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Ensalada fria de jamon": 600.0,
+            "Ceviche de pescado": 2000.0,
+            "Tartar de salmon": 2000.0,
+            "Ceviche de camarones": 2000.0,
+            "Coctel de camaron": 2000.0,
+            "Tabla mixta": 2600.0,
+            "Tabla de jamon Serrano y queso azul": 2800.0,
+            "Croquetas de la casa": 700.0,
+            "Garbanzos fritos": 1800.0,
+            "Frituras de malanga": 750.0,
+            "Bolitas de queso con salsa agridulce": 750.0,
+            "Tostones rellenos con ropa vieja de cerdo": 1300.0,
+            "Eperlan de pescado con salsa rosa": 2000.0,
+            "Fajitas de pollo": 1800.0,
+            "Empanada de la casa en salsa agridulce": 600.0,
+            "Tequenos (rollitos de queso)": 600.0,
+            "Crema de queso": 550.0
+        },
+        "tacos":{
+            "Tacos al pastor": 1000.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa Especial": 1400.0,
+            "Sandwich cubano": 2000.0,
+            "Baguette de jamon y queso Gouda": 1000.0,
+            "Baguette de atun y anillas de cebolla": 1400.0,
+            "Baguette de jamon Serrano y queso Gouda": 1800.0,
+            "Pan con bistec": 1600.0,
+            "Hamburguesa de pollo": 350.0,
+            "Hamburguesa de res": 500.0
+        },
+        "strong_dishes": {
+            "Bistec de pollo grille": 1800.0,
+            "Suprema de pollo grille": 2200.0,
+            "Suprema de pollo gratinada con jamon y queso": 2400.0,
+            "Suprema de pollo a la crema": 2400.0,
+            "Masas de cerdo fritas encebolladas": 2800.0,
+            "Chuleta de cerdo": 2500.0,
+            "Bistec de cerdo grille": 2000.0,
+            "Bistec de cerdo encebollado": 2200.0,
+            "Bistec de cerdo gratinado con jamon y queso": 2400.0,
+            "Lonjas de cerdo con mojo criollo": 2800.0,
+            "Bistec de palomilla": 2500.0,
+            "Filet Mignon": 4000.0,
+            "Ropa vieja de res": 2500.0,
+            "Vaca frita con anillos de cebolla": 2700.0,
+            "Churrasco de res": 4000.0,
+            "Camaron Termidor": 3200.0,
+            "Camaron a su eleccion (enchilado o al ajillo)": 2800.0,
+            "Caldereta  de mariscos": 3200.0,
+            "Entrecot de res (guarnecido de papas al horno, aromatizado con finas hierbas y acompanado de una copa de vino)": 6000.0,
+            "Filete de pescado grille": 2500.0,
+            "Filete de pescado gratinado con jamon y queso": 2800.0,
+            "Filete de pescado al limon": 2700.0,
+            "Filete de pescado La Fela": 3200.0,
+            "Filete de pescado John Bill": 3400.0,
+            "Pescado entero frito": 3000.0,
+            "Cordero al chilindron o al vino tinto": 2800.0,
+            "Cordero estofado": 3000.0,
+            "Arroz con pollo a la chorrera": 2500.0,
+            "Arroz frito": 2500.0,
+            "Brocheta mixta del Corral": 3200.0,
+            "Brocheta mixta del Mar": 3700.0,
+            "Grillada de la casa (cerdo, pollo, pescado y camaron)": 3800.0,
+            "Paella Marinera": 3500.0
+        },
+        "pizzas": {
+            "Pizza npolitana": 1000.0,
+            "Pizza La Fela": 2400.0,
+            "Pizza de vegetales": 1700.0,
+            "Super Pizza de queso blanco": 1600.0,
+            "Super Pizza de queso importado": 2400.0,
+            "Pizza de champignones": 1500.0,
+            "Pizza Frutti di Mare": 2900.0,
+            "Pizza Margarita": 1400.0,
+            "Pizza de camarones": 2600.0,
+            "Pizza napolitana con queso blanco": 600.0
+        },
+        "pastas": {
+            "Lasagna": 1200.0,
+            "Espaghettis napolitano de queso blanco": 700.0,
+            "Espaghettis napolitanos de queso importado": 1100.0,
+            "Espaghettis al Pesto con queso importado": 1500.0,
+            "Espaghettis Frutti di Mare": 3200.0
+        },
+        "desserts": {
+            "Tres Gracias": 450.0,
+            "Cake": 400.0,
+            "Copa Lolita": 450.0,
+            "Tarta": 400.0,
+            "Flan": 200.0,
+            "icecream_flavors":{
+                "Suero de helado": 900.0
+            }
+        },
+        "pizza_pasta_add": {
+            "Cebolla": 200.0,
+            "Pimiento": 200.0,
+            "Jamon": 300.0,
+            "Chorizo": 300.0,
+            "Queso importado": 400.0,
+            "Queso blanco": 200.0,
+            "Jamon Serrano": 500.0,
+            "Bacon": 400.0,
+            "Aceitunas": 300.0,
+            "Atun": 400.0,
+            "Camaron": 800.0,
+            "Ropa vieja": 500.0,
+            "Pina": 200.0,
+            "Champignones": 400.0,
+            "Pepperoni": 500.0
+        },
+        "side_dishes": {
+            "Arroz blanco": 150.0,
+            "Arroz moros y cristianos": 300.0,
+            "Arroz Pilaf": 300.0,
+            "Vianda frita": 250.0,
+            "Yuca con mojo criollo": 300.0,
+            "Tamal en cazuela": 300.0,
+            "Tostones al ajo estilo oriental": 300.0,
+            "Ensalada de vegetales frescos": 400.0,
+            "Papas fritas": 600.0,
+            "Pure de malanga": 400.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada": 400.0,
+                    "Chelada": 300.0,
+                    "Caipirinha": 650.0,
+                    "Caipiroska": 650.0,
+                    "Screwdriver": 600.0,
+                    "Jagerinha": 650.0,
+                    "Jager Mule": 650.0,
+                    "Sex on the beach": 600.0,
+                    "Tequila Sunrise": 650.0,
+                    "Gin & Tonic": 1000.0,
+                    "Bloody Mary": 650.0,
+                    "Margarita": 650.0,
+                    "Sangria": 700.0,
+                    "Black Russian": 600.0,
+                    "White Russian": 650.0,
+                    "Alexander": 650.0,
+                    "Mary Pickfrod": 550.0,
+                    "Pina Colada": 650.0,
+                    "Cubanito": 650.0,
+                    "Coctel La Fela": 600.0,
+                    "Coctel Buena Fe": 600.0,
+                    "Mojito La Fela": 600.0,
+                    "Daiquiri": 500.0,
+                    "Ron Expresso": 350.0,
+                    "Irish Coffee": 550.0,
+                    "Expresso Martini": 500.0,
+                    "Express Jager": 500.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza Cristal": 350.0,
+                    "Termo de cerveza Cristal": 2450.0,
+                    "Cerveza importada": 300.0,
+                    "Termo de cerveza importada": 2100.0,
+                    "Cerveza Heineken": 550.0,
+                    "Termo de cerveza Heineken": 3850.0,
+                    "Cerveza dispensada": 350.0,
+                    "Termo de dispensada": 1750.0
+                }
+            },
+            "water":{
+                "Agua natural": 150.0
+            },
+            "soft_drinks":{
+                "Refrescos": 250.0,
+                "Refresco Pepsi / 7up / Fanta / Coca Cola": 300.0
+            },
+            "juices":{
+                "Kermato": 600.0,
+                "Jugo en conserva": 250.0,
+                "Jugo de fruta": 250.0,
+                "Batido de mamey / Guayaba / Frutabomba": 400.0
+            },
+            "lemonade":null,
+            "Energizantes": 300.0,
+            "red bull":350.0,
+            "malta":{
+                "Malta Bucanero": 350.0,
+                "Malta Holandia": 350.0,
+                "Malteada": 550.0
+            },
+            "copas":null,
+            "coffees":{
+                "Cafe Carajillo": 350.0,
+                "Cappuccino": 600.0,
+                "Cafe Bombon": 600.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

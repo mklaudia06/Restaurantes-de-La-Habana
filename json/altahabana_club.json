@@ -1,0 +1,207 @@
+{
+    "name": "Altahabana_Club",
+    "food_type": ["internacional","cocteleria"],
+    "municipality": "Boyeros",
+    "location": {
+        "address":{
+            "Street1":"Calle D",
+            "Street2":" A 10",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0646579,-82.3997581]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "02:00 pm",
+        "closure": "02:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "frituras de malanga": 400.0,
+            "papas fritas": 550.0,
+            "croquetas de pollo": 550.0,
+            "bolitas de queso": 650.0,
+            "alitas de pollo": 750.0,
+            "entremes de (jamon, queso, aceituna y chorizo)": 950.0,
+            "fajitas de pollo": 950.0,
+            "eperlan de pescado": 1150.0,
+            "coctel de camaron": 1450.0,
+            "tabla chorizos parrillero": 1800.0,
+            "picadera altahabana (jamon vicky y serrano, queso, aceituna, chorizo, croquetas, bolitas de queso, frituras de malanga)": 3500.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "media noche": 700.0,
+            "sandwich de jamon y queso": 800.0,
+            "sandwich altahabana (jamon, queso blanco y gouda,chorizo, jamon pierna)": 1350.0,
+            "hamburguesa clasica": 900.0,
+            "hamburguesa c/ queso": 980.0,
+            "hamburguesa c/ jamon": 1080.0,
+            "hamburguesa c/ bacon": 1080.0,
+            "hamburguesa altahabana (chorizo, jamon vicky, queso, jamon pierna)": 1500.0
+        },
+        "strong_dishes": {
+            "pollo asado": 1300.0,
+            "pollo frito pio pio": 1350.0,
+            "pollo grille": 1400.0,
+            "pollo a la gordon blue": 1750.0,
+            "masas de cerdo frita": 1350.0,
+            "bistec de cerdo": 1400.0,
+            "bistec uruguayo": 1750.0,
+            "vaca frita": 1300.0,
+            "ropa vieja": 1350.0,
+            "bistec de res": 1600.0,
+            "camaron enchilado": 1650.0,
+            "camaron ajillo": 1750.0,
+            "camaron empanado": 1800.0,
+            "filete de pescado grillet": 1550.0,
+            "filete de pescado empanado": 1600.0,
+            "filete canciller": 1800.0
+        },
+        "pizzas": {
+            "pizza napolitana": 950.0,
+            "pizza pimiento": 1000.0,
+            "pizza cebolla": 1000.0,
+            "pizza jamon": 1150.0,
+            "pizza bacon": 1150.0,
+            "pizza chorizo": 1150.0,
+            "pizza hawaiana": 1250.0,
+            "pizza de atun": 1200.0,
+            "pizza camaron": 1300.0,
+            "pizza de pepperoni": 1500.0,
+            "pizza altahabana (bacon, jamon, chorizo, queso blanco, gouda, jamon pierna)": 1500.0
+        },
+        "pastas": {
+            "espaguetis napolitano": 900.0,
+            "espaguetis jamon": 950.0,
+            "espaguetis chorizo": 1150.0,
+            "espaguetis de bacon": 1200.0,
+            "espaguetis bolonnesa": 1250.0
+        },
+        "desserts": {
+            "icecream_flavors":{
+                "copa de helado": 500.0,
+                "suero de helado": 750.0
+            }  
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "arroz blanco": 250.0,
+            "arroz moro": 350.0,
+            "vianda frita": 400.0,
+            "ensalada de vegetales": 500.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "mojito": 550.0,
+                    "mojito frappe": 580.0,
+                    "daiquiri": 500.0,
+                    "daiquiri saborizado": 520.0,
+                    "canchanchara": 550.0,
+                    "pinna colada": 600.0,
+                    "cubata 7 annos": 650.0,
+                    "screw driver": 480.0,
+                    "blue lagoon": 500.0,
+                    "caipiroska": 550.0,
+                    "caipirinna": 600.0,
+                    "vodka tonic": 600.0,
+                    "tinto de verano": 460.0,
+                    "sangria": 500.0,
+                    "gin tonic": 550.0,
+                    "margarita": 750.0,
+                    "servicio de chelada": 200.0,
+                    "servicio de michelada": 280.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "vodka de la casa": 250.0,
+                    "vodka absolut": 1000.0,
+                    "havana club annejo 3 annos": 420.0,
+                    "havana club annejo 7 annos": 700.0,
+                    "havana club annejo especial": 530.0,
+                    "havana club reserva": 560.0,
+                    "havana club ritual": 600.0,
+                    "santiago 8 annos": 850.0,
+                    "santiago 11 annos": 1000.0,
+                    "santiago 12 annos": 1200.0,
+                    "seleccion de maestro": 1300.0,
+                    "pacto navio": 1300.0,
+                    "baileys": 1300.0,
+                    "buchanan's 12": 1600.0,
+                    "whisky glenlivet": 1750.0,
+                    "ballantine": 850.0,
+                    "ballantine 12": 1050.0,
+                    "johnnie walker red label": 1000.0,
+                    "johnnie walker black label": 1700.0,
+                    "olmeca blanco": 990.0,
+                    "jose cuervo especial": 1200.0,
+                    "jose cuervo reposado": 1300.0,
+                    "jose cuervo tradicional driver": 1350.0,
+                    "tequila patron driver": 2000.0,
+                    "tequila 1800": 2500.0,
+                    "don julio 70": 4000.0,
+                    "licor 43": 650.0
+                },
+                "beers":{
+                    "cerveza nacional (lata)": 450.0,
+                    "cerveza nacional (botella)": 500.0,
+                    "cerveza importada": 400.0,
+                    "cerveza corona": 600.0,
+                    "cerveza heineken": 550.0
+                }
+            },
+            "water":{
+                "agua natural (500ml)": 200.0,
+                "agua tonica": 250.0
+            },
+            "soft_drinks":{
+                "refrescos nacionales": 300.0,
+                "refrescos importados": 350.0,
+                "refresco nacional (1.5 litros)": 550.0
+            },
+            "juices":{
+                "jugos de caja": 300.0
+            },
+            "lemonade":{
+                "limonada natural": 500.0,
+                "limonada frappe": 520.0,
+                "limonada frescura": 540.0
+            },
+            "energizantes": 350.0,
+            "red bull":550.0,
+            "malta":{
+                "malta": 380.0,
+                "malteada": 500.0
+            },
+            "copas":{
+                "vino (tinto, blanco o rosado)": 850.0
+            },
+            "coffees":{
+                "cafe americano": 150.0,
+                "cafe expreso": 250.0,
+                "cafe cortado": 300.0,
+                "cafe capuccino": 400.0,
+                "cafe con leche": 450.0,
+                "cafe bombon": 550.0,
+                "cafe frappuccino": 600.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

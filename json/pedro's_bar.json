@@ -1,0 +1,96 @@
+{
+    "name": "Pedro's Bar",
+    "food_type": ["cocteleria","italiana"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Blvd. de San Rafael",
+            "Street2":"Amistad",
+            "Street3":"Aguila"
+        },
+        "coordinates_latitude_length" : [23.1367431,-82.3667279]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "02:00 pm",
+        "closure": "02:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":"pedrosbar_boulevard",
+        "facebook":"Pedro's Bar"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Papas fritas": 1150.0,
+            "Frituras de malanga": 800.0,
+            "Croquetas": 1050.0,
+            "Dados de queso": 1350.0,
+            "Fajitas de pollo": 1450.0,
+            "Tabla mixta": 4600.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich de jamon y queso": 1200.0,
+            "Sandwich de pechuga": 1550.0,
+            "Sandwich de atun": 1500.0,
+            "Sandwich de lechon": 1550.0
+        },
+        "strong_dishes": null,
+        "pizzas": {
+            "Pizza de queso": 1200.0,
+            "Pizza hawaiana": 1500.0,
+            "Pizza de vegetales": 1500.0
+        },
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Canchanchara": 1150.0,
+                    "Mojito": 1100.0,
+                    "Caipis": 1100.0,
+                    "Daiquiri": 1100.0,
+                    "Gin tonic": 1450.0,
+                    "Margarita": 1050.0,
+                    "Cubata": 1050.0,
+                    "Sangria": 1350.0,
+                    "Piña colada": 1100.0,
+                    "Servicio de michelada": 300.0,
+                    "Servicio de chelada": 400.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Jarra de cerveza": 350.0,
+                    "Cerveza": 600.0,
+                    "Vasos de ceveza": 200.0
+                }
+            },
+            "water":{
+                "Agua natural": 250.0
+            },
+            "soft_drinks":{
+                "Refresco": 500.0
+            },
+            "juices":null,
+            "lemonade":null,
+            "Energizante": 500.0,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,122 @@
+{
+    "name": "La Mia Pizza",
+    "food_type": ["italiana"],
+    "municipality": "La Lisa",
+    "location": {
+        "address":{
+            "Street1":"Calle 29",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0715418,-82.4619532]
+    },
+    "phone_number": "72718614",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":2.8,
+    "social_media": {
+        "instagram":"lamiapizza_",
+        "facebook":"La Mia Pizza"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Entremes de Jamon y Queso": 1440,
+            "Entremes de Jamon": 500,
+            "Entremes de ahumados": 440,
+            "Entremes de aceitunas": 300,
+            "Dados de Queso": 300
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": null,
+        "pizzas": {
+            "Pizza Napolitana": 700,
+            "Pizza La Mia": 2500,
+            "Pizza La Mia de Queso": 1900,
+            "Pizza Tres Quesos": 1700,
+            "Pizza La Mia Familiar": 4800,
+            "Pizza La Mia Familiar de Queso": 4000,
+            "Pizza Familiar Napolitana": 2500
+        },
+        "pastas": {
+            "Lasagna de Jamon": 500,
+            "Lasagna de Jamon y Chorizo": 610,
+            "Espaguetis Napolitanos": 700,
+            "Espaguetis a la carbonara": 860
+        },
+        "desserts": {
+            "icecream_flavors":{
+                "Helado Montado": 350,
+                "Suero de Helado": 350
+            }
+        },
+        "pizza_pasta_add": {
+            "Queso": 320,
+            "Jamon": 300,
+            "Chorizo": 220,
+            "Atun": 280,
+            "Aji pimiento": 120,
+            "Cebolla": 120,
+            "Pina": 100,
+            "Ahumados": 300,
+            "Aceitunas": 200,
+            "Queso azul": 500
+        },
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Croquetas de embutidos": 220,
+            "Crema de Queso": 250,
+            "Crema Aurora": 300,
+            "Crema Virginia": 430
+        },
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Pina Colada": 250,
+                    "Michelada": 420
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Havana Club 3 anos": 175,
+                    "Havana Club 7 anos": 225,
+                    "Vodka": 340,
+                    "Whisky": 340
+                },
+                "beers":{
+                    "Cerveza": 270
+                }
+            },
+            "water":{
+                "Agua": 160,
+                "Agua Saborizada": 170
+            },
+            "soft_drinks":{
+                "Refresco": 220,
+                "Refresco de Pomo": 280
+            },
+            "juices":{
+                "Jugo de Frutas Naturales": 200,
+                "Batido de Frutas Naturales": 250
+            },
+            "lemonade":{
+                "Limonada Frappe": 1500
+            },
+            "Bebida Energizante": 250,
+            "malta":250,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

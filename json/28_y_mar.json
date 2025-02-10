@@ -1,0 +1,168 @@
+{
+    "name": "28 y Mar",
+    "food_type": ["internacional","cubana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Calle 30",
+            "Street2":"Avenida 1ra",
+            "Street3":"Avenida 3ra"
+        },
+        "coordinates_latitude_length" : [23.122057,-82.4275149]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "08:30 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.0,
+    "social_media": {
+        "instagram":"28_y_mar_restaurante",
+        "facebook":"28 y Mar Restaurante"
+    },
+    "menu": {
+        "breakfast": {
+            "Desayuno europeo": 1650.0,
+            "Desayuno americano": 1650.0,
+            "Desayuno miramar": 2150.0,
+            "Desayuno continental": 2800.0,
+            "Ensalada de frutas": 700.0,
+            "Tortilla natural": 750.0,
+            "Huevo frito o revuelto con bacon": 1050.0,
+            "Mini bocadito de jamon y queso": 800.0,
+            "Tostadas con mantequilla": 650.0,
+            "Crepes": 750.0
+        },
+        "started": {
+            "Trio de fantasia": 7250.0,
+            "Ensalada primavera": 1350.0,
+            "Ensalada caprichosa": 1750.0,
+            "Ensalada verano": 1650.0,
+            "Ensalada marinera": 1600.0,
+            "Crema aurora": 7500.0,
+            "Crema de queso": 750.0,
+            "Crema virginia": 750.0,
+            "Tapas variadas": 1100.0,
+            "Tapas de croquetas": 1250.0,
+            "Tostones rellenos": 950.0,
+            "Brusquetas": 950.0,
+            "Bolitas de queso": 950.0,
+            "Empanadas de queso azul": 1050.0,
+            "Empanadas de bolonesa": 1050.0,
+            "Fajitas de pollo": 1450.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa otono": 1750.0,
+            "Hamburguesa jamon y queso": 1800.0,
+            "Hamburguesa jamon serrano": 1950.0,
+            "Sandwich de pepito": 3150.0,
+            "Sandwich de paquito": 2150.0,
+            "Sandwich de elena ruz": 1850.0,
+            "Sandwich de bocadito de atun": 1450.0,
+            "Sandwich de pollo": 1650.0,
+            "Sandwich de jamon serrano": 2150.0,
+            "Sandwich de atun": 1750.0,
+            "Sandwich de bolonesa": 2050.0,
+            "Sandwich de jamon pierna barra y chorizo": 2050.0,
+            "Sandwich vegetariano": 1350.0,
+            "Sandwich de pollo y bacon": 2050.0,
+            "Sandwich de jamon y queso": 1750.0
+        },
+        "strong_dishes": {
+            "Pechuga de pollo": 3500.0,
+            "Solomillo de cerdo": 4500.0,
+            "Solomillo de res": 6500.0,
+            "Pollo y cerdo": 4000.0,
+            "Pollo y res": 5000.0,
+            "Res y cerdo": 5500.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Spaghetti": 1150.0,
+            "Lasagna de jamon": 1750.0,
+            "Lasagna de bolonesa": 2150.0
+        },
+        "desserts": null,
+        "pizza_pasta_add":null,
+        "side_dishes": {
+            "Jamon serrano": 850.0,
+            "Jamon barra": 400.0,
+            "Jamon pierna": 450.0,
+            "Chorizo": 450.0,
+            "Bacon": 450.0,
+            "Salsa bolonesa": 550.0,
+            "Pechuga de pollo": 650.0,
+            "Atun": 450.0,
+            "Champinon": 350.0,
+            "Aceitunas": 350.0,
+            "Vegetal de estacion": 350.0,
+            "Vianda frita": 350.0,
+            "Papas fritas": 550.0,
+            "Pina glaseada": 350.0,
+            "Queso gouda": 450.0,
+            "Queso mozzarella": 450.0,
+            "Queso parmesano": 550.0,
+            "Queso azul": 550.0,
+            "Nutella": 450.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza": 650.0
+                }
+            },
+            "water":{
+                "Agua natural": 300.0,
+                "Agua natural importada": 350.0,
+                "Agua carbonatada": 300.0,
+                "Agua carbonatada importada": 850.0,
+                "Agua tonica mg": 600.0,
+                "Agua tonica schweppes": 900.0
+            },
+            "soft_drinks":{
+                "Refresco nacional": 350.0,
+                "Refresco importado": 450.0
+            },
+            "juices":{
+                "Jugo de fruta natural": 350.0,
+                "Jugo de caja importado": 300.0
+            },
+            "lemonade":null,
+            "Red bull": 650.0,
+            "Kermato": 750.0,
+            "malta":{
+                "Malta": 450.0,
+                "Malteada": 650.0
+            },
+            "copas":null,
+            "coffees":{
+                "Cafe expresso": 350.0,
+                "Cafe americano": 350.0,
+                "Cafe nespresso": 700.0,
+                "Cafe bombon": 550.0,
+                "Cafe capuchino": 700.0,
+                "Cafe capuchino nespresso": 950.0,
+                "Cafe cortado": 400.0,
+                "Cafe con leche": 600.0,
+                "Cafe irlandes": 700.0,
+                "Frapuccino": 750.0,
+                "Chocolate a la espanola": 600.0,
+                "Te caliente o frio": 350.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

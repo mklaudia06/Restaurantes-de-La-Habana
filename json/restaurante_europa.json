@@ -1,0 +1,60 @@
+{
+    "name": "Restaurante_Europa",
+    "food_type": ["criolla"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Obispo",
+            "Street2":"Aguiar",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1384745,-82.3534921]
+    },
+    "phone_number": "78644484",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.7,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Bistec de Cerdo Grille": 850.0,
+            "Lonjas de Cerdo Asada": 775.0,
+            "Fajitas de Cerdo": 990.0,
+            "Langosta Entera Grille": 4500.0,
+            "Camaron Grille": 1900.0,
+            "Camaron Enchilado": 1740.0
+        },
+        "pizzas": {
+            "Pizza Napolitana": 650.0
+        },
+        "pastas": {
+            "Spaguetti Napolitano": 350.0
+        },
+        "desserts": {
+            "Gelatina": 75.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

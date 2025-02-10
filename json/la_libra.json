@@ -1,0 +1,84 @@
+{
+    "name": "La Libra",
+    "food_type": ["criolla"],
+    "municipality": "Cotorro",
+    "location": {
+        "address":{
+            "Street1":"Calle 105",
+            "Street2":"20",
+            "Street3":"26"
+        },
+        "coordinates_latitude_length" : [23.039216,-82.2726289]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "11:30 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "fajitas de pollo": 1700.0,
+            "fajitas de cerdo": 1600.0,
+            "alitas de pollo": 1300.0,
+            "croquetas": 550.0,
+            "tostones naturales": 300.0,
+            "tostones al ajillo": 350.0,
+            "tostones rellenos": 1100.0,
+            "tostones campesinos": 1100.0,
+            "papas fritas": 900.0,
+            "fritura de malanga": 500.0,
+            "entremes de jamon, queso y aceituna": 1500.0,
+            "camaron empanado": 1200.0,
+            "eperlan": 2100.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "filete de cerdo": 3400.0,
+            "masa de cerdo frita": 2400.0,
+            "brocheta": 2000.0,
+            "bistec de cerdo": 2000.0,
+            "fricase de cerdo": 2300.0,
+            "costilla de cerdo frita": 2300.0,
+            "costilla de cerdo asada": 2400.0,
+            "costilla de cerdo en salsa": 2500.0,
+            "bistec de res grille": 3000.0,
+            "bistec uruguayo": 2900.0,
+            "camaron grille": 1700.0,
+            "camaron enchilado": 2200.0,
+            "camaron al ajillo": 1500.0,
+            "calamar en su tinta": 4000.0,
+            "pulpo al ajillo": 3200.0,
+            "pulpo grille": 3300.0,
+            "langosta grille": 2000.0,
+            "filete de pescado": 2100.0,
+            "pescado canciller": 3300.0,
+            "filete de salmon": 2500.0
+        },
+        "pizzas": {
+            "pizza napolitana": 1500.0
+        },
+        "pastas": {
+            "spaghetti napolitano": 1200.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

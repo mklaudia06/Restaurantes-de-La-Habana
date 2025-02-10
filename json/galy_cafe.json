@@ -1,0 +1,151 @@
+{
+    "name": "Galy Cafe",
+    "food_type": ["mixta"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"Calle San Jose",
+            "Street2":"Aguila",
+            "Street3":"Galiano"
+        },
+        "coordinates_latitude_length" : [23.1358625,-82.365244]
+    },
+    "phone_number": "78634580",
+    "schedule": {
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.2,
+    "social_media": {
+        "instagram":null,
+        "facebook":"GalyCafe"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas cremosas galy": 650.0,
+            "Eperlan": 760.0,
+            "Fajitas de pechuga de pollo": 760.0,
+            "Coctel de camarones": 1100.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich de queso": 1150.0,
+            "Sandwich de jamon": 1150.0,
+            "Sandwich de jamon y queso": 1200.0,
+            "Sandwich de jamon, queso y chorizo": 1250.0,
+            "Sandwich de atun y cebolla": 1270.0
+        },
+        "strong_dishes": {
+            "Pechuga a la plancha": 2750.0,
+            "Pechuga empanada": 3100.0,
+            "Pechuga gordon bleu": 2970.0,
+            "Pechuga milanesa": 2860.0,
+            "Bistec de cerdo a la plancha": 2750.0,
+            "Lomo de cerdo ahumado": 2100.0,
+            "Filetillo de res": 1550.0,
+            "Bistec uruguayo": 2970.0,
+            "Bistec de palomilla": 2650.0,
+            "Ropa vieja": 2650.0,
+            "Pescado a la plancha": 3200.0,
+            "Pescado empanado": 3200.0,
+            "Pescado en salsa de tomate con camarones y almejas": 3200.0,
+            "Filete canciller": 3520.0,
+            "Camaron al ajillo": 3200.0,
+            "Camaron enchilado": 3200.0,
+            "Camaron rebosado": 3200.0,
+            "Camaron empanado": 3200.0,
+            "Camaron a la plancha": 3200.0,
+            "Pulpo enchilado": 3300.0,
+            "Pulpo al ajillo": 3300.0,
+            "Paella melosa del mar": 3100.0,
+            "Mar y tierra": 3300.0
+        },
+        "pizzas": {
+            "Pizza de queso": 1160.0,
+            "Pizza de jamon": 1270.0,
+            "Pizza de chorizo": 1270.0,
+            "Pizza hawaiana": 1270.0,
+            "Pizza de cebolla": 1270.0,
+            "Pizza de pimientos": 1270.0,
+            "Pizza de camarones": 1250.0,
+            "Pizza de atun y cebolla": 1500.0,
+            "Pizza galy(dos quesos)": 1550.0
+        },
+        "pastas": {
+            "Espaguettis de queso": 1160.0,
+            "Espaguettis al diablo": 1200.0,
+            "Espaguettis de jamon": 1270.0,
+            "Espaguetti de chorizo": 1270.0,
+            "Espaguetti carbonara": 1450.0,
+            "Espaguettis camarones": 1550.0,
+            "Espaguetti con pescado y marisco": 1700.0,
+            "Lasagna": 1760.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Crema de queso": 570.0,
+            "Crema virginia": 600.0,
+            "Crema aurora": 590.0,
+            "Crema de queso azul": 720.0
+        },
+        "digestive":null,
+        "desserts": {
+            "Tarta de chocolate galy": 650.0,
+            "Tres leche con hilo de chocolate": 690.0,
+            "icecream_flavors":{
+                "Helados variados": 610.0,
+                "Batido de helado": 950.0
+            }
+        },
+        "side_dishes": {
+            "Arroz blanco": 350.0,
+            "Arroz moro": 420.0,
+            "Frijol del dia": 490.0,
+            "Vianda hervida con mojo": 650.0,
+            "Papas fritas": 720.0,
+            "Pure de la casa": 850.0,
+            "Ensalada de temporada": 850.0
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cervezas nacionales": 440.0,
+                    "Cervezas importadas": 330.0
+                }
+            },
+            "water":{
+                "Agua natural": 385.0,
+                "Agua gaseada": 300.0
+            },
+            "soft_drinks":null,
+            "juices":{
+                "Jugos naturales": 210.0,
+                "Jugo natural (cajita 200ml)": 320.0,
+                "Jugo importado (enlatado)": 385.0
+            },
+            "lemonade":null,
+            "red bull":500.0,
+            "malta":{
+                "Malteada": 500.0
+            },
+            "copas":null,
+            "coffees":{
+                "Cafe expreso": 330.0,
+                "Cafe cortado": 305.0,
+                "Cafe cremoso": 440.0,
+                "Cafe galy": 500.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

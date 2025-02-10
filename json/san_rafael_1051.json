@@ -1,0 +1,103 @@
+{
+    "name": "San Rafael 1051",
+    "food_type": ["americana","internacional"],
+    "municipality": "Centro Habana",
+    "location": {
+        "address":{
+            "Street1":"San Rafael",
+            "Street2":"San Francisco",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1355936,-82.380047]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:17 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.7,
+    "social_media": {
+        "instagram":"san_rafael1051",
+        "facebook":"san_rafael1051"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas de la casa": 850.0,
+            "Tabla de serrano y queso": 1450.0,
+            "Nuggets de pollo": 950.0,
+            "Brusquetas mixtas": 850.0,
+            "Ensalada de atun": 1100.0,
+            "Ensalada de pollo": 1100.0,
+            "Ensalada del mar": 1300.0
+        },
+        "tacos":{
+            "Tacos": 1150.0
+        },
+        "hamburgers_and_sandwichs": {
+            "Entrepan clasico": 1300.0,
+            "Entrepan cubano": 1500.0,
+            "Entrepan marinero": 1300.0,
+            "Entrepan iberico": 1500.0,
+            "Entrepan vaquero": 1300.0,
+            "Entrepan de crispy chicken": 1500.0,
+            "Hamburguesa black panther": 2400.0,
+            "Hamburguesa megaburger": 2750.0,
+            "Hamburguesa hawaiana": 1650.0,
+            "Hamburguesa 1051": 2000.0,
+            "Hamburguesa parrillera": 1920.0,
+            "Hamburguesa sweet burger": 1100.0,
+            "Hamburguesa deluxe": 1550.0,
+            "Hamburguesa cheese burger": 1790.0,
+            "Hamburguesa cubana": 2140.0
+        },
+        "strong_dishes":null,
+        "pizzas": null,
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Caipirinha": 580.0,
+                    "Caipiroska": 580.0,
+                    "Gin tonic": 650.0,
+                    "Sangria": 650.0,
+                    "Mojito": 580.0,
+                    "Cuba libre": 580.0,
+                    "Vodka tonic": 650.0,
+                    "Servicio michelada": 250.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza": 450.0,
+                    "Cerveza cristal, heineken, corona": 650.0
+                }
+            },
+            "water":{
+                "Agua natural": 300.0
+            },
+            "soft_drinks":{
+                "Refresco importado": 380.0
+            },
+            "juices":{
+                "Jugo natural": 390.0
+            },
+            "lemonade":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

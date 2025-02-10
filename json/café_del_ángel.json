@@ -1,0 +1,94 @@
+{
+    "name": "Cafe Del Angel",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Chacon",
+            "Street2":"Esquina Cuarteles",
+            "Street3":"Compostela"
+        },
+        "coordinates_latitude_length" : [23.1418013,-82.3581454]
+    },
+    "phone_number": "78644029",
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":"cafedelangeljf",
+        "facebook":"Cafe del Angel"
+    },
+    "menu": {
+        "breakfast": {
+            "Huevos & pesto": 2400.0,
+            "Del angel": 2500.0,
+            "Croissant madame": 2500.0,
+            "Omelette al queso": 1630.0,
+            "Americano": 2400.0,
+            "Pancakes": 1700.0,
+            "Continental": 1600.0,
+            "Bagel mordico": 2450.0,
+            "Yogurt parfait": 1360.0,
+            "Bagel catalan": 2450.0
+        },
+        "started": {
+            "Croquetas serrano": 1480.0,
+            "Rillete de cerdo": 1500.0,
+            "Tacos de cerdo": 2200.0,
+            "Mixto de brusquetas": 2200.0,
+            "Tacos de camarones": 2380.0,
+            "Empanadillas de cerdo": 1400.0,
+            "Tabla charcuteria": 4000.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa de res": 3200.0,
+            "Sandwich de atun": 1530.0,
+            "Sandwich de vegetales": 1530.0,
+            "Sandwich cubano": 2600.0,
+            "Baguette de jamon y queso": 1600.0,
+            "Bocata catalana": 2400.0
+        },
+        "strong_dishes": {
+            "Pollo mediterraneo": 2340.0,
+            "Solomillo de cerdo": 4200.0,
+            "Costillas de cerdo": 4950.0,
+            "Ropa vieja": 3580.0,
+            "Pescado a la siciliana": 3580.0,
+            "Langosta caribenha": 5400.0
+        },
+        "pizzas": null,
+        "pizza_pasta_add":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "pastas": {
+            "Espaguetti pomodoro": 1880.0,
+            "Ragu de cordero": 3450.0,
+            "Ravioli carbonara": 3200.0,
+            "Espaguetti al pesto": 2200.0,
+            "Rigatoni amatriciana": 3200.0,
+            "Espaguetti altamar": 3450.0
+        },
+        "desserts": {
+            "Mousse de chocolate": 1925.0,
+            "Esfera de maracuya": 1925.0,
+            "Arroz con leche": 1500.0,
+            "Dados de guayaba": 1500.0,
+            "icecream_flavors":null
+        },
+        "side_dishes": {
+            "Ensalada del angel": 2340.0
+        },
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

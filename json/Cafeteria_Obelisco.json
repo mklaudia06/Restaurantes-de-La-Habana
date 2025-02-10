@@ -1,16 +1,16 @@
 {
     "name": "Cafeteria obelisco",
-    "municipality":"Marianao",
-    "location":{
+    "food_type": ["mixta"],
+    "municipality": "Marianao",
+    "location": {
         "address":{
-            "Street1":"Avenida 31",
-            "Street2":null,
+            "Street1":"100",
+            "Street2":"31 B",
             "Street3":null
         },
-        "coordinates_latitude_length":[23.0873824,-82.4987318]
+        "coordinates_latitude_length" : [23.0866428,-82.4260887]
     },
     "phone_number": null,
-    "food_type":["mixta"],
     "schedule": {
         "opening": "09:00 am",
         "closure": "06:00 pm",
@@ -18,30 +18,30 @@
     },
     "quality":null,
     "social_media": {
-        "instagram":"obeliscocafeteria",
-        "facebook":"Cafetería Obelisco"
+        "instagram":null,
+        "facebook":"Havana Obelisco"
     },
-    "menu":{
-        "breakfast": {
-            "Pan con queso y embutido":250
-        },
+    "menu": {
+        "breakfast": null,
         "started": {
-            "bolitas de carne": 120,
-            "Dados de queso":180
+            "Bolitas de carne": 20.0,
+            "Dados de queso": 180.0
         },
         "tacos":null,
-        "strong_dishes":null,
-        "pastas": null,
+        "hamburgers_and_sandwichs": {
+            "Pan con queso y embutido": 250.0
+        },
+        "strong_dishes": null,
         "pizzas": {
-            "Pizza de queso":200
+            "Pizza de queso": 200.0
         },
-        "pizza_pasta_add-on": null,
-        "side_dishes":{
-            "Frijol negro": 55,
-            "Arroz blanco": 70
+        "pastas": null,
+        "pizza_pasta_add":null,
+        "desserts": null,
+        "side_dishes": {
+            "Frijol negro": 55.0,
+            "Arroz blanco": 70.0
         },
-        "desserts":null,
-        "hamburgers_and_sandwichs":null,
         "hamburgers_add-on":null,
         "aperitivos":null,
         "snacks":null,
@@ -53,20 +53,25 @@
                 "bottles":null,
                 "drinks_with":null,
                 "beers":{
-                    "Cerveza cristal":180,
-                    "Cerveza": 50
+                    "Cerveza cristal": 180.0,
+                    "Cerveza": 50.0
                 }
             },
             "water":{
-                "agua saborizada": 50,
-                "agua natural":180
+                "Agua saborizada": 50.0,
+                "Agua natural": 180.0
             },
-      
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "red bull":null,
+            "malta":null,
             "copas":{
-                "Vino blanco entre Rio": 160,
-                "Vino blanco":160
-            }
-        } 
+                "Vino blanco entre rio": 160.0,
+                "Vino blanco": 160.0
+            },
+            "coffees":null
+        }
     },
     "10%_of_the_service": false,
     "5%_of_the_service": false,

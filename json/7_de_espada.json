@@ -1,0 +1,193 @@
+{
+    "name": "7 de espada",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Callejon de Espada",
+            "Street2":"chacon",
+            "Street3":"cuarteles"
+        },
+        "coordinates_latitude_length": [23.1414562,-82.3601808]
+    },
+    "phone_number":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:30 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Tabla parrillera": 1900.0,
+            "Nugget de papa": 850.0,
+            "Tabla mixta": 1100.0,
+            "Papa frita": 850.0,
+            "Tostones al ajillo": 650.0,
+            "Frituras de malanga": 700.0,
+            "Tostadas": 400.0,
+            "Ceviche": 1000.0
+        },
+        "tacos":null,
+        "pizza_pasta_add":null,
+        "hamburgers_and_sandwichs": {
+            "Hmaburguesa de res": 1400.0,
+            "Hamburguesa de pollo": 1400.0,
+            "Sandwich cubano": 2150.0,
+            "Pan con lechon": 1750.0,
+            "Sandwich de vegetales": 1050.0,
+            "Sandwich de pollo": 1450.0,
+            "Sandwich de queso": 1050.0,
+            "Sandwich de jamon y queso": 1100.0,
+            "Sandwich de atun": 1050.0
+        },
+        "strong_dishes":{
+            "Pollo grille": 2200.0,
+            "Cerdo desmechado": 2900.0,
+            "Vaca frita": 2300.0,
+            "Ropa vieja": 2300.0,
+            "Picadillo a la habanera": 2200.0,
+            "Pescado grille": 2700.0,
+            "Langosta grille": 2700.0,
+            "Langosta enchilada": 2800.0,
+            "Camaron salteado": 2700.0,
+            "Camaron enchilado": 2900.0,
+            "Mariscada": 4200.0,
+            "Pulpo grille": 3500.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Pasta napolitana": 1500.0,
+            "Pasta frutti di mare": 2500.0,
+            "Pasta bolognesa": 2000.0,
+            "Pasta de vegetales": 1300.0,
+            "Pasta de pollo en salsa alfredo": 2100.0
+        },
+        "desserts": {
+            "Postre de la casa": 750.0,
+            "icecream_flavors":{
+                "Helado": 650.0,
+                "Batido de helado": 800.0
+            }
+        },
+        "side_dishes": {
+            "Ensalada estaciones": 500.0,
+            "Ensalada de atun": 1000.0,
+            "Arroz blanco": 400.0,
+            "Arroz moro": 500.0,
+            "Frijoles negros": 500.0,
+            "Garbanzo frito": 2800.0,
+            "Arroz salteado con vegetales": 1300.0,
+            "Paella": 4200.0,
+            "Gran paella": 7300.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Cuba libre": 750.0,
+                    "Cubata": 800.0,
+                    "Cubanito": 950.0,
+                    "Caipirissima": 800.0,
+                    "Caipiroska": 800.0,
+                    "Caipirinha": 800.0,
+                    "Bloody mary": 900.0,
+                    "Pinha colada": 850.0,
+                    "Servicio de chelada": 250.0,
+                    "Servicio de michelada": 300.0,
+                    "Michelada nacional": 1050.0,
+                    "Michelada kermato": 1100.0,
+                    "Canchanchara": 800.0,
+                    "Sangria": 850.0,
+                    "Screwdriver": 800.0,
+                    "Mojito": 700.0,
+                    "Mojito loco": 1050.0,
+                    "Gin tonic": 950.0,
+                    "Vodka tonic": 800.0,
+                    "Margarita": 750.0,
+                    "Tequila sunrise": 800.0,
+                    "Negroni": 1150.0,
+                    "Daiquiri": 750.0,
+                    "Daiquiri de frutas": 800.0,
+                    "Martini": 850.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Habana club 3 anhos": 650.0,
+                    "Habana club especial": 950.0,
+                    "Habana club smoky": 950.0,
+                    "Habana club 7 anhos": 800.0,
+                    "Hc seleccion de maestros": 1350.0,
+                    "Hc pacto navio red": 1450.0,
+                    "Hc pacto navio": 1350.0,
+                    "Cubay extra viejo": 1550.0,
+                    "Cubay extra viejo 1870": 1650.0,
+                    "Legendario ronsse": 700.0,
+                    "Santiago 8 anhos": 700.0,
+                    "Santiago 12 anhos": 1200.0,
+                    "Isla del tesoro": 2550.0,
+                    "Swing": 1350.0,
+                    "Chivas regal 12 anhos": 1250.0,
+                    "Disaronno": 1200.0,
+                    "Licor de melocoton": 350.0,
+                    "Limoncello": 750.0,
+                    "Jagermeifter": 750.0,
+                    "Campario": 750.0,
+                    "Amaretto conti": 750.0,
+                    "Drambuie": 450.0,
+                    "Bols crema de banana": 350.0,
+                    "Airisbei (crema de whisky)": 750.0,
+                    "Omelca blanco": 750.0,
+                    "Omelca reposado": 750.0,
+                    "Vodka de la casa": 750.0,
+                    "Copa de vino blanco": 800.0,
+                    "Copa de vino tinto": 900.0
+                },
+                "beers":{
+                    "Cerveza nacional": 750.0,
+                    "Cerveza importada": 650.0
+                }
+            },
+            "water":{
+                "Agua natural": 550.0,
+                "Agua gaseada": 550.0
+            },
+            "soft_drinks":{
+                "Refresco": 600.0
+            },
+            "juices":{
+                "Jugos naturales": 550.0
+            },
+            "lemonade":{
+                "Limonada frappe": 600.0,
+                "Limonada de hierbabuena": 700.0
+            },
+            "Energizante": 600.0,
+            "malta":{
+                "Malteada": 800.0
+            },
+            "copas":null,
+            "coffees":{
+                "Cafe espresso": 250.0,
+                "Capuccino": 350.0,
+                "Cafe cortado": 350.0,
+                "Americano": 250.0,
+                "Frapuccino": 650.0,
+                "Cafe con leche": 550.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

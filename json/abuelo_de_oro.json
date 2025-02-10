@@ -1,0 +1,96 @@
+{
+    "name": "Abuelo deOro",
+    "food_type": ["cubana","internacional","italiana"],
+    "municipality": "Boyeros",
+    "location": {
+        "address":{
+            "Street1":"Calzada Aldabo ",
+            "Street2":"12",
+            "Street3":"13"
+        },
+        "coordinates_latitude_length" : [23.0577548,-82.3854904]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":2.9,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "croquetas": 500.0,
+            "empanadas": 500.0,
+            "frituras": 500.0,
+            "tostones rellenos": 1000.0,
+            "papas bravas": 500.0,
+            "papas doradas": 450.0,
+            "ceviche": 2000.0,
+            "coctel de langosta": 2000.0,
+            "coctel de camarones": 2000.0,
+            "tabla surtida": 3000.0
+        },
+        "tacos":{
+            "tacos ropa vieja": 1500.0,
+            "tacos vaca frita": 1450.0,
+            "tacos cerdo": 1200.0
+        },
+        "hamburgers_and_sandwichs": {
+            "sandwich jamon y queso": 1500.0,
+            "sandwich pechuga y queso": 1800.0
+        },
+        "strong_dishes": {
+            "pechuga grille": 3000.0,
+            "pechuga salteada": 3500.0,
+            "pollo frito": 2500.0,
+            "bistec encebollado": 2500.0,
+            "cerdo salteado": 2800.0,
+            "medalla con jamon y queso": 3800.0,
+            "medalla con ropa vieja y queso": 3800.0,
+            "chuletilla": 3000.0,
+            "1kg cerdo asado": 15000.0,
+            "chuleton cerdo": 6500.0,
+            "chuleta cerdo": 3000.0,
+            "vaca frita": 3000.0,
+            "ropa vieja": 3000.0,
+            "bistec res cazuela": 3500.0,
+            "picadillo habanera": 2900.0,
+            "langosta en sus variedades": 4800.0,
+            "camaron variado": 4800.0,
+            "filete pescado grille": 3000.0,
+            "filete pescado montado": 4000.0,
+            "gratin del mar": 4000.0,
+            "mar y tierra": 19000.0
+        },
+        "pizzas": {
+            "pizza napolitana": 1000.0,
+            "pizza jamon": 1300.0,
+            "pizza hawaiana": 1400.0,
+            "pizza cebolla": 1100.0,
+            "pizza pimiento": 1100.0,
+            "pizza pepperoni": 1500.0
+        },
+        "pastas": {
+            "espaguetis napolitanos": 1200.0,
+            "espaguetis jamon": 1500.0
+        },
+        "pizza_pasta_add":null,
+        "side_dishes":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "desserts": null,
+        "liquids":null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

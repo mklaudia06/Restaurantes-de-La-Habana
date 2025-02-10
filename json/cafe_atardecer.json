@@ -1,0 +1,78 @@
+{
+    "name": "Cafe atardecer",
+    "municipality": "Regla",
+    "location":{
+        "address":{
+            "Street1":"Marti",
+            "Street2":"Albuquerque",
+            "Street3":"perdomo"
+        },
+        "coordinates_latitude_length" : [23.1252476,-82.3336022]
+    },
+    "food_type": ["criolla"],
+    "phone_number":null,
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Con croqueta": 75.0,
+            "Medallon": 90.0,
+            "Con queso": 90.0,
+            "Con perro": 120.0,
+            "Con jamon y queso": 150.0
+        },
+        "strong_dishes":{
+            "Empanada": 450.0,
+            "Fajitas": 450.0,            
+            "Escalope": 480.0,
+            "Fricase": 380.0,
+            "Empanado": 320.0
+
+        },
+        "pizzas": null,
+        "pastas": {
+            "Espaghetti napolitano": 250.0,
+            "Espaguetti de jamon": 300.0
+        },
+        "pizza_pasta_add":null,
+        "desserts": null,
+        "side_dishes": {
+            "Arroz": 0.0,
+            "Vianda": 0.0,
+            "Ensalada": 0.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":null,
+            "water":null,
+            "soft_drinks":{
+                "Refresco": 20.0
+            },
+            "juices":null,
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "Cafe": 15.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

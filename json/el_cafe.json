@@ -1,0 +1,119 @@
+{
+    "name": "El Cafe",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Amargura",
+            "Street2":"Cristo",
+            "Street3":"Aguacate"
+        },
+        "coordinates_latitude_length" : [23.1367406,-82.3577204]
+    },
+    "phone_number": "78613817",
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "05:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.6,
+    "social_media": {
+        "instagram":"elcafehavana",
+        "facebook":"El Cafe"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Tostadas de tomate": 500.0,
+            "Tortilla con calabaza y cebolla": 950.0,
+            "Galleta de avena y jengibre (c/u)": 40.0,
+            "Ensalada Chikpea": 950.0,
+            "Ensalada Chikpea con cordero": 1200.0,
+            "Plato de frutas frescas": 60.0,
+            "Tostadas de mantequilla": 80.0,
+            "Tostadas de mantequilla con mermelada": 80.0,
+            "Tostadas de mantequilla de mani": 80.0,
+            "Huevos, tomate, aguacate, tostadas y mantequilla": 300.0,
+            "Huevos, tomate, aguacate, tostadas, mantequilla y queso": 350.0,
+            "Huevos, tomate, aguacate, tostadas, mantequilla y bacon": 500.0,
+            "Huevos, tomate, aguacate, tostadas, mantequilla, bacon y queso": 500.0,
+            "Hummus con pepino, tomate, zanahorias y tostadas": 300.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich vegano de hummus, vegetales asados y salsa picante": 300.0,
+            "Sandwich de jamon y queso con tomate, aji y hierba buena": 400.0,
+            "Sandwich de bacon, lechuga, tomate y aguacate": 500.0,
+            "Sandwich de queso, pimenton y cebollino": 350.0,
+            "Sandwich de cerdo asado con yuca, lechuga y mermelada de naranja agria": 450.0,
+            "Sandwich de pollo con tomate, rucula y alioli verde": 400.0
+        },
+        "strong_dishes": null,
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "Yogurt con frutas frescas": 150.0,
+            "Yogurt con frutas frescas y granola": 180.0,
+            "Pancakes de frutas y miel": 300.0,
+            "Panetela navidena": 120.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 250.0,
+                    "Caipirinha": 250.0,
+                    "Canchanchara": 250.0,
+                    "Dark & Stormy (jengibre y ron)": 250.0  
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Ron Collins": 250.0
+                },
+                "beers":{
+                    "Cerveza": 150.0
+                }
+            },
+            "water":{
+                "Agua": 50.0
+            },
+            "soft_drinks":{
+                "Refresco de jengibre": 100.0
+            },
+            "juices":{
+                "Jugos frescos": 120.0,
+                "Batidos": 150.0,
+                "Batidos con leche vegana": 180.0  
+            },
+            "lemonade":{
+                "Limonada fresca": 120.0
+            },
+            "copas":null,
+            "coffees":{
+                "Expresso": 60.0,
+                "Cafe cortado": 80.0,
+                "Cafe americano": 100.0,
+                "Cafe con leche": 140.0,
+                "Cappuchino": 150.0,
+                "Cafe frappe": 160.0,
+                "Cafe con leche y hielo": 140.0,
+                "Cafe Clandestina": 80.0,
+                "Long Black": 100.0,
+                "Frappuccino": 160.0,
+                "Chocolate caliente": 120.0,
+                "Te": 60.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

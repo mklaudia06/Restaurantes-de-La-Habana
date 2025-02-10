@@ -1,0 +1,64 @@
+{
+    "name": "La Divina Pastora",
+    "food_type": ["cubana estilizada (nativa)"],
+    "municipality": "Habana del Este",
+    "location": {
+        "address":{
+            "Street1":"Complejo Morro Cabaña",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1476408,-82.3574638]
+    },
+    "phone_number": "77937809",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.7,
+    "social_media": {
+        "instagram":"pastorarestauranteladivina",
+        "facebook":"la Divina Pastora"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croqueticas La Tasca": 540.0,
+            "Deditos de pollo": 540.0,
+            "Empanadas Divina Pastora": 1500.0,
+            "Fritura de malanga": 540.0,
+            "Garbanzo frito": 1620.0,
+            "Tablita de salmon ahumado": 1620.0,
+            "Pastas fruto del mar": 2100.0,
+            "Hamburguesa Pastora": 1080.0,
+            "Sandwich Roast Beef": 1620.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo empanado a la parmesana": 1200.0,
+            "Filete de pescado": 2300.0,
+            "Filete de cerdo": 2040.0,
+            "Rollito de cerdo": 1560.0,
+            "Filete de res": 2880.0,
+            "Estofado de res": 2040.0,
+            "Langosta Divina Pastora": 2500.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

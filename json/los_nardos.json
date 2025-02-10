@@ -1,0 +1,182 @@
+{
+    "name": "Los Nardos",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Paseo de Marti",
+            "Street2":"Dragones",
+            "Street3":"Teniente Rey"
+        },
+        "coordinates_latitude_length" : [23.1349496,-82.3587378]
+    },
+    "phone_number": "78632985",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.3,
+    "social_media": {
+        "instagram":null,
+        "facebook":"Restaurante Los Nardos y Asturianito"
+    },
+    "menu": {
+        "breakfast": {
+            "Tortilla espanhola": 865.0,
+            "Tortilla vazca": 940.0
+        },
+        "started": {
+            "Ensalada de vegetales frescos": 620.0,
+            "Ensalada de frutas tropicales": 725.0,
+            "Coctel de frutas tropicales": 805.0,
+            "Ensalada de rollo de primavera": 1035.0,
+            "Surtidito de la casa": 2420.0,
+            "Ensalada a la vinagreta": 1710.0,
+            "Ensalada mediterranea": 1710.0,
+            "Estilo de los nardos,": 1710.0,
+            "Camaroncillos en coctel": 1425.0,
+            "Ensaladita de atun": 1425.0,
+            "Carpaccio de pescado": 935.0,
+            "Coctel de pescado": 935.0,
+            "Ensalada de jamon serrano y frutas tropicales": 2590.0,
+            "Gran tabla de embutidos y quesos": 4040.0,
+            "Tamal en cazuela": 1060.0,
+            "Bolitas de queso": 1920.0,
+            "Garbanzos fritos": 1295.0,
+            "Gran picadera de los nardos": 2485.0,
+            "Sopa de pollo": 865.0,
+            "Fabada al estilo del chef": 1450.0,
+            "Sopa de vegetales": 490.0,
+            "Gazpacho andaluz": 640.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo frito": 2480.0,
+            "Pollo grille": 2490.0,
+            "Pollo gordon blue": 2870.0,
+            "Fajitas de pollo": 2230.0,
+            "Pechuga de pollo grille": 2420.0,
+            "Dados de pollo al gusto": 2160.0,
+            "Brocheta mixta de pollo": 2230.0,
+            "Bistec de cerdo": 2200.0,
+            "Escalope de cerdo": 2330.0,
+            "Uruguayo de cerdo": 2500.0,
+            "Masas de cerdo": 2800.0,
+            "Chuletas de cerdo": 2500.0,
+            "Lomo de cerdo ahumado": 2500.0,
+            "Pierna de cerdo hawaiana": 2800.0,
+            "Pierna de cerdo a la criolla": 2800.0,
+            "Ropa vieja de cerdo": 2780.0,
+            "Cerdo salteado": 2260.0,
+            "Filete de pescado grille": 2500.0,
+            "Pescado canciller": 2845.0,
+            "Masas de pescado": 2500.0,
+            "Eperlan de pescado": 2500.0,
+            "Filete de pescado joinville": 2870.0,
+            "Filete de pescado monte toro": 2590.0,
+            "Filete de pescado don pedro": 2745.0,
+            "Camarones al gusto": 2900.0,
+            "Langosta": 2660.0,
+            "Cena cubana": 3235.0,
+            "Cordero al gusto": 2715.0,
+            "Paletilla de cordero a las finas hierbas": 3610.0,
+            "Paella mixta": 1920.0,
+            "Paella de vegetales": 1575.0,
+            "Grillada mar y tierra": 4460.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "pizza_pasta_add":null,
+        "desserts": {
+            "Flan al caramelo": 449.0,
+            "Torta del dia": 559.0,
+            "Torrejas en almibar": 559.0,
+            "Cake a la moda": 819.0,
+            "Torta helada": 559.0,
+            "Torta 3 leches": 559.0,
+            "Brownie de chocolate": 719.0,
+            "Pudin": 439.0,
+            "icecream_flavors":{
+                "Copa lolita": 719.0,
+                "Helado": 719.0
+            }
+        },
+        "side_dishes": {
+            "Arroz blanco": 295.0,
+            "Moros y cristianos": 295.0,
+            "Frijoles": 295.0,
+            "Viandas hervidas": 295.0,
+            "Vegetales salteados": 295.0,
+            "Arroz indiana": 295.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada": 308.0,
+                    "Vermouth": 230.0,
+                    "Mojito": 385.0,
+                    "Daiquiri": 385.0,
+                    "Cuba libre": 456.0,
+                    "Sangria": 495.0,
+                    "Pinha colada": 439.0,
+                    "San francisco": 329.0,
+                    "Otros cocteles": 439.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cana de cerveza": 512.0,
+                    "Jarra de cerveza": 1650.0,
+                    "Jarrazo": 659.0,
+                    "Cerveza nacional": 308.0,
+                    "Cerveza importada": 461.0
+                }
+            },
+            "water":{
+                "Agua nacional": 164.0,
+                "Agua importada": 219.0
+            },
+            "soft_drinks":{
+                "Refresco nacional": 275.0,
+                "Refresco de maquina": 207.0,
+                "Refresco importado": 275.0
+            },
+            "juices":{
+                "Jugos naturales": 349.0,
+                "Jugos importados": 247.0,
+                "Jugos de caja": 165.0
+            },
+            "lemonade":{
+                "Limonada": 263.0
+            },
+            "Kermato": 449.0,
+            "red bull":461.0,
+            "malta":{
+                "Maltas": 649.0,
+                "Malteada": 274.0
+            },
+            "copas":{
+                "Copa de vino": 345.0
+            },
+            "coffees":{
+                "Cafe": 219.0,
+                "Cafe cortado": 219.0,
+                "Cafe con leche": 274.0,
+                "Cafe capuccino": 274.0,
+                "Cafe bombon": 274.0,
+                "Cafe irlandes": 109.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,102 @@
+{
+    "name": "La Catrina",
+    "food_type": ["mexicana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Calle 84",
+            "Street2":"Avenida 5ta",
+            "Street3":"5ta A"
+        },
+        "coordinates_latitude_length" : [23.1049419,-82.4451577]
+    },
+    "phone_number": "56593890",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.6,
+    "social_media": {
+        "instagram":"lacatrina_havana",
+        "facebook":"La Catrina Havana"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Quesadillas con tortillas de trigo con queso": 1700.0,
+            "Quesadillas con queso y champinones": 2300.0,
+            "Quesadillas con queso y chorizo iberico": 2300.0,
+            "Frijoles refritos": 1350.0,
+            "Ceviche acapulqueño": 2700.0,
+            "Ceviche de atun rojo": 3950.0,
+            "Carpaccio de res": 4200.0,
+            "Carpaccio de pulpo": 3800.0,
+            "Tostada de atun": 2700.0,
+            "Aguachile de camaron": 2900.0,
+            "Trio de ceviches": 3800.0,
+            "Salmorejo la catrina pequena": 1550.0,
+            "Salmorejo la catrina grande": 2100.0,
+            "Guacamole": 1750.0
+        },
+        "tacos":{
+            "Tacos al pastor": 2700.0, 
+            "Tacos envenenados": 1900.0,
+            "Tacos dorados": 1900.0,
+            "Tacos de res": 3100.0,
+            "Quesadilla tacos de fajitas de pollo": 2450.0,
+            "Quesadilla tacos de carne de cerdo": 2300.0,
+            "Festival de tacos 6": 4600.0,
+            "Festival de tacos 12": 8900.0,
+            "Festival de tacos del mar": 8800.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo en mole": 3200.0,
+            "Fajitas de pollo": 2700.0,
+            "Eperlan de pollo y papas fritas": 2450.0,
+            "Chuleton": 2470.0,
+            "Albondigas de la abuela": 2700.0,
+            "Fajitas de res": 3050.0,
+            "Solomillo de res": 6900.0,
+            "Bistec de res y papas fritas": 2900.0,
+            "Entrecot": 1090.0,
+            "Langosta grille": 4600.0,
+            "Calamares al ajillo": 3800.0,
+            "Ensenada de camaron": 3000.0,
+            "Langosta estilo baja california": 3050.0,
+            "Eperlan de pescado y papas fritas": 2450.0,
+            "Pescado del dia": 3250.0,
+            "Ensenada de pescado": 2900.0,
+            "Quesadillas de huitlacoche": 1700.0,
+            "Chilaquiles": 2700.0,
+            "Carnitas michoacanas": 2700.0,
+            "Gobernador": 3350.0,
+            "Cochinita pibil": 2700.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "Tartas del dia": 1400.0,
+            "Pie de limon": 1400.0,
+            "Tiramisu": 1400.0,
+            "Cheesecake": 1400.0,
+            "Flan casero": 1400.0,
+            "icecream_flavors":{
+                "Gelato italiano artesanal": 1200.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

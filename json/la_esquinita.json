@@ -1,0 +1,101 @@
+{
+    "name": "La Esquinita",
+    "food_type": ["mixta"],
+    "municipality": "10 de Octubre",
+    "location": {
+        "address":{
+            "Street1":"Calle Juan Lefont",
+            "Street2":"Libertad",
+            "Street3":"Johnson"
+        },
+        "coordinates_latitude_length" : [23.0997891,-82.3804077]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Picadera La Esquinita": 1000.0,
+            "Tostones": 400.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Hamburguesa sencilla": 500.0,
+            "Hamburguesa de jamon": 500.0,
+            "Hamburguesa de queso Gouda": 550.0,
+            "Hamburguesa de chorizo": 500.0,
+            "Hamburguesa de jamon y Gouda": 650.0,
+            "Hamburguesa La Esquinita": 750.0
+        },
+        "strong_dishes": {
+            "Bistec Gordon Blue": 1300.0,
+            "Pollo Chiflado": 650.0,
+            "Arroz frito": 500.0,
+            "Arroz frito con mariscos": 950.0
+        },
+        "pizzas": {
+            "Pizza de queso blanco": 400.0,
+            "Pizza de queso Gouda": 300.0,
+            "Pizza de queso blanco y jamon": 300.0,
+            "Pizza de queso Gouda y jamon": 400.0,
+            "Pizza de queso blanco y chorizo": 300.0,
+            "Pizza de queso Gouda y chorizo": 400.0,
+            "Pizza de queso blanco y atun": 500.0,
+            "Pizza de queso Gouda y atun": 600.0,
+            "Pizza de queso blanco y cebolla": 300.0,
+            "Pizza de queso Gouda y cebolla": 400.0,
+            "Pizza de queso blanco y pimiento": 300.0,
+            "Pizza de queso Gouda y pimiento": 400.0,
+            "Pizza de queso blanco Hawaiana": 400.0,
+            "Pizza de queso Gouda Hawaiana": 500.0,
+            "Pizza Especial La Esquinita": 600.0,
+            "Pizza grande de queso Gouda": 650.0,
+            "Pizza grande de queso blanco y jamon": 500.0,
+            "Pizza grande de queso Gouda y jamon": 750.0,
+            "Pizza grande de queso blanco y chorizo": 500.0,
+            "Pizza grande de queso Gouda y chorizo": 750.0,
+            "Pizza grande de queso blanco y atun": 700.0,
+            "Pizza grande de queso Gouda y atun": 950.0,
+            "Pizza grande de queso blanco y cebolla": 500.0,
+            "Pizza grande de queso Gouda y cebolla": 750.0,
+            "Pizza grande de queso blanco y pimiento": 500.0,
+            "Pizza grande de queso Gouda y pimiento": 750.0,
+            "Pizza grande de queso blanco Hawaiana": 550.0,
+            "Pizza grande de queso Gouda Hawaiana": 800.0,
+            "Pizza grande Especial La Esquinita": 1200.0,
+            "Pizza grande Familiar La Esquinita": 3000.0
+        },
+        "pastas": {
+            "Espaghettis blancos": 300.0,
+            "Espaghettis de queso Gouda": 450.0,
+            "Espaghettis blancos de jamon": 400.0,
+            "Espaghettis de queso Gouda con jamon": 550.0,
+            "Espaghettis blancos con chorizo": 400.0,
+            "Espaghettis de queso Gouda con chorizo": 550.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Papas fritas": 100.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

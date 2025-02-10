@@ -1,0 +1,156 @@
+{
+    "name": "Cafe Clington",
+    "food_type": ["internacional"],
+    "municipality": "Playa",
+    "Ownership": null,
+    "location": {
+        "address":{
+            "Street1":"Calle 60",
+            "Street2":"Avenida 3era",
+            "Street3":"Calle 3A"
+        },
+        "coordinates_latitude_length" : [23.1150126,-82.4367955]
+    },
+    "phone_number": "52629909",
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "06:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":"cafe_clington_",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": {
+            "Desayuno americano": 2000.0,
+            "Bxb": 600.0
+        },
+        "started": {
+            "Ensalada nicoise": 1500.0,
+            "Ensalada de aguacate y atun": 600.0,
+            "Ensalada de estacion": 500.0,
+            "Ensalada cesarin de suprema de pollo": 1000.0,
+            "Pasta fria de atun": 800.0,
+            "Pasta fria de jamon": 800.0,
+            "Pasta al pesto": 800.0,
+            "Tapas de jamon con frutos secos": 700.0,
+            "Tapas de falsa de atun napado en crema de vinagre balsamico": 900.0,
+            "Tapa iberica": 1000.0,
+            "Bruschettas": 900.0,
+            "Black and white": 1000.0,
+            "Anabella": 600.0,
+            "Hansel y gretel": 600.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich de atun": 900.0,
+            "Sandwich de jamon y queso": 900.0,
+            "Sandwich de vegetales con huevo": 900.0,
+            "Sandwich de pollo": 1000.0,
+            "Sandwich de pollo con queso gratinado": 1200.0,
+            "Club sandwich": 1800.0,
+            "Sandwich campesino": 2500.0,
+            "Mini burger": 310.0,
+            "Panini": 500.0,
+            "Hamburguesa": 400.0,
+            "Pan troceado": 400.0,
+            "Pan viena": 350.0,
+            "Pan molde aleman": 900.0,
+            "Perro new york": 350.0,
+            "Panini new york": 500.0,
+            "Pan perro": 350.0,
+            "Pan rustico": 1000.0,
+            "Pan baguette": 700.0,
+            "Pan ciabatta": 550.0,
+            "Pan challah": 1000.0,
+            "Pan iberico": 250.0,
+            "Pan campesino": 400.0
+        },
+        "strong_dishes": null,
+        "pizzas": null,
+        "pastas": null,
+        "pizza_pasta_add": null,
+        "desserts": {
+            "Flan fanguito": 600.0,
+            "Snicker": 750.0,
+            "Tofi": 600.0,
+            "Tarta de flan fanguito": 3500.0,
+            "Cheesecake sabor fresa, limon y kiwi": 750.0,
+            "Donas de chocolate": 570.0,
+            "Ojos de buey": 200.0,
+            "Magdalena": 250.0,
+            "Hoja": 150.0,
+            "Donas artesanales": 200.0,
+            "Pastel danes": 200.0,
+            "Caracol": 250.0,
+            "Pastel de guayaba": 250.0,
+            "Palmeras": 200.0,
+            "Coquito horneado": 200.0,
+            "Tarta grande de quiche lorraine": 3500.0,
+            "Porcion de tarta quiche lorraine": 350.0,
+            "Tarta pequeña de quiche lorraine": 600.0,
+            "Tarta san marcos": 5000.0,
+            "Protiferol": 450.0,
+            "Eclair": 450.0
+        },
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "Other": {
+            "Yougurt natural de 1l": 1200.0,
+            "Yogurt probiotico de mango y guayaba": 900.0
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza cristal": 300.0,
+                    "Cerveza sol": 400.0,
+                    "Cerveza bucanero": 400.0,
+                    "Cerveza heineken": 500.0,
+                    "Cerveza blue": 300.0,
+                    "Cerveza corona": 550.0
+                }
+            },
+            "water":{
+                "Agua purificada de 500ml": 270.0,
+                "Agua purificada de 1l": 350.0,
+                "Agua purificada de 5l": 900.0,
+                "Agua gaseada": 500.0
+            },
+            "soft_drinks":{
+                "Pepsi": 350.0,
+                "Coca cola": 450.0,
+                "Sprite": 450.0
+            },
+            "juices":{
+                "Jugos de 1l": 900.0,
+                "Copa de jugos naturales": 250.0
+            },
+            "lemonade":null,
+            "red bull":500.0,
+            "malta":350.0,
+            "copas":null,
+            "coffees":{
+                "Expresso": 200.0,
+                "Cortado": 250.0,
+                "Capuchino": 500.0,
+                "Bombon": 500.0,
+                "Frapuccino": 600.0,
+                "Con leche": 600.0,
+                "Chocolate caliente": 600.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

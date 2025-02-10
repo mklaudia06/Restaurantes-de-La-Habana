@@ -1,0 +1,92 @@
+{
+    "name": "Cafe boulevard",
+    "municipality": "Centro Habana",
+    "food_type": ["cubana"],
+    "location": {
+        "address":{
+            "Street1":"Boulevard de San Refael",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1364716,-82.3655]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.4,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Ensalada de estacion": 200.0,
+            "Papas fritas": 150.0
+        },
+        "tacos":null,
+        "strong_dishes": {
+            "Fajitas de pollo": 1300.0,
+            "Fajitas de cerdo": 1350.0,
+            "Filete de merluza": 550.0
+        },
+        "pizzas": null,
+        "pizza_pasta_add":null,
+        "desserts":null,
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "pastas": null,
+        "side_dishes": {
+            "Caldosa boulevard": 200.0,
+            "Arroz con subproductos": 300.0
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Licor paso pondal (30ml)": 75.0,
+                    "Licor fenet blanca (30ml)": 75.0,
+                    "Vino tinto cabernet": 1340.0,
+                    "Licor de cafe (30ml)": 75.0,
+                    "Grappa carolina bianca (30ml)": 75.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "ginebra":null,
+                    "tequila":null,
+                    "vodka":null,
+                    "whiskey":null,
+                    "ron":{
+                        "Ron legendario anhejo (45ml)": 90.0,
+                        "Ron legendario dorado (45ml)": 100.0,
+                        "Trago legendario ronse (45ml)": 75.0
+                    }
+
+                },
+                "beers":{
+                    "Cerveza importada": 180.0
+                }
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "Jugo de fruta": 100.0
+            },
+            "lemonade":null,
+            "copas":{
+                "Copa de vino blanco (125ml)": 145.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}
