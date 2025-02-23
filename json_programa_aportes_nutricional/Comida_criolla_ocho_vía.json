@@ -68,9 +68,9 @@
         "unit_of_measure":"gramos",
         "type":"cerdo"
       },
-      "Fricase de Carnero(960 gramos)" : {
+      "Fricase de Carnero" : {
         "price": 2200.00,
-        "number_um":null,
+        "number_um":960,
         "unit_of_measure":null,
         "type":"carnero"
       },

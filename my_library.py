@@ -22,9 +22,18 @@ def name_platos(diccionario):
                 lista_platos.append(clave)
     return lista_platos
 
-def calcular_nutrientes (clave,claves):
-    nutriente = (clave/100)*claves
-    return nutriente
+def calcular_nutrientes(data_nutrientes, tipo_carne, gramos):
+    if tipo_carne in data_nutrientes and gramos is not None:
+        nutrientes = data_nutrientes[tipo_carne]
+        resultado = {}
+        for nutriente, valor in nutrientes.items():
+            if valor is not None:
+                resultado[nutriente] = (valor / 100) * gramos
+            else:
+                resultado[nutriente] = 0
+        return resultado
+    else:
+        return {}
 
 def coger_el_numero(diccionario):
     platos_gramos_tipos = set()
