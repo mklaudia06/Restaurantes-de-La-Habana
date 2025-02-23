@@ -5,7 +5,7 @@
         "address":{
             "Street1":"Calle C",
             "Street2":"1ª",
-            "Street3":" 3ª"
+            "Street3":"3ª"
         },
         "coordinates_latitude_length": [23.142433620136078, -82.39923307575508]
     },

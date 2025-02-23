@@ -72,9 +72,7 @@
             " Pasta Frutti Di Mare (Pasta Corta(Penne), Langostas, Pulpo, Tomate natural, albahaca, perejil y palmesano)":3500.00,
             "Lechon Ahumado (Cortes de Lomo Ahumado, a la brasa con salsa de Fruta y Vegetales al Carbon)": 3300.00         
             },
-        "pastas": {
-
-        },
+        "pastas": null,
         "pizzas": null,
         "pizza_pasta_add-on": null,
         "side_dishes":{

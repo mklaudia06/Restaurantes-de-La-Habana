@@ -1,0 +1,101 @@
+{
+    "name": "La Esquina de Cuba",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Calle Cuba",
+            "Street2":"Empedrado",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1406954,-82.3531865]
+    },
+    "phone_number": "59110994",
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.8,
+    "social_media": {
+        "instagram":"laesquinadecuba",
+        "facebook":"La Esquina de Cuba"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Fritura de malanga": 750.0,
+            "Patacon de la esquina": 1050.0,
+            "Montadito de tamal": 1080.0,
+            "Ceviche de pescado": 1450.0,
+            "Taquitos de la casa": 1580.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo al vino tinto": 2050.0,
+            "Pescado grille con crema de malanga": 2950.0,
+            "Camarones enchilados": 3050.0,
+            "Frutos del mar": 3150.0,
+            "Ensalada del mar": 3450.0,
+            "Cazuela del mar": 3550.0,
+            "Almuerzo campesino (cerdo asado, arroz, frijoles, tostones)": 2350.0,
+            "Habanero con sabor (ropa vieja, arroz, frijoles, platano macho)": 2380.0,
+            "Guajiro con tumbao (masas de cerdo fritas, arroz, frijoles, matajibaro)": 2580.0,
+            "Arroz con pollo": 2250.0,
+            "Ribeye a la esquinita": 8450.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "Postre del dia": 595.0,
+            "icecream_flavors":null
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "side_dishes": null,
+        "pizza_pasta_add":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Pina colada": 950.0,
+                    "Margarita": 950.0,
+                    "Sangria": 950.0,
+                    "Mojito": 750.0,
+                    "Cuba libre": 750.0,
+                    "Daiquiri": 750.0,
+                    "Caipirinha": 750.0,
+                    "Daiquiri de frutas": 850.0,
+                    "Cubata": 850.0,
+                    "Mojito de frutas": 850.0,
+                    "Gin tonic": 850.0,
+                    "Caipiroska": 850.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza nacional": 450.0
+                }
+            },
+            "water":{
+                "Aguas": 250.0
+            },
+            "soft_drinks":{
+                "Refrescos": 375.0
+            },
+            "juices":null,
+            "lemonade":null,
+            "copas":{
+                "Copa de vino": 650.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

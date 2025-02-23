@@ -1,0 +1,112 @@
+{
+    "name": "Europa",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Obispo",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1384262,-82.353996]
+    },
+    "phone_number": "78644484",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.6,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Fajitas de cerdo": 990.0,
+            "Nudgget de pollo": 415.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Lonja de cerdo asaado": 775.0,
+            "Bistec de cerdo": 850.0,
+            "Ropa vieja": 375.0,
+            "Arroz con camaron": 550.0,
+            "Camaron grille": 1900.0,
+            "Camaron enchilado": 1740.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 650.0
+        },
+        "pastas": null,
+        "desserts": {
+            "Arroz con leche": 100.0,
+            "icecream_flavors":{
+                "Bola de helado": 45.0
+            }
+        },
+        "side_dishes": {
+            "Arroz sustancia": 105.0,
+            "Arroz blanco": 100.0,
+            "Arroz moro": 135.0,
+            "Vianda hervida": 175.0
+        },
+        "pizza_pasta_add": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Ron collins": 350.0,
+                    "Mojito": 300.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Ron habana club anhejo 3 anhos": 200.0,
+                    "Ron habana club anhejo especial": 200.0,
+                    "Ron habana club anhejo reserva": 380.0,
+                    "Ron habana ritual renovado": 250.0,
+                    "Ron visual black tears aguardiente": 180.0,
+                    "Ron habana clb 7anhos": 400.0,
+                    "Whisky chanceler": 180.0,
+                    "Whisky whytemackay blended scotid": 650.0,
+                    "Ginebra beefater": 215.0,
+                    "Licores": 190.0
+                },
+                "beers":{
+                    "Cerveza importada de lata": 175.0,
+                    "Cerveza dispensada": 190.0
+                }
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "Jugo nacional": 90.0,
+                "Vaso de jugo": 100.0
+            },
+            "lemonade":{
+                "Limonada": 100.0
+            },
+            "malta":{
+                "Malta importada": 135.0
+            },
+            "copas":{
+                "Vino blanco": 200.0,
+                "Vino tinto": 200.0
+            },
+            "coffees":{
+                "Cafe expresso": 125.0,
+                "Cafe americano": 150.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

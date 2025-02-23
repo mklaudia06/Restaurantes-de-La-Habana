@@ -49,9 +49,7 @@
         },
         "pastas": null,
         "pizzas":null,
-        "pizza_pasta_add-on": {
-
-        },
+        "pizza_pasta_add-on": null,
         "side_dishes":{
            "Arroz Moro": 150.00,
            "Arroz Blanco": 150.00

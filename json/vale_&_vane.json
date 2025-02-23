@@ -1,0 +1,103 @@
+{
+    "name": "Vale & Vane",
+    "food_type": ["italiana","criolla"],
+    "municipality": "Guanabacoa",
+    "location": {
+        "address":{
+            "Street1":"Santa Maria",
+            "Street2":"Corrales",
+            "Street3":"Aparicion"
+        },
+        "coordinates_latitude_length" : [23.1215367,-82.29623]
+    },
+    "phone_number": "77947261",
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":"Vale & Vane"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "bistec princesa": 1920.0,
+            "pollo frito": 1000.0,
+            "suprema grille": 1400.0,
+            "suprema encebollada": 1650.0,
+            "chuleta de cerdo": 1100.0,
+            "bistec cerdo grille": 1200.0,
+            "masa de cerdo frita": 1300.0,
+            "bistec encebollado": 1450.0,
+            "costilla cerdo": 1650.0,
+            "lomo ahumado": 1400.0,
+            "uruguayo": 1600.0,
+            "vaca frita": 1600.0,
+            "ropa vieja": 1600.0,
+            "camaron grille": 1800.0,
+            "enchilado camaron": 1850.0,
+            "filete pescado grille": 1800.0,
+            "mar y tierra": 2500.0,
+            "garbanzo frito": 1300.0
+        },
+        "pizzas": {
+            "pizza napolitana": 650.0,
+            "pizza familiar": 2500.0
+        },
+        "pastas": {
+            "spaghetti napolitano": 650.0,
+            "spaghetti con jamon": 900.0,
+            "spaghetti con chorizo": 900.0,
+            "spaghetti doble queso": 920.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "cerveza cristal (lata)": 280.0,
+                    "cerveza cristal (botella)": 380.0,
+                    "cerveza hollandia": 250.0,
+                    "cerveza wild hill": 250.0
+                }
+            },
+            "water":{
+                "agua natural": 180.0
+            },
+            "soft_drinks":{
+                "refresco lata": 250.0
+            },
+            "juices":{
+                "jugo natural (cajita)": 200.0,
+                "jugo natural (lata)": 270.0
+            },
+            "lemonade":null,
+            "tigon": 280.0,
+            "malta":{
+                "malta hyper malta": 270.0,
+                "malta bucanero": 300.0
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

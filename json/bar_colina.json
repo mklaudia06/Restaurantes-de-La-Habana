@@ -1,0 +1,58 @@
+{
+    "name": "Bar Colina",
+    "food_type": ["italiana"],
+    "municipality": "San Miguel del Padron",
+    "location": {
+        "address":{
+            "Street1":"Esquina b",
+            "Street2":"calzada de guines",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.097284, -82.335176]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "entremes de jamon y queso": 600.0,
+            "croquetas": 400.0,
+            "frituras de malanga": 550.0,
+            "tostones": 400.0,
+            "tostones rellenos": 600.0,
+            "chicharrita": 300.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": null,
+        "pizzas": {
+            "pizza napolitana grande": 650.0,
+            "pizza napolitana": 220.0
+        },
+        "pastas": {
+            "espaguetti napolitano": 550.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,80 @@
+{
+    "name": "Habana Tokio",
+    "food_type": ["japonesa"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Obrapia",
+            "Street2":"Bernaza",
+            "Street3":"Villegas"
+        },
+        "coordinates_latitude_length" : [23.1372493,-82.3567724]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.5,
+    "social_media": {
+        "instagram":"habanatokio",
+        "facebook":"Habana Tokio"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Chicken teriyaki": 2400.0,
+            "Tempura udon": 2000.0,
+            "Tempura": 2300.0,
+            "Tempura de camaron": 3000.0,
+            "Tempura de calamar": 3000.0,
+            "Sushi mixto": 2750.0,
+            "Sushi de atun": 1750.0,
+            "Sushi de salmon": 2100.0,
+            "Chashu": 1000.0,
+            "Ramen": 2550.0,
+            "Ramen de camaron": 3000.0,
+            "Takoyaki": 1000.0,
+            "Yakitori": 2400.0,
+            "Tonkatsu": 2750.0,
+            "Karaage": 2400.0,
+            "Katsudon": 2850.0,
+            "Katsudon oyakudan": 2800.0,
+            "Yakisoba": 2750.0,
+            "Yakisoba de camaron": 3100.0,
+            "Yakisoba de calamar": 3100.0,
+            "Yakisoba de mariscos": 3100.0,
+            "Combo de habana tokio": 3900.0,
+            "Sashimi salmon": 4400.0,
+            "Sashimi de atun": 4200.0,
+            "Sashimi": 2200.0,
+            "Tataki": 2300.0,
+            "Nigiri": 2500.0,
+            "Sashimi (acompanhado de arroz y sopa)": 2900.0,
+            "Nigiri (acompanhado de sopa)": 2900.0,
+            "Sashimi de calamar": 2900.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "Flan": 600.0,
+            "Kakigori": 800.0,
+            "icecream_flavors":null
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "side_dishes": null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

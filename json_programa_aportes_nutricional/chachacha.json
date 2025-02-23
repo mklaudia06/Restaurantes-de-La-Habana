@@ -1,0 +1,169 @@
+{
+    "name": "ChaChaCha",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Monserrate",
+            "Street2":"Tejadillo",
+            "Street3":"Chacon"
+        },
+        "coordinates_latitude_length" : [23.1406457,-82.3613199]
+    },
+    "phone_number": "78672450",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":null,
+        "facebook":"ChaChaChá Bar-Restaurante"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Ceviche de la casa": 3050.0,
+            "Carpaccio de pulpo con vinagreta de citricos": 3850.0,
+            "Tiradito de pez con chicharrita": 3050.0,
+            "Carpaccio de res con rucula y aceite de trufa": 4450.0,
+            "Carpaccio de atun rojo": 4100.0,
+            "Pan y mantequilla": 1150.0,
+            "Croquetas braseadas de pollo": 2250.0,
+            "Empanadillas de carne bbq": 2250.0,
+            "Tabla de jamon serrano, salami y quesos": 5700.0,
+            "Sashimi ahumado": 4100.0,
+            "Tartar de res": 4450.0,
+            "Tartar de atun": 4100.0
+        },
+        "tacos":{
+            "Tacos chachacha": 2700.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Masas de cerdo confitadas":3800.0,
+            "Lechon cubano":4560.0,
+            "Solomillo de cerdo espanhol":5320.0,
+            "Puntas de cerdo bbq":5320.0,
+            "Ropa vieja de la abuela":4180.0,
+            "Picadillo a la habanera": 4180.0,
+            "Puntas de filete estilo chachacha": 7600.0,
+            "Filete de pescado al horno con finas hierbas": 4180.0,
+            "Langosta caribenha":6460.0,
+            "Zarzuela de mariscos":105000.0,
+            "Camarones al gusto":6460.0,
+            "Pulpo nordico":9500.0,
+            "Calamar patagonico":6460.0,
+            "Jorrin":3050.0,
+            "Cesar con pollo y bacon":3850.0,
+            "Chachacha":3850.0,
+            "Mixta de salmon":3850.0,
+            "Griega": 3850.0,
+            "Arroz thai de pollo, curry de coco y pasas":4180.0,
+            "Solomillo argentino":  {
+                "price":11150.0,
+                "number_um":280,
+                "unit_of_measure":"gramos",
+                "type":"cerdo"
+            },
+            "Entrecote de ternera": {
+                "price":5320.0,
+                "number_um":350,
+                "unit_of_measure":"gramos",
+                "type":"res"
+            }, 
+            "Coctel de langosta":2660.0,
+            "Patacon chachacha":2700.0,
+            "Quesadilla cuatro quesos": 3420.0,
+            "Papa rellena de camaron y queso": 2700.0,
+            "Frituritas de malanga":2250.0,
+            "Tamal en cazuela":1900.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Salsa bolonhesa": 3850.0,
+            "Camaron, curry y pimienta rosa": 4100.0,
+            "Salsa alfredo": 3850.0,
+            "Salsa funghi con pollo y trufa": 4450.0,
+            "Salsa carbonara trufada": 4150.0,
+            "Salsa bisque al fruti d'mare": 4900.0,
+            "Nero di sepia": 4900.0,
+            "Funghi - porcini y trufa": 4560.0,
+            "Del mar": 4560.0,
+            "Carbonara trufado": 4180.0,
+            "Semola y trufa": 4180.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "Crema de calabaza, betabel y parmesano": 1800.0
+        },
+        "digestive":null,
+        "desserts": {
+            "Brownie": 3000.0,
+            "Esfera de frutas": 3000.0,
+            "Bizcocho": 2900.0,
+            "Arroz con leche de la abuel": 2500.0,
+            "Flan tia lola": 2700.0,
+            "Carajillo": 1050.0,
+            "Bombon": 1200.0,
+            "icecream_flavors":{
+                "Copa de helado": 2200.0
+            }
+        },
+        "side_dishes": {
+            "Vianda frita": 760.0,
+            "Pure de temporada": 1140.0,
+            "Ensalada de estacion": 1520.0,
+            "Arroz blanco": 760.0,
+            "Frijoles negros": 1140.0
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 450.0,
+                    "Mojito de frutas": 500.0,
+                    "Daiquiri": 500.0,
+                    "Daiquiri de frutas": 550.0,
+                    "Cuba libre": 350.0,
+                    "Cubata": 480.0,
+                    "Cubanito": 450.0,
+                    "Michelada": 500.0,
+                    "Chelada": 450.0,
+                    "Canchanchara": 400.0,
+                    "Dry martini": 450.0,
+                    "Negroni": 650.0,
+                    "Margarita": 450.0,
+                    "Caipirinha": 450.0,
+                    "Caipiroska": 500.0,
+                    "Pina colada": 500.0,
+                    "Bloody mary": 600.0,
+                    "Sangria": 495.0,
+                    "Manhattan": 600.0,
+                    "Vodka tonic": 550.0 
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "Expresso": 520.0,
+                "Nespresso": 960.0,
+                "Cortado": 875.0,
+                "Frappuccino": 2200.0,
+                "Te / infusiones": 620.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

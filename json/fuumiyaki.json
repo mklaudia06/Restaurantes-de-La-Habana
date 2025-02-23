@@ -155,11 +155,7 @@
             },
             "juices":null,
             "lemonade":null,
-            "red bull":"",
-            "malta":"",
-            "copas":{
-
-            },
+            "copas":null,
             "coffees":{
                 "Café Expresso" : 200 ,
                 "Café Cortado" : 300 ,

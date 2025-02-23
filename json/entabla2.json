@@ -1,0 +1,147 @@
+{
+    "name": "Entabla2",
+    "food_type": ["criolla"],
+    "municipality": "Boyeros",
+    "location": {
+        "address":{
+            "Street1":"Carretera Terminal 2",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0038308,-82.3967933]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "10:06 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":"entablados.habana",
+        "facebook":"Entablados Habana"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "caldo de mariscos": 1200.0,
+            "eperlan": 1500.0,
+            "tacos de cerdo": 1150.0,
+            "tacos de langosta": 950.0,
+            "frituras de malanga": 350.0,
+            "crujientes de pollo": 800.0,
+            "coctel de camaron": 1150.0,
+            "ceviche de pescado": 1150.0,
+            "coctel de langosta": 1050.0,
+            "pan con lechon": 1100.0,
+            "huevo hervido": 300.0,
+            "huevos fritos": 380.0,
+            "revoltillo natural": 380.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "costilla frita": 2600.0,
+            "fricase de cerdo": 2250.0,
+            "costilla en salsa bbq": 2680.0,
+            "bistec gratinado": 2150.0,
+            "bistec de cerdo": 1850.0,
+            "chuleta de cerdo": 1950.0,
+            "masa frita": 2150.0,
+            "chuleton de cerdo": 2500.0,
+            "super chuleton entabla2": 3200.0,
+            "lonja de cerdo": 2150.0,
+            "langosta grille": 1950.0,
+            "langosta al ajillo": 1950.0,
+            "langosta enchilada": 2250.0,
+            "camaron enchilado": 2300.0,
+            "camaron grille": 2150.0,
+            "camaron al ajillo": 2150.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "icecream_flavors":{
+                "suero de helado": 850.0,
+                "copa de helado": 500.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "vianda hervida con mojo": 200.0,
+            "arroz moro": 250.0,
+            "ensalada de vegetales": 200.0,
+            "arroz blanco": 200.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Caipirisima": 650.0,
+                    "Cuba Libre": 460.0,
+                    "Sangria": 650.0,
+                    "Cubata": 480.0,
+                    "Caipirinha": 550.0,
+                    "Canchanchara": 450.0,
+                    "Caipiroska": 550.0,
+                    "Tinto Verano": 600.0,
+                    "Chelada": 120.0  
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Ron Havana Club Ajenno 3 Annos": 300.0,
+                    "Ron Havana Club Ajenno Especial": 300.0,
+                    "Ginebra Gin MG": 140.0,
+                    "Ginebra Beefeater": 240.0,
+                    "Ginebra Le Tribute": 490.0,
+                    "Licor Sambuca Extra Molinari": 200.0,
+                    "Aguardiente Black Tears": 150.0
+
+                },
+                "beers":{
+                    "Cerveza Cristal": 600.0,
+                    "Cerveza Blue": 450.0
+                }
+            },
+            "water":{
+                "agua 600ml niagara": 250.0
+            },
+            "soft_drinks":{
+                "refresco 7up": 430.0,
+                "refresco pepsi": 430.0,
+                "refresco mirinda": 430.0
+            },
+            "juices":{
+                "jugo importado fruta fresca": 300.0,
+                "jugos naturales": 350.0,
+                "batido de frutas naturales": 450.0
+            },
+            "lemonade":{
+                "limonada frape": 500.0
+            },
+            "malta":{
+                "malta turbo": 450.0,
+                "malteada": 780.0
+            },
+            "copas":{
+                "Copa de Vino Blanco": 450.0,
+                "Copa de Vino Tinto": 450.0
+            },
+            "coffees":{
+                "cafe expreso": 150.0,
+                "cafe cortadito": 250.0,
+                "cafe bombon": 550.0,
+                "cafe capuchino": 400.0,
+                "cafe con leche": 400.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

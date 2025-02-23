@@ -1,0 +1,114 @@
+{
+    "name": "Berkana",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Obispo",
+            "Street2":"Obrapia",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1379939,-82.3568038]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.7,
+    "social_media": {
+        "instagram":"berkanarestaurant_habana",
+        "facebook":"Berkana Restaurant"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Ceviche de pescado": 2440.0,
+            "Cebiche de camaron": 2450.0,
+            "Tostones rellenos": 1515.0,
+            "Crema virginia": 1830.0,
+            "Crema de queso": 1715.0,
+            "Crema de jamon y queso": 1770.0,
+            "Ensalada de vegetales": 300.0,
+            "Sopa marinera": 3020.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pierna de pollo grille (arroz, vianda hervida y ensalada de vegetal)": 2800.0,
+            "Suprema de pollo grille": 1760.0,
+            "Milanesa de pollo": 2420.0,
+            "Suprema de pollo napada  con queso": 3200.0,
+            "Bistec de cerdo a la criolla(arroz, vianda hervida y ensalada de vegetal)": 3300.0,
+            "Bistec de cerdo al grill": 2520.0,
+            "Escalope de cerdo con  cebolla": 3100.0,
+            "Bistec de cerdo empanado": 2940.0,
+            "Bistec de cerdo a la roca": 3730.0,
+            "Milanesa de res": 3300.0,
+            "Bistec de res con cebolla": 3150.0,
+            "Ropa vieja": 2370.0,
+            "Filete de pescado grille": 2820.0,
+            "Enchilado de pescado": 3360.0,
+            "Filete de pescado empanado": 3300.0,
+            "Camarones grille": 2820.0,
+            "Camarones al ajillo": 3180.0,
+            "Camarones en salsa criolla": 3200.0,
+            "Langosta grille": 2670.0,
+            "Langosta en salsa napada con queso": 3650.0,
+            "Chilindron de cordero": 4400.0,
+            "Cordero mechado": 3720.0,
+            "Cordero en salsa demi glase": 3020.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Espaguetti con queso": 1340.0,
+            "Espaguetti de jamon y queso": 2080.0,
+            "Espaguetti frutos del mar": 3790.0
+        },
+        "pizza_pasta_add":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "desserts": {
+            "Flan de leche": 750.0,
+            "Criollo cubano": 500.0,
+            "icecream_flavors":{
+                "Bolas de helado con sirope": 650.0
+            }
+        },
+        "side_dishes": {
+            "Tostones rellenos": 850.0,
+            "Tostones tradicionales": 700.0,
+            "Vianda hervida a la criolla": 560.0,
+            "Arroz moro": 580.0,
+            "Arroz blanoc": 380.0,
+            "Arroz con vegetales": 690.0,
+            "Arroz pilaf": 580.0
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Rocio de gallo": 440.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":null
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "Cafe express": 275.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,75 @@
+{
+    "name": "El Trafico",
+    "food_type": ["italiana","criolla"],
+    "municipality": "San Miguel del Padron",
+    "location": {
+        "address":{
+            "Street1":"Calzada de Guines",
+            "Street2":"90",
+            "Street3":"94"
+        },
+        "coordinates_latitude_length" : [23.0800387,-82.3212447]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":2.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_add": null,
+        "strong_dishes": {
+            "bistec de pollo": 1500.0,
+            "pechuga de pollo": 1950.0,
+            "bistec de cerdo": 1950.0,
+            "cerdo guisado": 2000.0,
+            "lomo ahumado": 2000.0,
+            "costilla de cerdo": 2000.0,
+            "chuleta de cerdo": 1950.0,
+            "masa de cerdo frita": 2000.0,
+            "bistec de res": 1950.0,
+            "ropa vieja": 2000.0,
+            "filete de merluza": 2000.0
+        },
+        "pizzas": {
+            "pizza de queso blanco": 280.0,
+            "pizza de queso blanco XL": 770.0,
+            "pizza de queso gouda": 320.0,
+            "pizza de queso gouda XL": 830.0,
+            "pizza de queso parmesano": 350.0,
+            "pizza de queso parmesano XL": 850.0
+        },
+        "pastas": {
+            "espaguetti con queso blanco": 400.0,
+            "espaguetti con queso gouda": 420.0,
+            "espaguetti con queso parmesano": 450.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "arroz moro": 300.0,
+            "vianda": 150.0,
+            "ensalada": 200.0,
+            "tamal": 200.0,
+            "papas fritas": 600.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,162 @@
+{
+    "name": "Fellini",
+    "food_type": ["cubana","internacional"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Calle 20",
+            "Street2":"Avenida 7ma",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1198227,-82.4187012]
+    },
+    "phone_number": "53610207",
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":"fellini.bar",
+        "facebook":"Fellini Bar"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Croquetas de pollo": 550.0,
+            "Tostones naturales": 380.0,
+            "Tostones rellenos": 600.0,
+            "Frituras de malanga": 400.0,
+            "Caldoza": 780.0,
+            "Papas fritas": 700.0,
+            "Brochetas de cerdo": 1500.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pechuga do polo srete": 1409.0,
+            "Pechuga de pollo cre": 2100.0,
+            "Bistec de cerdo inc": 1750.0,
+            "Masas de cerdo frita": 2100.0,
+            "Costillas de cerdo": 2100.0,
+            "Bistec de cerdo clasico encebollado": 2100.0,
+            "Ropa vieja": 3300.0,
+            "Cordero al vino": 3300.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "dsserts": {
+            "Dulce de coco": 250.0,
+            "Arroz con leche": 500.0,
+            "Casquito de guayaba": 380.0,
+            "Fruta bomba en almibar": 380.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Arroz blanco": 180.0,
+            "Moros y cristianos": 250.0,
+            "Arroz congris": 250.0,
+            "Yuca con mojo": 230.0,
+            "Yuca con chicharrones": 230.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Gin beefeater": 400.0,
+                    "Gin mg": 350.0,
+                    "Sangre de toro": 5000.0,
+                    "Corona crianza": 5000.0,
+                    "Santa digna": 5000.0,
+                    "Loco de piedra": 5000.0,
+                    "Cuba libre": 450.0,
+                    "Cubata": 500.0,
+                    "Mojito": 450.0,
+                    "Caipirina": 450.0,
+                    "Caipirisima": 450.0,
+                    "Caipiroska": 450.0,
+                    "Gin tonic mg": 750.0,
+                    "Sangria": 600.0,
+                    "Tinto verano": 600.0,
+                    "Pina colada": 650.0,
+                    "Cubanito": 600.0,
+                    "Michelada": 200.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Clan camphl": 500.0,
+                    "Ballentines finest": 550.0,
+                    "Ballentines 12 anos": 700.0,
+                    "Jameson": 600.0,
+                    "Red label": 500.0,
+                    "Black label": 650.0,
+                    "Chiva 12 anos": 800.0,
+                    "Chiva 15 anos": 1300.0,
+                    "Chiva 18 anos": 1700.0,
+                    "Vodka": 300.0,
+                    "Absolut": 650.0,
+                    "Havana club 3 anos": 300.0,
+                    "Havana club anejo especial": 350.0,
+                    "Havana club anejo reserva": 350.0,
+                    "Havana club 7 anos": 400.0,
+                    "Havana club profundo": 350.0,
+                    "Havana club smoky": 450.0,
+                    "Havana club seleccion maestro": 800.0,
+                    "Havana club pacto navio": 800.0,
+                    "Havana club 15 anos": 1000.0,
+                    "Black tears aguardiente": 300.0,
+                    "Black tears super dry": 300.0,
+                    "Black tears roble superior": 300.0,
+                    "Black tears dry spiced": 300.0,
+                    "Santiago 8 anos": 600.0,
+                    "Santiago 11 anos": 800.0,
+                    "Santiago 12 anos": 850.0,
+                    "Tequila olmeca blanco": 600.0,
+                    "Tequila olmeca reposado": 650.0,
+                    "Jequila aito b": 800.0,
+                    "Tequila altor": 100.0
+
+                },
+                "beers":{
+                    "Cerveza cristal botella": 350.0,
+                    "Cerveza cristal dispensada": 350.0,
+                    "Cerveza bucanero": 350.0,
+                    "Cerveza cristal extra": 350.0
+                }
+            },
+            "water":{
+                "Agua natural": 250.0,
+                "Aguas gaseada": 300.0
+            },
+            "soft_drinks":{
+                "Refresco cola": 300.0,
+                "Pepsi": 350.0,
+                "Coca cola": 350.0,
+                "Refresco limon": 300.0,
+                "Sprite": 350.0,
+                "Fanta": 350.0
+            },
+            "juices":{
+                "Jugos natural": 250.0
+            },
+            "lemonade":null,
+            "Tanica": 350.0,
+            "Energizante": 320.0,
+            "red bull": 500.0,
+            "copas":{
+                "Vino copa": 500.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

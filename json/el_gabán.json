@@ -1,0 +1,146 @@
+{
+    "name": "El Gaban",
+    "food_type": ["internacional"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 1era",
+            "Street2":"Calle 46",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1170757,-82.4372364]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":"elgaban_oficial",
+        "facebook":"El Gaban la 14 restaurante"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Crema de vegetales": 2400.0,
+            "Croquetones a la amatriciana": 3000.0,
+            "Croquetones de iberico": 3600.0,
+            "Tartar de res con maracuya": 4500.0,
+            "Tabla mixta": 5400.0,
+            "Carpaccio de res": 6000.0,
+            "Tartar de langosta": 6000.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Mignon": 8400.0,
+            "Ribeye": 8400.0,
+            "Pesca blanca": 7500.0,
+            "Pesca azul": 7500.0,
+            "Risotto rosa": 5400.0,
+            "Risotto al coco": 6000.0
+        },
+        "pizzas": {
+            "Pizza new york": 6000.0,
+            "Pizza de bolonia": 5400.0
+        },
+        "pastas": {
+            "Aoquis": 3600.0,
+            "Raviolis mariscos": 4500.0
+        },
+        "desserts": {
+            "Brownie blanco": 1800.0,
+            "Paulova": 1800.0,
+            "Arroz con leche": 1800.0,
+            "Postre con helado": 1800.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Pure de malanga": 1800.0,
+            "Papas al horno": 1800.0,
+            "Vegetales salteados": 1800.0,
+            "Arroz pilaf": 2400.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Grinch": 1600.0,
+                    "Mohana": 1600.0,
+                    "Mojito de frutas": 1600.0,
+                    "Piña colada": 1600.0,
+                    "Rossini": 2500.0,
+                    "Negroni chocolate": 2500.0,
+                    "Bellini": 2500.0,
+                    "Garibaldi": 2500.0,
+                    "Mi to": 2500.0,
+                    "Negroni g": 2500.0,
+                    "Aperol spritz": 2500.0,
+                    "Spritz": 2500.0,
+                    "Campari spritz": 2500.0,
+                    "Daiquiri": 2000.0,
+                    "Canchanchara": 2000.0,
+                    "Mojito": 2000.0,
+                    "Cubanito": 2000.0,
+                    "Caipirisima": 2000.0,
+                    "Margarita": 2500.0,
+                    "Sangria": 2500.0,
+                    "Caipiroska": 2500.0,
+                    "Moscow mule": 2500.0,
+                    "Fernet con cola": 2500.0,
+                    "Vodka tonic": 2500.0,
+                    "Caipirinha": 2500.0,
+                    "Bloody mary": 2500.0,
+                    "Amaretto sour": 2500.0,
+                    "Old fashioned": 2500.0,
+                    "New york whisky sour": 2500.0,
+                    "Expresso martini": 1500.0
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza de botella": 1600.0
+                }
+            },
+            "water":{
+                "Agua tonica": 1500.0,
+                "Agua san pellegrino": 1600.0,
+                "Agua natural": 1600.0,
+                "Agua panna": 1600.0,
+                "Agua con gas": 1600.0
+            },
+            "soft_drinks":{
+                "Refresco": 1000.0
+            },
+            "juices":{
+                "Kermato": 1600.0
+            },
+            "lemonade":{
+                "Limonada frappe/natural": 1600.0
+            },
+            "Energizante": 1500.0,
+            "malta": 1000.0,
+            "copas":{
+                "Copa de vino (espumoso, tinto o blanco)": 1800.0
+            },
+            "coffees":{
+                "Cafe": 800.0,
+                "Frapuccino": 1500.0,
+                "Carajillo": 1500.0,
+                "Te": 800.0,
+                "Infusiones": 800.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

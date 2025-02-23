@@ -1,0 +1,61 @@
+{
+    "name": "La esquinita del Cotorro",
+    "food_type": ["rapida"],
+    "municipality": "Cotorro",
+    "location": {
+        "address":{
+            "Street1":"Avenida 71",
+            "Street2":"Cotorro",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0460486,-82.2700127]
+    },
+    "phone_number": "059937587",
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "08:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.0,
+    "social_media": {
+        "instagram":null,
+        "facebook":"La Esquinita del Cotorro"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "tostones": 200.0,
+            "tortilla natural": 220.0,
+            "tortilla de queso blanco": 280.0,
+            "tortilla de jamon": 320.0,
+            "tortilla de chorizo": 320.0,
+            "tortilla mixta": 410.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "pan con jamon": 240.0,
+            "pan con jamon y chorizo": 270.0,
+            "pan con chorizo": 160.0,
+            "hamburguesa simple": 250.0,
+            "hamburguesa doble": 380.0,
+            "hamburguesa esquinita": 480.0,
+            "hamburguesa esquinita plus": 580.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "strong_dishes": null,
+        "pizzas": null,
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

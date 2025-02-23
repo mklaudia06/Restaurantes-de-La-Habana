@@ -1,0 +1,234 @@
+{
+    "name": "Los Compadres",
+    "food_type": ["mexicana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 41",
+            "Street2":"66 A",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1003479,-82.4402344]
+    },
+    "phone_number": "72036908",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.4,
+    "social_media": {
+        "instagram":"los_compadres_restaurante",
+        "facebook":"Los Compadres"
+    },
+    "menu": {
+        "breakfast":null,
+        "started":{
+            "Cesta de pan":400,
+            "Pure de boniato ahumado":700,
+            "Crema de malanga con parmesano":900,
+            "Ensalada de atun con vegetales":1050,
+            "Ceviche de pescado":1200,
+            "Ensalada de camarones y parmesano":1200,
+            "Coctel de camarones de la casa":1200,
+            "Cesta de totopos":500,
+            "Totopos con frijol refrito":700,
+            "Quesadillas":800,
+            "Quesadilla de pollo":1000,
+            "Quesadilla de camaron":1700,
+            "Tacos de vegetales":850,
+            "Tacos de pollo":1000,
+            "Tacos de chorizo":1000,
+            "Tacos de cerdo":1200,
+            "Tacos de pechuga de pollo":1200,
+            "Tacos de res":1300,
+            "Tacos de pescado":1350,
+            "Tacos de camaron":1500,
+            "Tacos de langosta":1600,
+            "Croquetas de la casa":800,
+            "Frituras de malanga con miel":700,
+            "Entremes de jamon, queso y aceitunas":1800,
+            "Picadera Los Compadres (jamon, queso, aceitunas, chorizo, pan tostado con aderezo frituras de malanga)":3500
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes":{
+            "Bistec de pollo grille":1200,
+            "Fajita de pollo con vegetales montado en tortilla":1400,
+            "Suprema de pollo grille":1500,
+            "Suprema de pollo en salsa de queso":1800,
+            "Dados de pollo a la carbonara":1650,
+            "Fajita de pechuga al vino sobre tortilla":1800,
+            "Bistec de cerdo encebollado":1500,
+            "Lomo grille con mojo de cebollas":1500,
+            "Lomo de cerdo ahumado":1600,
+            "Lomo de cerdo al tequila":1900,
+            "Fajita de cerdo al vino montado en tortilla":1800,
+            "Chuleta de cerdo con mojo de cebollas":1600,
+            "Rollitos de cerdo rellenos":1950,
+            "Bistec de res encebollado":1700,
+            "Vaca frita montada en tortilla":1800,
+            "Ropa vieja":1900,
+            "Fajita de res al vino":1900,
+            "Camaron grille":1900,
+            "Camaron enchilado":2100,
+            "Camaron al ajillo":2200,
+            "Langosta enchilada":2500,
+            "Langosta grille":2000,
+            "Langosta a la Maitre de Hotel":2500,
+            "Pina rellena de langosta":2600,
+            "Ranchera de mariscos (Langosta / Camaron / Pescado)":4000,
+            "Filete de pescado grille":1600,
+            "Dados de pescado al ajo":1700,
+            "Pescado al estilo veracruzano":1800,
+            "Grillada de la Tierra (Pollo / Bistec de cerdo / Res)":3500,
+            "Grillada del Mar (Langosta grille / Filete de pescado / Camaron)":3800,
+            "Mar y Tierra Los Compadres (A escoger 2 del mar y 3 de la tierra a su preferencia)":6500,
+            "Paella de la Tierra":5000,
+            "Paella del Mar":7000
+        },
+        "pizzas":null,
+        "pastas":{
+            "Pasta napolitana":1100,
+            "Pasta Pesto":1200,
+            "Pasta Carbonara Tradicional":1400,
+            "Pasta de pollo y salsa blanca":1300,
+            "Pasta de atun con salsa a su eleccion":1500,
+            "Pasta de camaron":1700,
+            "Pasta Frutti di Mare":2200
+        },
+        "desserts":{
+            "Tarta del dia": 500,
+            "Tarta con helado":  800,
+            "icecream_flavors":{
+                "Batido de helado":600,
+                "Copa de helado": 450
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes":{
+            "Arroz blanco":350,
+            "Arroz moro":400,
+            "Arroz con vegetales":450,
+            "Arroz Pilaf":500,
+            "Frijoles negros":450,
+            "Ensalada mixta de vegetales":450,
+            "Vegetales salteados":480,
+            "Tortillas mexicanas (10 unidades)":750,
+            "Vianda del dia":350,
+            "Vianda frita":500,
+            "Papas fritas":700
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada":300,
+                    "Chelada":250,
+                    "Mojito":550,
+                    "Mojito de frutas":600,
+                    "Cuba Libre":550,
+                    "Cubata":550,
+                    "Daiquiri":600,
+                    "Cubanito":550,
+                    "Margarita":600,
+                    "Tequila Sunrise":600,
+                    "Havana Especial":650,
+                    "Charro Negro":550,
+                    "Bloody Mary":550,
+                    "Screwdriver":700,
+                    "Vodka tonic":600,
+                    "Gin tonic":700,
+                    "Ron Cooler":550,
+                    "Pina colada":650,
+                    "Caipirina":600,
+                    "Caipiroska":600,
+                    "Caipirisima":600,
+                    "Sangria":700,
+                    "Tinto de verano":650,
+                    "Orgasmo a mi modo":850,
+                    "Isla bella":850,
+                    "Blue Lagoon":850,
+                    "Alexander":750
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Beefeater":550,
+                    "Tanqueray":600,
+                    "Bombay":600,
+                    "Hendrics":600,
+                    "Macallan":1500,
+                    "Buchanas 12":1000,
+                    "Buchanas 18":1200,
+                    "Buchanas Master":1300,
+                    "Chivas 12":700,
+                    "Chivas 18":900,
+                    "Ballantines":600,
+                    "Ballantine 12":700,
+                    "J.W red label":650,
+                    "J.W black label":900,
+                    "J.W double black":850,
+                    "J.W Explorer":900,
+                    "J.W gold label":950,
+                    "J.W platinum":1000,
+                    "J.W swing":1200,
+                    "J.W green label":1150,
+                    "Something special":750,
+                    "Jack Daniel's":400,
+                    "J&B":750,
+                    "The Glentlivet":750,
+                    "Clan Campbell":400,
+                    "Jameson":500
+                },
+                "beers":{
+                    "Cerveza nacional":400,
+                    "Cerveza importada":350,
+                    "Cerveza nacional en botella":450,
+                    "Cerveza Corona":550
+                }
+            },
+            "water":{
+                "Agua natural":250,
+                "Agua gaseada":230,
+                "Agua tonica nacional":250,
+                "Agua tonica importada":300,
+                "Agua natural importada":300
+            },
+            "soft_drinks":{
+                "Refresco nacional":290,
+                "Refresco importado":350
+            },
+            "juices":{
+                "Kermato":600
+            },
+            "lemonade":{
+                "Limonada frescura":400,
+                "Limonada con horchata":450
+            },
+            "red bull":600,
+            "Bebidas energeticas":400,
+            "malta":350,
+            "copas":{
+                "Vino tinto":600,
+                "Vino rosado":500,
+                "Vino blanco":500
+            },
+            "coffees":{
+                "Cafe Expresso":200,
+                "Cafe Americano":200,
+                "Cafe Cortado":300,
+                "Capuccino":350,
+                "Frapuccino":500,
+                "Te frio / caliente":100
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

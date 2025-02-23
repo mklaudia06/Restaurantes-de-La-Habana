@@ -1,0 +1,206 @@
+{
+    "name" : "Marea",
+    "food_type" : ["criolla","italiana","del mar"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 5ta",
+            "Street2":"258",
+            "Street3":"260"
+        },
+        "coordinates_latitude_length" : [23.0853117,-82.498857]
+    },
+    "phone_number": "72907692",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.2,
+    "social_media": {
+        "instagram":"clubmarea",
+        "facebook":null
+    },
+    "menu" : {
+        "breakfast":null,
+        "started" : {
+            "Croquetas Marea" : 850.00,
+            "Empanadas de bolon esa" :750.00,
+            "Crujientes de pollo" :850.00,
+            "Botanas de yuca y ropa vieja" :750.00,
+            "Tasty de pescado" :900.00,
+            "Frituras de Mariscos" :3600.00,
+            "Tabla Marea" :4000.00,
+            "Carpaccio de res trufado" :2350.00,
+            "Coctel de camarón" :1100.00,
+            "Ensalada Panzanella" :1000.00,
+            "Ensalada de Cesar" :1400.00,
+            "Ceiche de pescado" :900.00,
+            "Ceviche mixto" : 1250.00
+        },
+        "tacos":{
+            "Tacos de Punta Filete/R(2 unidades)":6300.00,
+            "Tacos de R/V Res(2 unidades)":2500.00
+        },
+        "strong_dishes" : {
+            "Filete de pescado estilo mediterraneo" :3200.00,
+            "Camarón Marea" :2500.00,
+            "Fruto del Mar" : 3200.00,
+            "Caldereta de mariscos" :3600.00,
+            "Filet Mignon" : 5000.00,
+            "Puntas de filete de res al fungi" :4200.00,
+            "Manjar criollo" :2200.00,
+            "Pechuga de pollo" :2100.00,
+            "Solomillo de cerdo" :4200.00,
+            "Fruto del Mar a a la brasa" :3200.00,
+            "Brocheta de res" :4200.00,
+            "Brochetas del mar" :3200.00,
+            "Spaghetti Napoles" : 2000.00,
+            "Spaghetti Carbonara" :  2700.00,
+            "Spaghetti Bolon esa" :2700.00
+        },
+        "side_dishes" : {
+            "Arroz blanco" : 400.00,
+            "Arroz Primavera" : 400.00,
+            "Crema de malanga" : 400.00,
+            "Ensalada de estacion" : 400.00
+        },
+        "pastas": {
+            "Napole":2300.00,
+            "Carbonara":3200.00,
+            "Pasta Bolognesa":3000.00
+        },
+        "pizzas":null,
+        "pizza_pasta_add-on":null,
+        "desserts" : {
+            "Coulant" : 700.00,
+            "Blondie de limon" :1050.00,
+            "Mousse de chocolate" :1000.00,
+            "Flan de caramelo" : 800.00,
+            "Tarta Fría" :1100.00,
+            "icecream_flavors":null
+        },
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":{
+            "Anís del Mono":750.00
+        },
+        "snacks":null,
+        "creams_and_soup":{
+            "Crema Barceló":700.00,
+            "Afrika(Crema de Marula)":500.00,
+            "Rua Vieja":700.00
+        },
+        "digestive":{
+            "Jagermeister":700.00,
+            "Sambuca":700.00,
+            "Limonchello":500.00,
+            "Anís del Mono(Seco y dulce)":750.00
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Caipirísima":800.00,
+                    "Daiquiri Tradicional":750.00,
+                    "Daiquiri Frappe":750.00,
+                    "Daiquiri de Plátano":850.00,
+                    "Daiquiri de Menta":850.00,
+                    "Daiquirí de Melón":850.00,
+                    "Mojito":900.00,
+                    "Mojito Royal":950.00,
+                    "Caipiroska":800.00,
+                    "Caipirhina":800.00,
+                    "Caipirita": 800.00,
+                    "Margarita":800.00,
+                    "Negroni": 2400.00,
+                    "Garibaldi": 1500.00,
+                    "Apperol Spritz": 2600.00,
+                    "Canchanchara": 800.00,
+                    "Sex on the Beach": 850.00,
+                    "Russian Spring": 1500.00,
+                    "Mimosa": 850.00,
+                    "ScrewDriver": 800.00,
+                    "Tequila Sunrise": 800.00,
+                    "San Francisco": 850.00,
+                    "French Marea": 900.00,
+                    "Mojito de Frutas": 1000.00,
+                    "Sangría": 1000.00,
+                    "Sangría Marea": 1200.00,
+                    "Bloody Mary": 800.00,
+                    "Cubanito": 800.00,
+                    "Mary Pickford": 750.00,
+                    "Ron Collins": 850.00,
+                    "Toms Collins": 850.00,
+                    "Caipirinha de Frutas": 1000.00,
+                    "Shirley Temple": 850.00,
+                    "Caipirisima de Frutas": 1000.00,
+                    "Caipiroska de Frutas": 1000.00,
+                    "Grinch": 1200.00,
+                    "Tinto de Verano": 1000.00
+                },
+                "bottles":{
+                    "Varon de Valls":5500.00,
+                    "Castillo de Liria":5500.00,
+                    "Estación Sauvignon blanc o chardonnay":5800.00,
+                    "Pacto Navío":24000.00,
+                    "HC Smoky":7000.00,
+                    "HC Spiced":5600.00,
+                    "HC Selección de Maestros":26000.00,
+                    "Black Tears Roble Superior":7000.00,
+                    "Ron Barcelo Añejo":9000.00,
+                    "Ron Barcelo Gran Añejo":12000.00,
+                    "Santiago Tradicion":7000.00
+                },
+                "drinks_with": {
+                    "Chivas Regal 12 años": 1800.00,
+                    "JW Red Label":1300.00,
+                    "JW Black Label":2200.00,
+                    "JW Double Black": 2500.00,
+                    "Pacto Navío": 1750.00,
+                    "Barceló Gran Añejo": 800.00,
+                    "Barcelo Añejo": 600.00,
+                    "HC Smoky":500.00
+                },
+                "beers":{
+                    "Cerveza Cristal de botella":750.00,
+                    "Cerveza de latas(Martens Dab)": 600.00,
+                    "Ceveza importada Stella":900.00
+                }
+            },
+            "water":{
+                "Agua Natural":400.00,
+                "Agua Gaseada Nacional":550.00,
+                "Agua Tónica MG":800.00,
+                "Agua tónica letribute":1200.00,
+                "Agua gaseada tehuacan":1200.00
+            },
+            "soft_drinks":{
+                "Refresco Importado(Pepsi,Cola,7up)":600.00
+            },
+            "juices":{
+                "Jugos Naturales(Melón, Piña)":500.00
+            },
+            "lemonade":{
+                "Limonadas de Frutas":550.00
+            },
+            "red bull":1100.00,
+            "malta":{
+                "Malta(Morena)":500.00
+            },
+            "copas":{
+                "Copa de Vino":700.00,
+                "Copa de Espumoso(Gran Barón Bru, Gran Barón Rose)": 550.00
+            },
+            "coffees":{
+                "Café Nexpresso":400.00,
+                "Café nexpresso cortado":450.00,
+                "Café nexpresso americano":400.00,
+                "Café nexpresso capuccino":500.00
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

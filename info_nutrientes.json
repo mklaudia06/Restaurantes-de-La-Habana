@@ -1,0 +1,66 @@
+{
+    "res":{
+        "calorias":251.0,
+        "proteínas":18.2,
+        "grasas":19.0,
+        "colesterol":0.098,
+        "carbohidratos": 0.47,
+        "fibra":0.0
+    },
+    "cerdo":{
+        "calorias":171.0,
+        "proteínas":19.1,
+        "grasas":10.5,
+        "colesterol":0.089,
+        "carbohidratos": 0.0,
+        "fibra":0.0   
+    },
+    "carnero":{
+        "calorias":283.0,
+        "proteínas":24.8,
+        "grasas":19.6,
+        "colesterol":0.097,
+        "carbohidratos": 0.0,
+        "fibra":0.0
+    },
+    "langosta":{
+        "calorias":89.0,
+        "proteínas":19.0,
+        "grasas":0.86,
+        "colesterol":0.146,
+        "carbohidratos":0.0,
+        "fibra":0.0
+    },
+    "pescado":{
+        "calorias":227.0,
+        "proteínas":11.0,
+        "grasas":16.2,
+        "colesterol":0.028,
+        "carbohidratos": 21.7,
+        "fibra":1.5    
+    },
+    "camarones":{
+        "calorias":99.0,
+        "proteínas":24.0,
+        "grasas":0.28,
+        "colesterol":0.189,
+        "carbohidratos": 0.2,
+        "fibra":0.0
+    },
+    "pulpo":{
+        "calorias":82.0,
+        "proteínas":14.9,
+        "grasas":1.04,
+        "colesterol":0.048,
+        "carbohidratos": 2.2,
+        "fibra":0.0 
+    },
+    "pollo":{
+        "calorias":158,
+        "proteínas":18,
+        "grasas":17.6,
+        "colesterol":0.056,
+        "carbohidratos": 4.05,
+        "fibra":0.3
+    }
+}

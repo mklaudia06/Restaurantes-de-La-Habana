@@ -1,0 +1,105 @@
+{
+    "name": "KY-13",
+    "food_type": ["criolla","italiana"],
+    "municipality": "San Miguel del Padron",
+    "location": {
+        "address":{
+            "Street1":"Calzada de guines",
+            "Street2":"13",
+            "Street3":"23"
+        },
+        "coordinates_latitude_length" : null
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "croquetas de queso": 600.0,
+            "frituras de malanga": 600.0,
+            "tostones rellenos": 700.0,
+            "eperlan": 1300.0,
+            "dedos de pollo": 1000.0,
+            "coctel de camaron": 1300.0,
+            "camaron rebozado": 1200.0,
+            "surtido KY13": 4000.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "sandwich sencillo": 1250.0,
+            "sandwich lomo ahumado": 1250.0,
+            "sandwich especial": 2100.0,
+            "sandwich de atun": 1150.0,
+            "hamburguesa sencilla": 1400.0,
+            "hamburguesa KY13": 2950.0
+        },
+        "strong_dishes": {
+            "pechuga de pollo grille": 2400.0,
+            "pechuga de pollo gratinada": 2800.0,
+            "pollo gordon blue": 3650.0,
+            "pollo frito o asado": 2000.0,
+            "bistec de pollo": 2200.0,
+            "bistec de cerdo grille": 2350.0,
+            "bistec de cerdo empanado": 2700.0,
+            "uruguayo de cerdo": 3500.0,
+            "chuleta de cerdo": 2600.0,
+            "lomo ahumado": 2500.0,
+            "costilla de cerdo frita": 2300.0,
+            "masa de cerdo frita": 3800.0,
+            "ropa vieja de res": 2800.0,
+            "picadillo a la habanera": 2700.0,
+            "filete de pescado grille": 3000.0,
+            "filete de pescado empanado": 3300.0,
+            "filete de pescado gratinado": 3500.0,
+            "pescado montetoro": 3800.0,
+            "pescado canciller": 4250.0,
+            "camaron grille": 2600.0,
+            "enchilado de camaron": 2800.0,
+            "camaron al ajillo": 2700.0,
+            "langosta grille": 2700.0,
+            "langosta enchilada": 2800.0,
+            "arroz frito": 2800.0
+        },
+        "pizzas": {
+            "pizza de queso": 1200.0,
+            "pizza familiar de queso": 3350.0
+        },
+        "pastas": {
+            "espaguetti de queso": 1300.0,
+            "lasanha de jamon": 1800.0,
+            "espaguetti a la carbonara": 2000.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "crema de queso": 850.0,
+            "crema aurora": 550.0,
+            "crema virginia": 800.0,
+            "crema de camaron": 900.0
+        },
+        "digestive":null,
+        "side_dishes": {
+            "arroz blanco": 300.0,
+            "arroz moro": 480.0,
+            "vianda frita": 700.0,
+            "ensalada mixta": 700.0
+        },
+        "liquids": null
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

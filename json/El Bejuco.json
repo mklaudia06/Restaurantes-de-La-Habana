@@ -89,12 +89,8 @@
                 "beers":{
                     "Cerveza Cristal (Botella)": 350.00
                 },
-                "bottles":{
-
-                },
-                "drinks_with":{
-
-                }
+                "bottles":null,
+                "drinks_with":null
             },
             "water":{
                 "Agua": 300.00
@@ -109,8 +105,6 @@
             "lemonade":{
                 "Limonada": 500.00
             },
-            "red bull":"",
-            "malta":"",
             "copas":{
                 "Copa de Vino": 500.00
             },

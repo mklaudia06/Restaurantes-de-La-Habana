@@ -80,7 +80,7 @@
                 "Suero de Helado": 850.0
             }
         },
-        "pizza_pasta_add": {},
+        "pizza_pasta_add": null,
         "side_dishes": {
             "arroz frito": 1500.0,
             "arroz moro": 350.0,

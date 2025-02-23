@@ -1,0 +1,72 @@
+{
+    "name": "Brutal Habana",
+    "food_type": ["americana"],
+    "municipality": "Cerro",
+    "location": {
+        "address":{
+            "Street1":"Infanta",
+            "Street2":"Calle Universidad",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1207196,-82.3728889]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.7,
+    "social_media": {
+        "instagram":"brutal_habana",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Baguette": 150.0,
+            "Suave": 120.0,
+            "Croissant": 450.0,
+            "Pan de Hamburguesa": 150.0,
+            "Baguette Brutal": 2000.0,
+            "Brutal Junior": 550.0,
+            "Combo Brutal Junior": 2550.0,
+            "Hamburguesa Brutal": 3200.0,
+            "Hamburguesa Sencilla": 1100.0
+        },
+        "strong_dishes": {
+            "Fajitas de Pechuga con Papas Fritas": 1500.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "icecream_flavors":{
+                "Batido de Helado": 1000.0,
+                "Batido de Helado con Gomitas": 1400.0,
+                "Batido de Helado BRUTAL": 2000.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Papas Fritas (100g)": 300.0,
+            "Papas Fritas (200g)": 600.0,
+            "SalchiPapas": 500.0,
+            "SalchiPapas BRUTAL": 1400.0,
+            "Croquetas de Pollo x 5": 175.0,
+            "Croquetas de Pollo x 10": 350.0,
+            "Papas Fritas Brutal": 1100.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,124 @@
+{
+  "name": "Comida Criolla Ocho Vías",
+  "municipality":"Arroyo Naranjo",
+  "location":{
+    "address":{
+      "Street1":"Avenida 1er Anillo",
+      "Street2":"Luis Felipe",
+      "Street3":null
+    },
+    "coordinates_latitude_length":[23.0512093,-82.3347466]
+  },
+  "phone_number": "+5359107933",
+  "food_type":["cubana"],
+  "schedule": {
+      "opening": "11:00 am",
+      "closure": "11:00 pm",
+      "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+  "quality":null,
+  "social_media": {
+    "instagram":null,
+    "facebook":null
+  },
+  "menu":{
+    "breakfast":null,
+    "started":{
+      "Croquetas de queso": 500.00,
+      "Tostones Rellenos": 800.00,
+      "Tostones Tradicionales": 250.00,
+      "Papas Fritas": 800.00,
+      "Platanos Fritos" : 200.00
+    },
+    "tacos":null,
+    "strong_dishes": { 
+      "Bistec de Higado": {
+        "price":1600.00,
+        "number_um":460,
+        "unit_of_measure":"gramos",
+        "type":"res"
+      },
+      "Higado Italiana":  {
+        "price":1600.00,
+        "number_um":460,
+        "unit_of_measure":"gramos",
+        "type":"res"
+      },
+      "Bistec de Cerdo" :  {
+        "price":2200.00,
+        "number_um":460,
+        "unit_of_measure":"gramos",
+        "type":"cerdo"
+      },
+      "Chuleta de Cerdo" :  {
+        "price":2200.00,
+        "number_um":460,
+        "unit_of_measure":"gramos",
+        "type":"cerdo"
+      },
+      "Fricase de Cerdo" : {
+        "price":2500.00,
+        "number_um":430,
+        "unit_of_measure":"gramos",
+        "type":"cerdo"
+      }, 
+      "Masa Frita": {
+        "price": 2200.00,
+        "number_um":430,
+        "unit_of_measure":"gramos",
+        "type":"cerdo"
+      },
+      "Fricase de Carnero(960 gramos)" : {
+        "price": 2200.00,
+        "number_um":null,
+        "unit_of_measure":null,
+        "type":"carnero"
+      },
+      "Bistec Uruguayo" :2800.00,
+      "Pescado Entero a la Marinera": 2200.00,
+      "Ropa Vieja" : {
+        "price":2700.00,
+        "number_um":460,
+        "unit_of_measure":"gramos",
+        "type":"res"
+      }, 
+      "Camaron Enchilado":2700.00,
+      "Langosta Grille" :{
+        "price":2700.00,
+        "number_um":690,
+        "unit_of_measure":"gramos",
+        "type":"langosta"
+      },
+      "Langosta Enchilada": {
+        "price":2800.00,
+        "number_um":690,
+        "unit_of_measure":"gramos",
+        "type":"langosta"
+      }, 
+      "Pescado Empanado":2500.00,
+      "Enchilado de Cangrejo":1800.00,
+      "Bistec de Pollo":2000.00,
+      "Pechuga de Pollo":2500.00,
+      "Costilla Frita o Fricase":2200.00
+    },
+    "pastas": null,
+    "pizzas":null,
+    "pizza_pasta_add-on": null,
+    "side_dishes": { 
+      "Arroz Moro": 200.00,
+      "Ensalada Mixta" : 300.00
+    },
+    "hamburgers_and_sandwichs":null,
+    "hamburgers_add-on":null,
+    "aperitivos":null,
+    "snacks":null,
+    "creams_and_soup":null,
+    "digestive":null,
+    "desserts": null,
+    "liquids": null
+  },
+  "10%_of_the_service": false,
+  "5%_of_the_service": false,
+  "reservation":false,
+  "type_of_currency": "cup"
+}

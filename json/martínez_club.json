@@ -1,0 +1,88 @@
+{
+    "name": "Martinez Club",
+    "food_type": ["criolla","rapida"],
+    "municipality": "Cotorro",
+    "location": {
+        "address":null,
+        "coordinates_latitude_length" : [23.0472022,-82.2689145]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":"clubmartinez",
+        "facebook":"Club MZ Cuba"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "fritura de malanga": 300.0,
+            "ensalada fria": 150.0,
+            "croquetas": 300.0,
+            "tostones al ajillo": 300.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "pan con jamon": 250.0,
+            "pan con perro": 200.0,
+            "pan con croqueta": 100.0,
+            "hamburguesa simple": 230.0,
+            "hamburguesa con mayonesa": 280.0,
+            "hamburguesa con jamon": 350.0,
+            "hamburguesa con chorizo": 350.0,
+            "hamburguesa con cebolla": 330.0,
+            "hamburguesa con queso blanco": 330.0,
+            "hamburguesa con queso gouda": 430.0
+        },
+        "strong_dishes": {
+            "pollo chiflado": 700.0,
+            "masa de cerdo frita": 1100.0
+        },
+        "pizzas": {
+            "pizza con queso blanco": 200.0,
+            "pizza con queso gouda": 350.0,
+            "pizza familiar con queso blanco": 450.0,
+            "pizza familiar con queso gouda": 650.0
+        },
+        "pastas": {
+            "espaguetti con queso blanco": 350.0,
+            "espaguetti con queso gouda": 500.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":null,
+            "water":null,
+            "soft_drinks":{
+                "refresco": 20.0
+            },
+            "juices":{
+                "jugo": 50.0
+            },
+            "lemonade":null,
+            "malta":{
+                "malteada": 330.0
+            },
+            "copas":{
+
+            },
+            "coffees":{
+                "expresso": 20.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

@@ -126,5 +126,9 @@
                 "Infusiones": 600.0
             }
         }
-    }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
 }

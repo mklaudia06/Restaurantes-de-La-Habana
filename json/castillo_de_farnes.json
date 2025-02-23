@@ -1,0 +1,92 @@
+{
+    "name": "Castillo de Farnes",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Obrapia",
+            "Street2":"Bernaza",
+            "Street3":"Avenida Belgica"
+        },
+        "coordinates_latitude_length" : [23.1369771,-82.3620879]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "09:00 am",
+        "closure": "09:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.6,
+    "social_media": {
+        "instagram":null,
+        "facebook":"Restaurante Castillo de Farnes"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Cerdo estofado": 875.0,
+            "Fajitas de cerdo": 990.0,
+            "Bistec de cerdo": 850.0,
+            "Res estofada": 875.0,
+            "Lonjas de res": 945.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add":null,
+        "side_dishes": {
+            "Arroz con sustancia": 105.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": {
+                    "Gin tonic 215ml": 350.0,
+                    "Ron collins 290ml": 300.0,
+                    "Daiquiri 120ml": 300.0,
+                    "Licor cubay de menta 60ml": 200.0,
+                    "Licor curacao azul 60ml": 200.0,
+                    "Licor cubay de anis": 200.0
+
+                },
+                "beers":{
+                    "Cerveza importada": 175.0,
+                    "Cerveza nacional": 160.0,
+                    "Parranda 500ml": 180.0
+                }
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":{
+                "Jugo nacional": 90.0,
+                "Vaso de jugo importado200ml": 80.0
+            },
+            "lemonade":{
+                "Limonada 290ml": 100.0
+            },
+            "malta":{
+                "Malta importada": 135.0
+            },
+            "copas":null,
+            "coffees":{
+                "Cafe express 45ml": 125.0,
+                "Cafe americano 170ml": 150.0,
+                "Cafe cortado 60ml": 175.0,
+                "Cafe con leche 170ml": 180.0,
+                "Leche fria 240ml": 160.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

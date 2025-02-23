@@ -1,0 +1,61 @@
+{
+    "name": "El Bache",
+    "food_type": ["italiana"],
+    "municipality": "Cotorro",
+    "location": {
+        "address":{
+            "Street1":"Calle 30",
+            "Street2":"95",
+            "Street3":"97"
+        },
+        "coordinates_latitude_length" : [23.0427997,-82.2634204]
+    },
+    "phone_number": "54703920",
+    "schedule": {
+        "opening": "10:30 am",
+        "closure": "10:30 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": null,
+        "pizzas": {
+            "pizza napolitana": 600.0,
+            "pizza doble queso": 800.0,
+            "pizza queso gouda": 900.0,
+            "pizza jamon": 800.0,
+            "pizza chorizo": 800.0,
+            "pizza aceituna": 1350.0,
+            "pizza atun": 800.0,
+            "pizza cebolla": 1100.0,
+            "pizza hawaiana": 1450.0
+        },
+        "pastas": {
+            "lasaña": 800.0,
+            "lasaña de queso gouda": 1200.0,
+            "espaguetti con queso gouda": 900.0,
+            "espaguetti": 600.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

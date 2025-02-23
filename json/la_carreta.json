@@ -2,8 +2,11 @@
     "name": "La Carreta",
     "municipality": "Plaza de la Revolucion",
     "location": {
-
-        "address": "Calle 21 entre J y K, Vedado, Plaza",
+        "address":{
+            "Street1":"Calle 21",
+            "Street2":"J",
+            "Street3":"K"
+        },
         "coordinates_latitude_length": [23.13993175557732, -82.38537118924619]
     },
     "phone_number": "5350990383",

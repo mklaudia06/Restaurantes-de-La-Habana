@@ -1,0 +1,108 @@
+{
+    "name": "Pacomeralgo",
+    "food_type": ["italiana"],
+    "municipality": "La Lisa",
+    "location": {
+        "address":{
+            "Street1":"Calle 200",
+            "Street2":"51",
+            "Street3":"45"
+        },
+        "coordinates_latitude_length" : [23.066005, -82.450672]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "10:30 am",
+        "closure": "01:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "entremes de jamon y queso": 450,
+            "entremes de aceitunas": 300,
+            "croquetas": 300,
+            "papas fritas": 333,
+            "picadera paco": 850
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich de queso": 400,
+            "sandwich de jamon": 400,
+            "Sandwich de jamon y queso": 450,
+            "Sandwich de atun": 450,
+            "Pan con hamburguesa": 450
+        },
+        "strong_dishes": null,
+        "pizzas": {
+            "Pizza de queso": 600,
+            "Pizza de Jamon": 770,
+            "Pizza de Chorizo": 770,
+            "Pizza de Cebolla": 750,
+            "Pizza de Aji": 730,
+            "Pizza de Aceituna": 780,
+            "Pizza hawaiana": 820,
+            "Pizza de pasas con pinas": 730,
+            "pizza de atun": 840,
+            "pizza paco": 1000
+        },
+        "pastas": {
+            "espaguetis napolitanos": 600,
+            "espaguetis de jamon": 720,
+            "espaguetis de chorizo": 720,
+            "Lasagna": 615,
+            "espaguetis de atun": 790
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cervezas": 250
+                }
+            },
+            "water":null,
+            "soft_drinks":{
+                "Refresco de Cola": 250,
+                "Refresco de limon": 250,
+                "refresco de naranja": 250
+            },
+            "juices":{
+                "jugo pequeno": 250,
+                "jugo grande": 900
+            },
+            "lemonade":null,
+            "Yogurt vaso": 200,
+            "energizante": 350,
+            "malta":{
+                "malta": 350,
+                "malteada": 650
+            },
+            "copas":null,
+            "coffees":{
+                "expresso": 150,
+                "americano": 150,
+                "cortadito": 220,
+                "Bombon": 350
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

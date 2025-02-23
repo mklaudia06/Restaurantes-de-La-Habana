@@ -8,7 +8,7 @@
             "Street2":"15",
             "Street3":"17"
         },
-        "coordinates_latitude_length" : [23.134739,-82.4148211]
+        "coordinates_latitude_length" : [23.1351448,-82.3964321]
     },
     "phone_number": "78360808",
     "schedule": {
@@ -66,5 +66,9 @@
             "copas":null,
             "coffees":null
         }
-    }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
 }

@@ -1,0 +1,173 @@
+{
+    "name": "Sapori",
+    "food_type": ["internacional"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Avenida 5B",
+            "Street2":"Calle 6",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1253867,-82.4137531]
+    },
+    "phone_number": "063969295",
+    "schedule": {
+        "opening": "08:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":5.0,
+    "social_media": {
+        "instagram":"sapori_oficial",
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": {
+            "Tostadas de mantequilla y mermelada": 400.0,
+            "Tostadas de aguacate, chia, aceite de oliva y tomate": 800.0,
+            "Ensalada de frutas": 1000.0,
+            "Yogurt con cereal": 650.0,
+            "Yogurt con frutas": 650.0,
+            "Leche con cereal": 650.0,
+            "Crepes": 800.0,
+            "Crepes de nutella": 1000.0,
+            "Tostadas francesas": 1000.0,
+            "Waffles": 1000.0,
+            "Huevos al gusto": 1000.0,
+            "Huevos benedictos": 1500.0,
+            "Desayuno continental": 2000.0,
+            "Desayuno americano": 2000.0,
+            "Desayuno sapori": 2200.0,
+            "Desayuno healthy": 2500.0
+        },
+        "started": {
+            "Croissant natural": 600.0,
+            "Baguette natural pequeño": 180.0,
+            "Barra de baguette natural": 650.0,
+            "Pan briochi": 1500.0,
+            "Pan boom": 250.0,
+            "Pan rustico": 1100.0,
+            "Bolitas de queso (5u)": 1200.0,
+            "Croquetas (6u)": 1200.0,
+            "Papas fritas": 900.0,
+            "Brusquetas clasicas (4u)": 800.0,
+            "Brusquetas de jamon serrano (4u)": 950.0,
+            "Nuggets de pollo (6u)": 2000.0,
+            "Tacos de pechuga (3u)": 2200.0,
+            "Tacos de cerdo (3u)": 2200.0,
+            "Picadera sapori": 4000.0,
+            "Ensalada cesar": 2200.0,
+            "Ensalada capresse": 2700.0,
+            "Ensalada estacion": 1800.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Carpaccio de res": 3250.0,
+            "Ceviche de pescado": 2000.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "Dulce de chocolate": 750.0,
+            "Dulce de fresa": 700.0,
+            "Dulce de vainilla": 700.0,
+            "Dulce de avellana": 700.0,
+            "Dulce de limon": 700.0,
+            "Dulce de tiramisu": 750.0,
+            "Dulce de tres leches": 750.0,
+            "Dulce de yogurt con frutos del bosque": 700.0,
+            "Dulce de pistacho": 750.0,
+            "Tartaleta de chocolate": 700.0,
+            "Tartaleta de pistacho con limon": 750.0,
+            "Cheesecake de fresa": 700.0,
+            "Ferrero rocher": 700.0,
+            "Panna cotta": 500.0,
+            "Matilda": 600.0,
+            "Tarta de yogurt y frutos del bosque": 6500.0,
+            "Tarta de chocolate": 6500.0,
+            "Tarta de fresa": 6500.0,
+            "Tarta de vainilla": 6500.0,
+            "Tarta de avellana": 6500.0,
+            "Tarta de limon": 6500.0,
+            "Tarta tres leches": 5000.0,
+            "Tarta cheesecake fresa": 6500.0,
+            "Tarta matilda": 8000.0,
+            "Tarta de tiramisu": 8000.0,
+            "Tarta tres leches con frutos rojos": 8000.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Servicio michelada": 500.0,
+                    "Servicio chelada": 400.0,
+                    "Tinto de verano": 1000.0,
+                    "Sangria": 1200.0,
+                    "Piña colada": 1400.0,
+                    "Aperol spritz": 1200.0,
+                    "Daiquiri": 1000.0,
+                    "Mojito": 1100.0,
+                    "Caipiroska": 1100.0,
+                    "Margarita": 1300.0,
+                    "Gin tonic": 1300.0,
+                    "San francisco": 1000.0 
+                },
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza cristal botella": 650.0,
+                    "Cerveza crona botella": 650.0,
+                    "Cerveza stella artois": 650.0
+                }
+            },
+            "water":{
+                "Agua natural": 250.0,
+                "Agua gaseada": 650.0,
+                "Agua tonica": 600.0
+            },
+            "soft_drinks":{
+                "Refresco gaseado": 550.0
+            },
+            "juices":{
+                "Jugo de caja": 250.0,
+                "Jugo natural": 450.0
+            },
+            "lemonade":{
+                "Limonada": 1000.0
+            },
+            "red bull":750.0,
+            "malta": 600.0,
+            "copas":null,
+            "coffees":{
+                "Cafe expresso": 400.0,
+                "Cafe cubano": 400.0,
+                "Cafe cortadito": 430.0,
+                "Cafe americano": 400.0,
+                "Cafe bombon": 550.0,
+                "Cafe moca": 550.0,
+                "Cafe capuchino": 650.0,
+                "Cafe escoses": 650.0,
+                "Cafe chantilly": 450.0,
+                "Cafe affogato": 650.0,
+                "Cafe latte": 850.0,
+                "Frapuccino": 1200.0,
+                "Cafe ice latte": 850.0,
+                "Chocolate caliente": 850.0,
+                "Te caliente": 250.0,
+                "Te frio": 250.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

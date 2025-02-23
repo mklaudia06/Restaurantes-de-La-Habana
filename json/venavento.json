@@ -1,0 +1,147 @@
+{
+    "name": "VenaVento",
+    "food_type": ["cubana","internacional"],
+    "municipality": "Boyeros",
+    "location": {
+        "address":{
+            "Street1":"Calle 10",
+            "Street2":"Vento",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.0653678,-82.3980674]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":3.6,
+    "social_media": {
+        "instagram":"terraza_venavento_oficial",
+        "facebook":"Terraza VenaVento"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "ensalada tibia de langosta": 1600.0,
+            "tabla iberica mix": 3600.0,
+            "tabla iberica": 2600.0,
+            "coctel de gambas": 1300.0,
+            "coctel de anzuelos": 1300.0,
+            "ensalada caprese": 1250.0,
+            "ensalada cesar": 1250.0,
+            "quesadillas": 1200.0,
+            "tacos de camaron": 1800.0,
+            "tostones de cangrejo": 1650.0,
+            "tortillas rellenas": 1500.0,
+            "frituras de malanga": 1400.0,
+            "garbanzos fritos": 1500.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "pollo grille": 1600.0,
+            "suprema de pollo": 2500.0,
+            "pollo al carbon": 1850.0,
+            "brocheta de pollo": 2020.0,
+            "brocheta de cerdo": 2170.0,
+            "cachopo de cerdo": 2600.0,
+            "cochino al jugoso": 2420.0,
+            "grillada de fruta de mar": 7600.0,
+            "langosta mariscossa": 3600.0,
+            "brocheta de langosta": 2700.0,
+            "paella de mariscos (pax 1)": 2770.0,
+            "paella de mariscos (pax 2)": 4600.0,
+            "camarones al gusto": 3500.0,
+            "congrejo enchilado": 3000.0,
+            "langosta enchilada": 3100.0,
+            "langosta batabano": 3300.0,
+            "salmon al ajillo": 3500.0,
+            "salmon de cerdo": 3800.0,
+            "salmon a la parrilla": 4500.0,
+            "filete de pescado montadoro": 2620.0,
+            "filete de pescado carriller": 2770.0,
+            "filete de pescado don pello": 2770.0,
+            "filete de pescado flor blue": 2800.0,
+            "cacerola de pescado y marisco": 3500.0,
+            "zarzuela de pescado y mariscos": 3500.0,
+            "brocheta mixta de carne": 2220.0,
+            "paella de carne (pax 1)": 2600.0,
+            "paella de carne (pax 2)": 4400.0,
+            "mar y tierra ( pax 1)": 4000.0,
+            "paella mixta (pax 1)": 2800.0,
+            "paella mixta (pax 2)": 4800.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "pasta veranennto": 2600.0,
+            "pasta carbonara": 2500.0,
+            "fruti de mare": 3200.0,
+            "nero di sejia": 3000.0
+        },
+        "desserts": {
+            "crema volia": 850.0,
+            "flan de caramelo": 750.0,
+            "flanada": 1000.0,
+            "icecream_flavors":{
+                "copa de helado": 500.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "ensalada estacion": 750.0,
+            "arroz blanco": 580.0,
+            "frijoles de la casa": 800.0,
+            "ensalada de tomate": 1000.0,
+            "moros y cristianos": 800.0,
+            "fufuce platano": 1200.0,
+            "pure de papa": 1500.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "san francisco": 850.0,
+                    "servicio de chinchada": 350.0,
+                    "servicio de vinireda": 350.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "cerveza nacional": 250.0,
+                    "cerveza importada": 290.0
+                }
+            },
+            "water":{
+                "aguas naturales": 400.0
+            },
+            "soft_drinks":{
+                "refresco": 300.0
+            },
+            "juices":{
+                "batido de frutas": 500.0
+            },
+            "lemonade":null,
+            "energizante tacon": 480.0,
+            "copas":null,
+            "coffees":{
+                "cafe expresso": 200.0,
+                "cafe nespreso": 220.0,
+                "cafe cortadito": 280.0,
+                "cafe con leche": 280.0,
+                "cafe frappucino": 400.0,
+                "cafe amaretto": 550.0,
+                "cafe espannol": 500.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

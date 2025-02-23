@@ -1,0 +1,245 @@
+{
+    "name": "Don Omar",
+    "food_type": ["criolla","internacional","italiana"],
+    "municipality": "Cotorro",
+    "location": {
+        "address":{
+            "Street1":"Calle 22A",
+            "Street2":"65",
+            "Street3":"63"
+        },
+        "coordinates_latitude_length" : [23.014864,-82.2717679]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "11:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "picadera Don Omar": 1800.0,
+            "ensalada de jamon": 350.0,
+            "ensalada de pollo": 400.0,
+            "eperlan": 950.0,
+            "faja de pollo": 700.0,
+            "faja de cerdo": 850.0,
+            "coctel de camaron": 850.0,
+            "coctel de langosta": 800.0,
+            "entremes surtido": 650.0,
+            "entremes de jamon y queso": 500.0,
+            "tostones de jamon": 350.0,
+            "ensalada de atun": 350.0,
+            "tostones de queso": 350.0,
+            "ensalada de camaron": 350.0,
+            "tostones de jamon y queso": 800.0,
+            "tostones": 400.0,
+            "platano maduro frito": 250.0,
+            "chicharrita de platano": 250.0,
+            "chicharrita de boniato": 250.0,
+            "yuca con mojo": 250.0,
+            "ensalada de estacion": 250.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "mega grillada del caribe": 4000.0,
+            "mar y tierra": 3200.0,
+            "Don Omar con pollo": 2700.0,
+            "pollo parisien": 1600.0,
+            "pollo al angel": 950.0,
+            "pollo gordon blue": 1100.0,
+            "pollo reina": 950.0,
+            "pollo gratinado con jamon y queso": 1100.0,
+            "pollo empanado": 900.0,
+            "pollo ahumado hecho jamon": 900.0,
+            "pollo frito": 900.0,
+            "pollo grille": 800.0,
+            "bistec de pechuga de pollo": 1100.0,
+            "Don Omar con lomo": 2900.0,
+            "lomo hawaiano": 1500.0,
+            "bistec de cerdo uruguayo": 1400.0,
+            "lomo ahumado": 1250.0,
+            "bistec reina": 1150.0,
+            "bistec tuna": 1150.0,
+            "bistec de cerdo gratinado con jamon y queso": 1150.0,
+            "masa de cerdo frita": 1350.0,
+            "bistec de cerdo": 1050.0,
+            "fricase de cerdo": 1100.0,
+            "estofado de cerdo": 1100.0,
+            "bistec de res uruguayo": 1400.0,
+            "faja de res criolla": 1100.0,
+            "bistec de res grille": 1100.0,
+            "vaca frita": 1100.0,
+            "ropa vieja": 1200.0,
+            "gran grillada del mar": 2700.0,
+            "paella al estilo del chef": 2700.0,
+            "cacerola del mar": 2900.0,
+            "delicia tropical": 2500.0,
+            "tazon mariscos": 2500.0,
+            "camaron Hemingway": 2000.0,
+            "camaron al ajillo": 1700.0,
+            "camaron al vino tinto": 1700.0,
+            "camaron empanado": 1700.0,
+            "camaron enchilado": 1800.0,
+            "camaron grille": 1700.0,
+            "enchilado de langosta": 1800.0,
+            "langosta al ron": 1700.0,
+            "langosta mariposa": 1700.0,
+            "ihomville": 2200.0,
+            "pescado gratinado con camarones": 1900.0,
+            "canciller": 1600.0,
+            "pescado gratinado con jamon y queso": 1550.0,
+            "pescado gratinado con queso": 1450.0,
+            "pescado empanado": 1300.0,
+            "pescado grille": 1200.0,
+            "grillada Don Omar": 2300.0,
+            "faja mixta a la criolla": 2300.0
+        },
+        "pizzas": {
+            "mixta": 950.0,
+            "hawaiana": 650.0,
+            "atun": 600.0,
+            "camaron": 900.0,
+            "aji": 550.0,
+            "cebolla": 650.0,
+            "chorizo": 600.0,
+            "jamon": 600.0,
+            "queso": 500.0
+        },
+        "pastas": {
+            "spaghetti mixta": 750.0,
+            "spaghetti con camaron": 800.0,
+            "spaghetti con atun": 500.0,
+            "spaghetti con jamon": 480.0,
+            "spaghetti con chorizo": 450.0,
+            "spaghetti con queso": 400.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":{
+            "sopa de mariscos": 200.0,
+            "sopa de pollo": 1100.0,
+            "sopa de res": 700.0
+        },
+        "digestive":null,
+        "desserts": {
+            "postre de la casa": 500.0,
+            "cunna de cake": 400.0,
+            "icecream_flavors":{
+                "batido de helado": 400.0,
+                "bolas de helado": 400.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "arroz blanco": 150.0,
+            "arroz moro": 250.0,
+            "arroz pilaf": 300.0
+        },
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "blue love corona": 1000.0,
+                    "blue love cristal": 900.0,
+                    "michelada": 450.0,
+                    "chelada": 450.0,
+                    "sangria": 400.0,
+                    "caipirinna": 350.0,
+                    "caipiroska": 350.0,
+                    "cuba libre": 350.0,
+                    "mojito": 350.0,
+                    "gin tonic": 400.0,
+                    "pinna colada": 400.0,
+                    "cubanito": 400.0,
+                    "bloody mary": 400.0,
+                    "screwdriver": 350.0,
+                    "daiquiri": 350.0,
+                    "margarita": 500.0,
+                    "cerveza Bucanero": 300.0,
+                    "cerveza Corona": 400.0,
+                    "crema Ruavieja": 500.0,
+                    "crema Sheridans": 550.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "ron Annejo 7 annos": 250.0,
+                    "ron Ritual": 250.0,
+                    "ron Reserva": 250.0,
+                    "ron Santiago": 200.0,
+                    "ron Mulata 15 annos": 300.0,
+                    "ron Old Pard": 350.0,
+                    "ron Crow Royal": 350.0,
+                    "ron Flor de Canna": 400.0,
+                    "ron Brugal": 400.0,
+                    "ron Santero 7 annos": 250.0,
+                    "ron Pacto Navio": 550.0,
+                    "ron Seleccion de Maestros": 550.0,
+                    "tequila Olmeca reposado": 450.0,
+                    "tequila Olmeca blanco": 400.0,
+                    "tequila de chocolate": 400.0,
+                    "tequila Jose Cuervo": 500.0,
+                    "whiskey Jamenson": 450.0,
+                    "whiskey Clan Camber": 350.0,
+                    "whiskey Ballentine": 400.0,
+                    "whiskey chiva Regal 15": 550.0,
+                    "whiskey Granst": 300.0,
+                    "whiskey WS": 200.0,
+                    "whiskey River Queen": 200.0,
+                    "whiskey Jack Daniels": 550.0,
+                    "whiskey Red Label": 450.0,
+                    "whiskey Black Label": 500.0,
+                    "whiskey The Glen Livet": 500.0,
+                    "whiskey Chanceler": 200.0,
+                    "vodka Grey goose": 500.0
+
+                },
+                "beers":{
+                    "cerveza": 260.0,
+                    "cerveza Cristal": 300.0
+                }
+            },
+            "water":{
+                "agua 1000ml": 200.0,
+                "agua natural": 160.0
+            },
+            "soft_drinks":{
+                "refresco 1500ml": 550.0,
+                "refresco": 250.0,
+                "Coca Cola": 270.0
+            },
+            "juices":{
+                "batido de mango": 400.0,
+                "batido de mamey": 400.0,
+                "jugo de mango": 350.0,
+                "jugo caja": 200.0,  
+                "kermato": 450.0,
+                "jugo lata": 280.0,
+                "jugo pomo": 240.0
+            },
+            "lemonade":null,
+            "energizantes": 300.0,
+            "malta":300.0,
+            "copas":{
+                "vino tinto": 450.0,
+                "vino rosa": 350.0,
+                "vino blanco": 350.0
+            },
+            "coffees":{
+                "expresso": 200.0,
+                "cortado": 250.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,80 @@
+{
+    "name": "La Baliza",
+    "food_type": ["rapida"],
+    "municipality": "La Lisa",
+    "location": {
+        "address":{
+            "Street1":"Calle 230",
+            "Street2":"Avenida 23",
+            "Street3":"23 A"
+        },
+        "coordinates_latitude_length" : [23.0673288,-82.468414]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "9:30 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.7,
+    "social_media": {
+        "instagram":null,
+        "facebook":"La Baliza"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich de Jamon y Queso": 500,
+            "Hamburguesa": 490,
+            "Super Hamburguesa": 950
+        },
+        "strong_dishes": null,
+        "pizzas": {
+            "Pizza con queso gouda (small)": 450,
+            "Pizza con queso gouda (large)": 700,
+            "Pizza de queso blanco (small)": 350,
+            "Pizza de queso blanco(large)": 520
+        },
+        "pastas":null,
+        "desserts": null,
+        "pizza_pasta_add": {
+            "Jamon": 150,
+            "Queso Gou": 200,
+            "Queso gouda": 200
+        },
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with": null,
+                "beers":{
+                    "Cerveza Importada": 250
+                }
+            },
+            "water":{
+                "Agua mineral natural": 150
+            },
+            "soft_drinks":{
+                "Refresco importado": 230
+            },
+            "juices":{
+                "Batido de Mamey": 230
+            },
+            "lemonade":null,
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

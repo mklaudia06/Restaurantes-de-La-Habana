@@ -1,0 +1,252 @@
+{
+    "name": "Casa Mia",
+    "food_type": ["caribeña","latina","saludable","cubana","internacional","mariscos"],
+    "municipality": "Plaza de la Revolucion",
+    "location": {
+        "address":{
+            "Street1":"Calle 1ra",
+            "Street2":"C",
+            "Street3":"D"
+        },
+        "coordinates_latitude_length" : [23.142713, -82.399128]
+    },
+    "phone_number": "78329735",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.5,
+    "social_media": {
+        "instagram":"casamiapaladar",
+        "facebook":"Casa Mia Paladar"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Pan de la casa con dip del chef":980.0,
+            "Nuestras croquetas":1600.0,
+            "Ceviche de pescado y mango":2600.0,
+            "Crema de calabaza y crujiente de bacon":  2300.0,
+            "Tostones rellenos con jamon y queso gouda gratinado":2300.0, 
+            "Garbanzos fritos con chorizo casero y bacon":2600.0,
+            "Coctel de langosta":2900.0, 
+            "Carpaccio de pulpo": 3200.0,
+            "Carpaccio de res con queso parmesano y aceite de trufas":3600.0, 
+            "Provolone frito con panko y salsa de guayaba":  2900.0,
+            "Dumplings fritos":1600.0,
+            "Tabla de jamon serrano, rucula, aceitunas, queso cabra y pan de la casa":5200.0
+        },
+        "tacos":{
+            "Tacos de cerdo":2300.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pechuga de pollo al ajillo con pina glaseada": 3600.0,
+            "Cordon Bleu de pechuga de pollo":3600, 
+            "Pechuga de pollo al ajillo con pinha glaseada": 3600.0,
+            "Brochetas de solomillo de cerdo en salsa teriyaki":4500.0,
+            "Costillas de cerdo en salsa barbacoa":4200.0,
+            "Lomo ahumado de cerdo en salsa de frutas tropicales": 3600.0,
+            "Ropa vieja de res": 3600.0,
+            "Punta de res a la Duth":  {
+                "price":6100.0,
+                "number_um":200 ,
+                "unit_of_measure":"gramos",
+                "type":"res"
+            },
+            "Arracera":  {
+                "price":7800.0,
+                "number_um":200,
+                "unit_of_measure":"gramos",
+                "type":"res"
+            },
+            "Filete Tenderloing":{
+                "price":7800.0,
+                "number_um":220,
+                "unit_of_measure":"gramos",
+                "type":"res"
+            }, 
+            "T bone con papas asadas al romero y salsa de queso azul": {
+                "price":13000.0,
+                "number_um":550,
+                "unit_of_measure":"gramos",
+                "type":"res"
+            },
+            "Camarones al ajillo":4500.0, 
+            "Camarones en salsa de curry y arroz blanco":4500.0,
+            "Pulpo estilo Casa Mia":  5800.0,
+            "Langosta en nuestra salsa de pina":6100.0,
+            "Cazuela de mariscos en nuestra salsa de tomate":4800.0, 
+            "Salmon en salsa de cebolla y tomate confitado":5200.0,
+            "Filete de pescado grille": 4200.0,
+            "Filete de pescado en salsa cremosa de limon": 4500,
+            "Rissotto de mariscos": 4800.0,
+            "Risotto de pollo y funghi porcini": 4500.0,
+            "Arroz negro marinero":4800.0,
+            "Cordero estilo Casa Mia":4800.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Pasta Amatriciana": 3600.0,
+            "Pasta con pesto y camarones": 4200.0,
+            "Pasta con bacon y crema de frutas": 4800.0,
+            "Espagueti frutti di mare": 4500.0
+        },
+        "pizza_pasta_add":null,
+        "desserts": {
+            "Flan de leche": 1300.0,
+            "Flan con helado": 1950.0,
+            "Semifrio CasaMia": 1500.0,
+            "icecream_flavors":{
+                "Helado de la casa": 1300.0
+            }
+        },
+        "side_dishes": {
+            "Arroz blanco": 650.0,
+            "Frijoles negros": 800.0,
+            "Arroz moro": 800.0,
+            "Tostones con mojo criollo": 800.0,
+            "Pure de boniato con bacon": 950.0,
+            "Papas alemanas": 1300.0,
+            "Papas fritas": 1300.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 1500.0,
+                    "Mojito frappe": 1500.0,
+                    "Mojito de frutas": 2000.0,
+                    "Gin tonic": 2000.0,
+                    "Tinto de verano": 2000.0,
+                    "Sangria": 2000.0,
+                    "Vodka tonic": 1800.0,
+                    "Cuba libre": 1600.0,
+                    "Ron Collins": 1600.0,
+                    "Cubata": 1800.0,
+                    "Srewdriver": 1600.0,
+                    "Daiquiri frappe": 1600.0,
+                    "Daiquiri frappe de frutas": 1800.0,
+                    "Havana Especial": 1600.0,
+                    "Caipirinha": 1600.0,
+                    "Caipiroshka": 1600.0,
+                    "Caipirisima": 1600.0,
+                    "Canchanchara Santiago 8": 1800.0,
+                    "Margarita": 1800.0,
+                    "Martini dulce": 1800.0,
+                    "Expreso Martini": 2000.0,
+                    "Aperol spritz": 1800.0,
+                    "Aperol Margarita": 2600.0,
+                    "Mimosa": 1800.0,
+                    "Pina colada ": 1800.0,
+                    "Pina colada de fresa": 2000.0,
+                    "Bloody Mary/Kermato": 1800.0,
+                    "Cubanito/Kermato": 1800.0,
+                    "Servicio de Chelada": 650.0,
+                    "Servicio de Michelada": 800.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Limoncello": 1450.0,
+                    "Baileys": 2000.0,
+                    "Sambuca": 1600.0,
+                    "Frangelico": 2000.0,
+                    "Amaretto": 1600.0,
+                    "Jagger": 1600.0,
+                    "Apenzeller": 1600.0,
+                    "Osborne Porto Fino Ruby": 2600.0,
+                    "Havana Club 3 anos": 950.0,
+                    "Havana Club Reserva": 1200.0,
+                    "Havana Club 7 anos": 1500.0,
+                    "Havana Club Seleccion de Maestros": 1800.0,
+                    "Havana Club 15 anos Gran Reserva": 6100.0,
+                    "Havana Club Union": 7100.0,
+                    "Santiago de Cuba Anhejo 8 anos": 1600.0,
+                    "Santiago de Cuba extra anhejo 11 anos": 1900.0,
+                    "Santiago de Cuba extra anhejo 12 anos": 2300.0,
+                    "Pacto navio": 2300.0,
+                    "Flor de Canha": 2600.0,
+                    "Zacapa 23": 5200.0,
+                    "Diplomatico": 4200.0,
+                    "Don Papa Baroko": 4200.0,
+                    "Finlandia": 1600.0,
+                    "Absolut": 1600.0,
+                    "Stolichnaya": 1900.0,
+                    "Ciroc": 2600.0,
+                    "Ciroc saborizado": 2900.0,
+                    "Hendricks": 4800.0,
+                    "Bombay Saphire": 3600.0,
+                    "Citadelle": 3600.0,
+                    "Tanqueray": 2900.0,
+                    "Tanqueray Ten": 3900.0,
+                    "Tanqueray Flor de Sevilla": 3900.0,
+                    "Gin Mare": 3600.0,
+                    "London No.1": 4200.0,
+                    "London no.3": 3900.0,
+                    "Gordon": 1500.0,
+                    "Master Blue": 1500.0,
+                    "Fifty Pounds": 4800.0,
+                    "Caorunn": 4200.0,
+                    "Olmeca reposado": 2000.0,
+                    "1800 reposado": 4500.0,
+                    "Gila silver": 2900.0,
+                    "Dom Julio 70": 5200.0,
+                    "JyB": 1600.0,
+                    "Jameson Black Barrel": 2600.0,
+                    "Ballantines": 1600.0,
+                    "Chivas regal 12 anos": 2300.0,
+                    "Jhonnie Walker Red Label": 2000.0,
+                    "Jhonnie Walker Black Label": 2900.0,
+                    "Jhonnie Walker Double Black": 3600.0,
+                    "Jhonnie Walker Green Label": 4500.0,
+                    "Jhonnie Walker Gold Label": 4500.0,
+                    "Jhonnie Walker Blue Label": 16000.0,
+                    "Jack Daniel": 2300.0,
+                    "Glenlivet 18": 6100.0,
+                    "Glenfiddich 12": 4200.0,
+                    "Glenmorangie 14": 5100.0,
+                    "Buchanans 18": 7400.0,
+                    "Macallan 12": 6800.0,
+                    "Old Parr": 1600.0,
+                    "Cognac/Brandys Courvoisier V.S": 6100.0,
+                    "Sarajishvili XO": 5500.0
+                },
+                "beers":{
+                    "Cervezas": 950.0
+                }
+            },
+            "water":{
+                "Agua importada": 800.0,
+                "Agua tonica importada": 1200.0
+            },
+            "soft_drinks":{
+                "Refrescos importados": 800.0
+            },
+            "juices":{
+                "Jugo de pina y hierbabuena": 950.0,
+                "Jugos naturales del dia": 800.0
+            },
+            "lemonade":{
+                "Limonada frappe": 950.0,
+                "Limonada natural": 950.0,
+                "Limonada frescura": 1200.0
+            },
+            "San Francisco": 950.0,
+            "red bull":1500.0,
+            "malta":950.0,
+            "copas":{
+                "Copa de vino de la casa": 1450.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,103 @@
+{
+    "name": "El chanchullero",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Teniente Rey",
+            "Street2":"Bernaza",
+            "Street3":"Cristo"
+        },
+        "coordinates_latitude_length" : [23.1355636,-82.3563609]
+    },
+    "phone_number": "52760938",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.5,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Tapas de tomate": 350.0,
+            "Tapas de guacamole": 350.0,
+            "Tapas de carne": 500.0,
+            "Tacos con carne": 550.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo al ajillo": 1050.0,
+            "Fricase de pollo": 1200.0,
+            "Fricase de cerdo": 1200.0,
+            "Cerdo encebollado juliana": 1200.0,
+            "Completa de lomo ahumado": 850.0,
+            "Ropa vieja": 1300.0,
+            "Pescado chanchullero": 1750.0,
+            "Reina al ajillo": 1800.0,
+            "Reina enchilada": 1800.0
+        },
+        "pizzas": {
+            "Napolitana": 950.0,
+            "Margarita": 1000.0,
+            "De jamon": 1100.0,
+            "De chorizo": 1100.0,
+            "Vegetariana": 1000.0,
+            "Chanchullero": 1100.0
+        },
+        "pizza_pasta_add":null,
+        "pastas": null,
+        "desserts": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito chanchullero": 400.0,
+                    "Cuba libre": 400.0,
+                    "Catarro": 400.0,
+                    "Caipirissima": 400.0,
+                    "Caipiroska": 450.0,
+                    "Jugo enlatado": 400.0,
+                    "La chelada": 575.0,
+                    "La michelada": 600.0,
+                    "Daiquiri": 500.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza": 400.0
+                }
+            },
+            "water":{
+                "Agua natural": 350.0
+            },
+            "soft_drinks":{
+                "Refresco importado": 400.0
+            },
+            "juices":null,
+            "lemonade":{
+                "Limonada frappe": 600.0,
+                "Limonadafrescura": 650.0
+            },
+            "copas":{
+                "Copa de vino": 650.0,
+                "Tinto de verano": 600.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

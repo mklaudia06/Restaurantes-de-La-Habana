@@ -1,0 +1,118 @@
+{
+    "name": "Qbanas 60",
+    "food_type": ["americana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Calle 37",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1171352,-82.4019941]
+    },
+    "phone_number": "52036116",
+    "schedule": {
+        "opening": "12:00 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.4,
+    "social_media": {
+        "instagram":"qbanas.60",
+        "facebook":"Qbana's"
+    },
+    "menu": {
+        "breakfast": {
+            "Desayuno americano": 1500.0
+        },
+        "started": {
+            "Bolitas de queso": 800.0,
+            "Croquetas de pollo": 650.0,
+            "Frituras de malanga": 500.0,
+            "Papas fritas": 500.0,
+            "Papas fritas con bacon y queso": 950.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "Sandwich de queso": 600.0,
+            "Hamburguesa americana": 1700.0,
+            "Hamburguesa de cerdo": 1400.0
+        },
+        "strong_dishes": {
+            "Pollo chiflado": 1200.0,
+            "Huevos rotos": 1500.0
+        },
+        "pizzas": {
+            "Pizza cubana": 400.0,
+            "Pizza trufada con tomate asado": 1500.0
+        },
+        "pastas": null,
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "Cheddar": 300.0,
+            "Bacon": 500.0,
+            "Huevo": 300.0,
+            "Gouda": 300.0,
+            "Cebolla": 250.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Daiquiri": 900.0,
+                    "Old fashion": 1800.0,
+                    "Sangria": 1000.0,
+                    "Servicio de michelada": 600.0,
+                    "Servicio de chelada": 350.0,
+                    "Pina colada": 1000.0,
+                    "Margarita": 900.0,
+                    "Aperol spritz": 1500.0,
+                    "Daiquiri de arandano o fresa": 1200.0,
+                    "Mojito": 700.0,
+                    "Gin tonic": 1500.0,
+                    "Caipis": 800.0,
+                    "Cubata": 700.0,
+                    "Habanos esplendido": 2000.0,
+                    "Habanos trinidad": 3100.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "7años": 500.0,
+                    "Especial": 400.0,
+                    "Red label": 600.0,
+                    "Tequila olmeca": 700.0,
+                    "Tequila don julio": 1500.0,
+                    "Ron premium y habanos": 4000.0
+                },
+                "beers":{
+                    "Cervezas nacionales": 250.0,
+                    "Cerveza tagu": 250.0,
+                    "Cervezas importadas": 22000.0,
+                    "6 heineken": 2100.0,
+                    "Heineken": 400.0
+                }
+            },
+            "water":null,
+            "soft_drinks":null,
+            "juices":null,
+            "lemonade":null,
+            "copas":null,
+            "coffees":{
+                "Expresso": 200.0,
+                "Cortadito": 300.0,
+                "Capuchino": 350.0,
+                "Bombon": 500.0,
+                "Frapuccino": 1200.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

@@ -1,0 +1,172 @@
+{
+    "name": "Planh Enoteca & Restaurante Mithai",
+    "food_type": ["mixta"],
+    "municipality": "Habana Vieja",
+    "location": {
+        "address":{
+            "Street1":"Prado",
+            "Street2":"Animas",
+            "Street3":"Virtudes"
+        },
+        "coordinates_latitude_length" : [23.1394933,-82.3598322]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:30 am",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.9,
+    "social_media": {
+        "instagram":null,
+        "facebook":"PlanH - Enoteca & Delicatessen"
+    },
+    "menu": {
+        "breakfast": {
+            "Vegetariano": 3030.0,
+            "Tropical": 3252.0,
+            "Serrano": 4165.0,
+            "Frutas frescas": 805.0,
+            "Cesta de pan fresco / mantequilla / jugo natural": 1650.0
+        },
+        "started": {
+            "Ceviche de pescado plan h": 2000.0,
+            "Tapache serrano": 1900.0,
+            "Ceviche de atun de verano": 2380.0,
+            "Ceviche de pulpo": 2450.0,
+            "Croquetas plan h": 1000.0,
+            "Brochetas de pollo": 2300.0,
+            "Tapa de pulpo a la habanera": 2600.0,
+            "Mix de casabe crujiente": 2050.0,
+            "Ensalada salachic": 1447.0,
+            "Ensalada vegana": 765.0,
+            "Tabla de 5 quesos": 3658.0,
+            "Tabla parrillera": 3320.0,
+            "Tabla mixta plan h": 4138.0,
+            "Aceitunas negras": 350.0,
+            "Aceitunas verdes": 250.0,
+            "Papas fritas": 773.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo california": 2465.0,
+            "Lomo de res": 3350.0,
+            "Atun natural": 3500.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Pasta al pesto provenzal": 1615.0,
+            "Pasta bolognesa": 2400.0,
+            "Pasta con salmon": 2976.0,
+            "Pasta a la amatriciana": 2600.0
+        },
+        "desserts": null,
+        "side_dishes": null,
+        "pizza_pasta_add":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Michelada": 700.0,
+                    "Chelada": 600.0,
+                    "Cuba libre": 800.0,
+                    "Pinha colada": 1000.0,
+                    "Mojito natural": 850.0,
+                    "Mojito tonic": 1020.0,
+                    "Daiquiri": 850.0,
+                    "Mimosas": 900.0,
+                    "Ice on the rock": 1325.0,
+                    "Aperol spritz": 1450.0,
+                    "Sangria tonic blanca": 1100.0,
+                    "Sangria tinta": 1100.0,
+                    "Sangria tonic tinta": 1592.0,
+                    "Ginebra beefeater y agua tonica": 950.0,
+                    "Ginebra tanqueray y agua tonica": 1275.0,
+                    "Ginebra mare y agua tonica": 1275.0,
+                    "Ginebra hendricks y agua tonica": 1645.0,
+                    "Disaronno": 1215.0,
+                    "I heart chardonnay": 875.0,
+                    "I heart pinot grigio": 875.0,
+                    "I heart reisling": 875.0,
+                    "Etcetera rueda verdejo 2022": 875.0,
+                    "Mapu sauvignon blanc": 875.0,
+                    "I heart merlot": 875.0,
+                    "Trapiche vinyard malbec 2021": 875.0,
+                    "Finca del mar tempranillo 2019": 875.0,
+                    "Freixenet chianti": 875.0,
+                    "Mapu carmenere": 875.0,
+                    "Infinitus tempranillo/cabernet franc": 945.0,
+                    "J. bouchon rose 2021": 1050.0,
+                    "Cava mistinguett brut": 945.0,
+                    "Cava freixenet rose": 875.0
+                },
+                "bottles":{
+                    "Cava brut cordon negro freixenet": 4650.0,
+                    "Freye parellada moscat 2022": 5600.0,
+                    "Enate chardonnay 2021": 11230.0,
+                    "Melior de matarromera verdejo 2021": 10517.0,
+                    "Emilio moro 2019": 18467.0,
+                    "Melior de matarromera tempranillo 2020": 10517.0,
+                    "Pazo pondal olivia rose": 15090.0,
+                    "Lafage gallicia 2019": 5320.0
+                },
+                "drinks_with": {
+                    "Limoncello": 700.0,
+                    "Licor 43": 980.0,
+                    "Baileys": 910.0,
+                    "Crema barcelo": 780.0,
+                    "Licor de cafe pazo pondal": 1180.0,
+                    "Habana club 3 anhos": 392.0,
+                    "Habana club anhejo especial": 438.0,
+                    "Ron ritual": 490.0,
+                    "Habana club anhejo reserva": 590.0,
+                    "Habana club 7 anhos": 791.0,
+                    "Habana club cuban smoky": 1150.0,
+                    "Seleccion de maestro": 2215.0
+
+                },
+                "beers":{
+                    "Cerveza cristal": 600.0
+                }
+            },
+            "water":{
+                "Agua natural don aguiar": 420.0,
+                "Agua tonica me": 584.0,
+                "Agua ginger ale": 650.0
+            },
+            "soft_drinks":{
+                "Refresco ritz cola": 300.0,
+                "Refresco ritz naranja": 300.0
+            },
+            "juices":{
+                "Jugo natural": 498.0
+            },
+            "lemonade":{
+                "Limonada frappe": 540.0,
+                "Limonada frescura": 550.0
+            },
+            "red bull":450.0,
+            "copas":null,
+            "coffees":{
+                "Expresso": 260.0,
+                "American": 260.0,
+                "Cortado": 350.0,
+                "Cafe con leche": 650.0,
+                "Capuchino": 600.0,
+                "Cafe bombon": 670.0,
+                "Frapuchino": 630.0,
+                "Mocachino": 555.0,
+                "Te": 150.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

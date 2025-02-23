@@ -1,0 +1,153 @@
+{
+    "name": "Ranchon Las Vegas",
+    "food_type": null,
+    "municipality": "Boyeros",
+    "location": {
+        "address":{
+            "Street1":"Calle 409",
+            "Street2":"182",
+            "Street3":"Avenida Independencia"
+        },
+        "coordinates_latitude_length" : null
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "brusquetas de serrano y queso": 600.0,
+            "montaditos de cerdo": 700.0,
+            "papas fritas": 800.0,
+            "patacon de cerdo": 900.0,
+            "croquetas rancho": 1000.0,
+            "papas fritas y chorizos": 1000.0,
+            "tamal en cazuela": 1000.0,
+            "tabla de queso": 1900.0,
+            "tabla de serrano, quesos y frutos secos": 2000.0,
+            "la tranka": 2500.0
+        },
+        "tacos":{
+            "tacos de pollo": 1100.0,
+            "tacos de cerdo": 1200.0
+        },
+        "hamburgers_and_sandwichs": {
+            "bagutte guajiro": 1300.0,
+            "sandwich cubano": 1500.0,
+            "hamburguesa clasica": 800.0
+        },
+        "strong_dishes": {
+            "pollo grille al carbon": 1600.0,
+            "brochetas de pollo": 1800.0,
+            "brocheta de cerdo": 2200.0,
+            "costillas bbq": 2500.0,
+            "fricase de cerdo": 2500.0,
+            "bistec de cerdo": 1600.0,
+            "cerdo asado": 1800.0,
+            "lomo ahumado": 1900.0,
+            "uruguayo": 2200.0,
+            "ropa vieja de res": 1800.0,
+            "vaca frita": 1800.0,
+            "entrecot": 5000.0,
+            "steak new york": 6000.0,
+            "steak ribeye": 6500.0,
+            "enchilado de cangrejo": 2200.0,
+            "enchilado de camaron": 2500.0,
+            "pescado 1 pax": 2500.0,
+            "atun de aleta amarilla": 7000.0,
+            "super fish + copa de vino": 4500.0
+        },
+        "pizzas": null,
+        "pastas": null,
+        "desserts": {
+            "flan": 450.0,
+            "icecream_flavors":{
+                "helado": 450.0, 
+                "copa lolita": 850.0
+            }
+        },
+        "pizza_pasta_add": null,
+        "side_dishes": {
+            "arroz blanco": 300.0,
+            "arroz moro": 350.0,
+            "ensalada de estacion": 350.0,
+            "pure del dia": 350.0,
+            "verduras grilladas": 400.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "pinna colada virgen": 800.0,
+                    "Cuba Libre": 750.0,
+                    "Caipirinna": 750.0,
+                    "Caipiroska": 750.0,
+                    "Caipirisima": 750.0,
+                    "Mojito": 750.0,
+                    "Daiquiri": 800.0,
+                    "Pinna Colada": 900.0,
+                    "Bloody Mary": 900.0,
+                    "Tinto de Verano": 900.0,
+                    "Sangria": 900.0,
+                    "Cubanito": 900.0,
+                    "Margarita": 1250.0,
+                    "Cheladas": 300.0,
+                    "Micheladas": 400.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cerveza Importada": 250.0,
+                    "Cristal": 350.0,
+                    "Cristal de Botella": 450.0,
+                    "Corona": 600.0,
+                    "Cerveza Modelo": 700.0
+                }
+            },
+            "water":{
+                "agua natural": 200.0
+            },
+            "soft_drinks":{
+                "refresco cola": 250.0,
+                "refresco limon": 250.0,
+                "refresco naranja": 250.0,
+                "coca cola": 350.0,
+                "sprite": 350.0,
+                "pepsi cola": 350.0
+            },
+            "juices":{
+                "pinna": 250.0,
+                "jugos": 250.0
+            },
+            "lemonade":null,
+            "energizante importado": 400.0,
+            "malta":{
+                "malta": 300.0,
+                "malta bucanero": 350.0
+            },
+            "copas":{
+                "Vino Blanco": 700.0,
+                "Vino Tinto": 700.0
+            },
+            "coffees":{
+                "cafe": 350.0
+            }
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

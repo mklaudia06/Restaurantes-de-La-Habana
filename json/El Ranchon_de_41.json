@@ -57,100 +57,13 @@
             }
 
         },
-        "hamburgers_and_sandwichs":{
-            
-        },
-        "hamburgers_add-on":{
-            
-
-        },
-        "aperitivos":{
-
-        },
-        "snacks":{
-
-        },
-        "creams_and_soup":{
-
-        },
-        "digestive":{
-
-        },
-        "liquids": {
-            "alcoholic_drinks":{
-                "cocktails":{
-                    
-                    
-                },
-                "bottles":{
-                    "wine":{
-
-                    },
-                    "champagne": {
-
-                    },
-                    "vodka":{
-
-                    },
-                    "tequila": {
-
-                    },
-                    "whiskey":{
-
-                    },
-                    "ginebra":{
-
-                    },
-                    "ron":{
-
-                    },
-                    "liquors":{
-
-                    }
-                },
-                "drinks_with": {
-                    "ginebra":{
-
-                    },
-                    "tequila":{
-
-                    },
-                    "vodka":{
-
-                    },
-                    "whiskey":{
-
-                    },
-                    "ron":{
-
-                    }
-
-                },
-                "beers":{
-        
-                }
-            },
-            "water":{
-
-            },
-            "soft_drinks":{
-
-            },
-            "juices":{
-
-            },
-            "lemonade":{
-
-            },
-            "red bull":"",
-            "malta":"",
-            "copas":{
-
-            },
-            "coffees":{
-
-            }
-        }
+        "hamburgers_and_sandwichs":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
     },
     "10%_of_the_service": false,
     "5%_of_the_service": false,

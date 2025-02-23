@@ -1,0 +1,116 @@
+{
+    "name": "Villarino",
+    "food_type": ["criolla","italiana"],
+    "municipality": "Playa",
+    "location": {
+        "address":{
+            "Street1":"Calle 58",
+            "Street2":"Calle 33",
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.1032212,-82.4185369]
+    },
+    "phone_number": "072077867",
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "10:00 pm",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.3,
+    "social_media": {
+        "instagram":"villarino.restaurantehabana",
+        "facebook":"Restaurante Club Villarino"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Crujientes de yuca con aderezo agridulce": 480.0,
+            "Croquetas de la casa": 520.0,
+            "Bolitas de queso crujientes": 720.0,
+            "Sandwich clasico": 520.0,
+            "Eperlan de pescado": 720.0,
+            "Fajitas de pollo": 680.0,
+            "Cazuelita de garbanzos a la criolla": 680.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Arroz con pollo a la campesina": 800.0,
+            "Arroz frito especial": 800.0,
+            "Risotto": 2250.0
+        },
+        "pizzas": {
+            "Pizza napolitana": 700.0,
+            "Pizza cebolla": 750.0,
+            "Pizza chorizo": 780.0,
+            "Pizza doble queso": 950.0,
+            "Pizza jamon": 800.0,
+            "Pizza vegetales": 800.0,
+            "Pizza hawaiana": 880.0,
+            "Pizza de pollo": 800.0,
+            "Pizza del mar": 1200.0,
+            "Pizza de atun": 950.0,
+            "Pizza de ropa vieja": 950.0,
+            "Pizza de camarones": 1200.0,
+            "Pizza al gusto": 1000.0
+        },
+        "pastas": {
+            "Pasta de queso": 850.0,
+            "Pasta de jamon": 920.0,
+            "Pasta de chorizo": 880.0,
+            "Pasta carbonara": 950.0,
+            "Pasta villarino": 1200.0,
+            "Lasagna de carne": 850.0
+        },
+        "desserts": null,
+        "pizza_pasta_add":null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{        
+                    "Cocteles nacionales": 475.0,
+                    "Cocteles internacionales": 550.0
+                },
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "Cervezas nacionales (cristal/bucanero)": 260.0,
+                    "Cervezas importadas": 380.0
+                }
+            },
+            "water":{
+                "Agua natural": 150.0,
+                "Agua tonica": 300.0
+            },
+            "soft_drinks":{
+                "Refrescos nacionales": 220.0,
+                "Refrescos importados": 235.0
+            },
+            "juices":{
+                "Jugos naturales": 180.0,
+                "Jugos importados": 210.0
+            },
+            "lemonade":{
+                "Limonada frappe": 200.0
+            },
+            "red bull":220.0,
+            "malta":{
+                "Malta importada": 280.0,
+                "Malteada": 480.0
+            },
+            "copas":{
+                "Copa de vino": 350.0
+            },
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}

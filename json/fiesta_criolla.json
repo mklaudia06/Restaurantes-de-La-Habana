@@ -1,0 +1,87 @@
+{
+    "name": "Fiesta Criolla",
+    "food_type": ["cubana"],
+    "municipality": "Arroyo Naranjo",
+    "location": {
+        "address":{
+            "Street1":"Calle 100 ",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : null
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "12:00 pm",
+        "closure": "12:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "toston criollo": 500.0,
+            "toston relleno con jamon y queso": 600.0,
+            "toston relleno con atun": 700.0,
+            "eperlan": 1300.0,
+            "fajitas de pollo": 1300.0,
+            "caldo de mariscos": 1000.0,
+            "camaron rebosado": 2000.0,
+            "tamal en hojas": 90.0,
+            "fritura de malanga": 500.0,
+            "platano frito": 350.0,
+            "alitas de pollo": 850.0
+        },
+        "tacos":null,
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "pollo asado": 1150.0,
+            "pechuga grille": 1450.0,
+            "pechuga gratinada jamon y queso": 1600.0,
+            "pechuga salteada con vegetales": 1550.0,
+            "lomo ahumado": 1350.0,
+            "lomo deshuesado ahumado": 1550.0,
+            "camaron grille": 1900.0,
+            "chuleta": 1350.0,
+            "costillas fritas": 1400.0,
+            "masa frita": 1550.0,
+            "bistec grille": 1450.0,
+            "bistec gratinado de jamon y queso": 1600.0,
+            "ropa vieja": 1500.0,
+            "langosta grille": 1900.0,
+            "pulpo grille": 2000.0,
+            "masa de cangrejo": 1050.0,
+            "caldero de mariscos": 3500.0,
+            "mariscada": 2500.0,
+            "pescado grille": 1300.0,
+            "rueda pescado grille": 1300.0,
+            "pescado grille gratinado con jamon y queso": 1450.0,
+            "mar y tierra": 3950.0,
+            "paella": 2300.0,
+            "suprema carnero": 1800.0,
+            "fricase de carnero": 1500.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "spaghettis napolitanos": 1000.0,
+            "spaghettis con Jamon y Queso": 1250.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes":null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": null
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

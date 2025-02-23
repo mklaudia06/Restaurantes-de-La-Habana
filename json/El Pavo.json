@@ -107,7 +107,6 @@
         "Jugo(Cajita)": 180.00
       },
       "lemonade":null,
-      "red bull":"",
       "malta":{
         "Malta Importada": 225.00,
         "Malta HyperMalt": 260.00
@@ -119,5 +118,5 @@
    "10%_of_the_service": true,
     "5%_of_the_service": false,
     "reservation":true,
-    "type_of_currency": "cup o usd"
+    "type_of_currency": "cup"
 }

@@ -1,0 +1,85 @@
+{
+    "name": "El Mexicano",
+    "food_type": ["pizzas","pastas"],
+    "municipality": "Guanabacoa",
+    "location": {
+        "address":{
+            "Street1":"Avenida Quinta",
+            "Street2":null,
+            "Street3":null
+        },
+        "coordinates_latitude_length" : [23.130345, -82.307484]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "10:00 am",
+        "closure": "10:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":null,
+    "social_media": {
+        "instagram":null,
+        "facebook":null
+    },
+    "menu": {
+        "breakfast": null,
+        "started": null,
+        "tacos":null,
+        "hamburgers_and_sandwichs": {
+            "sandwich de jamon y queso": 350.0,
+            "sandwich de queso jamon especial": 600.0
+        },
+        "strong_dishes": null,
+        "pizzas": {
+            "pizza queso gouda": 450.0
+        },
+        "pastas": {
+            "spaghetti queso gouda": 770.0
+        },
+        "desserts": null,
+        "pizza_pasta_add": null,
+        "side_dishes": null,
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":null,
+                "bottles":null,
+                "drinks_with":null,
+                "beers":{
+                    "cerveza": 200.0,
+                    "holandia": 200.0,
+                    "cristal lata": 250.0,
+                    "cristal botella": 200.0,
+                    "mirinda": 280.0,
+                    "perla negra": 270.0
+                }
+            },
+            "water":null,
+            "soft_drinks":{
+                "ironbeer": 240.0,
+                "orange": 220.0,
+                "cola polo": 220.0,
+                "limon": 220.0,
+                "coca cola": 280.0,
+                "pepsi": 270.0
+            },
+            "juices":null,
+            "lemonade":null,
+            "shaka": 350.0,
+            "tigon": 300.0,
+            "malta":{
+                "malta 1 hyper": 270.0
+            },
+            "copas":null,
+            "coffees":null
+        }
+    },
+    "10%_of_the_service": false,
+    "5%_of_the_service": false,
+    "reservation":false,
+    "type_of_currency": "cup"
+}

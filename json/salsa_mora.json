@@ -1,0 +1,174 @@
+{
+    "name": "Salsa Mora",
+    "food_type": ["internacional"],
+    "municipality": "Playa",
+    "location": {
+        "address":null,
+        "coordinates_latitude_length" : [23.1137641,-82.4396044]
+    },
+    "phone_number": null,
+    "schedule": {
+        "opening": "11:00 am",
+        "closure": "04:00 am",
+        "days_of_the_week": ["Lunes","Martes","Miercoles","Jueves","Viernes","Sabado","Domingo"]
+    },
+    "quality":4.0,
+    "social_media": {
+        "instagram":"salsamora_70",
+        "facebook":"Salsa Mora"
+    },
+    "menu": {
+        "breakfast": null,
+        "started": {
+            "Pan de la casa": 250.0,
+            "Baguette j & q": 750.0,
+            "Baguette de queso": 650.0,
+            "Croquetas de la casa": 1000.0,
+            "Tostones rellenos": 1050.0,
+            "Ceviche": 2250.0,
+            "Fajitas": 2050.0,
+            "Esperland": 2250.0,
+            "Bolitas de queso": 1450.0,
+            "Garbanzos fritos": 1250.0,
+            "Coctel de camarones": 2350.0,
+            "Papas fritas": 1250.0
+        },
+        "tacos":{ 
+            "Tacos de la casa": 1150.0
+        },
+        "hamburgers_and_sandwichs": null,
+        "strong_dishes": {
+            "Pollo asado": 2300.0,
+            "Cordon blue": 4500.0,
+            "Pechuga de pollo": 2500.0,
+            "Bistec de cerdo": 3000.0,
+            "Uruguayo de cerdo": 4500.0,
+            "Chuleta de cerdo": 3000.0,
+            "Cerdo asado": 3000.0,
+            "Ropa vieja": 2500.0,
+            "Rib eye": 8500.0,
+            "Tomahawk": 12500.0,
+            "Camaron al gusto": 4300.0,
+            "Langosta al gusto": 4500.0,
+            "Pulpo al gusto": 4500.0,
+            "Langosta termidor": 5000.0,
+            "Caldereta de mariscos": 6000.0,
+            "Grillada del mar": 6000.0,
+            "Filete de pescado": 4000.0,
+            "Filete de canciller": 5000.0,
+            "Cordero estofado": 3500.0,
+            "Arroz melosos de pollo": 1800.0,
+            "Arroz melosos de mariscos": 3500.0
+        },
+        "pizzas": null,
+        "pastas": {
+            "Pasta napoles": 1300.0,
+            "Pasta fruto di mare": 3000.0,
+            "Pasta carbonara": 2500.0
+        },
+        "desserts": {
+            "Tarta": 1000.0,
+            "Flan de la casa": 500.0,
+            "icecream_flavors":null
+        },
+        "pizza_pasta_add":null,
+        "side_dishes": {
+            "Ensalada mixta": 450.0,
+            "Arroz blanco": 200.0,
+            "Arroz moro": 300.0,
+            "Tostones naturales": 250.0
+        },
+        "hamburgers_add-on":null,
+        "aperitivos":null,
+        "snacks":null,
+        "creams_and_soup":null,
+        "digestive":null,
+        "liquids": {
+            "alcoholic_drinks":{
+                "cocktails":{
+                    "Mojito": 700.0,
+                    "Pina colada": 550.0,
+                    "Ron collins": 500.0,
+                    "Tom collins": 780.0,
+                    "Martini": 1000.0,
+                    "Gin tonic": 780.0,
+                    "Margarita": 550.0,
+                    "Tequila sunrise": 550.0,
+                    "Cuba libre": 700.0,
+                    "Cubata": 800.0,
+                    "Cubata santiago 8": 900.0,
+                    "Cubanito": 600.0,
+                    "Daiquiri": 550.0,
+                    "Bloody mary": 960.0,
+                    "Sangria salsa mora": 600.0,
+                    "Baileys": 1000.0,
+                    "Jagger": 750.0,
+                    "Campari": 800.0,
+                    "Sambuca": 650.0,
+                    "Grapa": 550.0,
+                    "Servicio michelada": 300.0,
+                    "Servicio chelada": 250.0,
+                    "Caipirina": 500.0,
+                    "Caipirisima": 500.0,
+                    "Caipiroska": 500.0
+                },
+                "bottles":null,
+                "drinks_with": {
+                    "Hc 7 anos": 650.0,
+                    "Hc seleccion": 1850.0,
+                    "Santiago 8 anos": 780.0,
+                    "Santiago 11 anos": 1300.0,
+                    "Santiago 12 anos": 1500.0,
+                    "Pacto navio": 1850.0,
+                    "Ciroc": 1300.0,
+                    "Grey goose": 1500.0,
+                    "Patron silver": 2400.0,
+                    "Patron reposado": 2500.0,
+                    "Olmeca silver": 600.0,
+                    "Olmeca reposado": 700.0,
+                    "Jameson": 700.0,
+                    "Ballantines": 900.0,
+                    "Chivas 12": 1100.0,
+                    "Jw red label": 850.0,
+                    "Jw black label": 1500.0,
+                    "Jw blue label": 10000.0,
+                    "Jw gold label": 2300.0,
+                    "Jw green label": 2500.0,
+                    "Buchanans": 2500.0,
+                    "Jack daniels": 1200.0
+                },
+                "beers":{
+                    "Cerveza dispensada": 220.0,
+                    "Cerveza cristal": 600.0,
+                    "Cerveza bucanero": 600.0,
+                    "Cerveza corona": 850.0
+                }
+            },
+            "water":{
+                "Agua natural": 250.0
+            },
+            "soft_drinks":{
+                "Refrescos": 350.0
+            },
+            "juices":{
+                "Jugos naturales": 350.0
+            },
+            "lemonade":{
+                "Limonada": 250.0
+            },
+            "Energizantes": 250.0,
+            "red bull":650.0,
+            "copas":null,
+            "coffees":{
+                "Cafe": 250.0,
+                "Cafe cortado": 300.0,
+                "Capuccino": 700.0,
+                "Frappuccino": 1000.0
+            }
+        }
+    },
+    "10%_of_the_service": true,
+    "5%_of_the_service": false,
+    "reservation":true,
+    "type_of_currency": "cup"
+}
